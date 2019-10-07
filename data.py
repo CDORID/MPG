@@ -6,12 +6,8 @@ Created on Thu Oct  3 12:29:19 2019
 """
 
 import pandas as pd
-import numpy
 import xlrd
-import re
-import numpy as np
-import matplotlib.pyplot as plt
-
+import my_formats as mf
 
 pd.set_option('display.max_columns', 500)
 
@@ -23,20 +19,33 @@ class MpgData :
     class Players :
         def __init__(self):
             self.players = pd.read_csv('MPG_Data/players.csv')
-
+            
+        
         def get_list(self):            
             self.list_players = list()
             for i in self.players['Nom']:
-                self.list_players.append({'label' : i,'value':i})
+                self.list_players.append({'label' : str(i),'value':str(i)})
             return self.list_players
-                
         
         
     class Historic:     
         def __init__(self):
             self.historic = pd.read_csv('MPG_Data/historic.csv')
+
+        def from_player(self,player):
+            self.player = str(player)
+            player_historic = self.historic[self.historic['Nom']==self.player]
+            return player_historic
+        
+        def performance_graph(self,player):
+            self.player = str(player)
+            self.x = self.from_player(self.player)['Unnamed: 0']
             
-    
+            self.y = self.from_player(self.player)['value']
+            
+            self.graph = mf.MyFormating().tableau_historic_figure(self.x,self.y,str(self.player))
+            return self.graph
+  
    
     def actualize_data(self):
         self.players = MpgData().load_mpg_excel()
