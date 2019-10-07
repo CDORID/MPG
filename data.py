@@ -28,6 +28,10 @@ class MpgData :
             return self.list_players
         
         
+            
+        
+        
+        
     class Historic:     
         def __init__(self):
             self.historic = pd.read_csv('MPG_Data/historic.csv')
@@ -39,10 +43,8 @@ class MpgData :
         
         def performance_graph(self,player):
             self.player = str(player)
-            self.x = self.from_player(self.player)['Unnamed: 0']
-            
-            self.y = self.from_player(self.player)['value']
-            
+            self.x = self.from_player(player)['Unnamed: 0'].tolist()
+            self.y = self.from_player(player)['value'].tolist()
             self.graph = mf.MyFormating().tableau_historic_figure(self.x,self.y,str(self.player))
             return self.graph
   

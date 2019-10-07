@@ -43,35 +43,37 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
     html.H1(
         children='MPG Glitch',
         style={
-            'textAlign': 'center',
-            'color': colors['text']
+            'textAlign': 'left',
+            'color': colors['second_text']
         }
     ),
     
-    html.Div(children='Dash: A web application framework for Python.', style={
-        'textAlign': 'center',
+    html.Div(children='Nooobie', style={
+        'textAlign': 'left',
         'color': colors['text']
         }
-    ),
+    ),    
     
-    html.Label('Dropdown'),
+    html.Div([
+        dcc.Dropdown(
+                    id = 'selected_player',
+                    options = players.get_list(),
+                    multi = False, placeholder = 'Choose your player...',
+                    value = 'Rafael'
+                    ),
     
-    dcc.Dropdown(
-                id = 'selected_player',
-                options = players.get_list(),
-                multi = False, placeholder = 'Choose your player...',
-                value = 'Rafael'
-                ),
-
+        
+        dcc.Graph(
+            id='hist_player'
+        )
+    ],style={'display':'inline-block','width':'50%'})
     
-    dcc.Graph(
-        id='hist_player'
-    )
+        
 ])
     
 @app.callback(
     Output('hist_player', 'figure'),
-    [Input('selected_player', 'options')])
+    [Input('selected_player', 'value')])
 def update_figure(my_player):
     return data.MpgData().Historic().performance_graph(my_player)
 
