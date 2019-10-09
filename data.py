@@ -9,6 +9,11 @@ import pandas as pd
 import xlrd
 import my_formats as mf
 
+import glob
+import os
+import re
+
+
 pd.set_option('display.max_columns', 500)
 
 class MpgData :
@@ -19,7 +24,10 @@ class MpgData :
     class Players :
         def __init__(self):
             self.players = pd.read_csv('MPG_Data/players.csv')
-            
+            #removing match data
+            self.n_match = len(list(self.players.filter(regex='Match')))
+            self.players = self.players[self.players.columns.drop(list(self.players.filter(regex='Match')))]
+            self.players = self.players[self.players.columns.drop('Unnamed: 0')]         
         
         def get_list(self):            
             self.list_players = list()
@@ -27,9 +35,12 @@ class MpgData :
                 self.list_players.append({'label' : str(i),'value':str(i)})
             return self.list_players
         
-        
-            
-        
+        def get_player_stats(self,player):
+            self.player = str(player)
+            self.player_tab = self.players[self.players['Nom']==self.player]
+            self.player_tab['Buts'].fillna(0,inplace = True)
+            text = mf.MyFormating().stats_player(self.player_tab)
+            return text                
         
         
     class Historic:     
@@ -55,7 +66,16 @@ class MpgData :
         
         self.players.to_csv('MPG_data/players.csv')
         self.historic.to_csv('MPG_data/historic.csv')
-        
+     
+    def rename_files(self):
+        files = glob.glob("./MPG_data/Source/*.xlsx")
+        for file in files : 
+            name = os.path.splitext(file)[0]
+            new_name =  re.findall("\d+", name)
+            print(new_name)
+            file = os.rename(file,'./MPG_data/Source/'+str(new_name)+'.xlsx')     
+        return files
+    
 
     def load_mpg_excel(self):
         sheets = list(range(1,20))
