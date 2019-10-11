@@ -73,40 +73,47 @@ class MpgData :
             name = os.path.splitext(file)[0]
             new_name =  re.findall("\d+", name)
             print(new_name)
-            file = os.rename(file,'./MPG_data/Source/'+str(new_name)+'.xlsx')     
+            file = os.rename(file,'./MPG_data/Source/'+str(new_name[0])+'.xlsx')     
         return files
     
 
     def load_mpg_excel(self):
-        sheets = list(range(1,20))
+        sheets = list(range(0,20))
+        files = glob.glob("./MPG_data/Source/*.xlsx")
+        total_matches = 0
         
         
-        xls = xlrd.open_workbook('MPG_data/Source/Stats MPG-saison6MPG.xlsx', on_demand=True)
-        sheet_names= xls.sheet_names()
-        data = pd.DataFrame()
-    
-        for n in sheets :   
-            temp_data = pd.read_excel('MPG_data/Source/Stats MPG-saison6MPG.xlsx',skiprows = 6,sheet_name = n+1)
-    
-            # apply regex
-            num_match = len(temp_data.columns) - 7 
-            headers = ['Poste','Cote','Nom','Titula','Entres','Buts','Moyenne']
-            for match in range(1,num_match+1) :
-                headers.append('Match{}'.format(match))
-                match += 1
+        for file in files :
+            name = os.path.splitext(file)[0]
+            xls = xlrd.open_workbook(file, on_demand=True)
+            sheet_names= xls.sheet_names()
+            data = pd.DataFrame()
         
-            # set new list as column headers
-            temp_data.columns = headers
+            for n in sheets :   
+                temp_data = pd.read_excel(file,skiprows = 6,sheet_name = n+1)
+        
+                # apply regex
+                num_match = len(temp_data.columns) - 7 
+                headers = ['Poste','Cote','Nom','Titula','Entres','Buts','Moyenne']
+                for match in range(1,num_match+1) :
+                    headers.append('Match{}'.format(match))
+                    match += 1
+                    total_matches +=1
             
-            temp_data['team'] = sheet_names[n+1]
-            temp_data.drop(temp_data.tail(1).index,inplace=True)
+                # set new list as column headers
+                temp_data.columns = headers
+                temp_data['season'] = name[0]
+                temp_data['team'] = sheet_names[n+1]
+                temp_data.drop(temp_data.tail(1).index,inplace=True)
+                
+                data = pd.concat([data,temp_data])
             
-            data = pd.concat([data,temp_data])
+            print(str(num_match*20)+ ': match loaded')
+            
+            matches = [col for col in data.columns if 'Match' in col]
+            data['var'] = data[data.columns.intersection(matches)].var(axis=1)
         
-        print(str(num_match)+ ': match loaded')
         
-        matches = [col for col in data.columns if 'Match' in col]
-        data['var'] = data[data.columns.intersection(matches)].var(axis=1)
         return data 
     
 
@@ -121,5 +128,6 @@ class MpgData :
 
 if __name__ == "__main__":
     data =  MpgData()
+    data.rename_files()
     data.actualize_data()
 
