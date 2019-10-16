@@ -3,6 +3,10 @@
 Created on Thu Oct  3 12:40:01 2019
 
 @author: user
+
+other framwork for app
+
+https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582
 """
 import dash
 import dash_core_components as dcc
