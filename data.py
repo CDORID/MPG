@@ -4,7 +4,6 @@ Created on Thu Oct  3 12:29:19 2019
 
 @author: user
 """
-
 import pandas as pd
 import xlrd
 import my_formats as mf
