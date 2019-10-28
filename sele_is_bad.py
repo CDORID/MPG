@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 17 15:04:55 2019
 
-@author: user
+@author: CDORID
 
 https://api.monpetitgazon.com/championship/match/1060531
 """
@@ -11,6 +11,7 @@ import pandas as pd
 import json
 from urllib.request import urlopen
 from os import path
+import numpy as np
 
 class ScrapMpg : 
     
@@ -27,6 +28,35 @@ class ScrapMpg :
         self.iteration = 0
         self.matches_done = list()
         self.strike = 0
+        self.data = pd.read_excel('MPG_data/matches.xlsx')
+        self.update_need = 1
+        
+        
+    def update_data(self):
+        self.data = pd.read_excel('MPG_data/matches.xlsx')
+        
+        
+    def updater(self):
+        
+        ## DO NOT LOOP CORRECTLY
+       ## l = [modif(x) if x ddd else  for x in L]
+        self.update_data()
+        vect_ids = self.data['info_match_id'].unique()
+        print(vect_ids)
+        self.update_need = 0
+        for number in vect_ids : 
+            if (number + 1) in  vect_ids :
+                pass
+            else : 
+                print(number+1)
+                try : 
+                    self.get_match((number +1))
+                    print('yes')
+                    
+                except Exception as e:
+                    print(e)
+
+        
         
     def finder(self):
         if self.status == 'working' and self.last_status == 'not_working' : 
@@ -56,30 +86,20 @@ class ScrapMpg :
 
         self.last_status = self.status
         
-    def define_api(self):
-        self.api = str('https://api.monpetitgazon.com/championship/match/'+str(self.match_start+self.number_matches))
+    def define_api(self, number = None):
+        if number == None :
+            self.api = str('https://api.monpetitgazon.com/championship/match/'+str(self.match_start+self.number_matches))
+        else : 
+            self.api = str('https://api.monpetitgazon.com/championship/match/' + str(number))
     
-        
-    def get_matches(self):
-        
-        if path.exists('matches.xlsx'):
-            pass
-        else :
-            empty = pd.DataFrame()
-            empty.to_excel('matches.xlsx')
-            
-            
-        while self.number_matches < self.max_matches:
-            
-            
+    def get_match(self,api = None):
             try : 
-                
-                match_data = self.data_for_match()
-                old_data = pd.read_excel('matches.xlsx')
+                match_data = self.data_for_match(api)
+                old_data = pd.read_excel('MPG_data/matches.xlsx')
                 new_data = pd.concat([match_data,old_data.reset_index(drop=True)], sort =False)
                 new_data = new_data.reset_index(drop=True)
                 new_data = new_data.loc[:, ~new_data.columns.str.contains('^Unnamed')]
-                new_data.to_excel('matches.xlsx')
+                new_data.to_excel('MPG_data/matches.xlsx')
                 
                 
                 self.match_taken = self.match_taken +1 
@@ -87,13 +107,28 @@ class ScrapMpg :
                 print('We got : ' +str(self.match_taken)+' matches')
                 self.matches_done.append(self.match_taken)
                 self.status = 'working'
+                self.update_need = 1
+                print(new_data.shape)
                 
             except Exception as e: 
 
                 print(e)
-                print(  str(self.match_start+self.number_matches))
+                print(str(self.api))
                 self.status = 'not_working'
+    
+    def get_matches(self):
+        
+        if path.exists('MPG_data/matches.xlsx'):
+            pass
+        else :
+            empty = pd.DataFrame()
+            empty.to_excel('MPG_data/matches.xlsx')
             
+            
+        while self.number_matches < self.max_matches:
+                        
+            self.get_match()
+                            
             self.finder()
             self.number_matches = self.number_matches + self.step
             
@@ -104,16 +139,12 @@ class ScrapMpg :
             
             
         print('Exit and print historic...')
-        print(new_data.shape)
+        
         f= open("historic.txt","w+")
         f.write(str(self.matches_done))
     
     def data_for_match(self, other_api = None):
-        
-        if other_api == None :
-            self.define_api()     
-        else : 
-            self.api = other_api
+        self.define_api(other_api)     
         data_match = self.get_json(self.api)
         home_team = self.transform_data(data_match,'Home')
         away_team = self.transform_data(data_match,'Away')
@@ -229,4 +260,9 @@ class ScrapMpg :
         return out
 
 if __name__ == '__main__':
-    ScrapMpg().get_matches()
+    scrap = ScrapMpg()
+    while scrap.update_need != 0 :
+        scrap.updater()
+        
+        
+    

@@ -15,6 +15,12 @@ import re
 
 pd.set_option('display.max_columns', 500)
 
+class MpgBigData : 
+    def __init__(self):
+        self.data = pd.read_excel('MPG_data/matches.xslx')
+        
+        
+
 class MpgData :
     
     def __init__(self):
