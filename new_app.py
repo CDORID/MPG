@@ -21,7 +21,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 
 import plotly.graph_objs as go
-import data
+import new_data as data
 import my_formats as mf
 
 
@@ -31,9 +31,7 @@ Data handling
 
 
 """
-df = data.MpgData()
-players = data.MpgData().Players()
-historic = data.MpgData().Historic().historic
+df = data.MpgData().data
 
 """
 
