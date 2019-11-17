@@ -31,7 +31,9 @@ Data handling
 
 
 """
-df = data.MpgData().data
+Mpg = data.MpgData()
+data = data.data
+players = data.players
 
 """
 
@@ -65,12 +67,12 @@ app.layout = html.Div(
                     ),   
                 html.Div([
                     html.H1(
-                    children='MPG Glitch',
+                    children='MPG Glitcher',
                     style={
                         'color': colors['second_text']
                     }),
                     html.H3(
-                    children = 'Hello there', 
+                    children = 'Hello GOAT', 
                     style={
                         'color': colors['text']
                     })
