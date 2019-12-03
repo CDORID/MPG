@@ -32,8 +32,8 @@ Data handling
 
 """
 Mpg = data.MpgData()
-data = data.data
-players = data.players
+data = Mpg.data
+players = Mpg.players
 
 """
 
@@ -52,7 +52,12 @@ colors = mf.MyFormating().colors
 
 app.layout = html.Div(
             style={'backgroundColor': colors['background']},             
-            children=[            
+            children=[
+
+##############################################
+#                   Head (children 1)
+##############################################            
+
             html.Div([
                 html.Div(      
                     html.Img(src = 'https://pbs.twimg.com/profile_images/1150735058124312576/k6c_rhuf_400x400.jpg',
@@ -84,15 +89,21 @@ app.layout = html.Div(
                 ),
             ]
             ),
+                    
+############################################################
+#               Dropdown and perf graph (children 2)
+############################################################
             
             html.Div(
                      children = [
             html.Div([
                     dcc.Dropdown(
                             id = 'selected_player',
-                            options = players.get_list(),
-                            multi = False, placeholder = 'Choose your player...',
-                            value = 'Rafael'
+                            options = [{'label' :player , 'value':Mpg.dict_players[player]} for player in Mpg.dict_players],
+                            multi = False, 
+                            placeholder = 'Choose your player...',
+                            value = 220160
+                            
                             ),
             
                 
@@ -127,13 +138,13 @@ app.layout = html.Div(
     Output('hist_player', 'figure'),
     [Input('selected_player', 'value')])
 def update_figure(my_player):
-    return data.MpgData().Historic().performance_graph(my_player)
+    return Mpg.get_historic(my_player)
 
 @app.callback(
     Output('stats_player', 'children'),
     [Input('selected_player', 'value')])
 def update_stat(my_player):
-    return data.MpgData().Players().get_player_stats(my_player)
+    return Mpg.Player(data, my_player).stats_for_app()
     
 if __name__ == '__main__':
     app.run_server(debug=True)

@@ -19,11 +19,12 @@ class MyFormating:
                 }
         
 
-    def tableau_historic_figure(self,x,y,player):
+    def tableau_historic_figure(self,x,y):
             
         self.figure = {
                 'data': [
-                        {'x': x, 'y': y, 'type': 'line', 'name': player},
+                        {'x': x, 'y': y, 'type': 'line', #'name': player (name can be added)
+                         },
                     ],
                     'layout': {
                         'plot_bgcolor': self.colors['background'],
@@ -36,15 +37,23 @@ class MyFormating:
                         
         return self.figure
                     
-    def stats_player(self,data_player):
+    def stats_player(self,list_stats):
         
-        text = [html.P("Team : "+str(data_player.iloc[0]['team'])),
-            html.P('\nPosition : '+str(data_player.iloc[0]['Poste'])),
-            html.P('\nMean performance : '+str(data_player.iloc[0]['Moyenne'])),
-            html.P('\nGoals : '+str(data_player.iloc[0]['Buts'])),
-            html.P('\nVariance : '+str(data_player.iloc[0]['var'])),
-            html.P('\nPrice : '+str(data_player.iloc[0]['Cote'])),
-            html.P('\nRegular : '+str(data_player.iloc[0]['Titula']))]
+        text = [html.P("Team : "                        + str(list_stats[0])),
+                html.P('\nPosition : '                  + str(list_stats[1])),
+                html.P('\nMpg Position : '              + str(list_stats[2])),
+                html.P('\nMatch Played : '              + str(list_stats[3])),
+                html.P('\nPercentage match played : '   + str(list_stats[4])),
+                html.P('\nPercentage substitute : '     + str(list_stats[5])),
+                html.P('\nGoals : '                     + str(list_stats[6])),
+                html.P('\nAverage grade : '             + str(list_stats[7])),
+                html.P('\nTeam differential : '         + str(list_stats[8])),
+                html.P('\nVariance : '                  + str(list_stats[9])),
+                html.P('\nNumber of match over 7 : '    + str(list_stats[10])),
+                html.P('\nPenalty scored : '            + str(list_stats[11])),
+                html.P('\nRed Cards : '                 + str(list_stats[12])),
+                html.P('\nGoals per match : '           + str(list_stats[13])),
+                html.P('\nMinutes per goal : '          + str(list_stats[14]))]
         return text
     
         
