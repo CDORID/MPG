@@ -13,9 +13,9 @@ class MyFormating:
     def __init__(self):
         self.colors = {
                 'background': '#FFFFFF',
-                'text':'#32CD32',
+                'text':'#C7F7BC',
                 'second_text':'#008000',
-                'stat_frame_background' : '#C7F7BC'
+                'stat_frame_background' : '#ebf0ec'
                 }
         
 
@@ -55,5 +55,26 @@ class MyFormating:
                 html.P('\nGoals per match : '           + str(list_stats[13])),
                 html.P('\nMinutes per goal : '          + str(list_stats[14]))]
         return text
+    
+    def stats_hover(self,list_hover):
+        
+        text_hover = [html.P("VS: "                     + str(list_hover[0])),
+                html.P('\nWhere : '                     + str(list_hover[1])),
+                html.P('\nPosition : '                  + str(list_hover[2])),
+                html.P('\nGrade : '                     + str(list_hover[3])),
+                html.P('\nTime Played : '               + str(list_hover[4])),
+                html.P('\nSubstitute : '                + str(list_hover[5])),
+                html.P('\nGoals : '                     + str(list_hover[6])),
+                html.P('\nAssists : '                   + str(list_hover[7])),
+                html.P("Scoring attempts : "            + str(list_hover[8])),
+                html.P('\nAccurate shots : '            + str(list_hover[9])),
+                html.P('\nPrecision over shots : '      + str(list_hover[10])),
+                html.P('\nTouches : '                   + str(list_hover[11])),
+                html.P('\nPass precision : '            + str(list_hover[12])),
+                html.P('\nInjured : '                   + str(list_hover[13])),
+                html.P('\nRed Card : '                  + str(list_hover[14])),
+                html.P('\nYellow Card : '               + str(list_hover[15]))
+                ]
+        return text_hover
     
         

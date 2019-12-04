@@ -23,6 +23,7 @@ from dash.dependencies import Input, Output
 import plotly.graph_objs as go
 import new_data as data
 import my_formats as mf
+import json
 
 
 """
@@ -122,11 +123,31 @@ app.layout = html.Div(
                         'background': colors['stat_frame_background'],
                      #   'frame':colors['text'],
                         'width':'25%',
-                        'align': 'justify', 
+                        'align': 'right', 
                         'display': 'inline-block',
-                        'borderStyle': 'dashed',
-                        'borderRadius': '5px',
-                        'textAlign': 'center'
+                        'borderStyle': None,
+                        'borderRadius': '2px',
+                        'textAlign': 'left',
+                        'margin-left' : '5px'
+                    }),
+                    
+                    ######################
+                    #   hoverdata stats
+                    ######################
+                    
+            html.Div([
+                    ],
+                    id = 'hover-data',
+                    style={
+                        'background': colors['stat_frame_background'],
+                     #   'frame':colors['text'],
+                        'width':'24%',
+                        'align': 'right', 
+                        'display': 'inline-block',
+                        'borderStyle': None,
+                        'borderRadius': '2px',
+                        'textAlign': 'left',
+                        'margin-left' : '5px'
                     })
             ])
             
@@ -134,17 +155,31 @@ app.layout = html.Div(
 ])
             
 ## return player in graph following dropdown menu  
+                    
+                    
+## callback for the graph update with scrolldown
 @app.callback(
     Output('hist_player', 'figure'),
     [Input('selected_player', 'value')])
 def update_figure(my_player):
     return Mpg.get_historic(my_player)
 
+## call back for player stats with dropdown
 @app.callback(
     Output('stats_player', 'children'),
     [Input('selected_player', 'value')])
 def update_stat(my_player):
     return Mpg.Player(data, my_player).stats_for_app()
+
+## callback for match stats with dropdown
+
+@app.callback(
+        Output('hover-data', 'children'),
+        [Input('selected_player','value'),
+         Input('hist_player', 'hoverData')
+         ])
+def display_hover_data(my_player,hoverData):
+    return Mpg.Player(data,my_player).stats_for_hover(hoverData)
     
 if __name__ == '__main__':
     app.run_server(debug=True)

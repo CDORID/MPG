@@ -29,11 +29,11 @@ class MpgData():
     def init_players(self):
         
         # sort by date, take last value and take the club that the player is in, then create a df with only actual club, id player and name
-        temp = self.data.sort_values('info_date_time', ascending = False).groupby('info_idplayer')['info_idplayer','info_club'].first() #['info_idplayer','info_club']
+        temp                = self.data.sort_values('info_date_time', ascending = False).groupby('info_idplayer')['info_idplayer','info_club'].first() #['info_idplayer','info_club']
         temp.rename(columns = {"info_club" : 'info_actualclub'},inplace = True)        
-        temp = pd.merge(self.data,temp.reset_index(drop = True), how='right', on = 'info_idplayer').drop('Unnamed: 0',axis = 1).drop_duplicates()
-        self.players = temp[['info_idplayer','info_lastname','info_actualclub']].drop_duplicates()
-        self.players = self.players.dropna(how="any")
+        temp                = pd.merge(self.data,temp.reset_index(drop = True), how='right', on = 'info_idplayer').drop('Unnamed: 0',axis = 1).drop_duplicates()
+        self.players        = temp[['info_idplayer','info_lastname','info_actualclub']].drop_duplicates()
+        self.players        = self.players.dropna(how="any")
         self.players.to_excel('MPG_data/players.xlsx')
         self.get_dict_players()
         
@@ -41,6 +41,8 @@ class MpgData():
     def format_data(self):
          self.data['feature_over7'] = self.data['info_note_final_2015'].apply(lambda x : self.get_over_7(x))
          self.data['info_date_time'] =  self.data['info_date_time'].apply(lambda x : self.change_to_date(x))
+         
+         ### add ligue by checking teams in text doc, for ldc, check id
          
        
         
@@ -67,16 +69,16 @@ class MpgData():
 ###########################################################
         
     def get_dict_players(self):            
-        self.list_players = []
+        self.list_players         = []
         self.players['name_club'] = self.players['info_lastname'] + ' - ' + self.players['info_actualclub']
-        self.list_players = self.players['name_club'].values.tolist()
-        self.dict_players = self.players[['info_idplayer','name_club']].set_index('name_club')['info_idplayer'].to_dict()
+        self.list_players         = self.players['name_club'].values.tolist()
+        self.dict_players         = self.players[['info_idplayer','name_club']].set_index('name_club')['info_idplayer'].to_dict()
 
     def get_historic(self,id_player):
         historic = self.data[self.data["info_idplayer"] == id_player].sort_values(by = 'info_date_time', ascending = True)
-        y = historic['info_note_final_2015'].tolist()
-        x = historic['info_date_time'].tolist()
-        graph = self.format.tableau_historic_figure(x,y)
+        y        = historic['info_note_final_2015'].tolist()
+        x        = historic['info_date_time'].tolist()
+        graph    = self.format.tableau_historic_figure(x,y)
         return graph
     
     class Player:     
@@ -118,23 +120,84 @@ class MpgData():
                                self.real_position,
                                self.mpg_position,
                                self.nb_match_played,
-                               self.ratio_played,          #4
-                               self.ratio_sub,
+                               self.ratio_played,          
+                               self.ratio_sub,          #5
                                self.total_goal_scored,
                                self.average_note,
                                self.diff_team,
-                               self.variance,         #9
-                               self.over7_per_match,
+                               self.variance,         
+                               self.over7_per_match,        #10
                                self.nb_penalty,
                                self.red_cards,
                                self.goals_per_match,
-                               self.min_per_goal
+                               self.min_per_goal        #14
                                ]
                 
         def stats_for_app(self):
             text = mf.MyFormating().stats_player(self.list_stats)
             return text
-            
+        
+        def injured(self,sub_reason):
+            if sub_reason == 'Injured':
+                injured = sub_reason
+            else :
+                injured = "No"
+                
+            return injured
+
+        
+        def stats_for_hover(self,hoverData):
+                match_id                = hoverData['points'][0]['x']
+                self.data_player_match  = self.data_player[self.data_player['info_date_time']==match_id]
+                
+                ## STATUS
+                opponent                = self.data_player_match.iloc[0,:]['info_opponent']
+                home_or_away            = self.data_player_match.iloc[0,:]['info_where']
+                position                = self.data_player_match.iloc[0,:]['info_position']
+                grade                   = self.data_player_match.iloc[0,:]['info_note_final_2015']
+                time_played             = self.data_player_match.iloc[0,:]['info_mins_played']
+                substitute              = self.data_player_match.iloc[0,:]['info_sub']
+        
+                ## pre-STATS
+                shot_missed             = self.data_player_match.iloc[0,:]['stat_shot_off_target']   ### dont take shot missed
+                ## STATS
+                goals_scored            = self.data_player_match.iloc[0,:]['info_goals']
+                assist                  = self.data_player_match.iloc[0,:]['stat_goal_assist']
+                scoring_att             = self.data_player_match.iloc[0,:]['stat_total_scoring_att']
+                accurate_shots          = scoring_att-shot_missed
+                shot_precision          = round((scoring_att-shot_missed)/scoring_att,2)
+                touches                 = self.data_player_match.iloc[0,:]['stat_touches']
+                pass_precision          = round(self.data_player_match.iloc[0,:]['stat_pass'],2)                         
+                
+                ## Ocasional
+                injured_status          = self.injured(self.data_player_match.iloc[0,:]['stat_subReason'])   
+                red_card                = self.data_player_match.iloc[0,:]['info_red_card']
+                yellow_card             = self.data_player_match.iloc[0,:]['info_yellow_card']    
+                hover_stats = [## STATUS
+                                      opponent,#0
+                                      home_or_away,
+                                      position,
+                                      grade,                         
+                                      time_played,
+                                      substitute,#5
+                                      
+                                      ## STATS
+                                      goals_scored,
+                                      assist, 
+                                      scoring_att,
+                                      accurate_shots, 
+                                      shot_precision, #10
+                                      touches,
+                                      pass_precision,
+                                      
+                                      ## Ocasionnal
+                                      injured_status,
+                                      red_card,
+                                      yellow_card #15
+                                      ]
+                    
+                text_hover = mf.MyFormating().stats_hover(hover_stats)
+                return text_hover
     
         
 if __name__ == '__main__':
