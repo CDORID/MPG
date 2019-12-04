@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 """
+Created on Mon Oct 21 10:10:26 2019
+
+@author: user
+"""
+
+# -*- coding: utf-8 -*-
+"""
 Created on Thu Oct  3 12:40:01 2019
 
 @author: user
@@ -14,8 +21,8 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 
 import plotly.graph_objs as go
-import data
-import my_formats as mf
+import data 
+import formats as mf
 
 
 """
@@ -24,9 +31,9 @@ Data handling
 
 
 """
-df = data.MpgData()
-players = data.MpgData().Players()
-historic = data.MpgData().Historic().historic
+Mpg = data.MpgData()
+data = Mpg.data
+players = Mpg.players
 
 """
 
@@ -45,7 +52,12 @@ colors = mf.MyFormating().colors
 
 app.layout = html.Div(
             style={'backgroundColor': colors['background']},             
-            children=[            
+            children=[
+
+##############################################
+#                   Head (children 1)
+##############################################            
+
             html.Div([
                 html.Div(      
                     html.Img(src = 'https://pbs.twimg.com/profile_images/1150735058124312576/k6c_rhuf_400x400.jpg',
@@ -60,12 +72,12 @@ app.layout = html.Div(
                     ),   
                 html.Div([
                     html.H1(
-                    children='MPG Glitch',
+                    children='MPG Glitcher',
                     style={
                         'color': colors['second_text']
                     }),
                     html.H3(
-                    children = 'Hello there', 
+                    children = 'Hello GOAT', 
                     style={
                         'color': colors['text']
                     })
@@ -77,15 +89,21 @@ app.layout = html.Div(
                 ),
             ]
             ),
+                    
+############################################################
+#               Dropdown and perf graph (children 2)
+############################################################
             
             html.Div(
                      children = [
             html.Div([
                     dcc.Dropdown(
                             id = 'selected_player',
-                            options = players.get_list(),
-                            multi = False, placeholder = 'Choose your player...',
-                            value = 'Rafael'
+                            options = [{'label' :player , 'value':Mpg.dict_players[player]} for player in Mpg.dict_players],
+                            multi = False, 
+                            placeholder = 'Choose your player...',
+                            value = 220160
+                            
                             ),
             
                 
@@ -104,11 +122,31 @@ app.layout = html.Div(
                         'background': colors['stat_frame_background'],
                      #   'frame':colors['text'],
                         'width':'25%',
-                        'align': 'justify', 
+                        'align': 'right', 
                         'display': 'inline-block',
-                        'borderStyle': 'dashed',
-                        'borderRadius': '5px',
-                        'textAlign': 'center'
+                        'borderStyle': None,
+                        'borderRadius': '2px',
+                        'textAlign': 'left',
+                        'margin-left' : '5px'
+                    }),
+                    
+                    ######################
+                    #   hoverdata stats
+                    ######################
+                    
+            html.Div([
+                    ],
+                    id = 'hover-data',
+                    style={
+                        'background': colors['stat_frame_background'],
+                     #   'frame':colors['text'],
+                        'width':'24%',
+                        'align': 'right', 
+                        'display': 'inline-block',
+                        'borderStyle': None,
+                        'borderRadius': '2px',
+                        'textAlign': 'left',
+                        'margin-left' : '5px'
                     })
             ])
             
@@ -116,17 +154,31 @@ app.layout = html.Div(
 ])
             
 ## return player in graph following dropdown menu  
+                    
+                    
+## callback for the graph update with scrolldown
 @app.callback(
     Output('hist_player', 'figure'),
     [Input('selected_player', 'value')])
 def update_figure(my_player):
-    return data.MpgData().Historic().performance_graph(my_player)
+    return Mpg.get_historic(my_player)
 
+## call back for player stats with dropdown
 @app.callback(
     Output('stats_player', 'children'),
     [Input('selected_player', 'value')])
 def update_stat(my_player):
-    return data.MpgData().Players().get_player_stats(my_player)
+    return Mpg.Player(data, my_player).stats_for_app()
+
+## callback for match stats with dropdown
+
+@app.callback(
+        Output('hover-data', 'children'),
+        [Input('selected_player','value'),
+         Input('hist_player', 'hoverData')
+         ])
+def display_hover_data(my_player,hoverData):
+    return Mpg.Player(data,my_player).stats_for_hover(hoverData)
     
 if __name__ == '__main__':
     app.run_server(debug=True)
