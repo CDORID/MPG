@@ -46,6 +46,9 @@ Note : In Dash : the class name columns represent 1/12 of the space :
 
 app = dash.Dash()
 
+### line for heroku deploy
+server = app.server
+
 
 colors = mf.MyFormating().colors
 
