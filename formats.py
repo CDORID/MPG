@@ -6,10 +6,10 @@ Created on Mon Oct  7 18:42:33 2019
 """
 
 import dash_html_components as html
+import plotly.express as px
 
 
 class MyFormating:
-    
     def __init__(self):
         self.colors = {
                 'background': '#FFFFFF',
@@ -17,28 +17,27 @@ class MyFormating:
                 'second_text':'#008000',
                 'stat_frame_background' : '#ebf0ec'
                 }
-        
+
 
     def tableau_historic_figure(self,x,y):
-            
-        self.figure = {
+        figure = {
                 'data': [
-                        {'x': x, 'y': y, 'type': 'line', #'name': player (name can be added)
+                        {'x': x, 'y': y, 'type': 'scatter' #'name': player (name can be added)
                          },
                     ],
                     'layout': {
                         'plot_bgcolor': self.colors['background'],
                         'paper_bgcolor': self.colors['background'],
                         'font': self.colors['text'],
-                        'color': self.colors['text']
-                        
+                        'color': self.colors['text'],
+                        'annotations':{} ## USELESS
                     }
                 }
-                        
-        return self.figure
-                    
+        return figure
+
+
     def stats_player(self,list_stats):
-        
+
         text = [html.P("Team : "                        + str(list_stats[0])),
                 html.P('\nPosition : '                  + str(list_stats[1])),
                 html.P('\nMpg Position : '              + str(list_stats[2])),
@@ -55,9 +54,9 @@ class MyFormating:
                 html.P('\nGoals per match : '           + str(list_stats[13])),
                 html.P('\nMinutes per goal : '          + str(list_stats[14]))]
         return text
-    
+
     def stats_hover(self,list_hover):
-        
+
         text_hover = [html.P("VS: "                     + str(list_hover[0])),
                 html.P('\nWhere : '                     + str(list_hover[1])),
                 html.P('\nPosition : '                  + str(list_hover[2])),
@@ -76,5 +75,3 @@ class MyFormating:
                 html.P('\nYellow Card : '               + str(list_hover[15]))
                 ]
         return text_hover
-    
-        

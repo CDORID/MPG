@@ -1,0 +1,9 @@
+Make it better 
+
+__________________
+
+- Plot grades distribution
+- Scrap news for players
+- Create a Team pannel for fav players
+- Create a pannel to compare players
+- change scrapper, writing to long, loading to long
