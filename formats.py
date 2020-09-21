@@ -22,7 +22,7 @@ class MyFormating:
     def tableau_historic_figure(self,x,y):
         figure = {
                 'data': [
-                        {'x': x, 'y': y, 'type': 'scatter' #'name': player (name can be added)
+                        {'x': x, 'y': y, 'type': 'scatter'
                          },
                     ],
                     'layout': {

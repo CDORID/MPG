@@ -127,7 +127,7 @@ class MpgData():
             ##### data of the team for comparison
 
             self.data_player       = self.data_season[self.data_season["info_idplayer"] == id_player].sort_values(by = 'info_date_time', ascending = True)
-            self.data_player       = self.data_player.sort_values('info_note_final_2015').drop_duplicates(subset ='info_match_id')
+            self.data_player       = self.data_player.sort_values('info_date_time').drop_duplicates(subset ='info_match_id')
             self.player_id_team    = self.data_player.iloc[0,:]['info_idteam']
             self.player_team       = self.data_player.iloc[0,:]['info_club']
             self.nb_match_team     = self.data_season[self.data_season['info_idteam'] == self.player_id_team]['info_match_id'].nunique()
@@ -197,7 +197,7 @@ class MpgData():
 
 
         def stats_for_hover(self,hoverData):
-                match_date                = hoverData['points'][0]['x']
+                match_date              = hoverData['points'][0]['x']
                 self.data_player_match  = self.data_player[self.data_player['info_date_time']==match_date]
 
                 ## STATUS
