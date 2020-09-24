@@ -33,7 +33,8 @@ Data handling
 
 """
 
-app = dash.Dash()
+app = dash.Dash(__name__,
+    external_stylesheets=['css/style.css'])
 
 
 Mpg = data.MpgData()
@@ -53,11 +54,9 @@ Note : In Dash : the class name columns represent 1/12 of the space :
 """
 
 ### line for heroku deploy
-#server = app.server
-
+server = app.server
 
 colors = mf.MyFormating().colors
-
 
 app.layout = html.Div(
             style={'backgroundColor': colors['background']},
@@ -75,11 +74,11 @@ app.layout = html.Div(
                                      'width':'auto'
                                      }
                             ),
-                    className = 'six columns' #,
-    #                style = {'align': 'right',
-    #                            'display': 'inline-block',
-    #                            'width':'15%'
-    #                            }
+                    className = 'six columns' ,
+                    style = {'align': 'right',
+                                'display': 'inline-block',
+                                'width':'15%'
+                                }
                     ),
                 html.Div([
                     html.H1(
@@ -93,11 +92,11 @@ app.layout = html.Div(
                         'color': colors['text']
                     })
                 ],
-                className = 'six columns'
-        #        style = {
-        #             'align': 'left',
-        #             'display': 'inline-block'
-        #         }
+                className = 'six columns',
+               style = {
+                     'align': 'left',
+                     'display': 'inline-block'
+                 }
                 )],
             className = 'row'
             ),
@@ -108,7 +107,7 @@ app.layout = html.Div(
 
 
 
-            html.Div( children = [
+            html.Div(children = [
 
                 dcc.Tabs(id='tabs', value='what-is', children=[
 
@@ -119,69 +118,73 @@ app.layout = html.Div(
                     dcc.Tab(id = 'tab-player', label = 'Players',
                         children = html.Div(children = [
 
+
                             html.Div([
-                                    dcc.Dropdown(
-                                            id = 'selected_player',
-                                            options = [{'label' :player , 'value':Mpg.dict_players[player]} for player in Mpg.dict_players],
-                                            multi = False,
-                                            placeholder = 'Choose your player...',
-                                            value = 220160)
-                                    ,
+                                html.Div([
+                                        dcc.Dropdown(
+                                                id = 'selected_player',
+                                                options = [{'label' :player , 'value':Mpg.dict_players[player]} for player in Mpg.dict_players],
+                                                multi = False,
+                                                placeholder = 'Choose your player...',
+                                                value = 220160)
+                                        ,
 
-                                    dcc.Dropdown(
-                                        id = 'seasons',
-                                        options=[{'label' : season, 'value' : season } for season in df['season_year'].unique().tolist()],
-                                        value= Mpg.last_season,
-                                        multi=True)
-                                    ,
+                                        dcc.Dropdown(
+                                            id = 'seasons',
+                                            options=[{'label' : season, 'value' : season } for season in df['season_year'].unique().tolist()],
+                                            value= Mpg.last_season,
+                                            multi=True)],
+                                            className = 'six columns')],
+                                            className = 'row'),
 
-                                    dcc.Graph(
+                            html.Div([
+
+                                    html.Div([dcc.Graph(
                                         id='hist_player'
-                                                ),
 
-                                    dcc.Graph(
-                                        id = 'histogram-performance'
-                                            )
-                                    ],
-                                        style={
-                                        'display':'inline-block',
-                                        'width':'47%',
-                                        })
+                                                )],
+                                                className = 'six columns')
                                     ,
 
-                            html.Div([
-                                    ],
-                                    id = 'stats_player',
-                                    style={
-                                        'background': colors['background'],
-                                     #   'frame':colors['text'],
-                                        'width':'22%',
-                                        'align': 'top',
-                                        'display': 'inline-block',
-                                        'borderStyle': None,
-                                        'borderRadius': '2px',
-                                        'textAlign': 'left',
-                                        'margin-left' : '2px'
-                                    }),
+                                    html.Div([
+                                            ],
+                                            id = 'stats_player',
+                                            style={
+                                                'background': colors['background'],
+                                                'align': 'top',
+                                                'display': 'inline-block',
+                                                'borderStyle': None,
+                                            #    'textAlign': 'left',
 
-                                    ######################
-                                    #   hoverdata stats
-                                    ######################
+                                            },
+                                            className = 'three columns'),
 
-                            html.Div([
+                                            ######################
+                                            #   hoverdata stats
+                                            ######################
+
+                                    html.Div([
+                                            ],
+                                            id = 'hover-data',
+                                            style={
+                                                'background': colors['background'],
+                                             #   'frame':colors['text'],
+
+                                                'align': 'top',
+                                                'display': 'inline-block',
+                                                'borderStyle': None,
+
+                                                'textAlign': 'left',
+
+                                            },
+                                            className = 'three columns')
+
                                     ],
-                                    id = 'hover-data',
-                                    style={
-                                        'background': colors['background'],
-                                     #   'frame':colors['text'],
-                                        'width':'22%',
-                                        'align': 'top',
-                                        'display': 'inline-block',
-                                        'borderStyle': None,
-                                        'borderRadius': '2px',
-                                        'textAlign': 'left',
-                                        'margin-left' : '5px'
-                                    })
+                                    className = 'row'),
+                            html.Div([
+                                    dcc.Graph(id = 'histogram-performance',
+                                    className = 'six columns')],
+                            className = 'row')
                         ])
                     ),
 
