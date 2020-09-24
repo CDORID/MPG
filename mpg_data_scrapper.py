@@ -23,7 +23,8 @@ class ScrapMpg :
         self.data_path          = 'MPG_data/matches.csv'
         self.match_taken        = 0
         self.strike             = 0
-        self.sleep_time         = 1.01
+        self.sleep_time         = 1.011
+        self.failures_max       = 5
 
     def updater(self):
         ## Need to be redifined
@@ -46,7 +47,7 @@ class ScrapMpg :
         print('Updating...')
         self.lastsave = time.time()
         self.moving_up(up_list)
-        self.moving_up(down_list)
+        self.moving_down(down_list)
         self.save_data()
         print('Updated !')
 
@@ -99,7 +100,7 @@ class ScrapMpg :
             self.matches_id = self.get_matches_id()
 
             ## When 4 failures in a row are made, stop the loop,
-            while failures < 4 :
+            while failures < self.failures_max :
                 match_id = match_id + 1
                 if match_id not in self.matches_id:
                     api = str('https://api.monpetitgazon.com/championship/match/' + str(match_id))
@@ -113,6 +114,8 @@ class ScrapMpg :
                     print(failures)
                     print(match_id)
 
+
+                    ## Save data if 5 min passed
                     if time.time() - self.lastsave > 300:
                         self.lastsave = time.time()
                         self.save_data()
@@ -122,11 +125,11 @@ class ScrapMpg :
 
     ## going up by match ids over apis
     def moving_down(self,down_list):
-        for match_id in up_list :
+        for match_id in down_list :
             failures = 0
             # not finding a match 10 times in the row skips the starting point
             self.matches_id = self.get_matches_id()
-            while failures < 10:
+            while failures < self.failures_max:
                 match_id = match_id - 1
                 if match_id not in self.matches_id :
                     api = str('https://api.monpetitgazon.com/championship/match/' + str(match_id))
@@ -142,7 +145,7 @@ class ScrapMpg :
                         self.lastsave = time.time()
                         self.save_data()
                 else :
-                    failures = failure + 1
+                    failures = failures + 1
 
 
     def get_match(self,api = None):
@@ -188,6 +191,9 @@ class ScrapMpg :
         self.new_data = self.new_data.reset_index(drop=True)
         self.new_data = self.new_data.loc[:, ~self.new_data.columns.str.contains('^Unnamed')]
         self.new_data = self.new_data.drop_duplicates()
+
+        ## Removing matches not done where grades have not been given yet
+        self.neu_data = self.new_data.dropna(subset =['info_match_duration'])
         self.new_data.to_csv(self.data_path)
 
         ## Save the id of the match already in the db

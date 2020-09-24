@@ -11,7 +11,7 @@ def data_for_match(api):
     data_match = get_json(api)
     home_team  = transform_data(data_match,'Home')
     away_team  = transform_data(data_match,'Away')
-    match_data = pd.concat([home_team,away_team])
+    match_data = pd.concat([home_team,away_team],sort = True)
     match_data = add_infos_on_pandas(api,match_data)
     return match_data
 

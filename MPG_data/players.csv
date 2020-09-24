@@ -1,96 +1,437 @@
 info_idplayer,info_lastname,info_actualclub
-106551,Prcic,Strasbourg
-112945,Mitrovic,Strasbourg
-112945,Stefan Mitrovic,Strasbourg
-115961,Thomasson,Strasbourg
-143685,Djiku,Strasbourg
-168539,Ajorque,Strasbourg
-194188,Kamara,Strasbourg
-19739,Kawashima,Strasbourg
-226451,Sissoko,Strasbourg
-228322,Lienard,Strasbourg
-231057,Bellegarde,Strasbourg
-232240,Caci,Strasbourg
-433640,Zohi,Strasbourg
-436644,Aaneba,Strasbourg
-461910,Simakan,Strasbourg
-490340,Chahiri,Strasbourg
-514434,Besic,Strasbourg
-79917,Saadi,Strasbourg
-82184,Majeed Waris,Strasbourg
-86413,Carole,Strasbourg
-92527,Lala,Strasbourg
+103457,Duljevic,Nîmes
+121150,Ripart,Nîmes
+150172,Philippoteaux,Nîmes
+169860,Paquiez,Nîmes
+180303,Ferhat,Nîmes
+184961,Briancon,Nîmes
+194624,Valls,Nîmes
+200666,Miguel,Nîmes
+200848,Bernardoni,Angers
+216137,Stojanovski,Nîmes
+218366,Fomba,Nîmes
+225997,Alakouch,Nîmes
+244136,Lionel Dias,Nîmes
+245918,Denkey,Nîmes
+45084,Deaux,Nîmes
+492825,Valerio,Nîmes
+92258,Landre,Nîmes
+93622,Martinez,Nîmes
+154011,Tait,Rennes
+159967,Bourigeaud,Rennes
+161472,Hunou,Rennes
+174528,Hamari Traoré,Rennes
+204123,Jordan Siebatcheu,Rennes
+214473,Faitout Maouassa,Rennes
+218705,Gnagnon,Rennes
+219873,Del Castillo,Rennes
+219961,Raphinha,Rennes
+228286,Mendy,Rennes
+242893,Gboho,Rennes
+244842,Lea Siliki,Rennes
+37832,Morel,Lorient
+37836,Salin,Rennes
+435731,Nyamsi,Rennes
+44287,Da Silva,Rennes
+475561,Camavinga,Rennes
+96764,Niang,Rennes
+105046,Bernat,Paris
+106109,Icardi,Paris
+116406,Marquinhos,Paris
+129479,Kimpembe,Paris
+178478,Diallo,Paris
+220160,Mbappé,Paris
+28411,Navas,Paris
+40720,Cavani,Paris
+458250,Dagba,Paris
+46497,Di María,Paris
+51090,Thiago Silva,Paris
+59846,Herrera,Paris
+61170,Verratti,Paris
+80801,Gueye,Paris
+88484,Sarabia,Paris
+89068,Kurzawa,Paris
+92985,Draxler,Paris
+94248,Rico,Paris
+119674,Sobol,Bruges
+120939,Schrijvers,Bruges
+155552,Balanta,Bruges
+161049,Mechele,Bruges
+164011,Diagne,Bruges
+167763,Vanaken,Bruges
+168547,Horvath,Bruges
+169323,Ricca,Bruges
+170950,Mitrovic,Bruges
+208540,Kossounou,Bruges
+215437,Deli,Bruges
+221781,Okereke,Bruges
+230127,Tau,Bruges
+230251,Dennis,Bruges
+249956,Diatta,Bruges
+465716,de Ketelaere,Bruges
+66770,Rits,Bruges
+66797,Mignolet,Bruges
+107593,Vázquez,Real Madrid
+17861,Ramos,Real Madrid
+185533,Jovic,Real Madrid
+19927,Benzema,Real Madrid
+206255,Mendy,Real Madrid
+218449,Eder Militão,Real Madrid
+223255,Valverde,Real Madrid
+37055,Modric,Real Madrid
+39563,Marcelo,Real Madrid
+42786,Hazard,Real Madrid
+440077,Rodrygo,Real Madrid
+44989,Kroos,Real Madrid
+60772,Courtois,Real Madrid
+61256,Casemiro,Real Madrid
+80209,Isco,Real Madrid
+84182,Areola,Real Madrid
+88483,Carvajal,Real Madrid
+90152,Varane,Real Madrid
+151086,Lemina,Galatasaray
+168632,Kocuk,Galatasaray
+170271,Seri,Galatasaray
+182816,Marcão,Galatasaray
+19520,Babel,Galatasaray
+220046,Mor,Galatasaray
+223407,Luyindama,Galatasaray
+39206,Donk,Galatasaray
+42864,Muslera,Galatasaray
+44336,Feghouli,Galatasaray
+46531,Inan,Galatasaray
+49323,Nzonzi,Rennes
+53268,Mariano,Galatasaray
+66738,Büyük,Galatasaray
+66959,Belhanda,Galatasaray
+78407,Nagatomo,Marseille
+79512,Bayram,Galatasaray
+79512,Omer Bayram,Galatasaray
+93284,Andone,Galatasaray
+106253,Jander,Belgrade
+124039,Simic,Belgrade
+149037,Degenek,Belgrade
+172306,Gobeljic,Belgrade
+185940,García,Belgrade
+199384,Jovancic,Belgrade
+210229,Pankov,Belgrade
+214825,Pavkov,Belgrade
+220039,Popovic,Belgrade
+230804,Vulic,Belgrade
+241645,Petrovic,Belgrade
+41450,Marin,Belgrade
+51344,van La Parra,Belgrade
+65872,Milunovic,Belgrade
+81495,Rodic,Belgrade
+82436,Boakye,Belgrade
+86989,Cañas,Belgrade
+87403,Borjan,Belgrade
+102884,Gazzaniga,Tottenham
+108823,Dele Alli,Tottenham
+115556,Davies,Tottenham
+173904,Sánchez,Tottenham
+184349,Ryan Sessegnon,Tottenham
+200826,Lo Celso,Tottenham
+209042,Skipp,Tottenham
+231372,Ndombele,Tottenham
+234908,Foyth,Tottenham
+38290,Rose,Newcastle
+39215,Vorm,Tottenham
+45268,Sissoko,Tottenham
+55605,Alderweireld,Tottenham
+78830,Kane,Tottenham
+80607,Eriksen,Inter
+85971,Son Heung-Min,Tottenham
+93264,Dier,Tottenham
+95715,Lucas Moura,Tottenham
+100954,Moubandje,Zagreb
+105564,Kadzior,Zagreb
+152918,Petkovic,Zagreb
+153814,Stojanovic,Zagreb
+179370,Olmo,Zagreb
+198534,Livakovic,Zagreb
+210801,Peric,Zagreb
+218373,Moro,Zagreb
+218378,Ivanusec,Zagreb
+218384,Gjira,Zagreb
+235481,Atiemwen,Zagreb
+50184,Leovac,Zagreb
+58636,Théophile-Catherine,Zagreb
+68464,Ademi,Zagreb
+81205,Orsic,Zagreb
+85301,Zagorac,Zagreb
+94233,Dilaver,Zagreb
+94258,Situm,Zagreb
+119666,Shevchenko,Shakhtar
+157373,Bolbat,Shakhtar
+184847,Kovalenko,Shakhtar
+216096,Matvyenko,Shakhtar
+218445,Dodô,Shakhtar
+225295,Mateus Tetê,Shakhtar
+226784,Marcos Antonio,Shakhtar
+37201,Pyatov,Shakhtar
+462446,Sikan,Shakhtar
+52664,Marlos Bonfim,Shakhtar
+52870,Taison,Shakhtar
+57167,Moraes,Shakhtar
+61226,Dentinho,Shakhtar
+68042,Krivtsov,Shakhtar
+68046,Stepanenko,Shakhtar
+76738,Alan Patrick,Shakhtar
+87497,Ismaily,Shakhtar
+93774,Khocholava,Shakhtar
+156683,Gollini,Atalanta
+157374,Malinovskiy,Atalanta
+164570,Pasalic,Atalanta
+166477,Castagne,Atalanta
+170135,Hateboer,Atalanta
+17985,Masiello,Genoa
+193922,Guilherme Arana,Atalanta
+442430,Barrow,Bologna
+48714,Kjaer,Milan
+55083,Sportiello,Atalanta
+55712,Ilicic,Atalanta
+55776,Gómez,Atalanta
+61118,Rafael Tolói,Atalanta
+82428,de Roon,Atalanta
+87750,Muriel,Atalanta
+89076,Freuler,Atalanta
+89861,Palomino,Atalanta
+96645,Djimsiti,Atalanta
+102826,Mendy,Man. City
+103025,Mahrez,Man. City
+103955,Sterling,Man. City
+121145,João Cancelo,Man. City
+121160,Ederson,Man. City
+145235,Angeliño,Man. City
+165809,Bernardo Silva,Man. City
+205651,Gabriel Jesus,Man. City
+220394,Doyle,Man. City
+27789,Fernandinho,Man. City
+33148,Bravo,Man. City
+37572,Agüero,Man. City
+432656,Eric García,Man. City
+432656,García,Man. City
+432656,Eric Garcia,Man. City
+57410,Otamendi,Man. City
+58621,Walker,Man. City
+59859,Gündogan,Man. City
+61366,De Bruyne,Man. City
+97299,Stones,Man. City
+100050,Alario,Leverkusen
+109203,Weiser,Leverkusen
+118890,Demirbay,Leverkusen
+164096,Wendell,Leverkusen
+164454,Tah,Leverkusen
+183309,Amiri,Leverkusen
+219847,Havertz,Leverkusen
+222786,Retsos,Sheffield
+225293,Paulinho,Leverkusen
+243557,Diaby,Leverkusen
+38118,Sven Bender,Leverkusen
+39645,Özcan,Leverkusen
+48882,Baumgartlinger,Leverkusen
+60598,Dragovic,Leverkusen
+61583,Bellarabi,Leverkusen
+68675,Hrádecky,Leverkusen
+83531,Aránguiz,Leverkusen
+85370,Volland,Monaco
+102383,Arias,Atlético
+102578,Herrera,Atlético
+116404,Felipe,Atlético
+156223,Correa,Atlético
+167199,Partey,Atlético
+167449,Lemar,Atlético
+18507,Diego Costa,Atlético
+192364,Llorente,Atlético
+208639,Saponjic,Atlético
+213431,Hermoso,Atlético
+233420,Renan Lodi,Atlético
+59981,Adán,Atlético
+77390,Koke,Atlético
+77794,Trippier,Atlético
+81352,Oblak,Atlético
+86399,Vitolo,Atlético
+88482,Morata,Atlético
+89335,Ñíguez,Atlético
+115918,Rúnarsson,Dijon
 119679,Chafik,Dijon
 136380,Celina,Dijon
 144660,Ndong,Dijon
 153014,Marié,Dijon
 175624,Chalá,Dijon
-204744,Chouiar,Dijon
+201865,Assalé,Dijon
+202520,Pape Cheikh,Dijon
 207300,Dobre,Dijon
 209035,Panzo,Dijon
-422631,Muzinga,Dijon
 438309,Ebimbe,Dijon
-442673,Scheidler,Dijon
-456355,Ntumba,Dijon
 490190,Philippe,Dijon
 49382,Ecuele Manga,Dijon
 497278,Ngouyamsa Nounchil,Dijon
 511568,Younoussa,Dijon
+512111,Racovitan,Dijon
 512112,Arli,Dijon
 54413,Sammaritano,Dijon
 85565,Lautoa,Dijon
 92216,Gomis,Dijon
-154011,Tait,Rennes
-159967,Bourigeaud,Rennes
-161472,Hunou,Rennes
+113541,Herelle,Brest
+162316,Chardonnet,Brest
+169141,Mounie,Brest
+193411,Belkebla,Brest
+216100,Larsonneur,Brest
+220074,Pierre-Gabriel,Brest
+231881,Duverne,Brest
+240143,Diallo,Brest
+240145,Cardona,Brest
+243741,Magnetti,Brest
+244560,Perraud,Brest
+250685,Heriberto Tavares,Brest
+37776,Baal,Brest
+437721,Cibois,Brest
+441240,Faivre,Brest
+489230,M'Bock,Brest
+511593,Le Douaron,Brest
+54405,Faussurier,Brest
+58625,Charbonnier,Brest
+94753,Battocchio,Brest
+181402,Cubas,Nîmes
+197498,Meling,Nîmes
+204742,Benrahou,Nîmes
+210187,Sarr,Nîmes
+210202,Koné,Nîmes
+51525,Roux,Nîmes
+93619,Reynet,Nîmes
 162275,Guirassy,Rennes
-174528,Hamari Traoré,Rennes
 210494,Aguerd,Rennes
-214473,Faitout Maouassa,Rennes
 217992,Gelin,Rennes
-219873,Del Castillo,Rennes
-219961,Raphinha,Rennes
-232176,Terrier,Rennes
-37836,Salin,Rennes
-44287,Da Silva,Rennes
 463067,Rutter,Rennes
-475561,Camavinga,Rennes
 476883,Soppy,Rennes
-49323,Nzonzi,Rennes
 493984,Bonet,Rennes
 494521,Truffert,Rennes
 84366,Martin,Rennes
-102747,Sidibé,Monaco
-115327,Aguilar,Monaco
-154310,Gelson Martins,Monaco
-155335,Maripán,Monaco
-17878,Fàbregas,Monaco
-219292,Tchouameni,Monaco
-220362,Disasi,Monaco
-225897,Ballo-Toure,Monaco
-228539,Majecki,Monaco
-229273,Onyekuru,Monaco
-242880,Badiashile Mukinayi,Monaco
-242894,Geubbels,Monaco
-460267,Diop,Monaco
-461913,Fofana,Monaco
-465525,Matazo,Monaco
-465526,Millot,Monaco
-50442,Jovetic,Monaco
-83912,Ben Yedder,Monaco
-85370,Volland,Monaco
-86873,Lecomte,Monaco
-109653,Rony Lopes,Nice
+107098,Nardi,Lorient
+107258,Abergel,Lorient
+173235,Grbic,Lorient
+180736,Chalobah,Lorient
+202963,Hergault,Lorient
+205552,Laporte,Lorient
+216646,Wissa,Lorient
+220494,Boisgard,Lorient
+224297,Diarra,Lorient
+229222,Mendes,Lorient
+246451,Bozok,Lorient
+37939,Marveaux,Lorient
+431653,Wadja,Lorient
+43553,Lemoine,Lorient
+45032,Dreyer,Lorient
+484420,Le Fée,Lorient
+58875,Fontaine,Lorient
+67278,Le Goff,Lorient
+96616,Monconduit,Lorient
+126177,Jean,Lens
+145221,Sylla,Lens
+145221,Issiaga Sylla,Lens
+168104,Steven Fortes,Lens
+176501,Gradit,Lens
+197026,Mauricio,Lens
+204188,Sotoca,Lens
+209778,Fariñez,Lens
+219969,Banza,Lens
+221095,Clauss,Lens
+224868,Medina,Lens
+229605,Michelin,Lens
+433771,Ganago,Lens
+438464,Doucoure,Lens
+44136,Leca,Lens
+44138,Cahuzac,Lens
+500267,Bade,Lens
+505834,Pereira Da Costa,Lens
+510139,Boura,Lens
+59325,Kakuta,Lens
+90436,Perez,Lens
+110979,Mané,Liverpool
+116535,Alisson,Liverpool
+116643,Fabinho,Liverpool
+118748,Mohamed Salah,Liverpool
+122798,Robertson,Liverpool
+15157,Milner,Liverpool
+152760,Origi,Liverpool
+169187,Alexander-Arnold,Liverpool
+171287,Gomez,Liverpool
+175592,Keita,Liverpool
+41733,Wijnaldum,Liverpool
+56979,Henderson,Liverpool
+56979,Jordan Henderson,Liverpool
+60706,Adrián,Liverpool
+60914,Matip,Liverpool
+68312,Shaqiri,Liverpool
+81880,Oxlade-Chamberlain,Liverpool
+92217,Roberto Firmino,Liverpool
+97032,van Dijk,Liverpool
+113564,Byram,Norwich
+124165,Roberts,Norwich
+193111,Cantwell,Norwich
+194799,Lewis,Norwich
+195546,Buendía,Norwich
+198826,Godfrey,Norwich
+20480,Krul,Norwich
+232980,Max Aarons,Norwich
+232980,Aarons,Norwich
+28082,Fährmann,Norwich
+37614,Vrancic,Norwich
+57127,Pukki,Norwich
+71738,Stiepermann,Norwich
+78607,Kenny McLean,Norwich
+78607,McLean,Norwich
+81048,Drmic,Norwich
+83428,Hanley,Norwich
+87396,Leitner,Norwich
+89470,Hernández,Norwich
+90440,Trybull,Norwich
+231399,Bulka,Paris
+247957,Bakker,Paris
+465680,Muinga,Paris
+465681,Fadiga,Paris
+465684,Ruiz-Atil,Paris
+465685,Kapo,Paris
+465702,Pembele,Paris
+93127,Jesé,Paris
+100207,Jans,Metz
+107925,Caillard,Metz
+114531,Boulaya,Metz
+124148,Nguette,Metz
+171173,Ambrose,Metz
+173253,Maïga,Metz
+204534,Angban,Metz
+214245,Centonze,Metz
+214254,Diallo,Metz
+218240,Fofana,Metz
+221987,Udol,Metz
+231058,Bronn,Metz
+244490,Maziz,Metz
+250694,Niane,Metz
+45123,Oukidja,Metz
+458455,Tchimbembé,Metz
+489661,Yade,Metz
+68791,Boye,Metz
+85548,Pajot,Metz
+98826,Delaine,Metz
+433731,Buades,Nîmes
+174655,Honorat,Brest
+221024,N'Goma,Brest
+512157,Benvindo,Brest
 115851,Cardinale,Nice
 121709,Benítez,Nice
 171099,Kamara,Nice
-208556,Maolida,Nice
+209914,Dolberg,Nice
 212325,Lees-Melou,Nice
+218357,Claude Maurice,Nice
 229707,Lotomba,Nice
+232197,Burner,Nice
 242887,Kephren Thuram,Nice
+245090,Robson Bambu,Nice
 247400,Gouiri,Nice
 26894,Dante,Nice
-425614,Atal,Nice
 42774,Schneiderlin,Nice
 437501,Pelmard,Nice
 437925,Daniliuc,Nice
@@ -98,69 +439,8 @@ info_idplayer,info_lastname,info_actualclub
 469204,Sylvestre,Nice
 485337,Guessand,Nice
 505193,Trouillet,Nice
-512726,Ben Seghir,Nice
-513349,Pionnier Bertrand,Nice
-106109,Icardi,Paris
-116406,Marquinhos,Paris
-129479,Kimpembe,Paris
-220160,Mbappé,Paris
-231399,Bulka,Paris
-247957,Bakker,Paris
-28411,Navas,Paris
-458250,Dagba,Paris
-46497,Di María,Paris
-465680,Muinga,Paris
-465681,Fadiga,Paris
-465684,Ruiz-Atil,Paris
-465685,Kapo,Paris
-59846,Herrera,Paris
-61170,Verratti,Paris
-80801,Gueye,Paris
-88484,Sarabia,Paris
-92985,Draxler,Paris
-94248,Rico,Paris
-97617,Florenzi,Paris
-129510,Pereira De Sa,Nantes
-158494,Castelletto,Nantes
-158496,Touré,Nantes
-166286,Emond,Nantes
-170409,Andrei Girotto,Nantes
-174254,Chirivella,Nantes
-181441,Simon,Nantes
-201562,Coco,Nantes
-204739,Lafont,Nantes
-213940,Blas,Nantes
-217872,Charles Traoré,Nantes
-247693,Kolo Muani,Nantes
-40511,Petric,Nantes
-432489,Moutoussamy,Nantes
-443202,Bamba,Nantes
-486792,Ndilu,Nantes
-54771,Fabio,Nantes
-82313,Pallois,Nantes
-84424,Appiah,Nantes
-98746,Abeid,Nantes
-209608,Moukoudi,Saint-Étienne
-216227,Bouanga,Saint-Étienne
-235050,Nordin,Saint-Étienne
-242878,Bajic,Saint-Étienne
-244182,Youssouf,Saint-Étienne
-247146,Neyou,Saint-Étienne
-37990,Moulin,Saint-Étienne
-38261,Monnet-Paquet,Saint-Étienne
-424920,Krasso,Saint-Étienne
-437204,Sissoko,Saint-Étienne
-442264,Camara,Saint-Étienne
-465676,Aouchiche,Saint-Étienne
-469266,Gourna-Douath,Saint-Étienne
-469266,Gourna Douath,Saint-Étienne
-489573,Moueffek,Saint-Étienne
-501599,Rivera,Saint-Étienne
-502951,Maçon,Saint-Étienne
-512771,Sow,Saint-Étienne
-515700,Sidibé,Saint-Étienne
-57136,Kolodziejczak,Saint-Étienne
-67276,Hamouma,Saint-Étienne
+423151,Robail,Lens
+85682,Diallo,Lens
 102636,Savanier,Montpellier
 103777,Yun Il-Lok,Montpellier
 106821,Pedro Mendes,Montpellier
@@ -174,112 +454,13 @@ info_idplayer,info_lastname,info_actualclub
 206340,Ristic,Montpellier
 209218,Bertaud,Montpellier
 228361,Dolly,Montpellier
+28136,Hilton,Montpellier
 38002,Congré,Montpellier
 428989,Cozza,Montpellier
 477711,Chotard,Montpellier
-477720,Benchama,Montpellier
 52782,Le Tallec,Montpellier
 73965,Delort,Montpellier
 78275,Souquet,Montpellier
-112580,Capelle,Angers
-11382,Butelle,Angers
-147577,Diony,Angers
-18574,Mangani,Angers
-198990,Bobichon,Angers
-200848,Bernardoni,Angers
-202857,Fulgini,Angers
-202858,Thioub,Angers
-208554,Ebosse,Angers
-215047,Coulibaly,Angers
-42416,Traoré,Angers
-448514,Ait Nouri,Angers
-488448,Ould Khaled,Angers
-490884,Ali-Cho,Angers
-512113,Boma,Angers
-54518,Manceau,Angers
-57266,Bamba,Angers
-68545,Pavlovic,Angers
-98828,Bahoken,Angers
-107925,Caillard,Metz
-114531,Boulaya,Metz
-124148,Nguette,Metz
-171173,Ambrose,Metz
-173253,Maïga,Metz
-204534,Angban,Metz
-214245,Centonze,Metz
-214254,Diallo,Metz
-218240,Fofana,Metz
-221987,Udol,Metz
-228254,Kiki Kouyate,Metz
-231058,Bronn,Metz
-250694,Niane,Metz
-45123,Oukidja,Metz
-458345,Sabaly,Metz
-458455,Tchimbembé,Metz
-489661,Yade,Metz
-68791,Boye,Metz
-85548,Pajot,Metz
-98826,Delaine,Metz
-104407,Rajkovic,Reims
-106263,Abdelhamid,Reims
-107685,Dingome,Reims
-119770,Chavalerin,Reims
-120947,Foket,Reims
-176495,Moreto Cassamã,Reims
-177885,Zeneli,Reims
-185527,Kutesa,Reims
-204184,Donis,Reims
-217597,Cafaro,Reims
-228563,Maresic,Reims
-231875,Diouf,Reims
-240860,Sierhuis,Reims
-241059,De Smet,Reims
-244642,Konan,Reims
-433312,Munetsi,Reims
-468488,Dia,Reims
-476489,Touré,Reims
-476892,Mbuku,Reims
-62067,Berisha,Reims
-102760,Sarr,Marseille
-106212,Benedetto,Marseille
-109404,Sakai,Marseille
-122775,Sanson,Marseille
-173271,Caleta-Car,Marseille
-193539,Rongier,Marseille
-195908,Radonjic,Marseille
-213965,Lopez,Marseille
-226944,Kamara,Marseille
-37769,Pelé,Marseille
-37901,Payet,Marseille
-422453,Gueye,Marseille
-44413,Mandanda,Marseille
-446682,Balerdi,Marseille
-485176,Aké,Marseille
-49887,Strootman,Marseille
-78407,Nagatomo,Marseille
-95434,Thauvin,Marseille
-96084,González,Marseille
-97041,Germain,Marseille
-129487,Maignan,Lille
-171319,Renato Sanches,Lille
-171435,Zeki Çelik,Lille
-195883,Bamba,Lille
-199672,Ikoné,Lille
-215473,Weah,Lille
-220237,Botman,Lille
-220734,Yazici,Lille
-223908,Luiz Araújo,Lille
-225902,Soumaré,Lille
-247629,Tiago Djaló,Lille
-38580,José Fonte,Lille
-39931,Yilmaz,Lille
-40833,Pied,Lille
-421821,David,Lille
-434399,Reinildo,Lille
-458681,Bradaric,Lille
-476884,Lihadji,Lille
-485335,Chevalier,Lille
-55948,André,Lille
 106824,Depay,Lyon
 122399,Dembele,Lyon
 149519,Cornet,Lyon
@@ -291,6 +472,7 @@ info_idplayer,info_lastname,info_actualclub
 208706,Bruno Guimarães,Lyon
 215669,Kadewere,Lyon
 219296,Caqueret,Lyon
+231961,Aouar,Lyon
 247385,Racioppi,Lyon
 437497,Bard,Lyon
 444151,Jean Lucas,Lyon
@@ -298,51 +480,160 @@ info_idplayer,info_lastname,info_actualclub
 492975,Diomande,Lyon
 52573,Marcelo,Lyon
 59957,Anthony Lopes,Lyon
-103457,Duljevic,Nîmes
-121150,Ripart,Nîmes
-169860,Paquiez,Nîmes
-180303,Ferhat,Nîmes
-181402,Cubas,Nîmes
-184961,Briancon,Nîmes
-200666,Miguel,Nîmes
-204742,Benrahou,Nîmes
-210187,Sarr,Nîmes
-218366,Fomba,Nîmes
-244136,Lionel Dias,Nîmes
-245918,Denkey,Nîmes
-423870,Ahlinvi,Nîmes
-433731,Buades,Nîmes
-439122,Guessoum,Nîmes
-496523,Chadli,Nîmes
-515139,Ludivin Majouga,Nîmes
-51525,Roux,Nîmes
-92258,Landre,Nîmes
-93619,Reynet,Nîmes
-126177,Jean,Lens
-145221,Sylla,Lens
-145221,Issiaga Sylla,Lens
-154344,Fofana,Lens
-168104,Steven Fortes,Lens
-176501,Gradit,Lens
-197026,Mauricio,Lens
-204188,Sotoca,Lens
-209778,Fariñez,Lens
-219969,Banza,Lens
-221095,Clauss,Lens
-224868,Medina,Lens
-423151,Robail,Lens
-433771,Ganago,Lens
-438464,Doucoure,Lens
-44136,Leca,Lens
-44138,Cahuzac,Lens
-510139,Boura,Lens
-59325,Kakuta,Lens
-85682,Diallo,Lens
-90436,Perez,Lens
-116504,Pablo,Bordeaux
+115327,Aguilar,Monaco
+154310,Gelson Martins,Monaco
+161950,Golovin,Monaco
+174908,Aholou,Monaco
+219292,Tchouameni,Monaco
+220362,Disasi,Monaco
+225897,Ballo-Toure,Monaco
+228539,Majecki,Monaco
+229273,Onyekuru,Monaco
+242880,Badiashile Mukinayi,Monaco
+242894,Geubbels,Monaco
+437753,Biancone,Monaco
+460267,Diop,Monaco
+461913,Fofana,Monaco
+465524,Matsima,Monaco
+465525,Matazo,Monaco
+465526,Millot,Monaco
+487606,Pavlovic,Monaco
+83912,Ben Yedder,Monaco
+86873,Lecomte,Monaco
+104407,Rajkovic,Reims
+106263,Abdelhamid,Reims
+107685,Dingome,Reims
+119770,Chavalerin,Reims
+120947,Foket,Reims
+176495,Moreto Cassamã,Reims
+177885,Zeneli,Reims
+185527,Kutesa,Reims
+217597,Cafaro,Reims
+218218,Faes,Reims
+228563,Maresic,Reims
+231875,Diouf,Reims
+232828,Hornby,Reims
+240860,Sierhuis,Reims
+241059,De Smet,Reims
+244642,Konan,Reims
+433312,Munetsi,Reims
+468488,Dia,Reims
+476489,Touré,Reims
+62067,Berisha,Reims
+62067,Valon Berisha,Reims
+102760,Sarr,Marseille
+109404,Sakai,Marseille
+122775,Sanson,Marseille
+169427,Khaoui,Marseille
+173271,Caleta-Car,Marseille
+193539,Rongier,Marseille
+195908,Radonjic,Marseille
+213965,Lopez,Marseille
+226944,Kamara,Marseille
+37769,Pelé,Marseille
+37901,Payet,Marseille
+422453,Gueye,Marseille
+441576,Rocchia,Marseille
+44413,Mandanda,Marseille
+446682,Balerdi,Marseille
+485176,Aké,Marseille
+49887,Strootman,Marseille
+95434,Thauvin,Marseille
+96084,González,Marseille
+97041,Germain,Marseille
+209608,Moukoudi,Saint-Étienne
+216227,Bouanga,Saint-Étienne
+235050,Nordin,Saint-Étienne
+242878,Bajic,Saint-Étienne
+244182,Youssouf,Saint-Étienne
+247146,Neyou,Saint-Étienne
+27334,Debuchy,Saint-Étienne
+37990,Moulin,Saint-Étienne
+424920,Krasso,Saint-Étienne
+437204,Sissoko,Saint-Étienne
+442264,Camara,Saint-Étienne
+444463,Fofana,Saint-Étienne
+465676,Aouchiche,Saint-Étienne
+469266,Gourna-Douath,Saint-Étienne
+469266,Gourna Douath,Saint-Étienne
+472778,Abi,Saint-Étienne
+489573,Moueffek,Saint-Étienne
+501599,Rivera,Saint-Étienne
+502951,Maçon,Saint-Étienne
+57136,Kolodziejczak,Saint-Étienne
+67276,Hamouma,Saint-Étienne
+242167,Hamel,Lorient
+73500,Saunier,Lorient
+86281,Delaplace,Lorient
+106551,Prcic,Strasbourg
+112945,Mitrovic,Strasbourg
+112945,Stefan Mitrovic,Strasbourg
+115961,Thomasson,Strasbourg
+143685,Djiku,Strasbourg
+168539,Ajorque,Strasbourg
+194188,Kamara,Strasbourg
+19739,Kawashima,Strasbourg
+226451,Sissoko,Strasbourg
+231057,Bellegarde,Strasbourg
+232240,Caci,Strasbourg
+433640,Zohi,Strasbourg
+436644,Aaneba,Strasbourg
+45076,Koné,Strasbourg
+461910,Simakan,Strasbourg
+490340,Chahiri,Strasbourg
+79917,Saadi,Strasbourg
+82184,Majeed Waris,Strasbourg
+86413,Carole,Strasbourg
+92527,Lala,Strasbourg
+129487,Maignan,Lille
+171319,Renato Sanches,Lille
+171435,Zeki Çelik,Lille
+195883,Bamba,Lille
+199672,Ikoné,Lille
+220237,Botman,Lille
+220734,Yazici,Lille
+223908,Luiz Araújo,Lille
+225902,Soumaré,Lille
+242600,Xeka,Lille
+247629,Tiago Djaló,Lille
+38580,José Fonte,Lille
+39931,Yilmaz,Lille
+40833,Pied,Lille
+421821,David,Lille
+434399,Reinildo,Lille
+458681,Bradaric,Lille
+476884,Lihadji,Lille
+485335,Chevalier,Lille
+55948,André,Lille
+232176,Terrier,Rennes
+481616,Boey,Rennes
+204744,Chouiar,Dijon
+422631,Muzinga,Dijon
+442673,Scheidler,Dijon
+86158,Amalfitano,Dijon
+112580,Capelle,Angers
+11382,Butelle,Angers
+168985,Santamaría,Angers
+18574,Mangani,Angers
+198990,Bobichon,Angers
+202857,Fulgini,Angers
+202858,Thioub,Angers
+208554,Ebosse,Angers
+210456,Doumbia,Angers
+215047,Coulibaly,Angers
+216438,Casimir Ninga,Angers
+223140,Pereira Lage,Angers
+225905,Kanga,Angers
+42416,Traoré,Angers
+447389,El Melali,Angers
+45505,Thomas,Angers
+494978,Taibi,Angers
+57266,Bamba,Angers
+68545,Pavlovic,Angers
 121524,Poundjé,Bordeaux
 164474,Sabaly,Bordeaux
 180835,Otávio,Bordeaux
+189542,Mendy,Bordeaux
 195480,Maja,Bordeaux
 201440,Hwang Ui-Jo,Bordeaux
 204715,Poussin,Bordeaux
@@ -350,67 +641,109 @@ info_idplayer,info_lastname,info_actualclub
 215046,Kwateng,Bordeaux
 225702,Kalu,Bordeaux
 229230,Oudin,Bordeaux
+240153,Zerkane,Bordeaux
 27675,Briand,Bordeaux
 37758,Baysse,Bordeaux
 42713,Costil,Bordeaux
-437504,Adli,Bordeaux
 51507,Koscielny,Bordeaux
 68260,Benito,Bordeaux
 73879,de Preville,Bordeaux
+80357,Mexer,Bordeaux
 90328,Pardo,Bordeaux
-113541,Herelle,Brest
-162316,Chardonnet,Brest
-169141,Mounie,Brest
-174655,Honorat,Brest
-193411,Belkebla,Brest
-216100,Larsonneur,Brest
-231881,Duverne,Brest
-240143,Diallo,Brest
-240145,Cardona,Brest
-243741,Magnetti,Brest
-244560,Perraud,Brest
-37776,Baal,Brest
-437721,Cibois,Brest
-441240,Faivre,Brest
-489230,M'Bock,Brest
-511593,Le Douaron,Brest
-54405,Faussurier,Brest
-58625,Charbonnier,Brest
-72177,Lasne,Brest
-94753,Battocchio,Brest
-107098,Nardi,Lorient
-107258,Abergel,Lorient
-173235,Grbic,Lorient
-202963,Hergault,Lorient
-205552,Laporte,Lorient
-216646,Wissa,Lorient
-220494,Boisgard,Lorient
-224297,Diarra,Lorient
-229222,Mendes,Lorient
-242167,Hamel,Lorient
-246451,Bozok,Lorient
-37832,Morel,Lorient
-37939,Marveaux,Lorient
-431653,Wadja,Lorient
-43553,Lemoine,Lorient
-45032,Dreyer,Lorient
-484420,Le Fée,Lorient
-58875,Fontaine,Lorient
-67278,Le Goff,Lorient
-96616,Monconduit,Lorient
-105046,Bernat,Paris
-178478,Diallo,Paris
-201057,Kehrer,Paris
-61278,Neymar,Paris
-89068,Kurzawa,Paris
-91080,Paredes,Paris
-115380,Amavi,Marseille
-169427,Khaoui,Marseille
-174908,Aholou,Monaco
-20487,Mannone,Monaco
-209335,Pellegri,Monaco
-437753,Biancone,Monaco
+106320,Coulibaly,Nantes
+106320,Kalifa Coulibaly,Nantes
+129510,Pereira De Sa,Nantes
+170409,Andrei Girotto,Nantes
+174254,Chirivella,Nantes
+181441,Simon,Nantes
+201562,Coco,Nantes
+204719,Basila,Nantes
+204739,Lafont,Nantes
+213940,Blas,Nantes
+217872,Charles Traoré,Nantes
 219286,Mendy,Nantes
+432489,Moutoussamy,Nantes
+443202,Bamba,Nantes
+469192,Youan,Nantes
+471471,Louza,Nantes
+486792,Ndilu,Nantes
+511226,Jan,Nantes
+54771,Fabio,Nantes
+82313,Pallois,Nantes
+84424,Appiah,Nantes
+147577,Diony,Angers
+488448,Ould Khaled,Angers
+490884,Ali-Cho,Angers
+54518,Manceau,Angers
+98828,Bahoken,Angers
+204184,Donis,Reims
+476892,Mbuku,Reims
+228322,Lienard,Strasbourg
+109653,Rony Lopes,Nice
+208559,N'Soki,Nice
+512726,Ben Seghir,Nice
+200958,Dioussé,Saint-Étienne
+38261,Monnet-Paquet,Saint-Étienne
+465151,Benkhedim,Saint-Étienne
+49396,M'Vila,Saint-Étienne
+512771,Sow,Saint-Étienne
+447547,Brassier,Rennes
+456193,Vidal,Montpellier
+477697,Ben Achour,Montpellier
+477720,Benchama,Montpellier
+477730,Vargas,Montpellier
+68862,Skuletic,Montpellier
+512759,Doucouré,Reims
+215473,Weah,Lille
+490209,Niasse,Lille
+158494,Castelletto,Nantes
+166286,Emond,Nantes
+247693,Kolo Muani,Nantes
+40511,Petric,Nantes
+98746,Abeid,Nantes
+423870,Ahlinvi,Nîmes
+228254,Kiki Kouyate,Metz
+458345,Sabaly,Metz
+102747,Sidibé,Monaco
+155335,Maripán,Monaco
+209335,Pellegri,Monaco
+50442,Jovetic,Monaco
+110504,Bertrand Traoré,Lyon
+110504,Traoré,Lyon
+111291,Marçal,Lyon
+158047,Thiago Mendes,Lyon
+167074,Tete,Lyon
+208987,Reine-Adélaïde,Lyon
+44898,Tatarusanu,Lyon
+201057,Kehrer,Paris
+439363,Innocent,Paris
+493362,Simons,Paris
+512760,Bangoura,Brest
+106212,Benedetto,Marseille
+115380,Amavi,Marseille
+456300,Perrin,Marseille
+210228,Jovanovic,Bordeaux
+514434,Besic,Strasbourg
+456355,Ntumba,Dijon
+17878,Fàbregas,Monaco
+208556,Maolida,Nice
+425614,Atal,Nice
+513349,Pionnier Bertrand,Nice
+97617,Florenzi,Paris
+158496,Touré,Nantes
+515700,Sidibé,Saint-Étienne
+448514,Ait Nouri,Angers
+512113,Boma,Angers
+439122,Guessoum,Nîmes
+496523,Chadli,Nîmes
+515139,Ludivin Majouga,Nîmes
+154344,Fofana,Lens
+116504,Pablo,Bordeaux
+437504,Adli,Bordeaux
+72177,Lasne,Brest
+61278,Neymar,Paris
+91080,Paredes,Paris
+20487,Mannone,Monaco
 105571,Raíllo,Mallorca
 170116,Valjent,Mallorca
 19484,Xisco Campos,Mallorca
@@ -550,38 +883,8 @@ info_idplayer,info_lastname,info_actualclub
 73314,Willian José,Real Sociedad
 88550,Portu,Real Sociedad
 98821,Zaldua,Real Sociedad
-27334,Debuchy,Saint-Étienne
-444463,Fofana,Saint-Étienne
-472778,Abi,Saint-Étienne
-150172,Philippoteaux,Nîmes
-197498,Meling,Nîmes
-210202,Koné,Nîmes
-225997,Alakouch,Nîmes
-45084,Deaux,Nîmes
-93622,Martinez,Nîmes
-242893,Gboho,Rennes
-28136,Hilton,Montpellier
-208559,N'Soki,Nice
-209914,Dolberg,Nice
-218357,Claude Maurice,Nice
-180736,Chalobah,Lorient
-229605,Michelin,Lens
-500267,Bade,Lens
-505834,Pereira Da Costa,Lens
 492836,Innocenti,Lille
 501334,Gueye,Metz
-115918,Rúnarsson,Dijon
-201865,Assalé,Dijon
-202520,Pape Cheikh,Dijon
-512111,Racovitan,Dijon
-220074,Pierre-Gabriel,Brest
-250685,Heriberto Tavares,Brest
-189542,Mendy,Bordeaux
-210228,Jovanovic,Bordeaux
-110504,Bertrand Traoré,Lyon
-110504,Traoré,Lyon
-158047,Thiago Mendes,Lyon
-231961,Aouar,Lyon
 106247,Kyriakopoulos,Sassuolo
 116796,Berardi,Sassuolo
 14715,Magnanelli,Sassuolo
@@ -637,7 +940,6 @@ info_idplayer,info_lastname,info_actualclub
 39830,Poli,Bologna
 430368,Skov Olsen,Bologna
 433130,Corbo,Bologna
-442430,Barrow,Bologna
 449580,Baldursson,Bologna
 462538,Juwara,Bologna
 464770,Cangiano,Bologna
@@ -855,11 +1157,6 @@ info_idplayer,info_lastname,info_actualclub
 92190,Jony,Lazio
 103086,Duván Zapata,Atalanta
 152338,Tameze,Atalanta
-156683,Gollini,Atalanta
-157374,Malinovskiy,Atalanta
-164570,Pasalic,Atalanta
-166477,Castagne,Atalanta
-170135,Hateboer,Atalanta
 174651,Caldara,Atalanta
 177901,Gosens,Atalanta
 209330,Bellanova,Atalanta
@@ -868,14 +1165,7 @@ info_idplayer,info_lastname,info_actualclub
 458919,Czyborra,Atalanta
 470501,Colley,Atalanta
 493265,Da Riva,Atalanta
-55083,Sportiello,Atalanta
-55776,Gómez,Atalanta
-61118,Rafael Tolói,Atalanta
 73709,Rossi,Atalanta
-82428,de Roon,Atalanta
-87750,Muriel,Atalanta
-89076,Freuler,Atalanta
-96645,Djimsiti,Atalanta
 112065,Skriniar,Inter
 14216,Berni,Inter
 171152,Gagliardini,Inter
@@ -896,7 +1186,6 @@ info_idplayer,info_lastname,info_actualclub
 49013,Moses,Inter
 66749,Lukaku,Inter
 78140,de Vrij,Inter
-80607,Eriksen,Inter
 88432,Biraghi,Inter
 94425,Brozovic,Inter
 116196,Biraschi,Genoa
@@ -906,7 +1195,6 @@ info_idplayer,info_lastname,info_actualclub
 165229,Jagiello,Genoa
 166965,Lerager,Genoa
 168598,Sanabria,Genoa
-17985,Masiello,Genoa
 182518,Cassata,Genoa
 19821,Criscito,Genoa
 19891,Schöne,Genoa
@@ -1011,7 +1299,6 @@ info_idplayer,info_lastname,info_actualclub
 449738,Torrasi,Milan
 450025,Colombo,Milan
 458059,Brescianini,Milan
-48714,Kjaer,Milan
 488253,Maldini,Milan
 49417,Bonaventura,Milan
 83984,Antonio Donnarumma,Milan
@@ -1078,7 +1365,6 @@ info_idplayer,info_lastname,info_actualclub
 504761,Ruffo Luci,Bologna
 184095,Karamoh,Parma
 69143,Kucka,Parma
-89861,Palomino,Atalanta
 76623,Nuytinck,Udinese
 442661,Millico,Torino
 433128,Turati,Sassuolo
@@ -1137,7 +1423,6 @@ info_idplayer,info_lastname,info_actualclub
 222598,Adjapong,Verona
 60999,Scozzarella,Parma
 152965,Bani,Bologna
-55712,Ilicic,Atalanta
 95215,Defrel,Sassuolo
 148215,Vecino,Inter
 508621,Boccia,Cagliari
@@ -1347,28 +1632,13 @@ info_idplayer,info_lastname,info_actualclub
 86137,Guerrero,Leganés
 90483,Eraso,Leganés
 91338,Recio,Leganés
-107593,Vázquez,Real Madrid
 174292,Asensio,Real Madrid
 178347,Mariano,Real Madrid
-17861,Ramos,Real Madrid
-185533,Jovic,Real Madrid
-19927,Benzema,Real Madrid
-206255,Mendy,Real Madrid
 216183,Díaz,Real Madrid
-218449,Eder Militão,Real Madrid
-223255,Valverde,Real Madrid
 246333,Vinícius Júnior,Real Madrid
-37055,Modric,Real Madrid
 440014,Altube,Real Madrid
-440077,Rodrygo,Real Madrid
-44989,Kroos,Real Madrid
 466118,Luis López,Real Madrid
-61256,Casemiro,Real Madrid
-80209,Isco,Real Madrid
-84182,Areola,Real Madrid
 88477,Nacho,Real Madrid
-88483,Carvajal,Real Madrid
-90152,Varane,Real Madrid
 124097,Rui Silva,Granada
 125945,Azeez,Granada
 156301,Antonio Puertas,Granada
@@ -1449,26 +1719,10 @@ info_idplayer,info_lastname,info_actualclub
 490862,Fontán,Celta
 490863,Domínguez,Celta
 76508,Mallo,Celta
-102383,Arias,Atlético
-102578,Herrera,Atlético
-116404,Felipe,Atlético
 119718,Carrasco,Atlético
 151883,Giménez,Atlético
-156223,Correa,Atlético
-167199,Partey,Atlético
-167449,Lemar,Atlético
-18507,Diego Costa,Atlético
-192364,Llorente,Atlético
-208639,Saponjic,Atlético
-233420,Renan Lodi,Atlético
 428399,João Félix,Atlético
-59981,Adán,Atlético
 65807,Savic,Atlético
-77390,Koke,Atlético
-77794,Trippier,Atlético
-81352,Oblak,Atlético
-86399,Vitolo,Atlético
-88482,Morata,Atlético
 184029,Ødegaard,Real Sociedad
 235227,Gorosabel,Real Sociedad
 446306,Zubiaurre,Real Sociedad
@@ -1511,8 +1765,6 @@ info_idplayer,info_lastname,info_actualclub
 49309,Banega,Sevilla
 52538,Fernando,Sevilla
 36903,Bale,Real Madrid
-42786,Hazard,Real Madrid
-60772,Courtois,Real Madrid
 466543,Ratiu,Villarreal
 111133,Machís,Granada
 231187,José Antonio Martínez,Granada
@@ -1522,7 +1774,6 @@ info_idplayer,info_lastname,info_actualclub
 437834,Riquelme,Atlético
 437834,Rodrigo Riquelme,Atlético
 465494,Sánchez,Atlético
-89335,Ñíguez,Atlético
 209704,Alende,Valladolid
 465278,Víctor García,Valladolid
 86173,Nolito,Celta
@@ -1563,7 +1814,6 @@ info_idplayer,info_lastname,info_actualclub
 463163,Javi Hernández,Real Madrid
 434631,Atienza,Eibar
 442156,Marí,Eibar
-213431,Hermoso,Atlético
 437471,García,Atlético
 37064,Guardado,Betis
 18753,Ben Arfa,Valladolid
@@ -1589,7 +1839,6 @@ info_idplayer,info_lastname,info_actualclub
 163711,Unai García,Osasuna
 244363,Cardona,Osasuna
 484698,González,Mallorca
-39563,Marcelo,Real Madrid
 80954,Moreno,Valencia
 80954,Rodrigo Moreno,Valencia
 60025,Rodríguez,Real Madrid
@@ -1647,20 +1896,12 @@ info_idplayer,info_lastname,info_actualclub
 226194,Grandsir,Brest
 59964,Court,Brest
 73985,Belaud,Brest
-218705,Gnagnon,Rennes
-228286,Mendy,Rennes
-244842,Lea Siliki,Rennes
-481616,Boey,Rennes
-96764,Niang,Rennes
 106921,Rulli,Montpellier
 10955,Camara,Montpellier
-477730,Vargas,Montpellier
 198065,Adama Traoré,Metz
 198065,Traoré,Metz
 218796,N'Doram,Metz
 54409,Delecroix,Metz
-194624,Valls,Nîmes
-456300,Perrin,Marseille
 104613,Konaté,Amiens
 122840,Aleesami,Amiens
 155895,Calabresi,Amiens
@@ -1677,34 +1918,21 @@ info_idplayer,info_lastname,info_actualclub
 42766,Gurtner,Amiens
 102743,Alioui,Angers
 105345,Petkovic,Angers
-168985,Santamaría,Angers
 176443,Pellenard,Angers
-210456,Doumbia,Angers
-225905,Kanga,Angers
-447389,El Melali,Angers
-45505,Thomas,Angers
 103127,Wagué,Nantes
-106320,Coulibaly,Nantes
-106320,Kalifa Coulibaly,Nantes
-471471,Louza,Nantes
 60070,Krhin,Nantes
 88931,Limbombe,Nantes
 185441,Trauco,Saint-Étienne
-200958,Dioussé,Saint-Étienne
 462424,Saliba,Saint-Étienne
-49396,M'Vila,Saint-Étienne
 55264,Boudebouz,Saint-Étienne
 193512,Kamano,Bordeaux
 214472,Aït Bennasser,Bordeaux
-80357,Mexer,Bordeaux
 185621,Léo Jardim,Lille
 218329,Osimhen,Lille
 226597,Gabriel,Lille
 38419,Rémy,Lille
 56491,Gaitán,Lille
-167074,Tete,Lyon
 203349,Tousart,Lyon
-44898,Tatarusanu,Lyon
 111265,Júlio Tavares,Dijon
 194326,Cádiz,Dijon
 232174,Mendyl,Dijon
@@ -1712,7 +1940,6 @@ info_idplayer,info_lastname,info_actualclub
 454964,Coulibaly,Dijon
 473550,Soumaré,Dijon
 498382,Hatfout,Dijon
-86158,Amalfitano,Dijon
 8747,Balmont,Dijon
 132197,Goicoechea,Toulouse
 161034,Said,Toulouse
@@ -1729,29 +1956,14 @@ info_idplayer,info_lastname,info_actualclub
 61983,Gabrielsen,Toulouse
 80711,Sanogo,Toulouse
 83233,Isimat-Mirin,Toulouse
-102826,Mendy,Man. City
-103025,Mahrez,Man. City
-103955,Sterling,Man. City
-121160,Ederson,Man. City
 146941,Laporte,Man. City
-165809,Bernardo Silva,Man. City
 17601,Carson,Man. City
 182156,Sané,Man. City
-205651,Gabriel Jesus,Man. City
 206325,Zinchenko,Man. City
 20664,David Silva,Man. City
 20664,Silva,Man. City
 209244,Foden,Man. City
 220566,Rodrigo,Man. City
-27789,Fernandinho,Man. City
-37572,Agüero,Man. City
-432656,García,Man. City
-432656,Eric García,Man. City
-432656,Eric Garcia,Man. City
-57410,Otamendi,Man. City
-58621,Walker,Man. City
-59859,Gündogan,Man. City
-61366,De Bruyne,Man. City
 111457,Kolasinac,Arsenal
 154043,Maitland-Niles,Arsenal
 182539,Ceballos,Arsenal
@@ -1875,7 +2087,6 @@ info_idplayer,info_lastname,info_actualclub
 196118,Muto,Newcastle
 232977,Watts,Newcastle
 232979,Young,Newcastle
-38290,Rose,Newcastle
 40142,Carroll,Newcastle
 50232,Shelvey,Newcastle
 56983,Ritchie,Newcastle
@@ -1883,49 +2094,19 @@ info_idplayer,info_lastname,info_actualclub
 57145,Federico Fernández,Newcastle
 59735,Darlow,Newcastle
 67089,Dubravka,Newcastle
-110979,Mané,Liverpool
-116535,Alisson,Liverpool
-116643,Fabinho,Liverpool
-118748,Mohamed Salah,Liverpool
-122798,Robertson,Liverpool
-15157,Milner,Liverpool
-152760,Origi,Liverpool
 157882,Minamino,Liverpool
-169187,Alexander-Arnold,Liverpool
-171287,Gomez,Liverpool
-175592,Keita,Liverpool
 206915,Jones,Liverpool
 215136,Williams,Liverpool
-41733,Wijnaldum,Liverpool
 444884,Elliott,Liverpool
-60706,Adrián,Liverpool
-68312,Shaqiri,Liverpool
-81880,Oxlade-Chamberlain,Liverpool
-92217,Roberto Firmino,Liverpool
-97032,van Dijk,Liverpool
-121145,João Cancelo,Man. City
-97299,Stones,Man. City
 18499,McGovern,Norwich
 192303,Zimmermann,Norwich
-193111,Cantwell,Norwich
-194799,Lewis,Norwich
-198826,Godfrey,Norwich
-20480,Krul,Norwich
 232667,Famewo,Norwich
-232980,Aarons,Norwich
-232980,Max Aarons,Norwich
 233849,Mair,Norwich
-37614,Vrancic,Norwich
 431924,Adshead,Norwich
 432735,Idah,Norwich
 439485,Martin,Norwich
 444253,Thomas,Norwich
-57127,Pukki,Norwich
-71738,Stiepermann,Norwich
 76306,Rupp,Norwich
-78607,McLean,Norwich
-78607,Kenny McLean,Norwich
-89470,Hernández,Norwich
 101668,Vardy,Leicester
 106837,Praet,Leicester
 15033,Morgan,Leicester
@@ -2030,26 +2211,13 @@ info_idplayer,info_lastname,info_actualclub
 80146,Ayew,Crystal Palace
 82403,Zaha,Crystal Palace
 86417,Schlupp,Crystal Palace
-102884,Gazzaniga,Tottenham
-108823,Dele Alli,Tottenham
-115556,Davies,Tottenham
 157668,Winks,Tottenham
-173904,Sánchez,Tottenham
-184349,Ryan Sessegnon,Tottenham
 194252,Bergwijn,Tottenham
 199584,Tanganga,Tottenham
-200826,Lo Celso,Tottenham
-209042,Skipp,Tottenham
 37915,Lloris,Tottenham
 39194,Vertonghen,Tottenham
-45268,Sissoko,Tottenham
-55605,Alderweireld,Tottenham
 62974,Lamela,Tottenham
-78830,Kane,Tottenham
 80226,Aurier,Tottenham
-85971,Son Heung-Min,Tottenham
-93264,Dier,Tottenham
-95715,Lucas Moura,Tottenham
 102380,Rüdiger,Chelsea
 103192,Zouma,Chelsea
 109533,Emerson,Chelsea
@@ -2163,13 +2331,10 @@ info_idplayer,info_lastname,info_actualclub
 40784,Sakho,Crystal Palace
 42525,Henderson,Crystal Palace
 195774,Gedson Fernandes,Tottenham
-234908,Foyth,Tottenham
 173810,Johnson,Leicester
 146610,O'Connell,Sheffield
 153133,Iwobi,Everton
 18665,Tettey,Norwich
-195546,Buendía,Norwich
-81048,Drmic,Norwich
 84384,Klose,Norwich
 216051,Diogo Dalot,Man. United
 105717,Masuaku,West Ham
@@ -2190,16 +2355,13 @@ info_idplayer,info_lastname,info_actualclub
 119471,Schär,Newcastle
 232957,Allan,Newcastle
 448791,White,Tottenham
-220394,Doyle,Man. City
 194164,Holgate,Everton
 490098,Hayden,Aston Villa
 74230,van Aanholt,Crystal Palace
-90440,Trybull,Norwich
 103914,Taylor,Burnley
 164511,Mina,Everton
 38439,Capoue,Watford
 101148,Lascelles,Newcastle
-231372,Ndombele,Tottenham
 450529,Bate,Chelsea
 94245,Batshuayi,Chelsea
 139110,Duda,Norwich
@@ -2212,12 +2374,9 @@ info_idplayer,info_lastname,info_actualclub
 218031,Söyüncü,Leicester
 37402,Fuchs,Leicester
 474003,Campana,Wolverhampton
-33148,Bravo,Man. City
 449781,Jankewitz,Southampton
 19419,Cahill,Crystal Palace
 243568,Gilmour,Chelsea
-56979,Henderson,Liverpool
-56979,Jordan Henderson,Liverpool
 461195,Cirkin,Tottenham
 431131,Djenepo,Southampton
 245719,Harwood-Bellis,Man. City
@@ -2238,13 +2397,11 @@ info_idplayer,info_lastname,info_actualclub
 61603,Drinkwater,Aston Villa
 223911,Mepham,Bournemouth
 37605,Özil,Arsenal
-87396,Leitner,Norwich
 56192,Cuco Martina,Everton
 194126,Verrips,Sheffield
 68983,Lowton,Burnley
 232391,Ngakia,West Ham
 128198,Boufal,Southampton
-60914,Matip,Liverpool
 209037,Medley,Arsenal
 52940,Janmaat,Watford
 94924,Deulofeu,Watford
@@ -2259,9 +2416,7 @@ info_idplayer,info_lastname,info_actualclub
 66838,Tosun,Crystal Palace
 173514,Isaac Success,Watford
 111931,Ricardo Pereira,Leicester
-113564,Byram,Norwich
 179587,Srbeny,Norwich
-28082,Fährmann,Norwich
 59125,Wickham,Crystal Palace
 235382,Alzate,Brighton
 15149,Francis,Bournemouth
@@ -2276,7 +2431,6 @@ info_idplayer,info_lastname,info_actualclub
 77359,Lejeune,Newcastle
 92159,Willems,Newcastle
 209289,Smith Rowe,Arsenal
-145235,Angeliño,Man. City
 183487,Holland,West Ham
 18987,Snodgrass,West Ham
 19194,Martin,West Ham
@@ -2302,13 +2456,11 @@ info_idplayer,info_lastname,info_actualclub
 245923,Cundle,Wolverhampton
 250604,Otasowie,Wolverhampton
 461017,Saydee,Bournemouth
-124165,Roberts,Norwich
 6744,Grant,Man. United
 76359,Jones,Man. United
 52484,Balogun,Brighton
 232361,Perry,Wolverhampton
 43252,Chester,Aston Villa
-39215,Vorm,Tottenham
 58893,Rojo,Man. United
 41823,Delph,Everton
 41945,Prödl,Watford
@@ -2317,13 +2469,11 @@ info_idplayer,info_lastname,info_actualclub
 222677,Chong,Man. United
 42748,Bong,Brighton
 198044,Lewis,Southampton
-83428,Hanley,Norwich
 213056,Baluta,Brighton
 90518,Morrison,Sheffield
 195473,Brewster,Liverpool
 101061,Heise,Norwich
 200088,N'Lundulu,Southampton
-222786,Retsos,Sheffield
 11948,Lonergan,Liverpool
 223332,Anjorin,Chelsea
 440323,Broja,Chelsea
@@ -2347,7 +2497,6 @@ info_idplayer,info_lastname,info_actualclub
 447879,Anang,West Ham
 18832,Stearman,Sheffield
 106757,Locadia,Brighton
-93284,Andone,Galatasaray
 41320,Daniels,Bournemouth
 40383,Forster,Southampton
 160987,Gbamin,Everton
@@ -2358,11 +2507,9 @@ info_idplayer,info_lastname,info_actualclub
 204727,Sarr,Nice
 210186,Wague,Nice
 218005,Ounas,Nice
-232197,Burner,Nice
 440058,Clementia,Nice
 149828,Slimani,Monaco
 156708,Keita,Monaco
-161950,Golovin,Monaco
 169102,Bakayoko,Monaco
 180167,Henrichs,Monaco
 46483,Adrien Silva,Monaco
@@ -2370,11 +2517,8 @@ info_idplayer,info_lastname,info_actualclub
 71403,Glik,Monaco
 119404,Benavente Bristol,Nantes
 216610,Olliero,Nantes
-242600,Xeka,Lille
-456193,Vidal,Montpellier
 133632,Ndour,Strasbourg
 230337,Mothiba,Strasbourg
-45076,Koné,Strasbourg
 488337,Lebeau,Strasbourg
 85633,Sels,Strasbourg
 168566,Nkoudou,Tottenham
@@ -2436,7 +2580,6 @@ info_idplayer,info_lastname,info_actualclub
 230458,Weissbeck,Sochaux
 244591,Lasme,Sochaux
 437499,Lacroix,Sochaux
-441576,Rocchia,Sochaux
 454688,M'Bakata,Sochaux
 454694,Ourega,Sochaux
 458346,Dia N'Diaye,Sochaux
@@ -2484,9 +2627,7 @@ info_idplayer,info_lastname,info_actualclub
 40815,Vainqueur,Toulouse
 449689,Bloch,Toulouse
 49730,Dossevi,Toulouse
-204123,Jordan Siebatcheu,Rennes
 226949,Guitane,Rennes
-40720,Cavani,Paris
 465691,Kouassi,Paris
 93605,Meunier,Paris
 92559,Alphonse,Dijon
@@ -2514,8 +2655,6 @@ info_idplayer,info_lastname,info_actualclub
 218116,Kitala,Lorient
 437692,Pattier,Lorient
 449431,Laurienté,Lorient
-73500,Saunier,Lorient
-86281,Delaplace,Lorient
 111315,Vion,Niort
 165572,Kemen,Niort
 193276,Jacob,Niort
@@ -2579,7 +2718,6 @@ info_idplayer,info_lastname,info_actualclub
 219628,Abeid,Valenciennes
 222388,Kocik,Valenciennes
 250333,Masson,Valenciennes
-447547,Brassier,Valenciennes
 454671,Siby,Valenciennes
 467095,Cabral,Valenciennes
 47128,Chevalier,Valenciennes
@@ -2590,7 +2728,6 @@ info_idplayer,info_lastname,info_actualclub
 92610,Bong,Valenciennes
 80565,Autret,Brest
 174272,Mandrea,Angers
-223140,Pereira Lage,Angers
 111078,Tertereau,Rodez
 151868,Douline,Rodez
 154481,Sané,Rodez
@@ -2664,7 +2801,6 @@ info_idplayer,info_lastname,info_actualclub
 89087,Veseli,Le Mans
 429234,Talal,Amiens
 37765,Cohade,Metz
-111291,Marçal,Lyon
 54772,Rafael,Lyon
 100632,Gabriel Silva,Saint-Étienne
 27341,Cabaye,Saint-Étienne
@@ -2750,7 +2886,6 @@ info_idplayer,info_lastname,info_actualclub
 214251,Vitor Costa,Lens
 205992,Chimy Avila,Osasuna
 56449,Villar,Osasuna
-51090,Thiago Silva,Paris
 110729,Renault,Orléans
 180299,Mutombo Kupa,Orléans
 222853,Mendy,Orléans
@@ -2786,7 +2921,6 @@ info_idplayer,info_lastname,info_actualclub
 476511,Beka Beka,Caen
 483866,Wa Saka,Caen
 245726,Abdallah,Grenoble
-492825,Valerio,Nîmes
 202459,Gakpa,Metz
 476502,Boubacar Traore,Metz
 46479,Daniel Carriço,Sevilla
@@ -2797,10 +2931,8 @@ info_idplayer,info_lastname,info_actualclub
 243689,Pendant,Sochaux
 490330,Ndiaye,Sochaux
 177445,Chougrani,Rodez
-216438,Casimir Ninga,Angers
 73678,Moukandjo,Valenciennes
 462609,Abdelli,Le Havre
-490209,Niasse,Lille
 504215,Jean Onana,Lille
 471924,Carvalho,Montpellier
 18168,Pitroipa,Paris
@@ -2825,8 +2957,6 @@ info_idplayer,info_lastname,info_actualclub
 97433,Bain,Brest
 19670,Perrin,Saint-Étienne
 38314,Ruffier,Saint-Étienne
-465151,Benkhedim,Saint-Étienne
-240153,Zerkane,Bordeaux
 116628,Benzia,Dijon
 488527,Bravo,Eibar
 438420,Baya,Troyes
@@ -2857,7 +2987,6 @@ info_idplayer,info_lastname,info_actualclub
 467020,Valera,Atlético
 218772,Falcón,Levante
 218772,Eliseo,Levante
-204719,Basila,Nantes
 477411,Homawoo,Nantes
 489995,Moustache,Nantes
 40436,Radovanovic,Genoa
@@ -2904,7 +3033,6 @@ info_idplayer,info_lastname,info_actualclub
 466111,Boloca,Bologna
 205199,Alastra,Parma
 244690,Poveda,Atlético
-216137,Stojanovski,Nîmes
 250588,Ben Amar,Nîmes
 185065,Piatek,Milan
 69305,Rodríguez,Milan
@@ -2912,7 +3040,6 @@ info_idplayer,info_lastname,info_actualclub
 38986,Vitale,Verona
 449822,Jocic,Verona
 151873,Cyprien,Nice
-435731,Nyamsi,Rennes
 106671,Quini,Granada
 200916,Leandrinho,Napoli
 465737,Daniele,Napoli
@@ -2929,7 +3056,6 @@ info_idplayer,info_lastname,info_actualclub
 241160,Cáseres,Villarreal
 172987,Boschilia,Monaco
 221626,Caddy,Rodez
-221024,N'Goma,Brest
 228289,Lefort,Amiens
 207756,Palencia,Saint-Étienne
 499195,Pellegrini,Sassuolo
@@ -2950,7 +3076,6 @@ info_idplayer,info_lastname,info_actualclub
 32269,Dzemaili,Bologna
 245750,Passi,Niort
 241153,De Frutos,Valladolid
-68862,Skuletic,Montpellier
 160852,Mazzitelli,Sassuolo
 490135,Ngapandouetnbu,Marseille
 16765,Matri,Brescia
@@ -2966,7 +3091,6 @@ info_idplayer,info_lastname,info_actualclub
 220374,Maanane,Rodez
 454722,Dubickas,Lecce
 501890,Laraspata,Lecce
-469192,Youan,Nantes
 219438,Dembélé,Barcelona
 445956,Costa,Reims
 437780,Gaetano,Napoli
@@ -2979,7 +3103,6 @@ info_idplayer,info_lastname,info_actualclub
 472779,Tshibuabua,Saint-Étienne
 55711,Beric,Saint-Étienne
 235447,Danzi,Verona
-244490,Maziz,Le Mans
 20360,Boateng,Fiorentina
 495532,Mastrilli,Spal
 501820,Cuellar,Spal
@@ -3009,7 +3132,6 @@ info_idplayer,info_lastname,info_actualclub
 79847,La Mantia,Lecce
 208973,Sierralta,Udinese
 216035,Tripaldelli,Sassuolo
-208987,Reine-Adélaïde,Lyon
 55305,Grenier,Rennes
 476791,Kyeremeh,Caen
 482379,Corinus,Ajaccio
@@ -3209,22 +3331,9 @@ info_idplayer,info_lastname,info_actualclub
 231373,Mamilonne,Chambly
 456046,Doucoure,Chambly
 488395,Fleurier,Chambly
-100050,Alario,Leverkusen
-118890,Demirbay,Leverkusen
-164096,Wendell,Leverkusen
-164454,Tah,Leverkusen
 167432,Sinkgraven,Leverkusen
 215711,Bailey,Leverkusen
-219847,Havertz,Leverkusen
-243557,Diaby,Leverkusen
 38117,Lars Bender,Leverkusen
-38118,Sven Bender,Leverkusen
-39645,Özcan,Leverkusen
-48882,Baumgartlinger,Leverkusen
-60598,Dragovic,Leverkusen
-61583,Bellarabi,Leverkusen
-68675,Hrádecky,Leverkusen
-83531,Aránguiz,Leverkusen
 26896,Bodmer,Amiens
 100531,Kvirkvelia,Lokomotiv
 116123,Idowu,Lokomotiv
@@ -3249,44 +3358,13 @@ info_idplayer,info_lastname,info_actualclub
 89311,Benzar,Lecce
 465069,Markovic,Prague
 84979,Zeleny,Prague
-100954,Moubandje,Zagreb
-105564,Kadzior,Zagreb
-152918,Petkovic,Zagreb
-153814,Stojanovic,Zagreb
-179370,Olmo,Zagreb
 181055,Gojak,Zagreb
-198534,Livakovic,Zagreb
-218373,Moro,Zagreb
-218378,Ivanusec,Zagreb
-218384,Gjira,Zagreb
 229046,Majer,Zagreb
 68309,Gavranovic,Zagreb
-68464,Ademi,Zagreb
 69887,Hajrovic,Zagreb
-81205,Orsic,Zagreb
-85301,Zagorac,Zagreb
-94233,Dilaver,Zagreb
-94258,Situm,Zagreb
 229480,Senhadji,Sochaux
-119666,Shevchenko,Shakhtar
-184847,Kovalenko,Shakhtar
-216096,Matvyenko,Shakhtar
-218445,Dodô,Shakhtar
-225295,Mateus Tetê,Shakhtar
-226784,Marcos Antonio,Shakhtar
 235674,Solomon,Shakhtar
-37201,Pyatov,Shakhtar
-52664,Marlos Bonfim,Shakhtar
-52870,Taison,Shakhtar
-57167,Moraes,Shakhtar
-61226,Dentinho,Shakhtar
 67773,Konoplyanka,Shakhtar
-68042,Krivtsov,Shakhtar
-68046,Stepanenko,Shakhtar
-76738,Alan Patrick,Shakhtar
-87497,Ismaily,Shakhtar
-93774,Khocholava,Shakhtar
-193922,Guilherme Arana,Atalanta
 41189,Witsel,Dortmund
 52516,Schmelzer,Dortmund
 489361,Rauti,Torino
@@ -3307,23 +3385,8 @@ info_idplayer,info_lastname,info_actualclub
 48437,Papadopoulos,Olympiakos
 58926,El-Arabi,Olympiakos
 92293,Elabdellaoui,Olympiakos
-106253,Jander,Belgrade
-149037,Degenek,Belgrade
-172306,Gobeljic,Belgrade
 184418,Ivanic,Belgrade
-185940,García,Belgrade
-210229,Pankov,Belgrade
-214825,Pavkov,Belgrade
-220039,Popovic,Belgrade
 230532,Vukanovic,Belgrade
-230804,Vulic,Belgrade
-241645,Petrovic,Belgrade
-41450,Marin,Belgrade
-51344,van La Parra,Belgrade
-65872,Milunovic,Belgrade
-81495,Rodic,Belgrade
-82436,Boakye,Belgrade
-87403,Borjan,Belgrade
 87498,Tomané,Belgrade
 146668,Keita,Ajaccio
 458347,Sow,Lens
@@ -3349,47 +3412,20 @@ info_idplayer,info_lastname,info_actualclub
 84583,Philippe Coutinho,Bayern
 102738,Imbula,Lecce
 477462,Pierno,Lecce
-119674,Sobol,Bruges
-120939,Schrijvers,Bruges
-155552,Balanta,Bruges
-161049,Mechele,Bruges
-167763,Vanaken,Bruges
-168547,Horvath,Bruges
-169323,Ricca,Bruges
 178975,Vlietinck,Bruges
 185737,Cools,Bruges
-208540,Kossounou,Bruges
-215437,Deli,Bruges
-221781,Okereke,Bruges
-230127,Tau,Bruges
-230251,Dennis,Bruges
 39188,Vormer,Bruges
-465716,de Ketelaere,Bruges
-66770,Rits,Bruges
-66797,Mignolet,Bruges
 152487,Eickmayer,Chambly
 454668,Fontani,Niort
 78319,Lévêque,Le Mans
 440852,Luzayadio,Orléans
 487988,Molla,Bologna
 235887,David Neres,Ajax
-151086,Lemina,Galatasaray
 151114,Ozbayrakli,Galatasaray
-168632,Kocuk,Galatasaray
-170271,Seri,Galatasaray
-182816,Marcão,Galatasaray
-220046,Mor,Galatasaray
-39206,Donk,Galatasaray
-42864,Muslera,Galatasaray
 438346,Akgun,Galatasaray
-46531,Inan,Galatasaray
 465587,Yardimci,Galatasaray
 475146,Emin Bayram,Galatasaray
 48847,Falcao,Galatasaray
-53268,Mariano,Galatasaray
-66959,Belhanda,Galatasaray
-79512,Omer Bayram,Galatasaray
-79512,Bayram,Galatasaray
 122268,Maletic,Paris
 498356,Mattoir,Ajaccio
 120773,Musavu-King,Le Mans
@@ -3409,18 +3445,12 @@ info_idplayer,info_lastname,info_actualclub
 60361,Ignatjev,Lokomotiv
 83548,Kolomeytsev,Lokomotiv
 120136,Lomb,Leverkusen
-225293,Paulinho,Leverkusen
 210742,Oelschlägel,Dortmund
 68640,Delaney,Dortmund
 243155,Rui Pires,Troyes
 88035,Touzghar,Troyes
 492868,Fonseca,Inter
-210801,Peric,Zagreb
-50184,Leovac,Zagreb
-58636,Théophile-Catherine,Zagreb
-157373,Bolbat,Shakhtar
 230755,Marquinhos Cipriano,Shakhtar
-462446,Sikan,Shakhtar
 422248,Soula,Angers
 81271,Tecl,Prague
 218246,Koita,Salzburg
@@ -3429,24 +3459,19 @@ info_idplayer,info_lastname,info_actualclub
 468496,Boudjemaa,Guingamp
 422089,Ghezali,Châteauroux
 192021,Mbemba,Reims
-86989,Cañas,Belgrade
 168568,Tolisso,Bayern
 213857,Heynen,Genk
 219155,Piotrowski,Genk
 200722,Walongwa,Nantes
 37852,Valbuena,Olympiakos
 230806,Guney,Galatasaray
-44336,Feghouli,Galatasaray
 465582,Arslan,Galatasaray
-66738,Büyük,Galatasaray
 189781,Clinton Mata,Bruges
 235084,Openda,Bruges
-249956,Diatta,Bruges
 244794,Camara,Auxerre
 495476,Rabouille,Nîmes
 454684,Glaentzlin,Sochaux
 58616,Bazile,Le Havre
-439363,Innocent,Paris
 114534,Junior Tallo,Chambly
 129482,Latour,Chambly
 177864,Santelli,Chambly
@@ -3456,8 +3481,6 @@ info_idplayer,info_lastname,info_actualclub
 242891,Semanoun,Toulouse
 467098,Marsella,Ajaccio
 444433,Curcio,Brescia
-109203,Weiser,Leverkusen
-183309,Amiri,Leverkusen
 148515,Rafa,Benfica
 101601,Orban,Leipzig
 191807,Lunev,Zenit
@@ -3470,11 +3493,8 @@ info_idplayer,info_lastname,info_actualclub
 467209,Avogadri,Sampdoria
 456493,Dumancic,Lecce
 434828,Laiton,Auxerre
-235481,Atiemwen,Zagreb
 242885,Mbe Soh,Paris
 103083,Uronen,Genk
-124039,Simic,Belgrade
-199384,Jovancic,Belgrade
 230443,Cabit,Metz
 471435,Alia,Lazio
 107259,Aloe,Valenciennes
@@ -3484,12 +3504,6 @@ info_idplayer,info_lastname,info_actualclub
 204730,Cuisance,Bayern
 50188,Alaba,Bayern
 102744,Sankoh,Caen
-490191,Damergy,Rennes
-51850,Johansson,Rennes
-19520,Babel,Galatasaray
-223407,Luyindama,Galatasaray
-164011,Diagne,Bruges
-170950,Mitrovic,Bruges
 184449,Kayembe,Nantes
 248670,Riccardi,Roma
 477632,Darboe,Roma
@@ -3628,7 +3642,7 @@ info_idplayer,info_lastname,info_actualclub
 432649,Solet,Lyon
 456195,Adouyev,Montpellier
 232191,N'Guinda N'Diffon,Monaco
-93127,Jesé,Paris
+51850,Johansson,Rennes
 486847,Cisse,Nice
 437724,Postolachi,Lille
 461418,Sy,Amiens
@@ -3646,3 +3660,4 @@ info_idplayer,info_lastname,info_actualclub
 54908,Chadli,Monaco
 481667,Lottin,Bordeaux
 148214,Píriz,Montpellier
+490191,Damergy,Rennes
