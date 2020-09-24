@@ -11,16 +11,16 @@ import formats as mf
 import numpy as np
 
 
-lazy_load = False
+lazy_load = True
 
 class MpgData():
     def __init__(self):
 
         if lazy_load == True :
             print('Lazy Load...')
-            self.players = pd.read_csv('MPG_data/players.csv',index = False)
+            self.players = pd.read_csv('MPG_data/players.csv', index_col = False)
             print('Players loaded')
-            self.data = pd.read_csv('MPG_data/data_edited.csv',index = False)
+            self.data = pd.read_csv('MPG_data/data_edited.csv',index_col = False)
             print('Matches loaded')
 
         else :
@@ -253,6 +253,11 @@ class MpgData():
             y        = self.data_player['info_note_final_2015'].tolist()
             x        = self.data_player['info_date_time'].tolist()
             figure    = mf.MyFormating().tableau_historic_figure(x,y)
+            return figure
+
+        def get_histogram(self):
+            x        = self.data_player['info_note_final_2015'].tolist()
+            figure   = mf.MyFormating().histogram_grades_player(x)
             return figure
 
 

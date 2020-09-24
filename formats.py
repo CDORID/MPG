@@ -7,6 +7,8 @@ Created on Mon Oct  7 18:42:33 2019
 
 import dash_html_components as html
 import plotly.express as px
+from plotly import graph_objs as go
+import numpy as np
 
 
 class MyFormating:
@@ -29,10 +31,28 @@ class MyFormating:
                         'plot_bgcolor': self.colors['background'],
                         'paper_bgcolor': self.colors['background'],
                         'font': self.colors['text'],
-                        'color': self.colors['text'],
-                        'annotations':{} ## USELESS
+                        'color': self.colors['text']
                     }
                 }
+        return figure
+
+    def histogram_grades_player(self,x):
+        figure = go.Figure(
+                    data=[go.Histogram(x = x,
+                          xbins=dict( # bins used for histogram
+                                start=0,
+                                end=10,
+                                size=0.5))
+                                ],
+                    layout = go.Layout(
+                        title_text='Grades Results', # title of plot
+                        xaxis_title_text='Grades', # xaxis label
+                        yaxis_title_text='Count', # yaxis label
+                        bargap=0.2, # gap between bars of adjacent location coordinates
+                        bargroupgap=0.1
+                            )
+                        ## use to fix x axis : list(np.arange(0,10.5,0.5))
+                )
         return figure
 
 

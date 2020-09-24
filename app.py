@@ -71,14 +71,15 @@ app.layout = html.Div(
                 html.Div(
                     html.Img(src = 'https://pbs.twimg.com/profile_images/716008797987143680/32rcyJWQ_400x400.jpg',
                              style = {
-                                     'height':'25%',
-                                     'width':'25%'
+                                     'height':'150px',
+                                     'width':'auto'
                                      }
-                            )
-                    ,  style = {'align': 'right',
-                                'display': 'inline-block',
-                                'width':'15%'
-                                }
+                            ),
+                    className = 'six columns' #,
+    #                style = {'align': 'right',
+    #                            'display': 'inline-block',
+    #                            'width':'15%'
+    #                            }
                     ),
                 html.Div([
                     html.H1(
@@ -92,81 +93,109 @@ app.layout = html.Div(
                         'color': colors['text']
                     })
                 ],
-                style = {
-                     'align': 'left',
-                     'display': 'inline-block'
-                 }
-                ),
-            ]
+                className = 'six columns'
+        #        style = {
+        #             'align': 'left',
+        #             'display': 'inline-block'
+        #         }
+                )],
+            className = 'row'
             ),
 
 ############################################################
 #               Dropdown and perf graph (children 2)
 ############################################################
 
-            html.Div(
-                     children = [
-            html.Div([
-                    dcc.Dropdown(
-                            id = 'selected_player',
-                            options = [{'label' :player , 'value':Mpg.dict_players[player]} for player in Mpg.dict_players],
-                            multi = False,
-                            placeholder = 'Choose your player...',
-                            value = 220160)
-                    ,
 
-                    dcc.Dropdown(
-                        id = 'seasons',
-                        options=[{'label' : season, 'value' : season } for season in df['season_year'].unique().tolist()],
-                        value= Mpg.last_season,
-                        multi=True)
-                    ,
 
-                    dcc.Graph(
-                        id='hist_player'
-                                )
-                        ],
-                        style={
-                        'display':'inline-block',
-                        'width':'47%',
-                        })
-                    ,
+            html.Div( children = [
 
-            html.Div([
-                    ],
-                    id = 'stats_player',
-                    style={
-                        'background': colors['stat_frame_background'],
-                     #   'frame':colors['text'],
-                        'width':'22%',
-                        'align': 'right',
-                        'display': 'inline-block',
-                        'borderStyle': None,
-                        'borderRadius': '2px',
-                        'textAlign': 'left',
-                        'margin-left' : '2px'
-                    }),
+                dcc.Tabs(id='tabs', value='what-is', children=[
 
-                    ######################
-                    #   hoverdata stats
-                    ######################
+                    ####
+                    ## Tab players
+                    ####
 
-            html.Div([
-                    ],
-                    id = 'hover-data',
-                    style={
-                        'background': colors['stat_frame_background'],
-                     #   'frame':colors['text'],
-                        'width':'22%',
-                        'align': 'right',
-                        'display': 'inline-block',
-                        'borderStyle': None,
-                        'borderRadius': '2px',
-                        'textAlign': 'left',
-                        'margin-left' : '5px'
-                    })
+                    dcc.Tab(id = 'tab-player', label = 'Players',
+                        children = html.Div(children = [
+
+                            html.Div([
+                                    dcc.Dropdown(
+                                            id = 'selected_player',
+                                            options = [{'label' :player , 'value':Mpg.dict_players[player]} for player in Mpg.dict_players],
+                                            multi = False,
+                                            placeholder = 'Choose your player...',
+                                            value = 220160)
+                                    ,
+
+                                    dcc.Dropdown(
+                                        id = 'seasons',
+                                        options=[{'label' : season, 'value' : season } for season in df['season_year'].unique().tolist()],
+                                        value= Mpg.last_season,
+                                        multi=True)
+                                    ,
+
+                                    dcc.Graph(
+                                        id='hist_player'
+                                                ),
+
+                                    dcc.Graph(
+                                        id = 'histogram-performance'
+                                            )
+                                    ],
+                                        style={
+                                        'display':'inline-block',
+                                        'width':'47%',
+                                        })
+                                    ,
+
+                            html.Div([
+                                    ],
+                                    id = 'stats_player',
+                                    style={
+                                        'background': colors['background'],
+                                     #   'frame':colors['text'],
+                                        'width':'22%',
+                                        'align': 'top',
+                                        'display': 'inline-block',
+                                        'borderStyle': None,
+                                        'borderRadius': '2px',
+                                        'textAlign': 'left',
+                                        'margin-left' : '2px'
+                                    }),
+
+                                    ######################
+                                    #   hoverdata stats
+                                    ######################
+
+                            html.Div([
+                                    ],
+                                    id = 'hover-data',
+                                    style={
+                                        'background': colors['background'],
+                                     #   'frame':colors['text'],
+                                        'width':'22%',
+                                        'align': 'top',
+                                        'display': 'inline-block',
+                                        'borderStyle': None,
+                                        'borderRadius': '2px',
+                                        'textAlign': 'left',
+                                        'margin-left' : '5px'
+                                    })
+                        ])
+                    ),
+
+                    ####
+                    ## Tab trends
+                    ####
+                    dcc.Tab(id = 'tab-team', label = 'Trends',
+                        children = html.Div(children = []))
+
+
+
+
+                    ])
             ])
-
 
 ])
 
@@ -180,6 +209,15 @@ app.layout = html.Div(
     Input('seasons','value')])
 def update_figure(my_player,seasons):
     return Mpg.Player(df,my_player,seasons).get_historic()
+
+## callback for the player grades distribution
+@app.callback(
+    Output('histogram-performance', 'figure'),
+    [Input('selected_player', 'value'),
+    Input('seasons','value')])
+def update_histogram(my_player,seasons):
+    return Mpg.Player(df,my_player,seasons).get_histogram()
+
 
 ## call back for player stats with dropdown
 @app.callback(
