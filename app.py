@@ -180,7 +180,7 @@ app.layout = html.Div(
                                             html.H4(
                                                     children = 'Latest News',
                                                     style={
-                                                    
+
                                                     }),
                                             dash_table.DataTable(
                                                     id='news-table',
@@ -204,15 +204,38 @@ app.layout = html.Div(
                     ####
                     ## Tab trends
                     ####
-                    dcc.Tab(id = 'tab-team', label = 'Trends',
-                        children = html.Div(children = []))
+                    dcc.Tab(id = 'tab-trends', label = 'Trends',
+                        children = html.Div(children = [
+                                        html.Div(children = [
+
+                                        ],
+                                        className = 'one row'),
 
 
 
+
+                                        html.Div(children = [
+                                                    dash_table.DataTable(
+                                                        id = 'general-datatable',
+                                                        data = [1,2,30],
+                                                        columns = [1,2,3]
+                                                        )],
+                                                className = 'six columns'
+                                                )
+                                        ],
+                                        className = 'row')
+
+                        ),
+
+
+
+                    dcc.Tab(id = 'tab-team', label = 'Team',
+                        children = html.Div(children = [
+
+                        ]))
 
                     ])
             ])
-
 ])
 
 ## return player in graph following dropdown menu
@@ -235,7 +258,7 @@ def update_histogram(my_player,seasons):
     return Mpg.Player(df,my_player,seasons).get_histogram()
 
 
-## call back for player stats with dropdown
+## callback for player stats with dropdown
 @app.callback(
     Output('stats_player', 'children'),
     [Input('selected_player', 'value'),
@@ -244,7 +267,6 @@ def update_stat(my_player,seasons):
     return Mpg.Player(df,my_player,seasons).stats_for_app()
 
 ## callback for match stats with dropdown
-
 @app.callback(
         Output('hover-data', 'children'),
         [Input('selected_player','value'),
@@ -252,7 +274,6 @@ def update_stat(my_player,seasons):
          ])
 def display_hover_data(my_player,hoverData):
     return Mpg.Player(df,my_player,df['season_year'].unique().tolist()).stats_for_hover(hoverData)
-
 
 ## callback to get news
 @app.callback(
@@ -262,6 +283,25 @@ def display_hover_data(my_player,hoverData):
         Input('seasons','value')])
 def get_table_news(my_player,seasons):
     return Mpg.Player(df,my_player,seasons).get_news()
+
+
+
+# CALLBACK SECOND Tab
+
+#callback filters
+
+
+#callback data
+
+#@app.callback(
+#    [Output('general-datatable','data'),
+#    Output('general-datatable','columns')],
+#    [Input('championship')]
+#)
+
+
+
+
 
 if __name__ == '__main__':
     app.run_server(debug=True)

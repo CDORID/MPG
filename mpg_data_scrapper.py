@@ -25,6 +25,7 @@ class ScrapMpg :
         self.strike             = 0
         self.sleep_time         = 1.011
         self.failures_max       = 5
+        self.last_season        = 2020
 
     def updater(self):
         ## Need to be redifined
@@ -43,6 +44,9 @@ class ScrapMpg :
         print('Starting point going up : ' +str(up_list))
         print('\nStarting point going down : ' +str(down_list))
 
+        print('Updating Players list...')
+        self.scrap_players_data()
+        print('Players updated !')
 
         print('Updating...')
         self.lastsave = time.time()
@@ -203,6 +207,17 @@ class ScrapMpg :
         ## Reset the new data to add
         self.new_data = pd.DataFrame()
         print('Saved')
+
+
+    def scrap_players_data(self):
+        for i in range(1,6):
+            url = 'https://api.monpetitgazon.com/stats/championship/'+str(i)+'/'+str(self.last_season)
+            json = pd.read_json(url)
+            df_stats = json["stats"].apply(pd.Series)
+            joined = json.join(df_stats)
+            joined = joined.drop(['stats'],axis = 1)
+            joined.to_csv('MPG_data/players_data/players_cs'+str(i)+'.csv')
+            time.sleep(1)
 
 
 

@@ -67,8 +67,6 @@ class MpgData():
 
          ### add ligue by checking teams in text doc, for ldc, check id
 
-
-
 ########################################################
          # Functions for intial formatting of the data
 ########################################################
