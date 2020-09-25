@@ -10,6 +10,9 @@ from datetime import datetime
 import formats as mf
 import numpy as np
 
+from pygooglenews import GoogleNews
+
+
 
 lazy_load = True
 
@@ -118,12 +121,11 @@ class MpgData():
     class Player:
 
         def __init__(self,data_full,id_player, season = None):
+
             ## creating last season in order to have corresponding numbers
             self.data_full = data_full
             season = self.player_season(season)
             self.data_season = data_full[data_full['season_year'].isin(season)]
-            print(season)
-
             ##### data of the team for comparison
 
             self.data_player       = self.data_season[self.data_season["info_idplayer"] == id_player].sort_values(by = 'info_date_time', ascending = True)
@@ -197,7 +199,12 @@ class MpgData():
 
 
         def stats_for_hover(self,hoverData):
-                match_date              = hoverData['points'][0]['x']
+                if hoverData == None:
+                    match_date = self.data_player.sort_values(by = 'info_date_time', ascending = False).iloc[0,:]['info_date_time']
+                    print(match_date)
+                else :
+                    match_date              = hoverData['points'][0]['x']
+
                 self.data_player_match  = self.data_player[self.data_player['info_date_time']==match_date]
 
                 ## STATUS
@@ -259,6 +266,21 @@ class MpgData():
             x        = self.data_player['info_note_final_2015'].tolist()
             figure   = mf.MyFormating().histogram_grades_player(x)
             return figure
+
+        def get_news(self):
+
+            ## get google news from player
+            gn      = GoogleNews()
+            keys    = str(str(self.data_player.iloc[0,:]['info_lastname'] +' '+ str(self.player_team) + ' football'))
+            search  = gn.search(keys)
+            news    = pd.DataFrame(search['entries'])
+            news['Date']  = news['published_parsed'].apply(lambda x:str(x.tm_mday) + '/' + str(x.tm_mon) + '/' + str(x.tm_year))
+            news    = news[['Date','title','link']].head(30)
+            news    = news.rename(columns = {'title':'Title','link':'Link'})
+            table   = news.to_dict('records')
+            columns =[{"name": i, "id": i} for i in news.columns]
+        #    table   = mf.MyFormating().table_news_player(news)
+            return table, columns
 
 
 if __name__ == '__main__':

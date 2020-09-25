@@ -10,12 +10,9 @@ Created on Mon Oct 21 10:10:26 2019
 Created on Thu Oct  3 12:40:01 2019
 
 @author: user
-
-other framwork for app
-
-https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582
 """
 import dash
+import dash_table
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
@@ -25,16 +22,9 @@ import data
 import formats as mf
 
 
-
-"""
-
-Data handling
-
-
-"""
-
 app = dash.Dash(__name__,
-    external_stylesheets=['css/style.css'])
+    #external_stylesheets=['https://codepen.io/chriddyp/pen/bWLwgP.css']
+    )
 
 
 Mpg = data.MpgData()
@@ -183,7 +173,30 @@ app.layout = html.Div(
                                     className = 'row'),
                             html.Div([
                                     dcc.Graph(id = 'histogram-performance',
-                                    className = 'six columns')],
+                                    className = 'six columns'),
+
+
+                                    html.Div([
+                                            html.H4(
+                                                    children = 'Latest News',
+                                                    style={
+                                                    
+                                                    }),
+                                            dash_table.DataTable(
+                                                    id='news-table',
+                                                    style_table={
+                                                        'overflowY': 'scroll',
+                                                        'overflow':'scroll',
+                                                        'height':'400px'},
+                                                    style_cell = {
+                                                            'font_family': 'Product Sans',
+                                                            'font_size': '18px',
+                                                            'text_align': 'left'
+                                                        })
+
+                                            ],className = 'six columns'),
+                                    ],
+
                             className = 'row')
                         ])
                     ),
@@ -239,6 +252,16 @@ def update_stat(my_player,seasons):
          ])
 def display_hover_data(my_player,hoverData):
     return Mpg.Player(df,my_player,df['season_year'].unique().tolist()).stats_for_hover(hoverData)
+
+
+## callback to get news
+@app.callback(
+        [Output('news-table','data'),
+        Output('news-table','columns')],
+        [Input('selected_player','value'),
+        Input('seasons','value')])
+def get_table_news(my_player,seasons):
+    return Mpg.Player(df,my_player,seasons).get_news()
 
 if __name__ == '__main__':
     app.run_server(debug=True)
