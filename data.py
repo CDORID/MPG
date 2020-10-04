@@ -9,12 +9,10 @@ import pandas as pd
 from datetime import datetime
 import formats as mf
 import numpy as np
+import pickle
 
 from pygooglenews import GoogleNews
 
-
-
-lazy_load = False
 
 class MpgData():
     def __init__(self):
@@ -22,7 +20,7 @@ class MpgData():
         with open('MPG_data/lazy_load.txt', 'rb') as fp:
             lazy_load = pickle.load(fp)
 
-        if lazy_load :
+        if lazy_load == True:
             print('Lazy Load...')
             self.players = pd.read_csv('MPG_data/players.csv', index_col = False)
             print('Players loaded')
@@ -42,6 +40,9 @@ class MpgData():
             print('Data formated \n Updating players...')
             self.init_players()
             print('Players updated')
+            print('Lazy load active')
+            with open('MPG_data/lazy_load.txt', 'wb') as fp:
+                    pickle.dump('1', fp)
             ## initialization
 
         self.last_season =  max(self.data['season_year'].unique().tolist())

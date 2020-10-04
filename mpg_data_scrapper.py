@@ -213,10 +213,8 @@ class ScrapMpg :
 
 
         ## Pass a file indicating the need of update or not to application, lazy load means no update
-        if self.new_data.shape[1] == 0:
-            with open('MPG_data/lazy_load.txt', 'wb') as fp:
-                pickle.dump('1', fp)
-        else :
+        print("Lazy Load deactivated")
+        if self.new_data.shape[1] != 0:
             with open('MPG_data/lazy_load.txt', 'wb') as fp:
                 pickle.dump('0', fp)
 
