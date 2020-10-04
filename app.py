@@ -20,6 +20,7 @@ from dash.dependencies import Input, Output
 import plotly.graph_objs as go
 import data
 import formats as mf
+import json
 
 
 app = dash.Dash(__name__,
@@ -33,6 +34,9 @@ df = Mpg.data
 print('app2')
 players = Mpg.players
 print('app3')
+
+dict_ligue = json.load(open('MPG_data/championships.json', 'r'))
+inv_dic = {v: k for k, v in dict_ligue.items()}
 
 """
 
@@ -124,8 +128,8 @@ app.layout = html.Div(
                                             options=[{'label' : season, 'value' : season } for season in df['season_year'].unique().tolist()],
                                             value= Mpg.last_season,
                                             multi=True)],
-                                            className = 'six columns')],
-                                            className = 'row'),
+                                        className = 'six columns')],
+                                    className = 'row'),
 
                             html.Div([
 
@@ -208,17 +212,29 @@ app.layout = html.Div(
                         children = html.Div(children = [
                                         html.Div(children = [
 
+                                            dcc.Dropdown(
+                                                id = 'ligue-dropdown',
+                                                options=[{'label' : ligue, 'value' :inv_dic[ligue]} for ligue in list(inv_dic.keys())],
+                                                value = 'Ligue 1',
+                                                multi = False,
+                                                className = 'six columns')
+
                                         ],
-                                        className = 'one row'),
-
-
+                                        className = 'row'),
 
 
                                         html.Div(children = [
                                                     dash_table.DataTable(
-                                                        id = 'general-datatable',
-                                                        data = [1,2,30],
-                                                        columns = [1,2,3]
+                                                        id = 'players-datatable',
+                                                        sort_action='custom',
+                                                        sort_mode='multi',
+                                                        sort_by=[],
+                                                        filter_action='native',
+                                                        style_cell = {
+                                                                'font_family': 'Product Sans',
+                                                                'font_size': '18px',
+                                                                'text_align': 'left'
+                                                            }
                                                         )],
                                                 className = 'six columns'
                                                 )
@@ -289,6 +305,13 @@ def get_table_news(my_player,seasons):
 # CALLBACK SECOND Tab
 
 #callback filters
+@app.callback(
+        [Output('players-datatable','data'),
+        Output('players-datatable','columns')],
+        [Input('ligue-dropdown','value'),
+        Input('players-datatable','sort_by')])
+def get_players_table(my_ligue,sort_by):
+        return Mpg.get_ligue_players(my_ligue,sort_by)
 
 
 #callback data

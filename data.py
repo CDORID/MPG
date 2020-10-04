@@ -14,7 +14,7 @@ from pygooglenews import GoogleNews
 
 
 
-lazy_load = True
+lazy_load = False
 
 class MpgData():
     def __init__(self):
@@ -58,14 +58,40 @@ class MpgData():
 
 
     def format_data(self):
-         self.data['feature_over7'] = self.data['info_note_final_2015'].apply(lambda x : self.get_over_7(x))
-         self.data['info_date_time'] =  self.data['info_date_time'].apply(lambda x : self.change_to_date(x))
+        self.data['feature_over7'] = self.data['info_note_final_2015'].apply(lambda x : self.get_over_7(x))
+        self.data['info_date_time'] =  self.data['info_date_time'].apply(lambda x : self.change_to_date(x))
 
          #create season year
-         self.data['season_year'] = self.data['info_date_time'].apply(lambda x:self.define_season(x))
-         self.data.to_csv('MPG_data/data_edited.csv',index = False)
+        self.data['season_year'] = self.data['info_date_time'].apply(lambda x:self.define_season(x))
+        self.data.to_csv('MPG_data/data_edited.csv',index = False)
 
          ### add ligue by checking teams in text doc, for ldc, check id
+
+    def get_ligue_players(self,ligue,sort_by):
+        #get correspong key from dict
+        print(ligue)
+        self.data_ligue = pd.read_csv('MPG_data/players_data/players_cs'+str(1)+'.csv')
+        self.data_ligue = self.data_ligue.drop('Unnamed: 0',axis = 1)
+        self.data_ligue = self.data_ligue.drop(['id','teamId','currentChampionship','ultraPosition'],axis=1)
+    #    table_players   = self.data_ligue.to_dict('records')
+        columns_players = [{"name": i, "id": i} for i in self.data_ligue.columns]
+        df = self.data_ligue
+        if len(sort_by):
+            df_sorted = df.sort_values(
+                [col['column_id'] for col in sort_by],
+                ascending=[
+                    col['direction'] == 'asc'
+                    for col in sort_by
+                ],
+                inplace=False
+            )
+        else:
+            # No sort is applied
+            df_sorted = df
+
+        df_sorted = df_sorted.to_dict('records')
+
+        return df_sorted, columns_players
 
 ########################################################
          # Functions for intial formatting of the data
@@ -276,7 +302,7 @@ class MpgData():
             news    = news[['Date','title','link']].head(30)
             news    = news.rename(columns = {'title':'Title','link':'Link'})
             table   = news.to_dict('records')
-            columns =[{"name": i, "id": i} for i in news.columns]
+            columns = [{"name": i, "id": i} for i in news.columns]
         #    table   = mf.MyFormating().table_news_player(news)
             return table, columns
 
