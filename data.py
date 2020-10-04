@@ -18,8 +18,11 @@ lazy_load = False
 
 class MpgData():
     def __init__(self):
+        ## Define update need
+        with open('MPG_data/lazy_load.txt', 'rb') as fp:
+            lazy_load = pickle.load(fp)
 
-        if lazy_load == True :
+        if lazy_load :
             print('Lazy Load...')
             self.players = pd.read_csv('MPG_data/players.csv', index_col = False)
             print('Players loaded')

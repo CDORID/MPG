@@ -72,7 +72,7 @@ class ScrapMpg :
 
 
     def get_matches_id(self):
-        with open ('MPG_data/matches_done.txt', 'rb') as fp:
+        with open('MPG_data/matches_done.txt', 'rb') as fp:
             matches_id = pickle.load(fp)
             matches_id = [int(match) for match in matches_id ]
         return matches_id
@@ -198,11 +198,27 @@ class ScrapMpg :
 
         ## Removing matches not done where grades have not been given yet
         self.neu_data = self.new_data.dropna(subset =['info_match_duration'])
+
+        ## Removing matches where grades where not given by checking if som of grades is different than 0
+        df2 = self.new_data.groupby('info_match_id')['info_note_final_2015'].sum()
+        missing_list = df2[df2 == 0]
+        missing_list = missing_list.index.to_list()
+        self.new_data = self.new_data[~self.new_data['info_match_id'].isin(missing_list)]
+
         self.new_data.to_csv(self.data_path)
 
         ## Save the id of the match already in the db
         with open('MPG_data/matches_done.txt', 'wb') as fp:
             pickle.dump(self.new_data['info_match_id'].unique().tolist(), fp)
+
+
+        ## Pass a file indicating the need of update or not to application, lazy load means no update
+        if self.new_data.shape[1] == 0:
+            with open('MPG_data/lazy_load.txt', 'wb') as fp:
+                pickle.dump('1', fp)
+        else :
+            with open('MPG_data/lazy_load.txt', 'wb') as fp:
+                pickle.dump('0', fp)
 
         ## Reset the new data to add
         self.new_data = pd.DataFrame()
