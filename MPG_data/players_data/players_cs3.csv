@@ -1,649 +1,658 @@
 ,club,firstname,id,lastname,position,quotation,teamId,ultraPosition,avgRate,sumGoals,currentChampionship,percentageStarter
-0,Betis,,player_10316,Joaquín,3,19,185,32,5.3,0.0,3.0,0.6000000000000001
-1,Real Sociedad,Miguel Ángel,player_16872,Moyá,1,10,188,10,-,0.0,3.0,0.0
-2,Cadix,Alberto,player_17260,Cifuentes,1,14,1737,10,4.8,0.0,3.0,0.4
-3,Cadix,José Manuel,player_17441,Jurado,3,5,1737,32,-,0.0,3.0,0.0
-4,Sevilla,Jesús,player_17740,Navas,2,23,179,21,6.8,0.0,3.0,0.4
-5,Real Madrid,Sergio,player_17861,Ramos,2,36,186,20,6.3,1.0,3.0,0.6000000000000001
-6,Granada,Roberto,player_17926,Soldado,4,19,5683,40,5.5,1.0,3.0,0.4
-7,Villarreal,Raúl,player_18003,Albiol,2,17,449,20,4.6,0.0,3.0,0.8
-8,Barcelona,Gerard,player_18221,Piqué,2,25,178,20,6.5,0.0,3.0,0.4
-9,Bilbao,,player_18498,Raúl García,4,30,174,40,4.5,0.0,3.0,0.6000000000000001
-10,Atlético,,player_18507,Diego Costa,4,10,175,40,5.5,1.0,3.0,0.2
-11,Barcelona,Lionel,player_19054,Messi,4,50,178,40,7.0,1.0,3.0,0.4
-12,Real Madrid,Karim,player_19927,Benzema,4,45,186,40,5.3,0.0,3.0,0.6000000000000001
-13,Real Sociedad,David,player_20664,Silva,3,25,188,32,5.0,0.0,3.0,0.4
-14,Villarreal,Mariano,player_20694,Barbosa,1,1,449,10,-,0.0,3.0,0.0
-15,Eibar,Papakouly,player_27672,Diop,3,10,953,31,4.8,0.0,3.0,0.4
-16,Betis,Claudio,player_33148,Bravo,1,5,185,10,6.3,0.0,3.0,0.4
-17,Sevilla,Ivan,player_34703,Rakitic,3,14,179,31,6.3,1.0,3.0,0.4
-18,Real Madrid,Luka,player_37055,Modric,3,25,186,32,6.0,0.0,3.0,0.4
-19,Betis,Andrés,player_37064,Guardado,3,11,185,31,-,0.0,3.0,0.0
-20,Elche,,player_38101,Nino,4,13,954,40,4.5,0.0,3.0,0.0
-21,Celta,Sergio,player_38400,Álvarez,1,3,176,10,-,0.0,3.0,0.0
-22,Real Sociedad,,player_38411,Nacho Monreal,2,10,188,21,5.0,0.0,3.0,0.2
-23,Atlético,Luis,player_39336,Suárez,4,36,175,40,6.3,2.0,3.0,0.2
-24,Osasuna,Adrián,player_39498,López,4,10,450,40,4.7,1.0,3.0,0.6000000000000001
-25,Real Madrid,,player_39563,Marcelo,2,12,186,21,5.0,0.0,3.0,0.2
-26,Celta,Iago,player_40270,Aspas,4,37,176,40,5.6,3.0,3.0,0.8
-27,Valladolid,Roberto,player_40694,Jiménez,1,11,192,10,4.8,0.0,3.0,0.6000000000000001
-28,Bilbao,,player_42670,Yuri,2,21,174,21,5.0,0.0,3.0,0.4
-29,Valencia,Kevin,player_42779,Gameiro,4,10,191,40,4.3,0.0,3.0,0.0
-30,Real Madrid,Eden,player_42786,Hazard,4,33,186,40,-,0.0,3.0,0.0
-31,Eibar,Pedro,player_42839,León,3,13,953,32,5.0,0.0,3.0,0.6000000000000001
-32,Huesca,Pedro,player_42844,López,2,8,2894,21,5.8,0.0,3.0,0.4
-33,Cadix,Álvaro,player_42892,Negredo,4,11,1737,40,4.4,1.0,3.0,0.6000000000000001
-34,Real Madrid,Toni,player_44989,Kroos,3,34,186,31,5.5,0.0,3.0,0.4
-35,Barcelona,Miralem,player_46696,Pjanic,3,20,178,31,5.5,0.0,3.0,0.0
-36,Villarreal,Sergio,player_48772,Asenjo,1,25,449,10,4.8,0.0,3.0,0.8
-37,Valladolid,Fabián,player_48854,Orellana,3,20,192,32,4.9,0.0,3.0,0.8
-38,Alavés,Víctor,player_49370,Laguardia,2,12,173,20,4.4,0.0,3.0,0.8
-39,Atlético,Nikola,player_50401,Kalinic,4,9,175,40,-,0.0,3.0,0.0
-40,Huesca,,player_51792,Andrés Fernández,1,14,2894,10,4.9,0.0,3.0,0.8
-41,Sevilla,Tomás,player_51945,Vaclik,1,22,179,10,-,0.0,3.0,0.0
-42,Betis,Víctor,player_51948,Ruiz,2,10,185,20,-,0.0,3.0,0.0
-43,Villarreal,Daniel,player_51952,Parejo,3,25,449,32,5.1,0.0,3.0,0.8
-44,Barcelona,Jordi,player_52356,Alba,2,12,178,21,6.0,0.0,3.0,0.4
-45,Sevilla,,player_52538,Fernando,3,21,179,31,6.0,0.0,3.0,0.2
-46,Huesca,Dimitrios,player_53020,Siovas,2,8,2894,20,5.2,1.0,3.0,0.6000000000000001
-47,Sevilla,Luuk,player_53041,de Jong,4,19,179,40,5.5,1.0,3.0,0.2
-48,Betis,,player_53142,Sidnei,2,6,185,20,4.5,0.0,3.0,0.2
-49,Barcelona,,player_54104,Sergio Busquets,3,25,178,31,6.0,0.0,3.0,0.4
-50,Villarreal,Vicente,player_54513,Iborra,3,13,449,31,5.4,0.0,3.0,0.2
-51,Osasuna,Facundo,player_54794,Roncaglia,2,6,450,20,4.5,0.0,3.0,0.2
-52,Cadix,,player_54806,Augusto Fernández,3,3,1737,31,5.0,0.0,3.0,0.2
-53,Cadix,Álvaro,player_55175,Giménez,4,9,1737,40,-,0.0,3.0,0.0
-54,Levante,,player_55268,Coke,2,11,855,21,5,0.0,3.0,0.0
-55,Granada,Víctor,player_55315,Díaz,2,19,5683,21,4.2,0.0,3.0,0.2
-56,Alavés,,player_55378,Manu García,3,7,173,31,5,0.0,3.0,0.0
-57,Cadix,,player_55412,Juan Cala,2,11,1737,20,4.6,0.0,3.0,0.8
-58,Eibar,,player_56271,Quique González,4,5,953,40,4.3,0.0,3.0,0.0
-59,Getafe,Ángel,player_56419,Rodríguez,4,20,1450,40,5.7,2.0,3.0,0.2
-60,Betis,Sergio,player_56448,Canales,3,27,185,32,6.0,0.0,3.0,0.8
-61,Valencia,Daniel,player_56624,Wass,2,18,191,21,5.8,1.0,3.0,0.8
-62,Bilbao,Mikel,player_56680,Balenziaga,2,6,174,21,4.0,0.0,3.0,0.2
-63,Villarreal,Francis,player_56864,Coquelin,3,10,449,31,5.0,0.0,3.0,0.6000000000000001
-64,Osasuna,Oier,player_56916,Sanjurjo,3,15,450,31,5.2,0.0,3.0,0.6000000000000001
-65,Valencia,Eliaquim,player_57112,Mangala,2,8,191,20,5.0,0.0,3.0,0.2
-66,Getafe,Xabier,player_58637,Etxeita,2,11,1450,20,5.2,0.0,3.0,0.6000000000000001
-67,Villarreal,Jaume,player_58792,Costa,2,8,449,21,5,0.0,3.0,0.0
-68,Valladolid,,player_58819,Kiko Olivas,2,15,192,20,-,0.0,3.0,0.0
-69,Valladolid,,player_58876,Míchel,3,11,192,32,5.0,1.0,3.0,0.6000000000000001
-70,Bilbao,Óscar,player_59062,De Marcos,2,10,174,21,5.0,0.0,3.0,0.2
-71,Eibar,,player_59140,Cote,2,14,953,21,-,0.0,3.0,0.0
-72,Cadix,Alberto,player_59339,Perea,3,5,1737,32,-,0.0,3.0,0.0
-73,Granada,Maxime,player_59963,Gonalons,3,7,5683,31,5.5,0.0,3.0,0.2
-74,Huesca,Pedro,player_60012,Mosquera,3,12,2894,31,5.3,0.0,3.0,0.8
-75,Sevilla,Sébastien,player_60121,Corchia,2,3,179,21,-,0.0,3.0,0.0
-76,Real Madrid,Thibaut,player_60772,Courtois,1,23,186,10,6.2,0.0,3.0,0.6000000000000001
-77,Real Madrid,,player_61256,Casemiro,3,27,186,31,5.5,0.0,3.0,0.4
-78,Alavés,,player_61316,Joselu,4,20,173,40,5.3,1.0,3.0,0.6000000000000001
-79,Eibar,,player_61597,Kike García,4,13,953,40,5.3,2.0,3.0,0.8
-80,Osasuna,,player_61814,Raúl Navas,2,4,450,20,3.0,0.0,3.0,0.2
-81,Sevilla,Sergio,player_62991,Escudero,2,12,179,21,5.0,0.0,3.0,0.2
-82,Huesca,Borja,player_63904,García,3,25,2894,32,5.5,0.0,3.0,0.2
-83,Atlético,Stefan,player_65807,Savic,2,12,175,20,5.0,0.0,3.0,0.2
-84,Getafe,Allan-Roméo,player_67527,Nyom,2,10,1450,21,6.2,0.0,3.0,0.6000000000000001
-85,Atlético,Sime,player_68353,Vrsaljko,2,5,175,21,-,0.0,3.0,0.0
-86,Barcelona,Martin,player_68690,Braithwaite,4,13,178,40,-,0.0,3.0,0.0
-87,Barcelona,,player_69752,Neto,1,7,178,10,6.0,0.0,3.0,0.4
-88,Osasuna,Rubén,player_71679,Martínez,1,7,450,10,-,0.0,3.0,0.0
-89,Sevilla,Nemanja,player_72154,Gudelj,3,9,179,31,5.0,0.0,3.0,0.2
-90,Valencia,Jasper,player_72162,Cillessen,1,9,191,10,-,0.0,3.0,0.0
-91,Real Sociedad,,player_73314,Willian José,4,18,188,40,4.5,0.0,3.0,0.0
-92,Bilbao,Iker,player_76012,Muniain,4,11,174,40,4.8,0.0,3.0,0.6000000000000001
-93,Celta,Hugo,player_76508,Mallo,2,8,176,21,4.4,0.0,3.0,0.8
-94,Eibar,Yoel,player_76510,Rodríguez,1,7,953,10,-,0.0,3.0,0.0
-95,Granada,Jorge,player_76555,Molina,4,15,5683,40,5.0,1.0,3.0,0.2
-96,Huesca,Mikel,player_76558,Rico,3,18,2894,31,5.8,0.0,3.0,0.4
-97,Granada,Ángel,player_76597,Montoro,3,8,5683,32,6.0,0.0,3.0,0.2
-98,Villarreal,,player_76610,Mario Gaspar,2,10,449,21,5.0,0.0,3.0,0.6000000000000001
-99,Barcelona,Antoine,player_76650,Griezmann,4,29,178,40,5.5,0.0,3.0,0.4
-100,Cadix,,player_76652,Edu Ramos,3,7,1737,32,-,0.0,3.0,0.0
-101,Levante,,player_77039,Toño,2,11,855,21,4.5,0.0,3.0,0.2
-102,Barcelona,Marc-André,player_77318,ter Stegen,1,26,178,10,-,0.0,3.0,0.0
-103,Alavés,Florian,player_77359,Lejeune,2,11,173,20,4.2,0.0,3.0,0.6000000000000001
-104,Atlético,,player_77390,Koke,3,26,175,32,5.3,0.0,3.0,0.2
-105,Atlético,Kieran,player_77794,Trippier,2,12,175,21,5.3,0.0,3.0,0.4
-106,Betis,Joel,player_78315,Robles,1,12,185,10,3.5,0.0,3.0,0.4
-107,Levante,Cheick,player_78323,Doukouré,3,3,855,31,-,0.0,3.0,0.0
-108,Huesca,Shinji,player_78412,Okazaki,4,17,2894,40,4.1,0.0,3.0,0.8
-109,Osasuna,,player_78874,Iñigo Pérez,3,11,450,31,5.0,0.0,3.0,0.4
-110,Sevilla,Aleix,player_79627,Vidal,3,14,179,32,-,0.0,3.0,0.0
-111,Real Madrid,,player_80209,Isco,3,9,186,32,5.0,0.0,3.0,0.2
-112,Betis,,player_80287,Juanmi,4,8,185,40,4.0,0.0,3.0,0.2
-113,Eibar,Sergi,player_80791,Enrich,4,10,953,40,4.3,0.0,3.0,0.2
-114,Getafe,Francisco,player_80795,Portillo,3,7,1450,32,5,0.0,3.0,0.0
-115,Valladolid,Raúl,player_80908,García,2,9,192,21,4.8,0.0,3.0,0.4
-116,Alavés,Tomás,player_80956,Pina,3,8,173,31,4.5,0.0,3.0,0.2
-117,Levante,Aitor,player_80993,Fernández,1,24,855,10,4.7,0.0,3.0,0.6000000000000001
-118,Betis,Marc,player_81138,Bartra,2,17,185,20,4.6,0.0,3.0,0.8
-119,Atlético,Jan,player_81352,Oblak,1,24,175,10,6.0,0.0,3.0,0.4
-120,Levante,Sergio,player_82418,León,4,7,855,40,3.5,0.0,3.0,0.2
-121,Alavés,John,player_82970,Guidetti,4,5,173,40,4.5,0.0,3.0,0.0
-122,Elche,,player_83553,Fidel,3,13,954,32,4.8,0.0,3.0,0.4
-123,Eibar,Sergio,player_83578,Álvarez,3,6,953,31,4.8,0.0,3.0,0.4
-124,Real Sociedad,Asier,player_84086,Illarramendi,3,5,188,31,-,0.0,3.0,0.0
-125,Bilbao,Ibai,player_84471,Gómez,3,6,174,32,-,0.0,3.0,0.0
-126,Barcelona,,player_84583,Philippe Coutinho,3,20,178,32,7.0,0.0,3.0,0.4
-127,Osasuna,Darko,player_84700,Brasanac,3,10,450,31,-,0.0,3.0,0.0
-128,Valladolid,Jordi,player_86148,Masip,1,19,192,10,4.0,0.0,3.0,0.2
-129,Sevilla,Sergi,player_86151,Gómez,2,7,179,20,5.5,0.0,3.0,0.2
-130,Betis,Martín,player_86153,Montoya,2,10,185,21,5,0.0,3.0,0.0
-131,Barcelona,Sergi,player_86157,Roberto,2,11,178,21,7.0,1.0,3.0,0.4
-132,Levante,Rubén,player_86168,Rochina,3,19,855,32,-,0.0,3.0,0.0
-133,Betis,Cristian,player_86169,Tello,3,8,185,32,5.3,1.0,3.0,0.0
-134,Celta,,player_86173,Nolito,3,14,176,32,5.5,0.0,3.0,0.6000000000000001
-135,Atlético,,player_86399,Vitolo,3,11,175,32,4.5,0.0,3.0,0.2
-136,Betis,Aissa,player_86813,Mandi,2,12,185,21,5.1,1.0,3.0,0.8
-137,Villarreal,,player_86876,Paco Alcácer,4,15,449,40,5.3,3.0,3.0,0.8
-138,Eibar,Anaitz,player_87026,Arbilla,2,6,953,20,5.0,0.0,3.0,0.2
-139,Eibar,,player_87499,Paulo Oliveira,2,10,953,20,4.2,0.0,3.0,0.6000000000000001
-140,Granada,Germán,player_87661,Sánchez,2,12,5683,20,4.8,0.0,3.0,0.2
-141,Valladolid,,player_87815,Javi Moyano,2,12,192,21,5.0,0.0,3.0,0.4
-142,Real Madrid,,player_88477,Nacho,2,7,186,20,-,0.0,3.0,0.0
-143,Cadix,,player_88479,Álex Fernández,3,12,1737,32,5.1,0.0,3.0,0.6000000000000001
-144,Real Madrid,Daniel,player_88483,Carvajal,2,19,186,21,5.5,0.0,3.0,0.4
-145,Valencia,Denis,player_88489,Cheryshev,3,10,191,32,6,0.0,3.0,0.0
-146,Real Sociedad,,player_88550,Portu,3,20,188,32,5.5,1.0,3.0,0.6000000000000001
-147,Barcelona,Samuel,player_88580,Umtiti,2,8,178,20,-,0.0,3.0,0.0
-148,Huesca,Pablo,player_88621,Ínsua,2,6,2894,20,5.0,0.0,3.0,0.2
-149,Valencia,Geoffrey,player_88754,Kondogbia,3,14,191,31,6.0,0.0,3.0,0.8
-150,Huesca,Juan Carlos,player_88782,Real,3,14,2894,32,4.8,0.0,3.0,0.6000000000000001
-151,Huesca,Jorge,player_88925,Pulido,2,16,2894,20,5.1,0.0,3.0,0.8
-152,Levante,José,player_88952,Campaña,3,23,855,31,6.0,0.0,3.0,0.6000000000000001
-153,Alavés,Edgar,player_89215,Méndez,3,11,173,32,4.8,1.0,3.0,0.8
-154,Granada,,player_89217,Álex Martínez,2,3,5683,21,-,0.0,3.0,0.0
-155,Bilbao,Iago,player_89292,Herrerín,1,7,174,10,-,0.0,3.0,0.0
-156,Levante,Jorge,player_89334,Miramón,2,15,855,21,5.0,0.0,3.0,0.4
-157,Atlético,Saúl,player_89335,Ñíguez,3,27,175,31,5.0,0.0,3.0,0.4
-158,Osasuna,Aridane,player_89399,Hernández,2,14,450,20,5.5,0.0,3.0,0.4
-159,Cadix,Jon Ander,player_89542,Garrido,3,7,1737,31,5,0.0,3.0,0.0
-160,Alavés,Rodrigo,player_89551,Battaglia,3,7,173,31,4.9,0.0,3.0,0.8
-161,Celta,Denis,player_89572,Suárez,3,9,176,32,5.2,0.0,3.0,0.6000000000000001
-162,Cadix,,player_89592,José Mari,3,5,1737,31,4.9,0.0,3.0,0.6000000000000001
-163,Valladolid,,player_89850,Sergi Guardiola,4,13,192,40,4.8,1.0,3.0,0.6000000000000001
-164,Real Madrid,Raphael,player_90152,Varane,2,29,186,20,5.7,0.0,3.0,0.6000000000000001
-165,Bilbao,Íñigo,player_90318,Martínez,2,17,174,20,4.5,0.0,3.0,0.6000000000000001
-166,Valladolid,,player_90394,Nacho,2,10,192,21,5.0,0.0,3.0,0.6000000000000001
-167,Levante,Sergio,player_90400,Postigo,2,13,855,20,5.0,0.0,3.0,0.2
-168,Osasuna,Roberto,player_90402,Torres,3,22,450,32,5.5,1.0,3.0,0.6000000000000001
-169,Getafe,David,player_90407,Timor,3,12,1450,31,5,0.0,3.0,0.0
-170,Huesca,David,player_90657,Ferreiro,3,12,2894,32,5.3,0.0,3.0,0.8
-171,Alavés,,player_90728,Ximo Navarro,2,9,173,20,4.3,0.0,3.0,0.4
-172,Eibar,,player_91338,Recio,3,9,953,31,4.8,0.0,3.0,0.6000000000000001
-173,Elche,Víctor,player_91373,Rodríguez,3,7,954,32,4.5,0.0,3.0,0.0
-174,Eibar,Pedro,player_91393,Bigas,2,14,953,20,4.3,0.0,3.0,0.8
-175,Alavés,Fernando,player_91406,Pacheco,1,15,173,10,5.0,0.0,3.0,0.8
-176,Elche,Juan,player_92084,Sánchez Miño,2,9,954,21,-,0.0,3.0,0.0
-177,Osasuna,,player_92190,Jony,3,16,450,32,5,0.0,3.0,0.0
-178,Barcelona,,player_92819,Rafinha,3,25,178,32,-,0.0,3.0,0.0
-179,Osasuna,,player_93203,Juan Cruz,2,9,450,21,4.3,0.0,3.0,0.6000000000000001
-180,Elche,,player_93283,Cifu,2,9,954,21,5.0,0.0,3.0,0.2
-181,Granada,,player_93335,Fede Vico,3,12,5683,32,5,0.0,3.0,0.0
-182,Celta,Álvaro,player_93338,Vadillo,3,8,176,32,-,0.0,3.0,0.0
-183,Alavés,Rodrigo,player_93421,Ely,2,13,173,20,4.5,0.0,3.0,0.4
-184,Villarreal,,player_93721,Gerard Moreno,4,37,449,40,5.8,3.0,3.0,0.8
-185,Getafe,Leandro,player_93921,Chichizola,1,7,1450,10,-,0.0,3.0,0.0
-186,Cadix,Filip,player_94547,Malbasic,4,7,1737,40,5.0,0.0,3.0,0.2
-187,Eibar,Marko,player_94618,Dmitrovic,1,19,953,10,5.5,0.0,3.0,0.8
-188,Cadix,,player_94756,Salvi Sánchez,3,11,1737,32,5.6,1.0,3.0,0.6000000000000001
-189,Levante,Nikola,player_96093,Vukcevic,3,11,855,31,4.5,0.0,3.0,0.4
-190,Betis,,player_96122,William Carvalho,3,8,185,31,5.5,2.0,3.0,0.8
-191,Granada,Dimitri,player_96767,Foulquier,2,9,5683,21,4.3,0.0,3.0,0.6000000000000001
-192,Valladolid,Rubén,player_96771,Alcaraz,3,16,192,31,-,0.0,3.0,0.0
-193,Valladolid,Óscar,player_96785,Plano,4,16,192,40,4.6,0.0,3.0,0.6000000000000001
-194,Real Sociedad,Joseba,player_98821,Zaldua,2,12,188,21,-,0.0,3.0,0.0
-195,Osasuna,,player_98851,David García,2,10,450,20,4.3,0.0,3.0,0.6000000000000001
-196,Villarreal,,player_98961,Manu Trigueros,3,17,449,32,4.7,0.0,3.0,0.2
-197,Valladolid,Bruno,player_98976,González,2,6,192,20,4.9,0.0,3.0,0.8
-198,Getafe,Damián,player_99005,Suárez,2,8,1450,21,5.2,0.0,3.0,0.6000000000000001
-199,Levante,Óscar,player_99128,Duarte,2,4,855,20,3.3,0.0,3.0,0.4
-200,Villarreal,,player_100059,Alberto Moreno,2,10,449,21,-,0.0,3.0,0.0
-201,Levante,Nemanja,player_100263,Radoja,3,9,855,31,4.7,0.0,3.0,0.4
-202,Sevilla,Franco,player_100731,Vázquez,3,9,179,32,5,0.0,3.0,0.0
-203,Celta,Néstor,player_100868,Araújo,2,17,176,20,4.9,0.0,3.0,0.2
-204,Celta,Okay,player_101394,Yokuslu,3,10,176,31,4.8,0.0,3.0,0.2
-205,Cadix,Jens,player_102002,Jonsson,3,10,1737,31,5.0,0.0,3.0,0.6000000000000001
-206,Atlético,Héctor,player_102578,Herrera,3,8,175,32,-,0.0,3.0,0.0
-207,Eibar,Takashi,player_103263,Inui,3,11,953,32,4.5,0.0,3.0,0.8
-208,Huesca,,player_103844,Luisinho,2,10,2894,21,5,0.0,3.0,0.0
-209,Sevilla,,player_103953,Suso,3,9,179,32,4.8,0.0,3.0,0.2
-210,Cadix,Anthony,player_104448,Lozano,4,10,1737,40,4.5,0.0,3.0,0.2
-211,Elche,,player_105093,Luismi,3,3,954,31,4.5,0.0,3.0,0.0
-212,Celta,David,player_105488,Juncà,2,3,176,21,-,0.0,3.0,0.0
-213,Eibar,Damian,player_105564,Kadzior,3,8,953,32,4.3,0.0,3.0,0.2
-214,Cadix,David,player_105585,Querol,4,1,1737,40,-,0.0,3.0,0.0
-215,Betis,,player_106468,Álex Moreno,2,9,185,21,4.8,0.0,3.0,0.8
-216,Celta,Rubén,player_106539,Blanco,1,16,176,10,-,0.0,3.0,0.0
-217,Granada,,player_106671,Quini,2,5,5683,21,-,0.0,3.0,0.0
-218,Sevilla,Roque,player_106899,Mesa,3,7,179,31,-,0.0,3.0,0.0
-219,Villarreal,Gerónimo,player_106921,Rulli,1,3,449,10,-,0.0,3.0,0.0
-220,Celta,Jeison,player_107117,Murillo,2,13,176,20,4.5,0.0,3.0,0.6000000000000001
-221,Real Madrid,Lucas,player_107593,Vázquez,3,7,186,32,-,0.0,3.0,0.0
-222,Celta,Kevin,player_107807,Vázquez,2,9,176,21,-,0.0,3.0,0.0
-223,Levante,Carlos,player_108145,Clerc,2,10,855,21,4.0,0.0,3.0,0.4
-224,Villarreal,,player_109243,Moi Gómez,3,25,449,32,5.3,0.0,3.0,0.8
-225,Eibar,,player_109262,Rober Correa,2,9,953,21,4.7,0.0,3.0,0.6000000000000001
-226,Getafe,Jaime,player_109270,Mata,4,25,1450,40,4.8,1.0,3.0,0.4
-227,Levante,Roger,player_109702,Martí,4,13,855,40,5.8,1.0,3.0,0.0
-228,Getafe,Rubén,player_110713,Yáñez,1,1,1450,10,-,0.0,3.0,0.0
-229,Elche,Edgar,player_110923,Badía,1,12,954,10,5.5,0.0,3.0,0.4
-230,Granada,Darwin,player_111133,Machís,3,19,5683,32,6.2,1.0,3.0,0.4
-231,Osasuna,Lucas,player_111232,Torró,3,5,450,31,5.2,0.0,3.0,0.0
-232,Villarreal,Carlos,player_111274,Bacca,4,11,449,40,4.5,0.0,3.0,0.0
-233,Cadix,,player_111313,Iza,2,12,1737,21,5.5,0.0,3.0,0.8
-234,Valencia,Rubén,player_112994,Sobrino,4,6,191,40,4.5,0.0,3.0,0.0
-235,Huesca,Eugeni,player_114543,Valderrama,3,15,2894,32,4.8,0.0,3.0,0.2
-236,Sevilla,Óliver,player_115860,Torres,3,12,179,32,4.8,0.0,3.0,0.2
-237,Levante,,player_116206,Rúben Vezo,2,13,855,20,5.3,0.0,3.0,0.4
-238,Atlético,,player_116404,Felipe,2,7,175,20,6.0,0.0,3.0,0.4
-239,Eibar,,player_116626,Kévin Rodrigues,2,7,953,21,4.3,0.0,3.0,0.4
-240,Valencia,Jaume,player_116732,Doménech,1,13,191,10,5.8,0.0,3.0,0.8
-241,Atlético,Yannick,player_119718,Carrasco,3,13,175,32,6.3,0.0,3.0,0.2
-242,Sevilla,,player_120026,Bono,1,7,179,10,5.8,0.0,3.0,0.4
-243,Sevilla,Lucas,player_121117,Ocampos,3,36,179,32,4.8,0.0,3.0,0.4
-244,Villarreal,Ramiro,player_121221,Funes Mori,2,5,449,20,5,0.0,3.0,0.0
-245,Granada,,player_124097,Rui Silva,1,20,5683,10,4.8,0.0,3.0,0.6000000000000001
-246,Granada,Ramón,player_125945,Azeez,3,10,5683,32,4.0,0.0,3.0,0.2
-247,Alavés,Rubén,player_126119,Duarte,2,9,173,21,4.8,0.0,3.0,0.6000000000000001
-248,Villarreal,Rubén,player_126290,Peña,3,9,449,32,4.5,0.0,3.0,0.2
-249,Sevilla,Ibrahim,player_128348,Amadou,3,7,179,31,-,0.0,3.0,0.0
-250,Osasuna,,player_130026,Rubén García,3,17,450,32,5.3,1.0,3.0,0.6000000000000001
-251,Alavés,Pere,player_131411,Pons,3,8,173,31,4.4,0.0,3.0,0.8
-252,Valencia,José,player_132105,Gayà,2,11,191,21,5.0,0.0,3.0,0.8
-253,Osasuna,Sergio,player_138039,Herrera,1,15,450,10,5.2,0.0,3.0,0.6000000000000001
-254,Bilbao,,player_140264,Dani García,3,10,174,31,4.8,0.0,3.0,0.6000000000000001
-255,Bilbao,Ander,player_140266,Capa,2,18,174,21,5.2,0.0,3.0,0.6000000000000001
-256,Osasuna,,player_141115,Brandon,4,3,450,40,-,0.0,3.0,0.0
-257,Valladolid,Pablo,player_143622,Hervías,3,12,192,32,4.9,0.0,3.0,0.2
-258,Huesca,Gastón,player_148037,Silva,2,8,2894,21,5,0.0,3.0,0.0
-259,Getafe,Djené,player_149838,Dakonam,2,19,1450,20,6.0,0.0,3.0,0.6000000000000001
-260,Celta,,player_150360,Santi Mina,4,13,176,40,4.5,0.0,3.0,0.0
-261,Atlético,José,player_151883,Giménez,2,16,175,20,-,0.0,3.0,0.0
-262,Celta,Lucas,player_152563,Olaza,2,14,176,21,4.8,0.0,3.0,0.8
-263,Real Sociedad,Adnan,player_154976,Januzaj,3,11,188,32,5.6,1.0,3.0,0.2
-264,Alavés,Lucas,player_155851,Pérez,4,17,173,40,4.5,0.0,3.0,0.4
-265,Atlético,Ángel,player_156223,Correa,4,14,175,40,6.0,1.0,3.0,0.2
-266,Granada,,player_156301,Antonio Puertas,3,26,5683,32,4.8,0.0,3.0,0.6000000000000001
-267,Valencia,,player_158074,Gabriel Paulista,2,20,191,20,5.0,1.0,3.0,0.4
-268,Levante,,player_160607,Hernâni,3,9,855,32,-,0.0,3.0,0.0
-269,Osasuna,,player_163711,Unai García,2,7,450,20,-,0.0,3.0,0.0
-270,Valencia,,player_163784,Jason,4,8,191,40,4.8,0.0,3.0,0.2
-271,Alavés,,player_163817,Burgui,3,1,173,32,-,0.0,3.0,0.0
-272,Levante,José Luis,player_165375,Morales,4,16,855,40,6.2,3.0,3.0,0.6000000000000001
-273,Sevilla,,player_165659,Diego Carlos,2,24,179,20,5.8,0.0,3.0,0.4
-274,Eibar,,player_165800,Rafa Soares,2,6,953,21,4.8,0.0,3.0,0.2
-275,Cadix,Carlos,player_166138,Akapo,2,7,1737,21,3.5,0.0,3.0,0.2
-276,Celta,Renato,player_166162,Tapia,3,8,176,31,5.5,0.0,3.0,0.8
-277,Betis,Nabil,player_166552,Fekir,3,29,185,32,5.0,1.0,3.0,0.8
-278,Atlético,Thomas,player_167199,Partey,3,22,175,31,5.3,0.0,3.0,0.2
-279,Cadix,Jeremías,player_167210,Ledesma,1,1,1737,10,7.0,0.0,3.0,0.2
-280,Atlético,Thomas,player_167449,Lemar,3,7,175,32,4.5,0.0,3.0,0.0
-281,Granada,Luis,player_167742,Milla,3,3,5683,32,5.5,1.0,3.0,0.6000000000000001
-282,Granada,,player_167767,Kenedy,3,7,5683,32,4.5,0.0,3.0,0.2
-283,Osasuna,Jonathan,player_168287,Calleri,4,9,450,40,4.3,0.0,3.0,0.2
-284,Betis,Antonio,player_168598,Sanabria,4,12,185,40,3.8,0.0,3.0,0.4
-285,Getafe,Enes,player_168636,Ünal,4,13,1450,40,4.3,0.0,3.0,0.0
-286,Alavés,,player_169148,Deyverson,4,5,173,40,4.5,0.0,3.0,0.6000000000000001
-287,Getafe,,player_169201,Chema Rodríguez,2,7,1450,20,-,0.0,3.0,0.0
-288,Celta,David,player_169205,Costas,2,3,176,20,-,0.0,3.0,0.0
-289,Getafe,Erick,player_169586,Cabaco,2,5,1450,20,4.8,0.0,3.0,0.0
-290,Sevilla,Marcos,player_169813,Acuña,2,11,179,21,5.0,0.0,3.0,0.2
-291,Eibar,Esteban,player_169873,Burgos,2,9,953,20,4.5,0.0,3.0,0.0
-292,Huesca,Pablo,player_170154,Maffeo,2,12,2894,21,5.3,1.0,3.0,0.4
-293,Sevilla,Munir,player_170864,El Haddadi,4,15,179,40,5.8,1.0,3.0,0.2
-294,Barcelona,Clément,player_171101,Lenglet,2,18,178,20,4.5,0.0,3.0,0.4
-295,Getafe,Mauro,player_171222,Arambarri,3,16,1450,31,5.2,0.0,3.0,0.6000000000000001
-296,Atlético,Ivo,player_173268,Grbic,1,3,175,10,-,0.0,3.0,0.0
-297,Cadix,David,player_173947,Gil,1,1,1737,10,4.0,0.0,3.0,0.2
-298,Levante,Mickaël,player_174279,Malsa,3,3,855,31,5.3,0.0,3.0,0.2
-299,Real Madrid,Marco,player_174292,Asensio,3,13,186,32,5,0.0,3.0,0.0
-300,Alavés,Saul,player_174955,García,2,4,173,21,-,0.0,3.0,0.0
-301,Elche,Pere,player_175090,Milla,4,12,954,40,4.3,0.0,3.0,0.4
-302,Getafe,David,player_175204,Soria,1,25,1450,10,5.8,0.0,3.0,0.6000000000000001
-303,Betis,Víctor,player_175946,Camarasa,3,10,185,32,-,0.0,3.0,0.0
-304,Sevilla,Carlos,player_176189,Fernández,4,24,179,40,-,0.0,3.0,0.0
-305,Alavés,Antonio,player_176245,Sivera,1,7,173,10,-,0.0,3.0,0.0
-306,Granada,Aarón,player_176278,Escandell,1,7,5683,10,-,0.0,3.0,0.0
-307,Cadix,,player_177849,Nano Mesa,4,7,1737,40,-,0.0,3.0,0.0
-308,Valladolid,,player_178092,Fede San Emeterio,3,10,192,31,4.9,0.0,3.0,0.8
-309,Real Madrid,,player_178347,Mariano,4,5,186,40,-,0.0,3.0,0.0
-310,Cadix,Alfonso,player_178424,Espino,2,11,1737,21,4.9,0.0,3.0,0.8
-311,Betis,Carlos,player_178865,Marín,1,1,185,10,-,0.0,3.0,0.0
-312,Osasuna,,player_178870,Kike Barja,3,5,450,32,4.8,0.0,3.0,0.0
-313,Alavés,Adrián,player_178873,Marín,2,6,173,21,-,0.0,3.0,0.0
-314,Granada,Jesús,player_178876,Vallejo,2,7,5683,20,3.5,0.0,3.0,0.4
-315,Valencia,Àlex,player_178878,Carbonell,3,1,191,31,-,0.0,3.0,0.0
-316,Celta,Brais,player_178880,Méndez,3,10,176,32,5.0,0.0,3.0,0.2
-317,Osasuna,Gorka,player_179265,Zabarte,2,1,450,21,-,0.0,3.0,0.0
-318,Getafe,Marc,player_179268,Cucurella,2,26,1450,21,6.2,1.0,3.0,0.6000000000000001
-319,Barcelona,Carles,player_179271,Aleñá,3,9,178,32,-,0.0,3.0,0.0
-320,Bilbao,Jon,player_179272,Sillero,2,1,174,21,-,0.0,3.0,0.0
-321,Valladolid,,player_179371,Kuki Zalazar,4,1,192,40,-,0.0,3.0,0.0
-322,Atlético,,player_179380,Toni Moya,3,3,175,32,-,0.0,3.0,0.0
-323,Barcelona,,player_179382,Oriol Busquets,3,6,178,31,-,0.0,3.0,0.0
-324,Cadix,Iván,player_179926,Alejo,3,7,1737,32,5,0.0,3.0,0.0
-325,Elche,Youssouf,player_180124,Kone,2,10,954,21,5,0.0,3.0,0.0
-326,Valencia,,player_181284,Gonçalo Guedes,4,13,191,40,5.3,0.0,3.0,0.6000000000000001
-327,Levante,,player_182617,Koke Vegas,1,7,855,10,-,0.0,3.0,0.0
-328,Bilbao,Unai,player_183462,López,3,12,174,32,5.2,2.0,3.0,0.4
-329,Elche,Omenuke,player_183778,Mfulu,3,5,954,31,4.8,0.0,3.0,0.4
-330,Real Madrid,Martin,player_184029,Ødegaard,3,23,186,32,5.0,0.0,3.0,0.4
-331,Real Madrid,Luka,player_185533,Jovic,4,7,186,40,4.5,0.0,3.0,0.4
-332,Betis,Wilfrid,player_185648,Kaptoum,3,3,185,32,-,0.0,3.0,0.0
-333,Elche,,player_185650,Dani Calvo,2,11,954,20,4.8,0.0,3.0,0.4
-334,Atlético,Marcos,player_192364,Llorente,3,13,175,31,6.3,1.0,3.0,0.2
-335,Elche,Lucas,player_193774,Boyé,4,9,954,40,5.3,1.0,3.0,0.2
-336,Cadix,Yann,player_194302,Bodiger,3,12,1737,31,4.2,0.0,3.0,0.2
-337,Villarreal,Sofian,player_194554,Chakla,2,3,449,20,5,0.0,3.0,0.0
-338,Bilbao,Kenan,player_194625,Kodro,4,7,174,40,4,0.0,3.0,0.0
-339,Barcelona,Rey,player_194827,Manaj,4,1,178,40,-,0.0,3.0,0.0
-340,Sevilla,Joan,player_195364,Jordán,3,16,179,31,5.8,0.0,3.0,0.2
-341,Elche,,player_195381,Raúl Guti,3,14,954,31,4.5,0.0,3.0,0.4
-342,Bilbao,Jokin,player_195383,Ezkieta,1,1,174,10,-,0.0,3.0,0.0
-343,Real Sociedad,Mikel,player_195384,Merino,3,21,188,31,6.0,0.0,3.0,0.8
-344,Levante,Gonzalo,player_195457,Melero,3,9,855,32,4.7,1.0,3.0,0.6000000000000001
-345,Celta,Jorge,player_195502,Sáenz,2,4,176,20,-,0.0,3.0,0.0
-346,Eibar,Yoshinori,player_196118,Muto,4,10,953,40,4.0,0.0,3.0,0.2
-347,Levante,Enis,player_196739,Bardhi,3,21,855,32,5.0,0.0,3.0,0.6000000000000001
-348,Cadix,Gaspar,player_196974,Panadero,3,3,1737,32,-,0.0,3.0,0.0
-349,Betis,Guido,player_197024,Rodríguez,3,14,185,31,5.1,0.0,3.0,0.8
-350,Bilbao,Íñigo,player_197314,Lekue,2,7,174,21,5,0.0,3.0,0.0
-351,Real Sociedad,,player_197316,Álex Remiro,1,14,188,10,5.8,0.0,3.0,0.8
-352,Bilbao,Yeray,player_197319,Álvarez,2,19,174,20,4.5,0.0,3.0,0.2
-353,Bilbao,Mikel,player_197326,Vesga,3,11,174,31,4.0,0.0,3.0,0.2
-354,Bilbao,Iñaki,player_197334,Williams,4,18,174,40,4.5,0.0,3.0,0.4
-355,Getafe,Nemanja,player_198499,Maksimovic,3,15,1450,31,5.5,0.0,3.0,0.6000000000000001
-356,Getafe,Álvaro,player_198520,Jiménez,4,1,1450,40,-,0.0,3.0,0.0
-357,Elche,,player_199195,Josan,3,9,954,32,4.8,0.0,3.0,0.4
-358,Eibar,Álvaro,player_199244,Tejero,2,5,953,21,5.0,0.0,3.0,0.2
-359,Real Madrid,Borja,player_199248,Mayoral,4,18,186,40,4,0.0,3.0,0.0
-360,Getafe,Jack,player_199252,Harper,4,3,1450,40,-,0.0,3.0,0.0
-361,Getafe,Marcos,player_199253,Lavin,1,1,1450,10,-,0.0,3.0,0.0
-362,Cadix,,player_199254,Luismi Quezada,2,3,1737,21,-,0.0,3.0,0.0
-363,Valladolid,,player_199259,Javi Sánchez,2,5,192,20,5.0,0.0,3.0,0.4
-364,Granada,,player_200599,Domingos Duarte,2,13,5683,20,4.5,0.0,3.0,0.6000000000000001
-365,Barcelona,,player_200910,Matheus Fernandes,3,6,178,31,-,0.0,3.0,0.0
-366,Real Sociedad,Aritz,player_200957,Elustondo,2,10,188,20,5.0,0.0,3.0,0.8
-367,Real Madrid,Álvaro,player_201172,Odriozola,2,5,186,21,5.0,0.0,3.0,0.2
-368,Real Sociedad,Martín,player_201177,Merquelanz,4,3,188,40,-,0.0,3.0,0.0
-369,Real Sociedad,Jon,player_201178,Guridi,3,3,188,32,-,0.0,3.0,0.0
-370,Real Sociedad,Luca,player_201179,Sangalli,3,3,188,32,-,0.0,3.0,0.0
-371,Real Sociedad,Jon,player_201182,Bautista,4,5,188,40,4.3,0.0,3.0,0.0
-372,Villarreal,Ramiro,player_201221,Guerra,3,1,449,31,-,0.0,3.0,0.0
-373,Elche,Jeison,player_201302,Lucumí,4,10,954,40,-,0.0,3.0,0.0
-374,Elche,Gonzalo,player_201550,Verdú,2,10,954,20,4.8,0.0,3.0,0.4
-375,Betis,Borja,player_202044,Iglesias,4,13,185,40,4.0,0.0,3.0,0.4
-376,Villarreal,Pervis,player_204214,Estupiñán,2,12,449,21,4.8,0.0,3.0,0.4
-377,Osasuna,,player_205992,Chimy Avila,4,13,450,40,-,0.0,3.0,0.0
-378,Real Madrid,Ferland,player_206255,Mendy,2,23,186,21,4.8,0.0,3.0,0.4
-379,Cadix,Jorge,player_206342,Pombo,4,7,1737,40,5.8,1.0,3.0,0.6000000000000001
-380,Valencia,Mouctar,player_208135,Diakhaby,2,8,191,20,5.0,0.0,3.0,0.6000000000000001
-381,Villarreal,Alfonso,player_208380,Pedraza,2,9,449,21,4.8,0.0,3.0,0.4
-382,Atlético,Ivan,player_208639,Saponjic,4,3,175,40,-,0.0,3.0,0.0
-383,Osasuna,,player_208765,Juan Pérez,1,3,450,10,-,0.0,3.0,0.0
-384,Barcelona,Frenkie,player_209712,de Jong,3,20,178,31,6.8,0.0,3.0,0.4
-385,Celta,Joseph,player_210171,Aidoo,2,11,176,21,5.1,0.0,3.0,0.8
-386,Valladolid,Sekou,player_210204,Gassama,4,3,192,40,-,0.0,3.0,0.0
-387,Getafe,Filip,player_210226,Manojlovic,1,1,1450,10,-,0.0,3.0,0.0
-388,Barcelona,,player_210341,Iñaki Peña,1,1,178,10,-,0.0,3.0,0.0
-389,Alavés,Jeando,player_210370,Fuchs,3,3,173,31,-,0.0,3.0,0.0
-390,Cadix,Jean-Pierre,player_212691,Rhyner,2,3,1737,20,-,0.0,3.0,0.0
-391,Bilbao,Unai,player_212769,Simón,1,18,174,10,4.5,0.0,3.0,0.6000000000000001
-392,Bilbao,Asier,player_212770,Villalibre,4,14,174,40,4.2,0.0,3.0,0.0
-393,Cadix,,player_213118,Fali,2,10,1737,20,5.2,0.0,3.0,0.2
-394,Atlético,Mario,player_213431,Hermoso,2,8,175,20,5.0,0.0,3.0,0.2
-395,Cadix,David,player_213835,Carmona,2,7,1737,21,-,0.0,3.0,0.0
-396,Cadix,José Joaquín,player_213838,Matos,2,3,1737,21,-,0.0,3.0,0.0
-397,Getafe,Mathías,player_214966,Olivera,2,8,1450,21,5.7,0.0,3.0,0.6000000000000001
-398,Valencia,,player_215206,Maxi Gómez,4,21,191,40,6.0,3.0,3.0,0.8
-399,Bilbao,Iñigo,player_215684,Córdoba,3,12,174,32,5,0.0,3.0,0.0
-400,Eibar,Roberto,player_216474,Olabe,3,1,953,32,-,0.0,3.0,0.0
-401,Real Sociedad,Igor,player_216475,Zubeldia,3,12,188,31,4.5,0.0,3.0,0.2
-402,Cadix,Mamady,player_218239,Diarra,4,1,1737,40,-,0.0,3.0,0.0
-403,Villarreal,Samuel,player_218328,Chukwueze,3,20,449,32,5.1,0.0,3.0,0.6000000000000001
-404,Huesca,Kelechi,player_218331,Nwakali,3,3,2894,32,5,0.0,3.0,0.0
-405,Real Madrid,,player_218449,Eder Militão,2,8,186,20,-,0.0,3.0,0.0
-406,Sevilla,Joris,player_218705,Gnagnon,2,4,179,20,-,0.0,3.0,0.0
-407,Levante,Eliseo,player_218772,Falcón,2,1,855,20,-,0.0,3.0,0.0
-408,Granada,Yan,player_218774,Eteki,3,11,5683,31,5,0.0,3.0,0.0
-409,Sevilla,Genaro,player_218776,Rodríguez,3,1,179,31,-,0.0,3.0,0.0
-410,Real Sociedad,Mikel,player_219000,Oyarzabal,3,30,188,32,5.1,0.0,3.0,0.4
-411,Real Sociedad,Alexander,player_219168,Isak,4,20,188,40,4.4,0.0,3.0,0.8
-412,Villarreal,Takefusa,player_219271,Kubo,3,13,449,32,5,0.0,3.0,0.0
-413,Barcelona,Ousmane,player_219438,Dembélé,4,9,178,40,5,0.0,3.0,0.0
-414,Huesca,,player_219717,Javi Galán,2,12,2894,21,5.1,0.0,3.0,0.8
-415,Elche,Ramón,player_219853,Folch,3,10,954,31,5,0.0,3.0,0.0
-416,Huesca,Javier,player_219855,Ontiveros,3,10,2894,32,5,0.0,3.0,0.0
-417,Huesca,,player_219929,Rafa Mir,4,14,2894,40,4.8,0.0,3.0,0.6000000000000001
-418,Celta,Emre,player_220046,Mor,4,6,176,40,4.6,0.0,3.0,0.8
-419,Alavés,Aritz,player_220060,Castro,1,3,173,10,-,0.0,3.0,0.0
-420,Levante,,player_220093,Rober Pier,2,5,855,20,3.0,0.0,3.0,0.2
-421,Valladolid,Joaquín,player_220122,Fernández,2,10,192,20,5.0,0.0,3.0,0.4
-422,Elche,,player_220123,Josema,2,7,954,20,5.3,0.0,3.0,0.4
-423,Sevilla,Jules,player_220325,Koundé,2,14,179,20,5.5,0.0,3.0,0.2
-424,Valencia,,player_221306,Toni Lato,2,13,191,21,5,0.0,3.0,0.0
-425,Valencia,,player_221511,Manu Vallejo,4,7,191,40,4.9,2.0,3.0,0.2
-426,Huesca,Jonathan,player_221534,Toro,3,3,2894,32,-,0.0,3.0,0.0
-427,Barcelona,,player_222564,Trincão,3,6,178,32,4.5,0.0,3.0,0.0
-428,Valencia,,player_222629,Thierry Correia,2,3,191,21,5.3,0.0,3.0,0.2
-429,Real Madrid,Federico,player_223255,Valverde,3,20,186,31,6.2,1.0,3.0,0.4
-430,Barcelona,Konrad,player_223348,De la Fuente,3,1,178,32,-,0.0,3.0,0.0
-431,Sevilla,Óscar,player_223757,Rodríguez,3,20,179,32,5,0.0,3.0,0.0
-432,Cadix,Djordje,player_223759,Jovanovic,4,3,1737,40,-,0.0,3.0,0.0
-433,Huesca,,player_223762,Jaime Seoane,3,4,2894,31,5.5,0.0,3.0,0.4
-434,Levante,,player_223770,Dani Gómez,4,3,855,40,4.3,0.0,3.0,0.0
-435,Betis,Diego,player_224389,Lainez,3,8,185,32,5,0.0,3.0,0.0
-436,Valencia,Vicente,player_224438,Esquerdo,3,3,191,32,5.0,0.0,3.0,0.4
-437,Valencia,Carlos,player_224860,Soler,3,13,191,32,-,0.0,3.0,0.0
-438,Real Sociedad,Robin,player_224919,Le Normand,2,11,188,20,5.3,0.0,3.0,0.6000000000000001
-439,Real Madrid,Andriy,player_224965,Lunin,1,7,186,10,-,0.0,3.0,0.0
-440,Getafe,Amath,player_225463,Ndiaye,4,5,1450,40,-,0.0,3.0,0.0
-441,Cadix,,player_226111,Marcos Mauro,2,5,1737,20,4.5,0.0,3.0,0.6000000000000001
-442,Granada,Yangel,player_226541,Herrera,3,14,5683,31,5.2,1.0,3.0,0.6000000000000001
-443,Valencia,Uros,player_228611,Racic,3,5,191,31,5.8,0.0,3.0,0.2
-444,Valladolid,,player_230029,Luis Pérez,2,1,192,21,5.0,0.0,3.0,0.2
-445,Cadix,Saturday,player_230165,Erimuya,2,1,1737,20,-,0.0,3.0,0.0
-446,Granada,,player_230567,Andorinha,1,3,5683,10,-,0.0,3.0,0.0
-447,Osasuna,,player_230598,Nacho Vidal,2,13,450,21,4.7,0.0,3.0,0.4
-448,Eibar,,player_231187,José Antonio Martínez,2,9,953,20,-,0.0,3.0,0.0
-449,Atlético,,player_233420,Renan Lodi,2,12,175,21,5.3,0.0,3.0,0.4
-450,Alavés,,player_234373,Rafa Navarro,2,1,173,21,-,0.0,3.0,0.0
-451,Celta,,player_234511,Fran Beltrán,3,10,176,31,5.3,0.0,3.0,0.4
-452,Sevilla,Alejandro,player_234548,Pozo,2,9,179,21,-,0.0,3.0,0.0
-453,Celta,Iván,player_234580,Villar,1,7,176,10,5.1,0.0,3.0,0.8
-454,Sevilla,Youssef,player_234991,En-Nesyri,4,10,179,40,5.3,1.0,3.0,0.2
-455,Real Sociedad,Andoni,player_235227,Gorosabel,2,10,188,21,5.1,0.0,3.0,0.8
-456,Villarreal,,player_240071,Dani Raba,3,9,449,32,-,0.0,3.0,0.0
-457,Huesca,,player_240796,Álvaro Fernández,1,1,2894,10,-,0.0,3.0,0.0
-458,Getafe,Ante,player_240995,Palaversa,3,9,1450,31,5,0.0,3.0,0.0
-459,Levante,Jorge,player_241153,de Frutos,3,3,855,32,4.8,0.0,3.0,0.0
-460,Betis,,player_241157,Emerson,2,13,185,21,4.8,0.0,3.0,0.6000000000000001
-461,Valladolid,Jawad,player_241276,El Yamiq,2,9,192,20,5,0.0,3.0,0.0
-462,Sevilla,José,player_241689,Mena,3,1,179,32,-,0.0,3.0,0.0
-463,Valladolid,,player_241865,Kike Pérez,3,6,192,32,5.3,0.0,3.0,0.2
-464,Bilbao,Gaizka,player_242260,Larrazabal,3,4,174,32,-,0.0,3.0,0.0
-465,Valladolid,,player_242290,Toni Villa,3,10,192,32,4.8,0.0,3.0,0.2
-466,Valladolid,Oriol,player_242310,Rey,3,1,192,31,-,0.0,3.0,0.0
-467,Barcelona,,player_242312,Monchu,3,1,178,31,-,0.0,3.0,0.0
-468,Barcelona,Óscar,player_242313,Mingueza,2,1,178,20,-,0.0,3.0,0.0
-469,Barcelona,Álex,player_242315,Collado,3,1,178,32,-,0.0,3.0,0.0
-470,Barcelona,,player_242317,Dani Morer,2,1,178,21,-,0.0,3.0,0.0
-471,Granada,Unai,player_242829,Etxebarria,1,1,5683,10,-,0.0,3.0,0.0
-472,Bilbao,Unai,player_242830,Núñez,2,9,174,20,4.8,0.0,3.0,0.4
-473,Bilbao,Peru,player_242831,Nolaskoain,3,5,174,31,-,0.0,3.0,0.0
-474,Bilbao,Iñigo,player_242833,Vicente,3,1,174,32,5,0.0,3.0,0.0
-475,Alavés,,player_244337,Tachi,2,3,173,20,-,0.0,3.0,0.0
-476,Osasuna,Marc,player_244363,Cardona,4,9,450,40,4.5,0.0,3.0,0.0
-477,Levante,,player_244636,Son,2,5,855,21,5.0,0.0,3.0,0.2
-478,Getafe,Darío,player_244690,Poveda,4,1,1450,40,-,0.0,3.0,0.0
-479,Getafe,,player_244716,Cucho Hernández,4,13,1450,40,4.8,0.0,3.0,0.6000000000000001
-480,Valencia,Yunus,player_244847,Musah,3,1,191,32,5.3,0.0,3.0,0.6000000000000001
-481,Villarreal,,player_244954,Pau Torres,2,15,449,20,4.9,0.0,3.0,0.8
-482,Bilbao,Oier,player_245018,Zarraga,3,1,174,32,-,0.0,3.0,0.0
-483,Alavés,Martín,player_246162,Aguirregabiria,2,11,173,21,5,0.0,3.0,0.0
-484,Valladolid,,player_246214,Samu Pérez,1,1,192,10,-,0.0,3.0,0.0
-485,Barcelona,Jorge,player_246301,Cuenca,2,1,178,20,-,0.0,3.0,0.0
-486,Real Madrid,,player_246333,Vinícius Júnior,4,20,186,40,5.8,1.0,3.0,0.2
-487,Villarreal,,player_248501,Álex Baena,3,1,449,32,-,0.0,3.0,0.0
-488,Atlético,Victor,player_248505,Mollejo,4,1,175,40,-,0.0,3.0,0.0
-489,Atlético,Sergio,player_248507,Camello,4,3,175,40,-,0.0,3.0,0.0
-490,Valladolid,Gaizka,player_251005,Campos,1,2,192,10,-,0.0,3.0,0.0
-491,Eibar,,player_420909,Edu Expósito,3,20,953,32,4.6,0.0,3.0,0.8
-492,Valladolid,,player_421294,Marcos de Sousa,4,3,192,40,4.3,0.0,3.0,0.0
-493,Granada,Neyder,player_422128,Lozano,2,3,5683,20,-,0.0,3.0,0.0
-494,Huesca,,player_424755,Dani Escriche,4,7,2894,40,4,0.0,3.0,0.0
-495,Atlético,,player_428399,João Félix,4,15,175,40,7.0,1.0,3.0,0.4
-496,Levante,Giorgi,player_428798,Kochorashvili,3,1,855,31,-,0.0,3.0,0.0
-497,Elche,,player_429644,Tete Morente,3,12,954,32,5.3,0.0,3.0,0.4
-498,Huesca,Antonio,player_429707,Valera,1,1,2894,10,-,0.0,3.0,0.0
-499,Betis,David,player_431229,Ramos,3,1,185,32,-,0.0,3.0,0.0
-500,Real Sociedad,Ander,player_431644,Guevara,3,3,188,31,5.2,0.0,3.0,0.4
-501,Betis,,player_432751,Loren Morón,4,15,185,40,4.5,0.0,3.0,0.0
-502,Betis,,player_432757,Francis,2,3,185,21,-,0.0,3.0,0.0
-503,Barcelona,Ludovit,player_433051,Reis,3,1,178,31,-,0.0,3.0,0.0
-504,Barcelona,Juan,player_433530,Miranda,2,1,178,21,-,0.0,3.0,0.0
-505,Eibar,Miguel Ángel,player_434631,Atienza,3,3,953,31,5,0.0,3.0,0.0
-506,Sevilla,,player_434638,Felipe Chacartegui,2,1,179,21,-,0.0,3.0,0.0
-507,Levante,Gonzalo,player_434701,Pereira,2,1,855,20,-,0.0,3.0,0.0
-508,Alavés,Luis,player_434941,Rioja,4,8,173,40,4.5,0.0,3.0,0.6000000000000001
-509,Betis,,player_435090,Dani Martín,1,7,185,10,-,0.0,3.0,0.0
-510,Valladolid,Shon,player_435679,Weissman,4,12,192,40,4.2,0.0,3.0,0.2
-511,Sevilla,Alfonso,player_436216,Pastor,1,1,179,10,-,0.0,3.0,0.0
-512,Sevilla,,player_436225,José Lara,3,1,179,31,-,0.0,3.0,0.0
-513,Sevilla,Bryan,player_436234,Gil,4,6,179,40,4.5,0.0,3.0,0.0
-514,Villarreal,Miguel Angel,player_437385,Leal,2,1,449,21,-,0.0,3.0,0.0
-515,Valencia,Hugo,player_437460,Guillamón,2,8,191,20,5.3,0.0,3.0,0.4
-516,Huesca,Sergio,player_437468,Gómez,3,10,2894,32,4.5,0.0,3.0,0.0
-517,Atlético,Álvaro,player_437471,García,2,3,175,21,-,0.0,3.0,0.0
-518,Bilbao,Jesús,player_437549,Areso,2,1,174,21,-,0.0,3.0,0.0
-519,Barcelona,,player_437765,Riqui Puig,3,10,178,31,-,0.0,3.0,0.0
-520,Celta,Miguel,player_437803,Baeza,3,1,176,32,4.9,0.0,3.0,0.0
-521,Real Madrid,Adrián,player_437808,De la Fuente,2,1,186,20,-,0.0,3.0,0.0
-522,Huesca,Joaquín,player_437831,Muñoz,4,1,2894,40,4.7,0.0,3.0,0.0
-523,Atlético,Rodrigo,player_437834,Riquelme,3,1,175,32,-,0.0,3.0,0.0
-524,Real Sociedad,Modibo,player_438022,Sagnan,2,3,188,20,-,0.0,3.0,0.0
-525,Huesca,Juan,player_438206,Peñaloza,4,1,2894,40,-,0.0,3.0,0.0
-526,Osasuna,,player_439346,Kike Saverio,4,3,450,40,-,0.0,3.0,0.0
-527,Atlético,Miguel,player_439595,San Román,1,1,175,10,-,0.0,3.0,0.0
-528,Granada,Antonio,player_439598,Montoro,2,1,5683,20,-,0.0,3.0,0.0
-529,Bilbao,Unai,player_439768,Vencedor,3,3,174,31,5,0.0,3.0,0.0
-530,Bilbao,,player_439771,Ander Iru,1,1,174,10,-,0.0,3.0,0.0
-531,Bilbao,Oihan,player_439772,Sancet,3,12,174,32,5,0.0,3.0,0.0
-532,Osasuna,Asier,player_439776,Córdoba,3,1,450,32,-,0.0,3.0,0.0
-533,Celta,Sergio,player_439871,Carreira,2,1,176,21,-,0.0,3.0,0.0
-534,Real Madrid,Diego,player_440014,Altube,1,3,186,10,-,0.0,3.0,0.0
-535,Real Madrid,,player_440077,Rodrygo,4,9,186,40,5.5,0.0,3.0,0.2
-536,Valladolid,,player_440673,Moctar Sidi El Hacen,3,1,192,31,-,0.0,3.0,0.0
-537,Atlético,Nehuen,player_441052,Pérez,2,3,175,20,-,0.0,3.0,0.0
-538,Betis,Aitor,player_441303,Ruibal,3,8,185,32,4.5,0.0,3.0,0.0
-539,Cadix,Sergio,player_441313,González,3,10,1737,31,4.0,0.0,3.0,0.2
-540,Valladolid,Roberto,player_442151,Corral,2,1,192,21,-,0.0,3.0,0.0
-541,Valladolid,Miguel,player_442157,De la Fuente,4,3,192,40,-,0.0,3.0,0.0
-542,Valladolid,Álvaro,player_442291,Aguado,3,1,192,32,-,0.0,3.0,0.0
-543,Valencia,Cristian,player_442819,Rivero,1,1,191,10,-,0.0,3.0,0.0
-544,Valladolid,Chris,player_442838,Ramos,4,1,192,40,-,0.0,3.0,0.0
-545,Valladolid,Waldo,player_443761,Rubio,3,8,192,32,4.7,0.0,3.0,0.6000000000000001
-546,Barcelona,Junior,player_443967,Firpo,2,8,178,21,-,0.0,3.0,0.0
-547,Barcelona,Ronald,player_445087,Araújo,2,5,178,20,5.5,0.0,3.0,0.0
-548,Levante,Pablo,player_445998,Martínez,3,2,855,31,-,0.0,3.0,0.0
-549,Real Sociedad,Andoni,player_446306,Zubiaurre,1,7,188,10,-,0.0,3.0,0.0
-550,Barcelona,,player_447213,Jandro Orellana,3,1,178,31,-,0.0,3.0,0.0
-551,Barcelona,Arnau,player_449924,Tenas,1,1,178,10,-,0.0,3.0,0.0
-552,Real Sociedad,Jon,player_449931,Pacheco Dozagarat,2,4,188,20,-,0.0,3.0,0.0
-553,Betis,Daniel,player_449993,Rebollo,1,1,185,10,-,0.0,3.0,0.0
-554,Valencia,,player_451358,Lee Kang-In,3,5,191,32,5.3,0.0,3.0,0.6000000000000001
-555,Sevilla,,player_451787,Javi Díaz,1,1,179,10,-,0.0,3.0,0.0
-556,Osasuna,,player_454317,Enric Gallego,4,14,450,40,4,0.0,3.0,0.0
-557,Valencia,,player_454883,Álex Centelles,2,3,191,21,-,0.0,3.0,0.0
-558,Valencia,,player_458259,Álex Blanco,3,1,191,32,5.0,0.0,3.0,0.2
-559,Levante,Joan,player_459601,Monterde,4,3,855,40,-,0.0,3.0,0.0
-560,Levante,,player_459602,Fran Manzanara,2,1,855,20,-,0.0,3.0,0.0
-561,Elche,Claudio,player_459921,Medina,4,8,954,40,-,0.0,3.0,0.0
-562,Real Sociedad,Roberto,player_460265,Navarro,3,1,188,32,-,0.0,3.0,0.0
-563,Osasuna,Endika,player_463056,Irigoyen,2,1,450,21,-,0.0,3.0,0.0
-564,Osasuna,,player_463057,Javi Martínez,3,3,450,32,-,0.0,3.0,0.0
-565,Real Madrid,,player_463163,Javi Hernández,2,1,186,20,-,0.0,3.0,0.0
-566,Granada,Alberto,player_463182,Soro,3,5,5683,32,4.5,0.0,3.0,0.0
-567,Osasuna,Jorge,player_463784,Herrando,2,1,450,20,-,0.0,3.0,0.0
-568,Elche,Lluis,player_464442,Andreu,1,6,954,10,-,0.0,3.0,0.0
-569,Levante,Rubén,player_464558,García,2,1,855,21,-,0.0,3.0,0.0
-570,Alavés,Sergi,player_464899,García,3,1,173,32,5,0.0,3.0,0.0
-571,Atlético,Manuel,player_465494,Sánchez,2,5,175,21,-,0.0,3.0,0.0
-572,Atlético,Ricard,player_465495,Sánchez,2,1,175,21,-,0.0,3.0,0.0
-573,Barcelona,,player_465607,Ansu Fati,4,12,178,40,7.8,3.0,3.0,0.4
-574,Barcelona,,player_465689,Ilaix Moriba,3,1,178,31,-,0.0,3.0,0.0
-575,Valencia,Guillem,player_466042,Molina,2,1,191,20,-,0.0,3.0,0.0
-576,Real Madrid,,player_466072,Marvin Park,3,4,186,32,5,0.0,3.0,0.0
-577,Real Sociedad,Näis,player_466464,Djouahra,3,3,188,32,-,0.0,3.0,0.0
-578,Villarreal,Andrei,player_466543,Ratiu,2,1,449,21,-,0.0,3.0,0.0
-579,Bilbao,Jon,player_466558,Morcillo,3,1,174,32,4.5,0.0,3.0,0.6000000000000001
-580,Valencia,Pablo,player_467005,Gozálbez,3,1,191,31,-,0.0,3.0,0.0
-581,Atlético,German,player_467020,Valera,4,1,175,40,-,0.0,3.0,0.0
-582,Real Sociedad,Roberto,player_467063,López,4,1,188,40,5.5,2.0,3.0,0.2
-583,Real Sociedad,Ander,player_471138,Barrenetxea,3,8,188,32,4.4,0.0,3.0,0.6000000000000001
-584,Real Sociedad,Aihen,player_472145,Muñoz,2,7,188,21,5.0,0.0,3.0,0.6000000000000001
-585,Granada,Carlos,player_472148,Neva,2,12,5683,21,5.8,0.0,3.0,0.4
-586,Betis,Paul,player_475177,Akouokou,3,3,185,31,5,0.0,3.0,0.0
-587,Osasuna,Jon,player_477463,Moncayola,3,10,450,31,4.7,0.0,3.0,0.6000000000000001
-588,Elche,,player_478954,Nacho Ramón,4,8,954,40,-,0.0,3.0,0.0
-589,Real Sociedad,Martín,player_481655,Zubimendi,3,7,188,31,5.0,0.0,3.0,0.2
-590,Alavés,Paulino,player_483881,De la Fuente,3,3,173,32,-,0.0,3.0,0.0
-591,Alavés,Javier,player_484406,López,2,1,173,21,4.3,0.0,3.0,0.0
-592,Osasuna,Iñaki,player_484701,Álvarez,1,1,450,10,-,0.0,3.0,0.0
-593,Osasuna,Aimar,player_484702,Oroz,3,3,450,32,-,0.0,3.0,0.0
-594,Elche,Luis,player_484704,Castillo,1,1,954,10,-,0.0,3.0,0.0
-595,Elche,Cesar,player_485211,Moreno,3,7,954,31,-,0.0,3.0,0.0
-596,Granada,,player_485215,Isma Ruiz,3,1,5683,31,-,0.0,3.0,0.0
-597,Valencia,Koba,player_485339,Koindredi,3,1,191,31,-,0.0,3.0,0.0
-598,Barcelona,Santiago,player_488287,Ramos Mingo,2,3,178,20,-,0.0,3.0,0.0
-599,Eibar,Ekhi,player_488527,Bravo,4,1,953,40,-,0.0,3.0,0.0
-600,Real Sociedad,Aritz,player_490310,Arambarri,2,1,188,20,-,0.0,3.0,0.0
-601,Cadix,Juan,player_490316,Flere,1,1,1737,10,-,0.0,3.0,0.0
-602,Barcelona,,player_490541,Pedri,3,3,178,32,5,0.0,3.0,0.0
-603,Celta,Iker,player_490726,Losada,4,2,176,40,-,0.0,3.0,0.0
-604,Alavés,Borja,player_490799,Sainz,3,9,173,32,4.8,0.0,3.0,0.2
-605,Betis,,player_490859,Raul García,4,1,185,40,-,0.0,3.0,0.0
-606,Osasuna,Jose Javier,player_490860,Hualde,3,1,450,32,-,0.0,3.0,0.0
-607,Celta,José Manuel,player_490862,Fontán,2,1,176,21,4.5,0.0,3.0,0.2
-608,Celta,Iago,player_490863,Domínguez,1,1,176,10,-,0.0,3.0,0.0
-609,Celta,Brais,player_490864,Rodríguez,1,1,176,10,-,0.0,3.0,0.0
-610,Eibar,Sergio,player_490865,Cubero,2,1,953,21,-,0.0,3.0,0.0
-611,Getafe,Florent,player_490866,Poulolo,3,1,1450,31,-,0.0,3.0,0.0
-612,Elche,Alberto,player_490872,Rubio,3,3,954,32,-,0.0,3.0,0.0
-613,Elche,Mourad,player_490873,El Ghezouani,4,6,954,40,-,0.0,3.0,0.0
-614,Betis,Rodrigo,player_491430,Sánchez,3,1,185,32,-,0.0,3.0,0.0
-615,Levante,Daniel,player_491436,Cárdenas,1,1,855,10,-,0.0,3.0,0.0
-616,Eibar,Unai,player_491955,Dufur,2,1,953,20,-,0.0,3.0,0.0
-617,Eibar,Eñaut,player_491960,Mendía,4,1,953,40,-,0.0,3.0,0.0
-618,Alavés,Abdallahi,player_492142,Mahmoud,3,3,173,31,3.5,0.0,3.0,0.2
-619,Real Madrid,,player_493344,Sergio Arribas,3,3,186,32,5,0.0,3.0,0.0
-620,Alavés,Ismael,player_493599,Gutiérrez,3,3,173,32,-,0.0,3.0,0.0
-621,Granada,,player_493690,Antoñin,4,8,5683,40,-,0.0,3.0,0.0
-622,Granada,Antonio,player_494017,Aranda,3,1,5683,32,-,0.0,3.0,0.0
-623,Levante,,player_494571,Álex Blesa,3,3,855,31,-,0.0,3.0,0.0
-624,Sevilla,,player_494928,Juanlu Sanchez,3,1,179,32,-,0.0,3.0,0.0
-625,Celta,Miguel,player_494932,Rodriguez,4,1,176,40,-,0.0,3.0,0.0
-626,Real Sociedad,Julen,player_495392,Lobete,4,2,188,40,-,0.0,3.0,0.0
-627,Elche,,player_495393,Nacho Pastor,2,7,954,20,-,0.0,3.0,0.0
-628,Cadix,Marc,player_499093,Baró,2,1,1737,21,-,0.0,3.0,0.0
-629,Granada,,player_500697,Pepe Sanchez,2,1,5683,21,-,0.0,3.0,0.0
-630,Betis,Ángel,player_500807,Baena,3,1,185,32,-,0.0,3.0,0.0
-631,Elche,,player_501671,Jony Álamo,4,4,954,40,-,0.0,3.0,0.0
-632,Villarreal,Fernando,player_502290,Niño,4,7,449,40,4.5,0.0,3.0,0.0
-633,Cadix,,player_502666,Kike Carrasco,3,1,1737,32,-,0.0,3.0,0.0
-634,Sevilla,Pablo,player_504804,Pérez Rico,2,1,179,21,-,0.0,3.0,0.0
-635,Elche,,player_508462,Diego Bri,4,7,954,40,-,0.0,3.0,0.0
-636,Elche,Gerard,player_508463,Barri,2,2,954,21,-,0.0,3.0,0.0
-637,Huesca,Kevin,player_509201,Omoruyi,4,1,2894,40,-,0.0,3.0,0.0
-638,Real Sociedad,Jérémy,player_513942,Blasco,2,1,188,20,-,0.0,3.0,0.0
-639,Villarreal,,player_513948,Lanchi,2,2,449,21,-,0.0,3.0,0.0
-640,Celta,Gabriel,player_514189,Veiga,3,1,176,32,4.5,0.0,3.0,0.2
-641,Real Sociedad,Urko,player_514204,Gonzalez,2,1,188,20,4.5,0.0,3.0,0.0
-642,Eibar,Unai,player_514206,Arietaleanizbeaskoa,4,1,953,40,4.5,0.0,3.0,0.0
-643,Alavés,,player_514474,Pepe Blanco,3,1,173,31,-,0.0,3.0,0.0
-644,Betis,,player_514476,Fran Delgado,2,1,185,21,-,0.0,3.0,0.0
-645,Betis,Geovanni,player_514477,Barba,2,1,185,20,-,0.0,3.0,0.0
-646,Elche,José,player_515611,Salinas,2,5,954,21,-,0.0,3.0,0.0
-647,Celta,Raúl,player_515619,Blanco,1,1,176,10,-,0.0,3.0,0.0
+0,Betis,,player_10316,Joaquín,3,14,185,32,5.3,0.0,3.0,0.56
+1,Real Sociedad,Miguel Ángel,player_16872,Moyá,1,7,188,10,-,0.0,3.0,0.0
+2,Sevilla,Jesús,player_17740,Navas,2,23,179,21,5.4,0.0,3.0,0.89
+3,Real Madrid,Sergio,player_17861,Ramos,2,31,186,20,5.8,2.0,3.0,0.78
+4,Granada,Roberto,player_17926,Soldado,4,15,5683,40,4.5,3.0,3.0,0.56
+5,Villarreal,Raúl,player_18003,Albiol,2,14,449,20,5.3,0.0,3.0,1.0
+6,Barcelona,Gerard,player_18221,Piqué,2,14,178,20,5.5,0.0,3.0,0.44
+7,Bilbao,,player_18498,Raúl García,4,15,174,40,4.8,1.0,3.0,0.61
+8,Barcelona,Lionel,player_19054,Messi,4,56,178,40,6.6,11.0,3.0,0.89
+9,Real Madrid,Karim,player_19927,Benzema,4,49,186,40,5.9,8.0,3.0,0.89
+10,Elche,Antonio,player_20399,Barragán,2,11,954,21,4.8,0.0,3.0,0.72
+11,Real Sociedad,David,player_20664,Silva,3,21,188,32,5.6,1.0,3.0,0.5
+12,Eibar,,player_27672,Pape Diop,3,10,953,31,5.1,0.0,3.0,0.67
+13,Betis,Claudio,player_33148,Bravo,1,13,185,10,5.2,0.0,3.0,0.5
+14,Sevilla,Ivan,player_34703,Rakitic,3,16,179,31,5.5,1.0,3.0,0.72
+15,Real Madrid,Luka,player_37055,Modric,3,32,186,32,5.8,3.0,3.0,0.8300000000000001
+16,Betis,Andrés,player_37064,Guardado,3,8,185,31,4.9,0.0,3.0,0.28
+17,Elche,,player_38101,Nino,4,7,954,40,4.5,0.0,3.0,0.0
+18,Celta,Sergio,player_38400,Álvarez,1,1,176,10,-,0.0,3.0,0.0
+19,Real Sociedad,,player_38411,Nacho Monreal,2,11,188,21,5.4,1.0,3.0,0.44
+20,Villarreal,Etienne,player_38439,Capoue,3,6,449,31,6.5,0.0,3.0,0.06
+21,Atlético,,player_39336,Luis Suárez,4,38,175,40,5.7,9.0,3.0,0.67
+22,Osasuna,Adrián,player_39498,López,4,6,450,40,4.4,1.0,3.0,0.22
+23,Real Madrid,,player_39563,Marcelo,2,7,186,21,4.8,0.0,3.0,0.33
+24,Celta,Iago,player_40270,Aspas,4,42,176,40,6.1,9.0,3.0,0.9400000000000001
+25,Valladolid,Roberto,player_40694,Jiménez,1,7,192,10,4.9,0.0,3.0,0.33
+26,Bilbao,Yuri,player_42670,Berchiche,2,24,174,21,5.5,0.0,3.0,0.8300000000000001
+27,Valencia,Kevin,player_42779,Gameiro,4,10,191,40,4.5,1.0,3.0,0.28
+28,Real Madrid,,player_42786,Eden Hazard,4,13,186,40,4.8,1.0,3.0,0.22
+29,Eibar,Pedro,player_42839,León,3,10,953,32,5.0,1.0,3.0,0.28
+30,Huesca,Pedro,player_42844,López,2,8,2894,21,5.2,0.0,3.0,0.39
+31,Cadix,Álvaro,player_42892,Negredo,4,11,1737,40,4.8,4.0,3.0,0.72
+32,Real Madrid,Toni,player_44989,Kroos,3,28,186,31,5.8,1.0,3.0,0.78
+33,Barcelona,Miralem,player_46696,Pjanic,3,12,178,31,5.3,0.0,3.0,0.17
+34,Villarreal,Sergio,player_48772,Asenjo,1,21,449,10,5.2,0.0,3.0,1.0
+35,Valladolid,Fabián,player_48854,Orellana,3,19,192,32,5.4,2.0,3.0,0.72
+36,Alavés,Víctor,player_49370,Laguardia,2,10,173,20,4.9,0.0,3.0,0.8300000000000001
+37,Huesca,,player_51792,Andrés Fernández,1,7,2894,10,4.8,0.0,3.0,0.61
+38,Sevilla,Tomás,player_51945,Vaclik,1,7,179,10,5.0,0.0,3.0,0.17
+39,Betis,Víctor,player_51948,Ruiz,2,10,185,20,4.7,0.0,3.0,0.44
+40,Villarreal,Daniel,player_51952,Parejo,3,24,449,32,6.0,2.0,3.0,0.89
+41,Barcelona,Jordi,player_52356,Alba,2,13,178,21,5.3,1.0,3.0,0.89
+42,Sevilla,,player_52538,Fernando,3,20,179,31,5.9,0.0,3.0,0.78
+43,Huesca,Dimitrios,player_53020,Siovas,2,12,2894,20,4.8,1.0,3.0,0.9400000000000001
+44,Sevilla,,player_53041,Luuk de Jong,4,13,179,40,4.6,2.0,3.0,0.39
+45,Betis,,player_53142,Sidnei,2,6,185,20,4.4,0.0,3.0,0.28
+46,Barcelona,,player_54104,Sergio Busquets,3,19,178,31,5.3,0.0,3.0,0.78
+47,Villarreal,Vicente,player_54513,Iborra,3,9,449,31,5.5,0.0,3.0,0.56
+48,Osasuna,Facundo,player_54794,Roncaglia,2,9,450,20,4.9,1.0,3.0,0.61
+49,Cadix,,player_54806,Augusto Fernández,3,5,1737,31,4.9,0.0,3.0,0.11
+50,Cadix,Álvaro,player_55175,Giménez,4,9,1737,40,4.6,2.0,3.0,0.17
+51,Levante,,player_55268,Coke,2,8,855,21,5.0,0.0,3.0,0.22
+52,Granada,Víctor,player_55315,Díaz,2,6,5683,21,4.4,0.0,3.0,0.06
+53,Alavés,,player_55378,Manu García,3,9,173,31,4.9,0.0,3.0,0.11
+54,Cadix,,player_55412,Juan Cala,2,10,1737,20,4.9,0.0,3.0,0.78
+55,Eibar,,player_56271,Quique González,4,5,953,40,4.4,0.0,3.0,0.0
+56,Getafe,Ángel,player_56419,Rodríguez,4,14,1450,40,4.7,5.0,3.0,0.39
+57,Betis,Sergio,player_56448,Canales,3,21,185,32,6.0,4.0,3.0,0.61
+58,Valencia,Daniel,player_56624,Wass,2,15,191,21,5.2,1.0,3.0,1.0
+59,Bilbao,Mikel,player_56680,Balenziaga,2,6,174,21,4.6,0.0,3.0,0.17
+60,Villarreal,Francis,player_56864,Coquelin,3,8,449,31,5.2,0.0,3.0,0.22
+61,Osasuna,Oier,player_56916,Sanjurjo,3,12,450,31,4.9,0.0,3.0,0.78
+62,Valencia,Eliaquim,player_57112,Mangala,2,6,191,20,4.9,0.0,3.0,0.22
+63,Elche,Iván,player_57400,Marcone,3,12,954,31,5.0,0.0,3.0,0.72
+64,Getafe,Xabier,player_58637,Etxeita,2,6,1450,20,4.6,0.0,3.0,0.33
+65,Villarreal,Jaume,player_58792,Costa,2,7,449,21,5,0.0,3.0,0.0
+66,Valladolid,,player_58819,Kiko Olivas,2,4,192,20,-,0.0,3.0,0.0
+67,Valladolid,,player_58876,Míchel,3,7,192,32,4.9,1.0,3.0,0.28
+68,Bilbao,Óscar,player_59062,De Marcos,2,10,174,21,5.1,0.0,3.0,0.28
+69,Eibar,,player_59140,Cote,2,4,953,21,-,0.0,3.0,0.0
+70,Cadix,Alberto,player_59339,Perea,3,11,1737,32,5.3,0.0,3.0,0.33
+71,Granada,Maxime,player_59963,Gonalons,3,13,5683,31,5.4,0.0,3.0,0.61
+72,Huesca,Pedro,player_60012,Mosquera,3,11,2894,31,4.9,0.0,3.0,1.0
+73,Real Madrid,Thibaut,player_60772,Courtois,1,22,186,10,5.4,0.0,3.0,1.0
+74,Real Madrid,,player_61256,Casemiro,3,30,186,31,5.7,3.0,3.0,0.72
+75,Alavés,,player_61316,Joselu,4,16,173,40,5.3,3.0,3.0,0.8300000000000001
+76,Eibar,,player_61597,Kike García,4,16,953,40,5.1,5.0,3.0,0.89
+77,Osasuna,,player_61814,Raúl Navas,2,4,450,20,3.5,0.0,3.0,0.11
+78,Sevilla,Sergio,player_62991,Escudero,2,7,179,21,5.4,1.0,3.0,0.11
+79,Huesca,Borja,player_63904,García,3,14,2894,32,5.2,1.0,3.0,0.72
+80,Atlético,Stefan,player_65807,Savic,2,16,175,20,5.5,0.0,3.0,0.78
+81,Getafe,Allan-Roméo,player_67527,Nyom,2,9,1450,21,4.9,0.0,3.0,0.78
+82,Cadix,Pedro,player_67759,Alcalá,2,6,1737,20,4.8,0.0,3.0,0.17
+83,Atlético,Sime,player_68353,Vrsaljko,2,7,175,21,4.8,0.0,3.0,0.11
+84,Barcelona,Martin,player_68690,Braithwaite,4,14,178,40,4.7,2.0,3.0,0.44
+85,Barcelona,,player_69752,Neto,1,7,178,10,5.3,0.0,3.0,0.33
+86,Osasuna,Rubén,player_71679,Martínez,1,9,450,10,3.7,0.0,3.0,0.17
+87,Sevilla,Nemanja,player_72154,Gudelj,3,10,179,31,5.2,0.0,3.0,0.17
+88,Valencia,Jasper,player_72162,Cillessen,1,1,191,10,-,0.0,3.0,0.0
+89,Real Sociedad,,player_73314,Willian José,4,10,188,40,5.1,3.0,3.0,0.44
+90,Bilbao,Iker,player_76012,Muniain,4,15,174,40,5.4,4.0,3.0,0.8300000000000001
+91,Celta,Hugo,player_76508,Mallo,2,11,176,21,4.5,1.0,3.0,0.8300000000000001
+92,Eibar,Yoel,player_76510,Rodríguez,1,7,953,10,-,0.0,3.0,0.0
+93,Granada,Jorge,player_76555,Molina,4,16,5683,40,4.6,3.0,3.0,0.39
+94,Huesca,Mikel,player_76558,Rico,3,14,2894,31,5.2,1.0,3.0,0.72
+95,Granada,Ángel,player_76597,Montoro,3,7,5683,32,5.6,1.0,3.0,0.39
+96,Villarreal,,player_76610,Mario Gaspar,2,11,449,21,5.2,0.0,3.0,0.78
+97,Barcelona,Antoine,player_76650,Griezmann,4,29,178,40,5.5,5.0,3.0,0.8300000000000001
+98,Huesca,Damián,player_76744,Musto,3,5,2894,31,-,0.0,3.0,0.0
+99,Levante,,player_77039,Toño,2,5,855,21,4.6,0.0,3.0,0.17
+100,Barcelona,Marc-André,player_77318,ter Stegen,1,16,178,10,5.4,0.0,3.0,0.67
+101,Alavés,Florian,player_77359,Lejeune,2,10,173,20,4.8,0.0,3.0,0.8300000000000001
+102,Atlético,,player_77390,Koke,3,20,175,32,5.5,0.0,3.0,0.78
+103,Atlético,Kieran,player_77794,Trippier,2,17,175,21,5.8,0.0,3.0,0.78
+104,Betis,Joel,player_78315,Robles,1,9,185,10,4.7,0.0,3.0,0.5
+105,Levante,Cheick,player_78323,Doukouré,3,1,855,31,-,0.0,3.0,0.0
+106,Huesca,Shinji,player_78412,Okazaki,4,13,2894,40,4.5,1.0,3.0,0.5
+107,Osasuna,,player_78874,Iñigo Pérez,3,9,450,31,4.9,0.0,3.0,0.67
+108,Sevilla,Aleix,player_79627,Vidal,3,7,179,32,4.9,0.0,3.0,0.11
+109,Real Madrid,,player_80209,Isco,3,7,186,32,5.0,0.0,3.0,0.17
+110,Betis,,player_80287,Juanmi,4,5,185,40,4.0,0.0,3.0,0.11
+111,Eibar,Sergi,player_80791,Enrich,4,8,953,40,4.4,1.0,3.0,0.17
+112,Getafe,Francisco,player_80795,Portillo,3,6,1450,32,5.0,0.0,3.0,0.11
+113,Valladolid,Raúl,player_80908,García,2,10,192,21,4.9,1.0,3.0,0.28
+114,Alavés,Tomás,player_80956,Pina,3,9,173,31,5.3,1.0,3.0,0.72
+115,Levante,Aitor,player_80993,Fernández,1,18,855,10,5.4,0.0,3.0,0.8300000000000001
+116,Betis,Marc,player_81138,Bartra,2,7,185,20,4.3,0.0,3.0,0.72
+117,Atlético,Jan,player_81352,Oblak,1,26,175,10,5.8,0.0,3.0,0.89
+118,Levante,Sergio,player_82418,León,4,11,855,40,4.4,1.0,3.0,0.06
+119,Alavés,John,player_82970,Guidetti,4,5,173,40,4.4,0.0,3.0,0.0
+120,Getafe,Abdoulaye,player_83330,Diaby,3,4,1450,32,4.5,0.0,3.0,0.0
+121,Elche,,player_83553,Fidel,3,19,954,32,5.4,4.0,3.0,0.78
+122,Eibar,Sergio,player_83578,Álvarez,3,9,953,31,4.9,0.0,3.0,0.56
+123,Real Sociedad,Asier,player_84086,Illarramendi,3,1,188,31,-,0.0,3.0,0.0
+124,Bilbao,Ibai,player_84471,Gómez,3,2,174,32,-,0.0,3.0,0.0
+125,Barcelona,,player_84583,Philippe Coutinho,3,17,178,32,5.4,2.0,3.0,0.44
+126,Osasuna,Darko,player_84700,Brasanac,3,10,450,31,4.9,1.0,3.0,0.11
+127,Valladolid,Jordi,player_86148,Masip,1,17,192,10,5.4,0.0,3.0,0.67
+128,Sevilla,Sergi,player_86151,Gómez,2,4,179,20,4.8,0.0,3.0,0.17
+129,Betis,Martín,player_86153,Montoya,2,5,185,21,4.6,0.0,3.0,0.11
+130,Barcelona,Sergi,player_86157,Roberto,2,12,178,21,6.1,1.0,3.0,0.39
+131,Levante,Rubén,player_86168,Rochina,3,13,855,32,5.4,0.0,3.0,0.5
+132,Betis,Cristian,player_86169,Tello,3,12,185,32,5.1,4.0,3.0,0.44
+133,Celta,,player_86173,Nolito,3,18,176,32,5.5,4.0,3.0,0.89
+134,Atlético,,player_86399,Vitolo,3,6,175,32,4.8,0.0,3.0,0.17
+135,Betis,Aissa,player_86813,Mandi,2,12,185,21,4.9,3.0,3.0,0.61
+136,Villarreal,,player_86876,Paco Alcácer,4,15,449,40,5.3,5.0,3.0,0.5
+137,Eibar,Anaitz,player_87026,Arbilla,2,9,953,20,4.8,0.0,3.0,0.67
+138,Eibar,,player_87499,Paulo Oliveira,2,9,953,20,5.0,0.0,3.0,0.61
+139,Granada,Germán,player_87661,Sánchez,2,14,5683,20,4.8,2.0,3.0,0.72
+140,Real Madrid,,player_88477,Nacho,2,7,186,20,5.2,0.0,3.0,0.39
+141,Cadix,,player_88479,Álex Fernández,3,13,1737,32,5.2,1.0,3.0,0.8300000000000001
+142,Real Madrid,Daniel,player_88483,Carvajal,2,11,186,21,5.6,0.0,3.0,0.5
+143,Valencia,Denis,player_88489,Cheryshev,3,11,191,32,5.4,0.0,3.0,0.44
+144,Real Sociedad,,player_88550,Portu,3,23,188,32,5.4,5.0,3.0,0.72
+145,Barcelona,Samuel,player_88580,Umtiti,2,5,178,20,5.3,0.0,3.0,0.06
+146,Huesca,Pablo,player_88621,Ínsua,2,6,2894,20,4.8,0.0,3.0,0.44
+147,Atlético,Geoffrey,player_88754,Kondogbia,3,9,175,31,5.3,0.0,3.0,0.28
+148,Huesca,Juan Carlos,player_88782,Real,3,5,2894,32,4.7,0.0,3.0,0.17
+149,Huesca,Jorge,player_88925,Pulido,2,10,2894,20,4.5,0.0,3.0,0.72
+150,Levante,José,player_88952,Campaña,3,15,855,31,5.6,1.0,3.0,0.44
+151,Alavés,Edgar,player_89215,Méndez,3,14,173,32,5.1,2.0,3.0,0.72
+152,Alavés,,player_89274,Jota,3,9,173,32,4.8,0.0,3.0,0.56
+153,Bilbao,Iago,player_89292,Herrerín,1,7,174,10,-,0.0,3.0,0.0
+154,Levante,Jorge,player_89334,Miramón,2,9,855,21,5.0,0.0,3.0,0.5
+155,Atlético,Saúl,player_89335,Ñíguez,3,15,175,31,5.2,1.0,3.0,0.39
+156,Osasuna,Aridane,player_89399,Hernández,2,9,450,20,5.1,0.0,3.0,0.61
+157,Cadix,Jon Ander,player_89542,Garrido,3,6,1737,31,4.8,0.0,3.0,0.06
+158,Alavés,Rodrigo,player_89551,Battaglia,3,9,173,31,4.9,0.0,3.0,0.89
+159,Celta,Denis,player_89572,Suárez,3,14,176,32,5.2,0.0,3.0,0.89
+160,Cadix,,player_89592,José Mari,3,5,1737,31,5.3,0.0,3.0,0.39
+161,Valladolid,,player_89850,Sergi Guardiola,4,11,192,40,4.5,1.0,3.0,0.56
+162,Real Madrid,Raphael,player_90152,Varane,2,29,186,20,5.5,0.0,3.0,0.9400000000000001
+163,Bilbao,Íñigo,player_90318,Martínez,2,15,174,20,5.1,0.0,3.0,0.9400000000000001
+164,Valladolid,,player_90394,Nacho,2,9,192,21,4.7,0.0,3.0,0.78
+165,Levante,Sergio,player_90400,Postigo,2,8,855,20,5.0,0.0,3.0,0.61
+166,Osasuna,Roberto,player_90402,Torres,3,18,450,32,5.4,4.0,3.0,0.61
+167,Getafe,David,player_90407,Timor,3,9,1450,31,4.8,0.0,3.0,0.33
+168,Huesca,David,player_90657,Ferreiro,3,15,2894,32,5.3,1.0,3.0,0.8300000000000001
+169,Alavés,,player_90728,Ximo Navarro,2,11,173,20,5.1,1.0,3.0,0.72
+170,Eibar,,player_91338,Recio,3,6,953,31,4.9,0.0,3.0,0.17
+171,Elche,Víctor,player_91373,Rodríguez,3,7,954,32,5.0,0.0,3.0,0.06
+172,Eibar,Pedro,player_91393,Bigas,2,10,953,20,4.6,0.0,3.0,0.72
+173,Alavés,Fernando,player_91406,Pacheco,1,21,173,10,5.4,0.0,3.0,1.0
+174,Elche,Juan,player_92084,Sánchez Miño,2,9,954,21,4.5,0.0,3.0,0.28
+175,Osasuna,,player_92190,Jony,3,7,450,32,4.9,0.0,3.0,0.33
+176,Osasuna,,player_93203,Juan Cruz,2,10,450,21,4.6,0.0,3.0,0.72
+177,Elche,,player_93283,Cifu,2,4,954,21,4.5,0.0,3.0,0.06
+178,Granada,,player_93335,Fede Vico,3,5,5683,32,4.8,0.0,3.0,0.06
+179,Alavés,Rodrigo,player_93421,Ely,2,8,173,20,4.9,1.0,3.0,0.33
+180,Villarreal,,player_93721,Gerard Moreno,4,40,449,40,6.0,10.0,3.0,0.89
+181,Elche,,player_93881,Diego Rodríguez,1,7,954,10,-,0.0,3.0,0.0
+182,Getafe,Leandro,player_93921,Chichizola,1,1,1450,10,-,0.0,3.0,0.0
+183,Osasuna,Ante,player_94273,Budimir,4,12,450,40,4.8,2.0,3.0,0.39
+184,Cadix,Filip,player_94547,Malbasic,4,8,1737,40,4.4,0.0,3.0,0.22
+185,Eibar,Marko,player_94618,Dmitrovic,1,18,953,10,5.4,0.0,3.0,1.0
+186,Cadix,,player_94756,Salvi Sánchez,3,9,1737,32,5.2,2.0,3.0,0.67
+187,Levante,Nikola,player_96093,Vukcevic,3,6,855,31,4.9,0.0,3.0,0.39
+188,Betis,,player_96122,William Carvalho,3,8,185,31,5.0,2.0,3.0,0.56
+189,Granada,Dimitri,player_96767,Foulquier,2,9,5683,21,4.5,0.0,3.0,0.78
+190,Valladolid,Rubén,player_96771,Alcaraz,3,11,192,31,5.0,0.0,3.0,0.56
+191,Valladolid,Óscar,player_96785,Plano,4,13,192,40,5.3,1.0,3.0,0.72
+192,Real Sociedad,Joseba,player_98821,Zaldua,2,7,188,21,4.9,0.0,3.0,0.17
+193,Osasuna,,player_98851,David García,2,12,450,20,4.9,1.0,3.0,0.9400000000000001
+194,Elche,Guido,player_98914,Carrillo,4,9,954,40,4.6,1.0,3.0,0.11
+195,Villarreal,,player_98961,Manu Trigueros,3,18,449,32,5.4,1.0,3.0,0.8300000000000001
+196,Valladolid,Bruno,player_98976,González,2,12,192,20,5.1,1.0,3.0,0.8300000000000001
+197,Getafe,,player_99005,Damián Suárez,2,11,1450,21,4.7,1.0,3.0,0.72
+198,Levante,Óscar,player_99128,Duarte,2,11,855,20,4.6,1.0,3.0,0.39
+199,Villarreal,,player_100059,Alberto Moreno,2,4,449,21,-,0.0,3.0,0.0
+200,Levante,Nemanja,player_100263,Radoja,3,8,855,31,5.0,0.0,3.0,0.28
+201,Sevilla,Franco,player_100731,Vázquez,3,5,179,32,4.9,0.0,3.0,0.0
+202,Celta,Néstor,player_100868,Araújo,2,11,176,20,4.7,0.0,3.0,0.67
+203,Celta,Okay,player_101394,Yokuslu,3,8,176,31,4.6,0.0,3.0,0.17
+204,Cadix,Jens,player_102002,Jonsson,3,12,1737,31,5.2,0.0,3.0,0.9400000000000001
+205,Atlético,Héctor,player_102578,Herrera,3,7,175,32,5.2,0.0,3.0,0.22
+206,Sevilla,Karim,player_103040,Rekik,2,4,179,20,5.0,0.0,3.0,0.06
+207,Eibar,Takashi,player_103263,Inui,3,11,953,32,5.1,1.0,3.0,0.89
+208,Huesca,,player_103844,Luisinho,2,5,2894,21,4.8,0.0,3.0,0.11
+209,Sevilla,,player_103953,Suso,3,12,179,32,5.2,2.0,3.0,0.56
+210,Cadix,Anthony,player_104448,Lozano,4,10,1737,40,4.9,3.0,3.0,0.5
+211,Elche,,player_105093,Luismi,3,5,954,31,4.8,0.0,3.0,0.11
+212,Celta,David,player_105488,Juncà,2,1,176,21,-,0.0,3.0,0.0
+213,Eibar,Damian,player_105564,Kadzior,3,5,953,32,4.5,0.0,3.0,0.11
+214,Betis,,player_106468,Álex Moreno,2,7,185,21,4.8,0.0,3.0,0.72
+215,Celta,,player_106539,Rubén Blanco,1,13,176,10,4.6,0.0,3.0,0.61
+216,Granada,,player_106671,Quini,2,9,5683,21,4.8,0.0,3.0,0.06
+217,Valladolid,Roque,player_106899,Mesa,3,9,192,31,4.9,0.0,3.0,0.33
+218,Villarreal,Gerónimo,player_106921,Rulli,1,7,449,10,-,0.0,3.0,0.0
+219,Celta,Jeison,player_107117,Murillo,2,12,176,20,4.5,0.0,3.0,0.89
+220,Real Madrid,Lucas,player_107593,Vázquez,3,16,186,32,5.5,2.0,3.0,0.72
+221,Celta,Kevin,player_107807,Vázquez,2,4,176,21,-,0.0,3.0,0.0
+222,Levante,Carlos,player_108145,Clerc,2,12,855,21,5.0,0.0,3.0,0.8300000000000001
+223,Huesca,Sandro,player_108438,Ramírez,4,9,2894,40,4.9,2.0,3.0,0.33
+224,Villarreal,,player_109243,Moi Gómez,3,16,449,32,5.4,1.0,3.0,0.78
+225,Eibar,,player_109262,Rober Correa,2,7,953,21,5.2,0.0,3.0,0.44
+226,Getafe,Jaime,player_109270,Mata,4,12,1450,40,4.6,3.0,3.0,0.56
+227,Levante,Roger,player_109702,Martí,4,17,855,40,5.0,5.0,3.0,0.61
+228,Getafe,Rubén,player_110713,Yáñez,1,11,1450,10,5.3,0.0,3.0,0.28
+229,Elche,Edgar,player_110923,Badia,1,18,954,10,5.7,0.0,3.0,0.89
+230,Granada,Darwin,player_111133,Machís,3,14,5683,32,5.5,2.0,3.0,0.61
+231,Osasuna,Lucas,player_111232,Torró,3,5,450,31,5.1,0.0,3.0,0.11
+232,Villarreal,Carlos,player_111274,Bacca,4,5,449,40,4.5,0.0,3.0,0.11
+233,Cadix,,player_111313,Iza,2,11,1737,21,5.2,0.0,3.0,0.78
+234,Valencia,Rubén,player_112994,Sobrino,4,5,191,40,4.4,0.0,3.0,0.0
+235,Huesca,Eugeni,player_114543,Valderrama,3,4,2894,32,5.0,0.0,3.0,0.06
+236,Sevilla,Óliver,player_115860,Torres,3,9,179,32,5.0,0.0,3.0,0.39
+237,Levante,,player_116206,Rúben Vezo,2,12,855,20,5.1,1.0,3.0,0.67
+238,Atlético,,player_116404,Felipe,2,12,175,20,5.4,0.0,3.0,0.5
+239,Eibar,,player_116626,Kévin Rodrigues,2,8,953,21,4.7,1.0,3.0,0.44
+240,Valencia,Jaume,player_116732,Doménech,1,17,191,10,5.6,0.0,3.0,1.0
+241,Atlético,Yannick,player_119718,Carrasco,3,15,175,32,5.8,2.0,3.0,0.44
+242,Sevilla,Yassine,player_120026,Bounou,1,20,179,10,5.5,0.0,3.0,0.78
+243,Sevilla,Lucas,player_121117,Ocampos,3,28,179,32,5.4,3.0,3.0,0.8300000000000001
+244,Villarreal,Ramiro,player_121221,Funes Mori,2,4,449,20,5,0.0,3.0,0.0
+245,Elche,Emiliano,player_122826,Rigoni,3,10,954,32,4.9,0.0,3.0,0.22
+246,Granada,,player_124097,Rui Silva,1,18,5683,10,5.2,0.0,3.0,0.9400000000000001
+247,Granada,Ramón,player_125945,Azeez,3,4,5683,32,4.0,0.0,3.0,0.06
+248,Alavés,Rubén,player_126119,Duarte,2,9,173,21,4.7,0.0,3.0,0.8300000000000001
+249,Villarreal,Rubén,player_126290,Peña,3,9,449,32,5.1,0.0,3.0,0.22
+250,Osasuna,,player_130026,Rubén García,3,20,450,32,5.4,3.0,3.0,1.0
+251,Alavés,Pere,player_131411,Pons,3,5,173,31,4.6,0.0,3.0,0.33
+252,Valencia,José,player_132105,Gayà,2,12,191,21,5.1,0.0,3.0,0.8300000000000001
+253,Osasuna,Sergio,player_138039,Herrera,1,14,450,10,5.2,0.0,3.0,0.8300000000000001
+254,Bilbao,,player_140264,Dani García,3,9,174,31,5.0,0.0,3.0,0.61
+255,Bilbao,Ander,player_140266,Capa,2,14,174,21,5.0,2.0,3.0,0.9400000000000001
+256,Osasuna,,player_141115,Brandon,4,1,450,40,-,0.0,3.0,0.0
+257,Valladolid,Pablo,player_143622,Hervías,3,12,192,32,5.2,0.0,3.0,0.44
+258,Huesca,Gastón,player_148037,Silva,2,4,2894,21,5,0.0,3.0,0.0
+259,Getafe,Djené,player_149838,Dakonam,2,15,1450,20,5.1,0.0,3.0,0.89
+260,Celta,,player_150360,Santi Mina,4,11,176,40,4.8,1.0,3.0,0.56
+261,Atlético,José,player_151883,Giménez,2,9,175,20,5.4,0.0,3.0,0.33
+262,Celta,Lucas,player_152563,Olaza,2,13,176,21,5.0,0.0,3.0,0.9400000000000001
+263,Real Sociedad,Adnan,player_154976,Januzaj,3,7,188,32,5.6,2.0,3.0,0.22
+264,Alavés,Lucas,player_155851,Pérez,4,23,173,40,5.3,4.0,3.0,0.56
+265,Atlético,Ángel,player_156223,Correa,4,11,175,40,5.2,2.0,3.0,0.61
+266,Granada,,player_156301,Antonio Puertas,3,16,5683,32,4.9,0.0,3.0,0.61
+267,Valencia,,player_158074,Gabriel Paulista,2,12,191,20,5.1,1.0,3.0,0.67
+268,Osasuna,,player_163711,Unai García,2,7,450,20,4.8,0.0,3.0,0.33
+269,Valencia,,player_163784,Jason,4,8,191,40,4.8,0.0,3.0,0.22
+270,Alavés,,player_163817,Burgui,3,1,173,32,-,0.0,3.0,0.0
+271,Levante,José Luis,player_165375,Morales,4,18,855,40,5.4,7.0,3.0,0.72
+272,Sevilla,,player_165659,Diego Carlos,2,23,179,20,5.3,0.0,3.0,0.9400000000000001
+273,Eibar,,player_165800,Rafa Soares,2,8,953,21,5.0,0.0,3.0,0.28
+274,Cadix,Carlos,player_166138,Akapo,2,7,1737,21,5.0,0.0,3.0,0.28
+275,Celta,Renato,player_166162,Tapia,3,11,176,31,5.2,0.0,3.0,0.9400000000000001
+276,Betis,Nabil,player_166552,Fekir,3,15,185,32,5.2,1.0,3.0,0.89
+277,Cadix,Jeremías,player_167210,Ledesma,1,14,1737,10,5.3,0.0,3.0,0.8300000000000001
+278,Atlético,Thomas,player_167449,Lemar,3,12,175,32,5.3,1.0,3.0,0.5
+279,Granada,Luis,player_167742,Milla,3,11,5683,32,5.5,1.0,3.0,0.67
+280,Granada,,player_167767,Kenedy,3,12,5683,32,5.0,1.0,3.0,0.5
+281,Osasuna,Jonathan,player_168287,Calleri,4,12,450,40,4.8,2.0,3.0,0.56
+282,Betis,Antonio,player_168598,Sanabria,4,11,185,40,4.6,3.0,3.0,0.56
+283,Getafe,Enes,player_168636,Ünal,4,8,1450,40,4.2,0.0,3.0,0.22
+284,Alavés,,player_169148,Deyverson,4,11,173,40,4.5,1.0,3.0,0.5
+285,Getafe,,player_169201,Chema Rodríguez,2,6,1450,20,4.1,0.0,3.0,0.22
+286,Celta,David,player_169205,Costas,2,1,176,20,-,0.0,3.0,0.0
+287,Getafe,Erick,player_169586,Cabaco,2,9,1450,20,4.8,0.0,3.0,0.56
+288,Sevilla,Marcos,player_169813,Acuña,2,11,179,21,4.9,0.0,3.0,0.72
+289,Eibar,Esteban,player_169873,Burgos,2,11,953,20,5.2,3.0,3.0,0.56
+290,Huesca,Pablo,player_170154,Maffeo,2,6,2894,21,4.5,1.0,3.0,0.5
+291,Sevilla,Munir,player_170864,El Haddadi,4,12,179,40,5.0,2.0,3.0,0.28
+292,Valladolid,Saidy,player_170929,Janko,2,7,192,21,4.9,0.0,3.0,0.11
+293,Barcelona,Clément,player_171101,Lenglet,2,17,178,20,5.0,1.0,3.0,0.78
+294,Getafe,Mauro,player_171222,Arambarri,3,13,1450,31,5.2,1.0,3.0,0.89
+295,Atlético,Ivo,player_173268,Grbic,1,7,175,10,-,0.0,3.0,0.0
+296,Cadix,David,player_173947,Gil,1,7,1737,10,4.0,0.0,3.0,0.06
+297,Levante,Mickaël,player_174279,Malsa,3,13,855,31,5.3,0.0,3.0,0.72
+298,Real Madrid,Marco,player_174292,Asensio,3,17,186,32,5.1,1.0,3.0,0.44
+299,Elche,Pere,player_175090,Milla,4,8,954,40,4.7,1.0,3.0,0.61
+300,Getafe,David,player_175204,Soria,1,11,1450,10,5.1,0.0,3.0,0.67
+301,Betis,Víctor,player_175946,Camarasa,3,3,185,32,-,0.0,3.0,0.0
+302,Sevilla,Carlos,player_176189,Fernández,4,8,179,40,4.4,0.0,3.0,0.11
+303,Alavés,Antonio,player_176245,Sivera,1,7,173,10,-,0.0,3.0,0.0
+304,Granada,Aarón,player_176278,Escandell,1,7,5683,10,-,0.0,3.0,0.0
+305,Cadix,,player_177849,Nano Mesa,4,4,1737,40,4,0.0,3.0,0.0
+306,Valladolid,,player_178092,Fede San Emeterio,3,11,192,31,5.1,0.0,3.0,0.67
+307,Real Madrid,,player_178347,Mariano,4,6,186,40,4.6,1.0,3.0,0.11
+308,Cadix,Alfonso,player_178424,Espino,2,10,1737,21,4.9,0.0,3.0,1.0
+309,Betis,Carlos,player_178865,Marín,1,3,185,10,-,0.0,3.0,0.0
+310,Osasuna,,player_178870,Kike Barja,3,9,450,32,4.8,0.0,3.0,0.17
+311,Alavés,Adrián,player_178873,Marín,2,6,173,21,4.9,0.0,3.0,0.06
+312,Granada,Jesús,player_178876,Vallejo,2,8,5683,20,4.5,0.0,3.0,0.44
+313,Celta,Brais,player_178880,Méndez,3,16,176,32,5.3,3.0,3.0,0.61
+314,Osasuna,Gorka,player_179265,Zabarte,2,1,450,21,-,0.0,3.0,0.0
+315,Getafe,Marc,player_179268,Cucurella,2,25,1450,21,5.7,2.0,3.0,0.9400000000000001
+316,Barcelona,Carles,player_179271,Aleñá,3,4,178,32,5.0,0.0,3.0,0.06
+317,Valladolid,,player_179371,Kuki Zalazar,4,1,192,40,-,0.0,3.0,0.0
+318,Atlético,,player_179380,Toni Moya,3,1,175,32,-,0.0,3.0,0.0
+319,Barcelona,,player_179382,Oriol Busquets,3,1,178,31,-,0.0,3.0,0.0
+320,Cadix,Iván,player_179926,Alejo,3,7,1737,32,4.9,1.0,3.0,0.11
+321,Elche,Youssouf,player_180124,Kone,2,5,954,21,4.5,0.0,3.0,0.06
+322,Valencia,,player_181284,Gonçalo Guedes,4,10,191,40,5.1,1.0,3.0,0.67
+323,Levante,,player_182617,Koke Vegas,1,7,855,10,3.0,0.0,3.0,0.06
+324,Bilbao,Unai,player_183462,López,3,9,174,32,5.2,2.0,3.0,0.33
+325,Elche,Omenuke,player_183778,Mfulu,3,7,954,31,4.6,0.0,3.0,0.22
+326,Real Madrid,Martin,player_184029,Ødegaard,3,7,186,32,5.0,0.0,3.0,0.17
+327,Real Madrid,Luka,player_185533,Jovic,4,4,186,40,4.4,0.0,3.0,0.11
+328,Elche,,player_185650,Dani Calvo,2,6,954,20,4.8,0.0,3.0,0.22
+329,Atlético,Marcos,player_192364,Llorente,3,24,175,31,5.7,6.0,3.0,0.67
+330,Elche,Lucas,player_193774,Boyé,4,12,954,40,4.5,3.0,3.0,0.61
+331,Cadix,Yann,player_194302,Bodiger,3,8,1737,31,4.8,0.0,3.0,0.11
+332,Villarreal,Sofian,player_194554,Chakla,2,1,449,20,5,0.0,3.0,0.0
+333,Bilbao,Kenan,player_194625,Kodro,4,7,174,40,4.8,1.0,3.0,0.0
+334,Barcelona,Rey,player_194827,Manaj,4,1,178,40,-,0.0,3.0,0.0
+335,Sevilla,Joan,player_195364,Jordán,3,15,179,31,5.4,0.0,3.0,0.78
+336,Elche,,player_195381,Raúl Guti,3,10,954,31,5.0,1.0,3.0,0.67
+337,Bilbao,Jokin,player_195383,Ezkieta,1,3,174,10,-,0.0,3.0,0.0
+338,Real Sociedad,Mikel,player_195384,Merino,3,15,188,31,5.3,1.0,3.0,0.9400000000000001
+339,Bilbao,,player_195385,Alex Berenguer,3,13,174,32,5.2,2.0,3.0,0.78
+340,Levante,Gonzalo,player_195457,Melero,3,18,855,32,5.4,4.0,3.0,0.72
+341,Celta,Jorge,player_195502,Sáenz,2,2,176,20,-,0.0,3.0,0.0
+342,Eibar,Yoshinori,player_196118,Muto,4,9,953,40,4.5,1.0,3.0,0.44
+343,Levante,Enis,player_196739,Bardhi,3,10,855,32,5.1,0.0,3.0,0.39
+344,Betis,Guido,player_197024,Rodríguez,3,20,185,31,5.1,1.0,3.0,0.9400000000000001
+345,Bilbao,Íñigo,player_197314,Lekue,2,6,174,21,5,0.0,3.0,0.0
+346,Real Sociedad,,player_197316,Álex Remiro,1,22,188,10,5.4,0.0,3.0,1.06
+347,Bilbao,Yeray,player_197319,Álvarez,2,8,174,20,5.0,0.0,3.0,0.61
+348,Bilbao,Mikel,player_197326,Vesga,3,10,174,31,4.9,0.0,3.0,0.56
+349,Bilbao,,player_197334,Iñaki Williams,4,17,174,40,5.3,4.0,3.0,0.9400000000000001
+350,Getafe,,player_198499,Nemanja Maksimovic,3,15,1450,31,5.3,1.0,3.0,0.78
+351,Atlético,Lucas,player_198849,Torreira,3,7,175,31,5.3,1.0,3.0,0.11
+352,Elche,,player_199195,Josan,3,13,954,32,5.2,2.0,3.0,0.72
+353,Cadix,,player_199254,Luismi Quezada,2,1,1737,21,-,0.0,3.0,0.0
+354,Valladolid,,player_199259,Javi Sánchez,2,8,192,20,4.8,0.0,3.0,0.33
+355,Cadix,Jairo,player_200221,Izquierdo,3,10,1737,32,4.8,0.0,3.0,0.28
+356,Granada,,player_200599,Domingos Duarte,2,12,5683,20,4.8,1.0,3.0,0.78
+357,Barcelona,,player_200910,Matheus Fernandes,3,1,178,31,-,0.0,3.0,0.0
+358,Real Sociedad,Aritz,player_200957,Elustondo,2,9,188,20,5.2,0.0,3.0,0.56
+359,Real Madrid,Álvaro,player_201172,Odriozola,2,3,186,21,5.0,0.0,3.0,0.06
+360,Real Sociedad,Martín,player_201177,Merquelanz,4,9,188,40,5.1,0.0,3.0,0.17
+361,Real Sociedad,Jon,player_201178,Guridi,3,6,188,32,5.0,0.0,3.0,0.22
+362,Real Sociedad,Luca,player_201179,Sangalli,3,1,188,32,-,0.0,3.0,0.0
+363,Real Sociedad,Jon,player_201182,Bautista,4,6,188,40,4.5,0.0,3.0,0.0
+364,Villarreal,Ramiro,player_201221,Guerra,3,1,449,31,-,0.0,3.0,0.0
+365,Elche,Jeison,player_201302,Lucumí,4,5,954,40,4.8,0.0,3.0,0.06
+366,Elche,Gonzalo,player_201550,Verdú,2,12,954,20,5.1,0.0,3.0,0.89
+367,Betis,Borja,player_202044,Iglesias,4,9,185,40,4.3,1.0,3.0,0.22
+368,Villarreal,Pervis,player_204214,Estupiñán,2,12,449,21,5.1,0.0,3.0,0.39
+369,Osasuna,,player_205992,Chimy Avila,4,4,450,40,-,0.0,3.0,0.0
+370,Real Madrid,Ferland,player_206255,Mendy,2,18,186,21,5.4,0.0,3.0,0.67
+371,Cadix,Jorge,player_206342,Pombo,4,6,1737,40,5.2,1.0,3.0,0.22
+372,Valencia,Mouctar,player_208135,Diakhaby,2,11,191,20,5.1,1.0,3.0,0.67
+373,Villarreal,Alfonso,player_208380,Pedraza,2,10,449,21,5.2,0.0,3.0,0.67
+374,Atlético,Ivan,player_208639,Saponjic,4,1,175,40,-,0.0,3.0,0.0
+375,Osasuna,,player_208765,Juan Pérez,1,2,450,10,-,0.0,3.0,0.0
+376,Barcelona,,player_209712,Frenkie de Jong,3,26,178,31,5.9,2.0,3.0,0.9400000000000001
+377,Granada,Kingsley,player_210167,Fobi,2,1,5683,21,5,0.0,3.0,0.0
+378,Celta,Joseph,player_210171,Aidoo,2,9,176,21,5.0,0.0,3.0,0.44
+379,Barcelona,,player_210341,Iñaki Peña,1,1,178,10,-,0.0,3.0,0.0
+380,Bilbao,Unai,player_212769,Simón,1,13,174,10,4.8,0.0,3.0,1.0
+381,Bilbao,Asier,player_212770,Villalibre,4,13,174,40,4.8,2.0,3.0,0.33
+382,Cadix,,player_213118,Fali,2,11,1737,20,5.0,0.0,3.0,0.72
+383,Atlético,Mario,player_213431,Hermoso,2,15,175,20,5.3,1.0,3.0,0.78
+384,Cadix,,player_214435,Bobby Adekanye,4,4,1737,40,4.3,0.0,3.0,0.0
+385,Getafe,Mathías,player_214966,Olivera,2,9,1450,21,4.8,0.0,3.0,0.8300000000000001
+386,Valencia,,player_215206,Maxi Gómez,4,22,191,40,5.5,5.0,3.0,0.8300000000000001
+387,Bilbao,Iñigo,player_215684,Córdoba,3,4,174,32,4.7,0.0,3.0,0.06
+388,Valladolid,,player_216059,Jota,3,10,192,32,4.8,1.0,3.0,0.22
+389,Eibar,Roberto,player_216474,Olabe,3,1,953,32,-,0.0,3.0,0.0
+390,Real Sociedad,Igor,player_216475,Zubeldia,3,9,188,31,4.8,0.0,3.0,0.56
+391,Cadix,Mamady,player_218239,Diarra,4,1,1737,40,-,0.0,3.0,0.0
+392,Villarreal,Samuel,player_218328,Chukwueze,3,14,449,32,5.1,1.0,3.0,0.33
+393,Huesca,Kelechi,player_218331,Nwakali,3,4,2894,32,4.9,0.0,3.0,0.06
+394,Real Madrid,,player_218449,Eder Militão,2,5,186,20,5.3,0.0,3.0,0.06
+395,Sevilla,Joris,player_218705,Gnagnon,2,1,179,20,-,0.0,3.0,0.0
+396,Granada,Yan,player_218774,Eteki,3,8,5683,31,4.6,0.0,3.0,0.28
+397,Real Sociedad,Mikel,player_219000,Oyarzabal,3,33,188,32,6.0,7.0,3.0,0.67
+398,Real Sociedad,Alexander,player_219168,Isak,4,15,188,40,5.2,4.0,3.0,0.61
+399,Sevilla,Oussama,player_219194,Idrissi,3,5,179,32,4.5,0.0,3.0,0.0
+400,Villarreal,Takefusa,player_219271,Kubo,3,9,449,32,4.8,0.0,3.0,0.11
+401,Barcelona,Ousmane,player_219438,Dembélé,4,14,178,40,5.2,2.0,3.0,0.39
+402,Huesca,,player_219717,Javi Galán,2,12,2894,21,5.0,0.0,3.0,0.89
+403,Huesca,Javier,player_219855,Ontiveros,3,15,2894,32,5.4,2.0,3.0,0.44
+404,Huesca,,player_219929,Rafa Mir,4,13,2894,40,4.7,3.0,3.0,0.72
+405,Celta,Emre,player_220046,Mor,4,5,176,40,4.4,0.0,3.0,0.22
+406,Alavés,Aritz,player_220060,Castro,1,3,173,10,-,0.0,3.0,0.0
+407,Levante,,player_220093,Rober Pier,2,8,855,20,4.6,0.0,3.0,0.17
+408,Elche,,player_220097,Diego González,2,8,954,20,4.8,0.0,3.0,0.33
+409,Valladolid,Joaquín,player_220122,Fernández,2,7,192,20,4.8,0.0,3.0,0.5
+410,Elche,,player_220123,Josema,2,10,954,20,5.0,0.0,3.0,0.72
+411,Sevilla,Jules,player_220325,Koundé,2,20,179,20,5.5,1.0,3.0,0.78
+412,Valencia,,player_221306,Toni Lato,2,7,191,21,4.8,1.0,3.0,0.22
+413,Valencia,,player_221511,Manu Vallejo,4,9,191,40,4.8,4.0,3.0,0.22
+414,Barcelona,,player_222564,Trincão,3,8,178,32,4.5,0.0,3.0,0.0
+415,Valencia,,player_222629,Thierry Correia,2,7,191,21,4.8,0.0,3.0,0.39
+416,Real Madrid,Federico,player_223255,Valverde,3,22,186,31,5.5,3.0,3.0,0.44
+417,Barcelona,Konrad,player_223348,De la Fuente,3,2,178,32,-,0.0,3.0,0.0
+418,Sevilla,Óscar,player_223757,Rodríguez,3,10,179,32,5.0,0.0,3.0,0.11
+419,Huesca,,player_223762,Jaime Seoane,3,10,2894,31,4.8,1.0,3.0,0.33
+420,Levante,,player_223770,Dani Gómez,4,13,855,40,4.7,1.0,3.0,0.44
+421,Betis,Diego,player_224389,Lainez,3,8,185,32,5.4,0.0,3.0,0.11
+422,Valencia,Vicente,player_224438,Esquerdo,3,3,191,32,5.1,0.0,3.0,0.17
+423,Valencia,Carlos,player_224860,Soler,3,22,191,32,6.0,6.0,3.0,0.72
+424,Real Sociedad,Robin,player_224919,Le Normand,2,11,188,20,5.1,0.0,3.0,0.78
+425,Real Madrid,Andriy,player_224965,Lunin,1,7,186,10,-,0.0,3.0,0.0
+426,Cadix,,player_226111,Marcos Mauro,2,8,1737,20,4.9,0.0,3.0,0.56
+427,Granada,Yangel,player_226541,Herrera,3,12,5683,31,5.0,2.0,3.0,0.72
+428,Levante,Edgar,player_226622,Sevikyan,3,1,855,31,5,0.0,3.0,0.0
+429,Huesca,,player_228529,Idrissa Doumbia,3,8,2894,31,4.8,0.0,3.0,0.0
+430,Valencia,Uros,player_228611,Racic,3,7,191,31,5.1,0.0,3.0,0.44
+431,Valladolid,,player_230029,Luis Pérez,2,5,192,21,4.8,0.0,3.0,0.33
+432,Cadix,Saturday,player_230165,Erimuya,2,1,1737,20,-,0.0,3.0,0.0
+433,Granada,,player_230567,Andorinha,1,3,5683,10,-,0.0,3.0,0.0
+434,Osasuna,,player_230598,Nacho Vidal,2,11,450,21,4.9,0.0,3.0,0.5
+435,Atlético,,player_233420,Renan Lodi,2,8,175,21,5.2,0.0,3.0,0.28
+436,Celta,Aarón,player_234369,Martín,2,7,176,20,-,0.0,3.0,0.0
+437,Celta,,player_234511,Fran Beltrán,3,12,176,31,5.2,2.0,3.0,0.33
+438,Eibar,Alejandro,player_234548,Pozo,2,10,953,21,4.8,0.0,3.0,0.61
+439,Celta,Iván,player_234580,Villar,1,7,176,10,4.8,0.0,3.0,0.39
+440,Villarreal,Juan,player_234908,Foyth,2,9,449,20,4.4,0.0,3.0,0.17
+441,Sevilla,Youssef,player_234991,En-Nesyri,4,18,179,40,5.4,8.0,3.0,0.56
+442,Real Sociedad,Andoni,player_235227,Gorosabel,2,10,188,21,4.9,0.0,3.0,0.78
+443,Villarreal,,player_240071,Dani Raba,3,3,449,32,-,0.0,3.0,0.0
+444,Huesca,,player_240796,Álvaro Fernández,1,12,2894,10,4.8,0.0,3.0,0.39
+445,Getafe,Ante,player_240995,Palaversa,3,4,1450,31,5,0.0,3.0,0.0
+446,Levante,Jorge,player_241153,de Frutos,3,15,855,32,5.3,2.0,3.0,0.33
+447,Betis,,player_241157,Emerson,2,9,185,21,4.7,0.0,3.0,0.78
+448,Villarreal,Santiago,player_241160,Cáseres,3,1,449,31,-,0.0,3.0,0.0
+449,Valladolid,Jawad,player_241276,El Yamiq,2,10,192,20,5.3,0.0,3.0,0.33
+450,Valladolid,,player_241865,Kike Pérez,3,10,192,32,5.0,0.0,3.0,0.33
+451,Granada,Juan,player_242147,Brunet,3,1,5683,31,5,0.0,3.0,0.0
+452,Valladolid,,player_242290,Toni Villa,3,13,192,32,5.3,1.0,3.0,0.33
+453,Valladolid,Oriol,player_242310,Rey,3,1,192,31,-,0.0,3.0,0.0
+454,Barcelona,Óscar,player_242313,Mingueza,2,11,178,20,5.3,0.0,3.0,0.39
+455,Barcelona,Álex,player_242315,Collado,3,1,178,32,-,0.0,3.0,0.0
+456,Valencia,Unai,player_242829,Etxebarria,1,1,191,10,-,0.0,3.0,0.0
+457,Bilbao,Unai,player_242830,Núñez,2,12,174,20,4.9,1.0,3.0,0.44
+458,Bilbao,Peru,player_242831,Nolaskoain,3,1,174,31,-,0.0,3.0,0.0
+459,Bilbao,Iñigo,player_242833,Vicente,3,2,174,32,5,0.0,3.0,0.0
+460,Alavés,,player_244337,Tachi,2,4,173,20,4.1,0.0,3.0,0.06
+461,Levante,,player_244636,Son,2,10,855,21,5.0,0.0,3.0,0.28
+462,Getafe,Darío,player_244690,Poveda,4,1,1450,40,-,0.0,3.0,0.0
+463,Getafe,,player_244716,Cucho Hernández,4,14,1450,40,5.0,2.0,3.0,0.78
+464,Valencia,Yunus,player_244847,Musah,3,9,191,32,5.2,1.0,3.0,0.72
+465,Villarreal,Pau,player_244954,Torres,2,22,449,20,5.4,2.0,3.0,1.0
+466,Bilbao,Oier,player_245018,Zarraga,3,4,174,32,4.9,0.0,3.0,0.06
+467,Alavés,Martín,player_246162,Aguirregabiria,2,7,173,21,4.8,0.0,3.0,0.17
+468,Valladolid,,player_246214,Samu Pérez,1,3,192,10,-,0.0,3.0,0.0
+469,Real Madrid,,player_246333,Vinícius Júnior,4,16,186,40,5.0,2.0,3.0,0.44
+470,Villarreal,,player_248501,Álex Baena,3,2,449,32,4.0,0.0,3.0,0.06
+471,Getafe,Victor,player_248505,Mollejo,4,4,1450,40,4.8,0.0,3.0,0.0
+472,Atlético,Sergio,player_248507,Camello,4,1,175,40,-,0.0,3.0,0.0
+473,Barcelona,Sergiño,player_250676,Dest,2,11,178,21,4.9,0.0,3.0,0.67
+474,Valladolid,Gaizka,player_251005,Campos,1,1,192,10,-,0.0,3.0,0.0
+475,Eibar,,player_420909,Edu Expósito,3,14,953,32,5.0,0.0,3.0,0.78
+476,Valladolid,,player_421294,Marcos de Sousa,4,10,192,40,4.8,3.0,3.0,0.44
+477,Granada,Neyder,player_422128,Lozano,2,1,5683,20,-,0.0,3.0,0.0
+478,Huesca,,player_424755,Dani Escriche,4,5,2894,40,4.3,0.0,3.0,0.0
+479,Atlético,Juan Manuel,player_425710,Sanabria,3,1,175,31,-,0.0,3.0,0.0
+480,Atlético,,player_428399,João Félix,4,23,175,40,5.3,5.0,3.0,0.5
+481,Levante,Giorgi,player_428798,Kochorashvili,3,3,855,31,5,0.0,3.0,0.0
+482,Elche,,player_429644,Tete Morente,3,13,954,32,5.5,2.0,3.0,0.67
+483,Huesca,Antonio,player_429707,Valera,1,1,2894,10,-,0.0,3.0,0.0
+484,Betis,David,player_431229,Ramos,3,1,185,32,-,0.0,3.0,0.0
+485,Real Sociedad,Ander,player_431644,Guevara,3,9,188,31,5.0,0.0,3.0,0.61
+486,Betis,,player_432751,Loren Morón,4,10,185,40,4.8,1.0,3.0,0.17
+487,Granada,Luis,player_432838,Suárez,4,14,5683,40,5.4,4.0,3.0,0.5
+488,Betis,Juan,player_433530,Miranda,2,11,185,21,4.9,1.0,3.0,0.28
+489,Valladolid,Sergio,player_433680,Benito,4,1,192,40,-,0.0,3.0,0.0
+490,Eibar,Miguel Ángel,player_434631,Atienza,3,2,953,31,5.0,0.0,3.0,0.06
+491,Granada,Álvaro,player_434632,Bravo,3,1,5683,32,5,0.0,3.0,0.0
+492,Alavés,Luis,player_434941,Rioja,4,12,173,40,5.0,1.0,3.0,0.72
+493,Betis,,player_435090,Dani Martín,1,1,185,10,-,0.0,3.0,0.0
+494,Valladolid,Shon,player_435679,Weissman,4,15,192,40,4.6,3.0,3.0,0.5
+495,Celta,Diego,player_435712,Pampín,2,1,176,21,-,0.0,3.0,0.0
+496,Sevilla,Alfonso,player_436216,Pastor,1,3,179,10,-,0.0,3.0,0.0
+497,Sevilla,,player_436219,Javier Vázquez,2,1,179,21,-,0.0,3.0,0.0
+498,Sevilla,Enrique,player_436222,Rios,2,1,179,20,-,0.0,3.0,0.0
+499,Eibar,Bryan,player_436234,Gil,4,15,953,40,5.8,2.0,3.0,0.56
+500,Valencia,Hugo,player_437460,Guillamón,2,9,191,20,5.0,1.0,3.0,0.5
+501,Real Madrid,Victor,player_437463,Chust,2,1,186,20,-,0.0,3.0,0.0
+502,Huesca,Sergio,player_437468,Gómez,3,9,2894,32,5.0,0.0,3.0,0.11
+503,Atlético,Álvaro,player_437471,García,2,1,175,21,-,0.0,3.0,0.0
+504,Bilbao,Jesús,player_437549,Areso,2,1,174,21,-,0.0,3.0,0.0
+505,Barcelona,,player_437765,Riqui Puig,3,5,178,31,5,0.0,3.0,0.0
+506,Celta,Miguel,player_437803,Baeza,3,10,176,32,4.8,1.0,3.0,0.22
+507,Real Madrid,Adrián,player_437808,De la Fuente,2,1,186,20,-,0.0,3.0,0.0
+508,Valladolid,Sergio,player_437810,López,2,1,192,21,-,0.0,3.0,0.0
+509,Celta,Álvaro,player_438013,Fernández,1,3,176,10,-,0.0,3.0,0.0
+510,Real Sociedad,Modibo,player_438022,Sagnan,2,8,188,20,4.7,0.0,3.0,0.33
+511,Atlético,Josep,player_438316,Calavera,3,1,175,31,-,0.0,3.0,0.0
+512,Sevilla,Adrián,player_439260,González,1,1,179,10,-,0.0,3.0,0.0
+513,Osasuna,,player_439346,Kike Saverio,4,1,450,40,-,0.0,3.0,0.0
+514,Atlético,Miguel,player_439595,San Román,1,1,175,10,-,0.0,3.0,0.0
+515,Granada,Antonio,player_439598,Montoro,2,1,5683,20,-,0.0,3.0,0.0
+516,Real Madrid,Hugo,player_439716,Duro,4,4,186,40,-,0.0,3.0,0.0
+517,Bilbao,Unai,player_439768,Vencedor,3,9,174,31,4.8,0.0,3.0,0.44
+518,Bilbao,,player_439771,Ander Iru,1,1,174,10,-,0.0,3.0,0.0
+519,Bilbao,Oihan,player_439772,Sancet,3,10,174,32,5.0,1.0,3.0,0.06
+520,Osasuna,Asier,player_439776,Córdoba,3,1,450,32,-,0.0,3.0,0.0
+521,Celta,Sergio,player_439871,Carreira,2,5,176,21,4.8,1.0,3.0,0.17
+522,Real Madrid,Diego,player_440014,Altube,1,3,186,10,-,0.0,3.0,0.0
+523,Real Madrid,,player_440077,Rodrygo,4,8,186,40,5.1,0.0,3.0,0.22
+524,Bilbao,Aitor,player_440593,Paredes,2,1,174,20,-,0.0,3.0,0.0
+525,Granada,Nehuen,player_441052,Pérez,2,5,5683,20,5.0,0.0,3.0,0.11
+526,Betis,Aitor,player_441303,Ruibal,3,11,185,32,5.2,1.0,3.0,0.44
+527,Cadix,Sergio,player_441313,González,3,4,1737,31,4.0,0.0,3.0,0.06
+528,Valencia,Cristian,player_442819,Rivero,1,7,191,10,-,0.0,3.0,0.0
+529,Valladolid,Waldo,player_443761,Rubio,3,5,192,32,4.9,1.0,3.0,0.28
+530,Barcelona,Junior,player_443967,Firpo,2,7,178,21,5.3,0.0,3.0,0.06
+531,Barcelona,Ronald,player_445087,Araujo,2,13,178,20,5.8,1.0,3.0,0.44
+532,Getafe,Ryan,player_445095,Nolan,2,1,1450,20,-,0.0,3.0,0.0
+533,Barcelona,,player_447213,Jandro Orellana,3,1,178,31,-,0.0,3.0,0.0
+534,Real Madrid,Sergio,player_448172,Santos,2,3,186,21,-,0.0,3.0,0.0
+535,Granada,Eris,player_449459,Abedini,3,1,5683,31,-,0.0,3.0,0.0
+536,Barcelona,Arnau,player_449924,Tenas,1,3,178,10,-,0.0,3.0,0.0
+537,Real Sociedad,Jon,player_449931,Pacheco Dozagarat,2,1,188,20,-,0.0,3.0,0.0
+538,Alavés,,player_449985,Tomás Tavares,2,6,173,21,4.8,0.0,3.0,0.0
+539,Betis,Daniel,player_449993,Rebollo,1,1,185,10,-,0.0,3.0,0.0
+540,Getafe,David,player_450425,Alba,2,1,1450,20,-,0.0,3.0,0.0
+541,Valladolid,Miguel Ángel,player_450429,Rubio,2,1,192,20,-,0.0,3.0,0.0
+542,Valencia,,player_451358,Lee Kang-In,3,7,191,32,5.2,0.0,3.0,0.39
+543,Sevilla,Antonio,player_451587,Zarzana,3,2,179,32,-,0.0,3.0,0.0
+544,Sevilla,,player_451787,Javi Díaz,1,1,179,10,-,0.0,3.0,0.0
+545,Osasuna,,player_454317,Enric Gallego,4,7,450,40,4.3,0.0,3.0,0.33
+546,Granada,Jesús,player_457200,Rodríguez,4,1,5683,40,-,0.0,3.0,0.0
+547,Valencia,,player_458259,Álex Blanco,3,6,191,32,4.6,0.0,3.0,0.11
+548,Levante,Joan,player_459601,Monterde,4,1,855,40,-,0.0,3.0,0.0
+549,Real Sociedad,Roberto,player_460265,Navarro,3,1,188,32,5,0.0,3.0,0.0
+550,Osasuna,Endika,player_463056,Irigoyen,2,1,450,21,-,0.0,3.0,0.0
+551,Osasuna,,player_463057,Javi Martínez,3,9,450,32,5.0,0.0,3.0,0.06
+552,Granada,Alberto,player_463182,Soro,3,8,5683,32,4.9,0.0,3.0,0.0
+553,Osasuna,Iván,player_463408,Martínez,1,2,450,10,-,0.0,3.0,0.0
+554,Osasuna,Jorge,player_463784,Herrando,2,1,450,20,-,0.0,3.0,0.0
+555,Getafe,,player_464283,Juan Iglesias,2,1,1450,20,5.0,0.0,3.0,0.06
+556,Elche,Lluis,player_464442,Andreu,1,1,954,10,-,0.0,3.0,0.0
+557,Valladolid,Ignasi,player_464471,Vilarrasa,2,1,192,20,-,0.0,3.0,0.0
+558,Granada,Daniel,player_464520,Plomer,4,1,5683,40,4,0.0,3.0,0.0
+559,Alavés,Sergi,player_464899,García,3,1,173,32,5,0.0,3.0,0.0
+560,Atlético,Manuel,player_465494,Sánchez,2,4,175,21,6.0,0.0,3.0,0.06
+561,Atlético,Ricard,player_465495,Sánchez,2,1,175,21,-,0.0,3.0,0.0
+562,Barcelona,,player_465607,Ansu Fati,4,5,178,40,5.6,4.0,3.0,0.33
+563,Barcelona,,player_465689,Ilaix Moriba,3,1,178,31,-,0.0,3.0,0.0
+564,Valencia,Guillem,player_466042,Molina,2,2,191,20,4,0.0,3.0,0.0
+565,Valencia,Jesús,player_466044,Vázquez,2,1,191,20,-,0.0,3.0,0.0
+566,Real Madrid,,player_466072,Marvin Park,3,1,186,32,5,0.0,3.0,0.0
+567,Real Madrid,,player_466118,Luis López,1,1,186,10,-,0.0,3.0,0.0
+568,Bilbao,Jon,player_466558,Morcillo,3,9,174,32,5.1,0.0,3.0,0.28
+569,Valencia,Pablo,player_467005,Gozálbez,3,1,191,31,-,0.0,3.0,0.0
+570,Atlético,German,player_467020,Valera,4,1,175,40,-,0.0,3.0,0.0
+571,Real Sociedad,Roberto,player_467063,López,4,6,188,40,4.9,2.0,3.0,0.22
+572,Real Sociedad,Ander,player_471138,Barrenetxea,3,16,188,32,4.8,2.0,3.0,0.5
+573,Real Sociedad,Aihen,player_472145,Muñoz,2,7,188,21,4.8,0.0,3.0,0.61
+574,Granada,Carlos,player_472148,Neva,2,11,5683,21,4.9,0.0,3.0,0.89
+575,Betis,Paul,player_475177,Akouokou,3,6,185,31,5.3,0.0,3.0,0.06
+576,Getafe,Sabit,player_476459,Abdulai,3,1,1450,31,-,0.0,3.0,0.0
+577,Osasuna,Jon,player_477463,Moncayola,3,11,450,31,4.9,0.0,3.0,0.8300000000000001
+578,Elche,,player_478954,Nacho Ramón,4,3,954,40,-,0.0,3.0,0.0
+579,Real Sociedad,Martín,player_481655,Zubimendi,3,12,188,31,5.3,0.0,3.0,0.44
+580,Alavés,Javier,player_484406,López,2,6,173,21,4.8,0.0,3.0,0.06
+581,Eibar,Jon Mikel,player_484439,Magunagoitia,1,3,953,10,-,0.0,3.0,0.0
+582,Osasuna,Iñaki,player_484701,Álvarez,1,1,450,10,-,0.0,3.0,0.0
+583,Osasuna,Aimar,player_484702,Oroz,3,1,450,32,-,0.0,3.0,0.0
+584,Elche,Luis,player_484704,Castillo,1,3,954,10,-,0.0,3.0,0.0
+585,Elche,Cesar,player_485211,Moreno,3,2,954,31,-,0.0,3.0,0.0
+586,Granada,,player_485215,Isma Ruiz,3,3,5683,31,4.0,0.0,3.0,0.06
+587,Valencia,Koba,player_485339,Koindredi,3,3,191,31,4.5,0.0,3.0,0.0
+588,Villarreal,Yeremi,player_488024,Pino,4,11,449,40,4.8,1.0,3.0,0.11
+589,Real Sociedad,Beñat,player_488026,Turrientes,3,1,188,31,-,0.0,3.0,0.0
+590,Real Madrid,Oscar,player_488049,Aranda,4,1,186,40,-,0.0,3.0,0.0
+591,Barcelona,Santiago,player_488287,Ramos Mingo,2,1,178,20,-,0.0,3.0,0.0
+592,Real Sociedad,Aritz,player_490310,Arambarri,2,2,188,20,5,0.0,3.0,0.0
+593,Cadix,Juan,player_490316,Flere,1,1,1737,10,-,0.0,3.0,0.0
+594,Barcelona,,player_490541,Pedri,3,14,178,32,5.3,2.0,3.0,0.67
+595,Celta,Iker,player_490726,Losada,4,1,176,40,-,0.0,3.0,0.0
+596,Alavés,Borja,player_490799,Sainz,3,9,173,32,4.9,1.0,3.0,0.11
+597,Betis,,player_490859,Raul García,4,1,185,40,-,0.0,3.0,0.0
+598,Osasuna,Jose Javier,player_490860,Hualde,3,1,450,32,-,0.0,3.0,0.0
+599,Celta,José Manuel,player_490862,Fontán,2,6,176,21,4.4,0.0,3.0,0.22
+600,Celta,Iago,player_490863,Domínguez,1,1,176,10,-,0.0,3.0,0.0
+601,Eibar,Sergio,player_490865,Cubero,2,1,953,21,5,0.0,3.0,0.0
+602,Betis,Rodrigo,player_491430,Sánchez,3,7,185,32,4.7,0.0,3.0,0.11
+603,Levante,Daniel,player_491436,Cárdenas,1,4,855,10,5.5,0.0,3.0,0.06
+604,Eibar,Unai,player_491955,Dufur,2,1,953,20,-,0.0,3.0,0.0
+605,Eibar,Eñaut,player_491960,Mendía,4,1,953,40,4.0,0.0,3.0,0.06
+606,Alavés,Abdallahi,player_492142,Mahmoud,3,1,173,31,3.5,0.0,3.0,0.06
+607,Real Madrid,Lucas,player_493337,Cañizares,1,1,186,10,-,0.0,3.0,0.0
+608,Real Madrid,,player_493344,Sergio Arribas,3,1,186,32,5,0.0,3.0,0.0
+609,Alavés,Ismael,player_493599,Gutiérrez,3,1,173,32,-,0.0,3.0,0.0
+610,Villarreal,,player_493719,Álex Millán,4,1,449,40,4.5,0.0,3.0,0.0
+611,Granada,Antonio José,player_494017,Aranda,3,1,5683,32,-,0.0,3.0,0.0
+612,Levante,Eusebio,player_494565,Monzó,2,1,855,20,-,0.0,3.0,0.0
+613,Levante,,player_494571,Álex Blesa,3,1,855,31,-,0.0,3.0,0.0
+614,Sevilla,Carlos,player_494921,Alvarez,3,1,179,32,-,0.0,3.0,0.0
+615,Sevilla,,player_494928,Juanlu Sanchez,3,1,179,32,-,0.0,3.0,0.0
+616,Celta,Miguel,player_494932,Rodriguez,4,4,176,40,4.4,0.0,3.0,0.0
+617,Real Sociedad,Julen,player_495392,Lobete,4,1,188,40,-,0.0,3.0,0.0
+618,Levante,Alfredo,player_499018,Pedraza,3,1,855,31,-,0.0,3.0,0.0
+619,Cadix,Manuel,player_499056,Nieto,4,1,1737,40,-,0.0,3.0,0.0
+620,Cadix,Marc,player_499093,Baró,2,1,1737,21,-,0.0,3.0,0.0
+621,Granada,,player_500697,Pepe Sanchez,2,4,5683,21,4.8,0.0,3.0,0.11
+622,Betis,Ángel,player_500807,Baena,3,1,185,32,-,0.0,3.0,0.0
+623,Elche,,player_501671,Jony Álamo,4,1,954,40,-,0.0,3.0,0.0
+624,Villarreal,Fernando,player_502290,Niño,4,12,449,40,5.0,3.0,3.0,0.33
+625,Cadix,,player_502666,Kike Carrasco,3,1,1737,32,-,0.0,3.0,0.0
+626,Sevilla,Pablo,player_504804,Pérez,2,1,179,21,-,0.0,3.0,0.0
+627,Real Sociedad,Gaizka,player_508455,Ayesa,1,1,188,10,-,0.0,3.0,0.0
+628,Elche,,player_508462,Diego Bri,4,3,954,40,-,0.0,3.0,0.0
+629,Elche,Gerard,player_508463,Barri,2,1,954,21,-,0.0,3.0,0.0
+630,Villarreal,Filip,player_508479,Jorgensen,1,1,449,10,-,0.0,3.0,0.0
+631,Huesca,Kevin,player_509201,Omoruyi,4,1,2894,40,-,0.0,3.0,0.0
+632,Real Sociedad,Jérémy,player_513942,Blasco,2,1,188,20,-,0.0,3.0,0.0
+633,Villarreal,,player_513948,Lanchi,2,1,449,21,-,0.0,3.0,0.0
+634,Villarreal,Carlo Adriano,player_513949,García,3,1,449,32,-,0.0,3.0,0.0
+635,Celta,Gabriel,player_514189,Veiga,3,4,176,32,4.7,0.0,3.0,0.06
+636,Real Sociedad,Urko,player_514204,Gonzalez,2,1,188,20,4.5,0.0,3.0,0.0
+637,Eibar,Unai,player_514206,Arietaleanizbeaskoa,4,3,953,40,4.3,0.0,3.0,0.0
+638,Alavés,,player_514474,Pepe Blanco,3,1,173,31,-,0.0,3.0,0.0
+639,Betis,,player_514476,Fran Delgado,2,1,185,21,-,0.0,3.0,0.0
+640,Betis,Geovanni,player_514477,Barba,2,1,185,20,-,0.0,3.0,0.0
+641,Granada,Arnau,player_514526,Fàbrega,1,1,5683,10,-,0.0,3.0,0.0
+642,Elche,José,player_515611,Salinas,2,1,954,21,-,0.0,3.0,0.0
+643,Celta,,player_515619,Raúl Blanco,1,1,176,10,-,0.0,3.0,0.0
+644,Celta,Lautaro,player_518336,de León,4,1,176,40,4,0.0,3.0,0.0
+645,Granada,Raúl,player_519534,Torrente,3,1,5683,32,-,0.0,3.0,0.0
+646,Granada,Carlos,player_519838,León,3,1,5683,31,-,0.0,3.0,0.0
+647,Granada,Ángel,player_519839,Jiménez,1,3,5683,10,8.0,0.0,3.0,0.06
+648,Granada,Sergio,player_519841,Barcia,2,1,5683,20,5.5,0.0,3.0,0.06
+649,Granada,Rafael,player_519842,Romero,1,1,5683,10,-,0.0,3.0,0.0
+650,Sevilla,Iván,player_521508,Romero,4,1,179,40,-,0.0,3.0,0.0
+651,Levante,Petr,player_521509,Kudakovskiy,1,1,855,10,-,0.0,3.0,0.0
+652,Getafe,John,player_521510,Patrick,3,1,1450,31,4.7,0.0,3.0,0.0
+653,Elche,,player_522785,John Donald,3,1,954,31,4.5,0.0,3.0,0.06
+654,Real Sociedad,Unai,player_523062,Marrero,1,1,188,10,-,0.0,3.0,0.0
+655,Huesca,Manuel,player_523093,Galan,2,1,2894,20,-,0.0,3.0,0.0
+656,Bilbao,,player_523654,Nico Williams,4,1,174,40,-,0.0,3.0,0.0

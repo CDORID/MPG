@@ -1,636 +1,635 @@
 ,club,firstname,id,lastname,position,quotation,teamId,ultraPosition,avgRate,sumGoals,currentChampionship,percentageStarter
 0,Angers,Ludovic,player_11382,Butelle,1,7,2128,10,-,0.0,1.0,0.0
-1,Monaco,Cesc,player_17878,Fàbregas,3,7,146,32,5.2,0.0,1.0,0.5
-2,Angers,Thomas,player_18574,Mangani,3,14,2128,31,4.9,0.0,1.0,0.8300000000000001
-3,Strasbourg,Eiji,player_19739,Kawashima,1,13,153,10,4.5,0.0,1.0,0.33
-4,Monaco,Vito,player_20487,Mannone,1,6,146,10,-,0.0,1.0,0.0
-5,Nice,,player_26894,Dante,2,15,1395,20,5.0,1.0,1.0,0.8300000000000001
-6,Saint-Étienne,Mathieu,player_27334,Debuchy,2,13,152,21,5.3,0.0,1.0,0.5
-7,Bordeaux,Jimmy,player_27675,Briand,4,9,140,40,4.5,0.0,1.0,0.17
-8,Montpellier,,player_28136,Hilton,2,17,147,20,4.8,0.0,1.0,0.5
-9,Paris,Keylor,player_28411,Navas,1,20,149,10,6.3,0.0,1.0,0.5
-10,Bordeaux,Paul,player_37758,Baysse,2,13,140,20,5.1,0.0,1.0,0.67
-11,Marseille,Yohann,player_37769,Pelé,1,7,144,10,-,0.0,1.0,0.0
-12,Brest,Ludovic,player_37776,Baal,2,7,862,21,3.5,0.0,1.0,0.17
-13,Lorient,Jérémy,player_37832,Morel,2,10,694,20,4.3,0.0,1.0,0.8300000000000001
-14,Rennes,Romain,player_37836,Salin,1,10,150,10,6.1,0.0,1.0,0.67
-15,Marseille,Dimitri,player_37901,Payet,3,32,144,32,5.3,0.0,1.0,0.67
-16,Lorient,Sylvain,player_37939,Marveaux,3,9,694,32,5.0,0.0,1.0,0.17
-17,Saint-Étienne,Jessy,player_37990,Moulin,1,16,152,10,5.1,0.0,1.0,0.8300000000000001
-18,Montpellier,Daniel,player_38002,Congré,2,11,147,20,5.7,2.0,1.0,0.8300000000000001
-19,Saint-Étienne,Kévin,player_38261,Monnet-Paquet,4,5,152,40,4.5,0.0,1.0,0.0
-20,Saint-Étienne,Stéphane,player_38314,Ruffier,1,7,152,10,-,0.0,1.0,0.0
-21,Lille,,player_38580,José Fonte,2,15,429,20,5.9,0.0,1.0,0.8300000000000001
-22,Lille,Burak,player_39931,Yilmaz,4,13,429,40,4.7,1.0,1.0,0.67
+1,Monaco,Cesc,player_17878,Fàbregas,3,9,146,32,5.2,1.0,1.0,0.26
+2,Angers,Thomas,player_18574,Mangani,3,13,2128,31,5.1,1.0,1.0,0.89
+3,Bordeaux,Hatem,player_18753,Ben Arfa,3,17,140,32,5.7,2.0,1.0,0.58
+4,Strasbourg,Eiji,player_19739,Kawashima,1,10,153,10,5.2,0.0,1.0,0.58
+5,Monaco,Vito,player_20487,Mannone,1,13,146,10,5.0,0.0,1.0,0.47000000000000003
+6,Nice,,player_26894,Dante,2,5,1395,20,5.5,2.0,1.0,0.47000000000000003
+7,Saint-Étienne,Mathieu,player_27334,Debuchy,2,12,152,21,5.1,1.0,1.0,0.58
+8,Bordeaux,Jimmy,player_27675,Briand,4,8,140,40,4.6,1.0,1.0,0.05
+9,Montpellier,,player_28136,Hilton,2,9,147,20,4.9,0.0,1.0,0.47000000000000003
+10,Paris,Keylor,player_28411,Navas,1,24,149,10,5.9,0.0,1.0,0.74
+11,Bordeaux,Paul,player_37758,Baysse,2,11,140,20,5.2,0.0,1.0,0.79
+12,Marseille,Yohann,player_37769,Pelé,1,7,144,10,-,0.0,1.0,0.0
+13,Brest,Ludovic,player_37776,Baal,2,4,862,21,4.4,0.0,1.0,0.16
+14,Lorient,Jérémy,player_37832,Morel,2,10,694,20,4.4,0.0,1.0,0.89
+15,Rennes,Romain,player_37836,Salin,1,9,150,10,5.6,0.0,1.0,0.68
+16,Marseille,Dimitri,player_37901,Payet,3,20,144,32,5.5,3.0,1.0,0.53
+17,Lorient,Sylvain,player_37939,Marveaux,3,7,694,32,4.8,0.0,1.0,0.11
+18,Saint-Étienne,Jessy,player_37990,Moulin,1,13,152,10,4.6,0.0,1.0,1.0
+19,Montpellier,Daniel,player_38002,Congré,2,13,147,20,5.1,2.0,1.0,1.0
+20,Saint-Étienne,Kévin,player_38261,Monnet-Paquet,4,5,152,40,4.3,0.0,1.0,0.21
+21,Lille,,player_38580,José Fonte,2,19,429,20,5.7,1.0,1.0,0.9500000000000001
+22,Lille,Burak,player_39931,Yilmaz,4,25,429,40,5.6,9.0,1.0,0.79
 23,Nantes,Denis,player_40511,Petric,1,7,430,10,-,0.0,1.0,0.0
-24,Lille,Jérémy,player_40833,Pied,2,6,429,21,5.0,0.0,1.0,0.17
-25,Angers,Ismael,player_42416,Traoré,2,17,2128,20,5.1,2.0,1.0,0.8300000000000001
-26,Bordeaux,Benoit,player_42713,Costil,1,20,140,10,5.9,0.0,1.0,0.8300000000000001
-27,Nice,Morgan,player_42774,Schneiderlin,3,15,1395,31,5.7,0.0,1.0,0.8300000000000001
-28,Lorient,Fabien,player_43553,Lemoine,3,12,694,31,4.8,0.0,1.0,0.8300000000000001
-29,Lens,Jean-Louis,player_44136,Leca,1,18,142,10,5.2,0.0,1.0,0.8300000000000001
-30,Lens,Yannick,player_44138,Cahuzac,3,15,142,31,5.3,0.0,1.0,0.67
-31,Rennes,Damien,player_44287,Da Silva,2,17,150,20,5.6,1.0,1.0,0.8300000000000001
-32,Marseille,Steve,player_44413,Mandanda,1,20,144,10,5.6,0.0,1.0,0.8300000000000001
-33,Lorient,Matthieu,player_45032,Dreyer,1,7,694,10,-,0.0,1.0,0.0
-34,Strasbourg,Lamine,player_45076,Koné,2,11,153,20,3.8,0.0,1.0,0.33
-35,Nîmes,Lucas,player_45084,Deaux,3,15,2336,31,4.8,0.0,1.0,0.5
-36,Metz,Alexandre,player_45123,Oukidja,1,22,145,10,5.8,0.0,1.0,0.8300000000000001
-37,Angers,Romain,player_45505,Thomas,2,15,2128,20,5.2,0.0,1.0,0.5
-38,Paris,Ángel,player_46497,Di María,3,34,149,32,6.0,1.0,1.0,0.67
-39,Marseille,Kostas,player_47434,Mitroglou,4,8,144,40,-,0.0,1.0,0.0
+24,Lille,Jérémy,player_40833,Pied,2,5,429,21,4.9,0.0,1.0,0.16
+25,Angers,Ismael,player_42416,Traoré,2,19,2128,20,5.2,3.0,1.0,1.0
+26,Bordeaux,Benoît,player_42713,Costil,1,19,140,10,5.6,0.0,1.0,1.0
+27,Nice,Morgan,player_42774,Schneiderlin,3,10,1395,31,5.3,0.0,1.0,0.74
+28,Lorient,Fabien,player_43553,Lemoine,3,10,694,31,4.8,0.0,1.0,0.58
+29,Lens,Jean-Louis,player_44136,Leca,1,14,142,10,5.1,0.0,1.0,0.9500000000000001
+30,Lens,Yannick,player_44138,Cahuzac,3,12,142,31,5.2,0.0,1.0,0.68
+31,Rennes,Damien,player_44287,Da Silva,2,17,150,20,5.4,4.0,1.0,0.89
+32,Marseille,Steve,player_44413,Mandanda,1,24,144,10,5.5,0.0,1.0,0.89
+33,Lorient,Matthieu,player_45032,Dreyer,1,7,694,10,5.5,0.0,1.0,0.05
+34,Strasbourg,Lamine,player_45076,Koné,2,5,153,20,4.0,0.0,1.0,0.26
+35,Nîmes,Lucas,player_45084,Deaux,3,6,2336,31,4.3,0.0,1.0,0.58
+36,Metz,Alexandre,player_45123,Oukidja,1,24,145,10,5.8,0.0,1.0,0.9500000000000001
+37,Angers,Romain,player_45505,Thomas,2,13,2128,20,5.3,3.0,1.0,0.84
+38,Paris,Ángel,player_46497,Di María,3,29,149,32,5.8,2.0,1.0,0.63
+39,Marseille,Kostas,player_47434,Mitroglou,4,2,144,40,-,0.0,1.0,0.0
 40,Lille,Orestis,player_48332,Karnezis,1,7,429,10,-,0.0,1.0,0.0
-41,Rennes,Steven,player_49323,Nzonzi,3,16,150,31,5.7,1.0,1.0,0.8300000000000001
-42,Dijon,Bruno,player_49382,Ecuele Manga,2,12,2130,20,5.3,1.0,1.0,0.8300000000000001
-43,Marseille,Kevin,player_49887,Strootman,3,10,144,31,5.2,0.0,1.0,0.17
-44,Monaco,Stevan,player_50442,Jovetic,4,7,146,40,4.6,0.0,1.0,0.17
-45,Bordeaux,Laurent,player_51507,Koscielny,2,16,140,20,6.1,0.0,1.0,0.8300000000000001
-46,Nîmes,Nolan,player_51525,Roux,4,13,2336,40,4.3,0.0,1.0,0.17
-47,Lyon,,player_52573,Marcelo,2,13,143,20,5.8,0.0,1.0,0.8300000000000001
-48,Montpellier,Damien,player_52782,Le Tallec,3,15,147,31,5.0,0.0,1.0,0.8300000000000001
-49,Brest,Julien,player_54405,Faussurier,2,11,862,21,5.3,0.0,1.0,0.33
-50,Metz,Paul,player_54409,Delecroix,1,7,145,10,-,0.0,1.0,0.0
-51,Dijon,Frédéric,player_54413,Sammaritano,3,7,2130,32,4.9,0.0,1.0,0.17
-52,Angers,Vincent,player_54518,Manceau,2,9,2128,21,-,0.0,1.0,0.0
-53,Nantes,,player_54771,Fabio,2,12,430,21,4.6,0.0,1.0,0.67
-54,Saint-Étienne,Ryad,player_55264,Boudebouz,3,8,152,32,-,0.0,1.0,0.0
-55,Rennes,Clément,player_55305,Grenier,3,6,150,32,-,0.0,1.0,0.0
-56,Lille,Benjamin,player_55948,André,3,18,429,31,5.5,0.0,1.0,0.8300000000000001
-57,Saint-Étienne,Timothée,player_57136,Kolodziejczak,2,12,152,20,5.4,0.0,1.0,0.8300000000000001
-58,Angers,Abdoulaye,player_57266,Bamba,2,11,2128,21,4.8,0.0,1.0,0.8300000000000001
-59,Brest,Gaëtan,player_58625,Charbonnier,4,13,862,40,5.9,2.0,1.0,0.67
-60,Lorient,Thomas,player_58875,Fontaine,2,8,694,20,4.8,0.0,1.0,0.33
-61,Monaco,,player_59229,Pelé,3,5,146,31,-,0.0,1.0,0.0
-62,Lens,Gaël,player_59325,Kakuta,3,12,142,32,6.4,3.0,1.0,0.8300000000000001
-63,Paris,Ander,player_59846,Herrera,3,8,149,31,5.2,0.0,1.0,0.5
-64,Lyon,,player_59957,Anthony Lopes,1,18,143,10,5.1,0.0,1.0,0.8300000000000001
-65,Saint-Étienne,Wahbi,player_60165,Khazri,3,7,152,32,-,0.0,1.0,0.0
-66,Paris,Marco,player_61170,Verratti,3,22,149,31,5.3,0.0,1.0,0.5
-67,Paris,,player_61278,Neymar,4,40,149,40,4.8,0.0,1.0,0.33
-68,Reims,Valon,player_62067,Berisha,3,8,1423,32,4.5,0.0,1.0,0.33
-69,Saint-Étienne,Romain,player_67276,Hamouma,3,16,152,32,5.5,3.0,1.0,0.67
-70,Lorient,Vincent,player_67278,Le Goff,2,14,694,21,4.2,0.0,1.0,0.8300000000000001
-71,Bordeaux,Loris,player_68260,Benito,2,12,140,21,5.3,0.0,1.0,0.67
-72,Angers,Mateo,player_68545,Pavlovic,2,6,2128,20,4.2,0.0,1.0,0.33
-73,Metz,John,player_68791,Boye,2,16,145,20,5.3,0.0,1.0,0.8300000000000001
-74,Montpellier,Petar,player_68862,Skuletic,4,7,147,40,5,0.0,1.0,0.0
-75,Brest,Paul,player_72177,Lasne,3,13,862,31,4.5,0.0,1.0,0.0
-76,Lorient,Matthieu,player_73500,Saunier,2,13,694,20,-,0.0,1.0,0.0
-77,Bordeaux,Nicolas,player_73879,de Preville,4,15,140,40,5.5,0.0,1.0,0.8300000000000001
-78,Montpellier,Andy,player_73965,Delort,4,21,147,40,6.6,3.0,1.0,0.67
-79,Montpellier,Arnaud,player_78275,Souquet,2,12,147,21,4.8,1.0,1.0,0.67
-80,Marseille,Yuto,player_78407,Nagatomo,2,8,144,21,4.8,0.0,1.0,0.33
-81,Strasbourg,Idriss,player_79917,Saadi,4,7,153,40,4.4,0.0,1.0,0.0
-82,Bordeaux,,player_80357,Mexer,2,7,140,20,-,0.0,1.0,0.0
-83,Paris,Idrissa,player_80801,Gueye,3,22,149,31,5.4,0.0,1.0,0.67
-84,Strasbourg,,player_82184,Majeed Waris,4,8,153,40,4.2,0.0,1.0,0.5
-85,Nantes,Nicolas,player_82313,Pallois,2,13,430,20,5.2,0.0,1.0,0.8300000000000001
-86,Monaco,Wissam,player_83912,Ben Yedder,4,38,146,40,5.5,3.0,1.0,0.8300000000000001
-87,Rennes,Jonas,player_84366,Martin,3,7,150,31,5.2,0.0,1.0,0.33
-88,Nantes,Dennis,player_84424,Appiah,2,12,430,21,4.9,0.0,1.0,0.67
-89,Monaco,Kevin,player_85370,Volland,4,16,146,40,5.3,0.0,1.0,0.5
-90,Metz,Vincent,player_85548,Pajot,3,11,145,31,5.6,0.0,1.0,0.67
-91,Dijon,Wesley,player_85565,Lautoa,2,11,2130,20,4.3,0.0,1.0,0.33
-92,Paris,Alexandre,player_85577,Letellier,1,1,149,10,-,0.0,1.0,0.0
+41,Rennes,Steven,player_49323,Nzonzi,3,17,150,31,5.6,1.0,1.0,0.89
+42,Dijon,Bruno,player_49382,Ecuele Manga,2,14,2130,20,5.3,1.0,1.0,1.0
+43,Marseille,Kevin,player_49887,Strootman,3,9,144,31,5.0,0.0,1.0,0.05
+44,Monaco,Stevan,player_50442,Jovetic,4,6,146,40,4.8,1.0,1.0,0.11
+45,Bordeaux,Laurent,player_51507,Koscielny,2,10,140,20,5.6,0.0,1.0,0.58
+46,Nîmes,Nolan,player_51525,Roux,4,6,2336,40,4.2,0.0,1.0,0.32
+47,Lyon,,player_52573,Marcelo,2,15,143,20,5.5,0.0,1.0,0.89
+48,Montpellier,Damien,player_52782,Le Tallec,3,6,147,31,4.8,0.0,1.0,0.37
+49,Brest,Julien,player_54405,Faussurier,2,6,862,21,4.7,0.0,1.0,0.21
+50,Metz,Paul,player_54409,Delecroix,1,1,145,10,-,0.0,1.0,0.0
+51,Dijon,Frédéric,player_54413,Sammaritano,3,9,2130,32,5.0,0.0,1.0,0.26
+52,Angers,Vincent,player_54518,Manceau,2,9,2128,21,4.8,0.0,1.0,0.58
+53,Nantes,,player_54771,Fabio,2,8,430,21,4.6,0.0,1.0,0.74
+54,Saint-Étienne,Ryad,player_55264,Boudebouz,3,11,152,32,5.2,0.0,1.0,0.26
+55,Rennes,Clément,player_55305,Grenier,3,11,150,32,4.7,2.0,1.0,0.32
+56,Lille,Benjamin,player_55948,André,3,20,429,31,5.9,0.0,1.0,0.9500000000000001
+57,Saint-Étienne,Timothée,player_57136,Kolodziejczak,2,12,152,20,4.8,0.0,1.0,0.84
+58,Angers,Abdoulaye,player_57266,Bamba,2,6,2128,21,4.6,0.0,1.0,0.53
+59,Brest,Gaëtan,player_58625,Charbonnier,4,10,862,40,4.9,3.0,1.0,0.42
+60,Lorient,Thomas,player_58875,Fontaine,2,5,694,20,4.4,0.0,1.0,0.21
+61,Lens,Gaël,player_59325,Kakuta,3,23,142,32,5.8,7.0,1.0,0.84
+62,Paris,Ander,player_59846,Herrera,3,14,149,31,5.8,1.0,1.0,0.53
+63,Lyon,,player_59957,Anthony Lopes,1,23,143,10,5.5,0.0,1.0,1.0
+64,Nantes,Sébastien,player_60121,Corchia,2,7,430,21,4.9,0.0,1.0,0.47000000000000003
+65,Saint-Étienne,Wahbi,player_60165,Khazri,3,9,152,32,4.2,1.0,1.0,0.21
+66,Paris,Marco,player_61170,Verratti,3,16,149,31,5.9,0.0,1.0,0.53
+67,Paris,,player_61278,Neymar,4,29,149,40,5.9,3.0,1.0,0.32
+68,Reims,Valon,player_62067,Berisha,3,12,1423,32,5.2,0.0,1.0,0.63
+69,Saint-Étienne,Romain,player_67276,Hamouma,3,9,152,32,4.9,4.0,1.0,0.63
+70,Lorient,Vincent,player_67278,Le Goff,2,10,694,21,4.4,0.0,1.0,0.74
+71,Bordeaux,Loris,player_68260,Benito,2,9,140,21,5.0,0.0,1.0,0.74
+72,Angers,Mateo,player_68545,Pavlovic,2,5,2128,20,3.9,0.0,1.0,0.16
+73,Metz,John,player_68791,Boye,2,15,145,20,5.4,1.0,1.0,0.89
+74,Montpellier,Petar,player_68862,Skuletic,4,6,147,40,5,1.0,1.0,0.0
+75,Brest,Paul,player_72177,Lasne,3,9,862,31,4.9,0.0,1.0,0.47000000000000003
+76,Lorient,Matthieu,player_73500,Saunier,2,5,694,20,-,0.0,1.0,0.0
+77,Bordeaux,Nicolas,player_73879,de Preville,4,8,140,40,4.8,0.0,1.0,0.53
+78,Montpellier,Andy,player_73965,Delort,4,31,147,40,6.0,8.0,1.0,0.89
+79,Montpellier,Arnaud,player_78275,Souquet,2,6,147,21,4.7,1.0,1.0,0.47000000000000003
+80,Marseille,Yuto,player_78407,Nagatomo,2,9,144,21,4.9,0.0,1.0,0.42
+81,Strasbourg,Idriss,player_79917,Saadi,4,5,153,40,4.5,0.0,1.0,0.0
+82,Bordeaux,,player_80357,Mexer,2,4,140,20,-,0.0,1.0,0.0
+83,Paris,,player_80801,Idrissa Gueye,3,18,149,31,5.6,2.0,1.0,0.63
+84,Strasbourg,,player_82184,Majeed Waris,4,5,153,40,4.5,1.0,1.0,0.21
+85,Nantes,Nicolas,player_82313,Pallois,2,10,430,20,4.8,1.0,1.0,0.89
+86,Monaco,Wissam,player_83912,Ben Yedder,4,40,146,40,5.4,7.0,1.0,0.89
+87,Rennes,Jonas,player_84366,Martin,3,5,150,31,5.2,0.0,1.0,0.11
+88,Nantes,Dennis,player_84424,Appiah,2,7,430,21,4.7,0.0,1.0,0.47000000000000003
+89,Monaco,Kevin,player_85370,Volland,4,23,146,40,5.6,9.0,1.0,0.84
+90,Metz,Vincent,player_85548,Pajot,3,9,145,31,6.1,0.0,1.0,0.42
+91,Dijon,Wesley,player_85565,Lautoa,2,6,2130,20,4.5,0.0,1.0,0.37
+92,Paris,Alexandre,player_85577,Letellier,1,3,149,10,-,0.0,1.0,0.0
 93,Strasbourg,Matz,player_85633,Sels,1,3,153,10,-,0.0,1.0,0.0
-94,Lens,Zakaria,player_85682,Diallo,2,16,142,20,-,0.0,1.0,0.0
-95,Dijon,Romain,player_86158,Amalfitano,3,13,2130,31,4.5,0.0,1.0,0.17
-96,Lorient,Jonathan,player_86281,Delaplace,3,4,694,31,5.5,0.0,1.0,0.0
-97,Strasbourg,Lionel,player_86413,Carole,2,9,153,21,4.3,0.0,1.0,0.5
-98,Monaco,Benjamin,player_86873,Lecomte,1,22,146,10,5.1,0.0,1.0,0.67
-99,Paris,Pablo,player_88484,Sarabia,3,15,149,32,4.4,0.0,1.0,0.5
-100,Nantes,Anthony,player_88931,Limbombe,3,7,430,32,-,0.0,1.0,0.0
-101,Paris,Layvin,player_89068,Kurzawa,2,8,149,21,4.3,0.0,1.0,0.17
-102,Bordeaux,Rubén,player_90328,Pardo,3,7,140,32,5,0.0,1.0,0.0
-103,Lens,Manuel,player_90436,Perez,3,6,142,31,4.7,0.0,1.0,0.17
-104,Paris,Leandro,player_91080,Paredes,3,9,149,31,4.8,0.0,1.0,0.17
-105,Lens,Massadio,player_92170,Haidara,2,13,142,21,-,0.0,1.0,0.0
-106,Dijon,Alfred,player_92216,Gomis,1,20,2130,10,5.7,0.0,1.0,0.8300000000000001
-107,Nîmes,Loïck,player_92258,Landre,2,8,2336,20,4.0,0.0,1.0,0.8300000000000001
-108,Strasbourg,Kenny,player_92527,Lala,2,18,153,21,4.4,0.0,1.0,0.8300000000000001
-109,Paris,Julian,player_92985,Draxler,3,9,149,32,5.8,1.0,1.0,0.5
-110,Paris,,player_93127,Jesé,4,2,149,40,4,0.0,1.0,0.0
-111,Nîmes,Baptiste,player_93619,Reynet,1,15,2336,10,5.4,0.0,1.0,0.8300000000000001
-112,Nîmes,Pablo,player_93622,Martinez,2,15,2336,20,5.2,0.0,1.0,0.5
-113,Paris,Sergio,player_94248,Rico,1,7,149,10,4.5,0.0,1.0,0.17
-114,Brest,Cristian,player_94753,Battocchio,3,9,862,32,5,0.0,1.0,0.0
-115,Marseille,Florian,player_95434,Thauvin,3,20,144,32,5.6,2.0,1.0,0.8300000000000001
-116,Marseille,Álvaro,player_96084,González,2,13,144,20,5.0,0.0,1.0,0.67
-117,Lorient,Thomas,player_96616,Monconduit,3,9,694,31,5.3,1.0,1.0,0.0
-118,Rennes,M'Baye,player_96764,Niang,4,28,150,40,5.0,0.0,1.0,0.17
-119,Marseille,Valère,player_97041,Germain,4,8,144,40,4.7,1.0,1.0,0.0
-120,Brest,Denys,player_97433,Bain,2,7,862,20,-,0.0,1.0,0.0
-121,Paris,Alessandro,player_97617,Florenzi,2,15,149,21,5.8,0.0,1.0,0.5
-122,Nantes,Mehdi,player_98746,Abeid,3,9,430,31,5.2,0.0,1.0,0.17
-123,Metz,Thomas,player_98826,Delaine,2,7,145,21,5.0,0.0,1.0,0.17
-124,Angers,Stéphane,player_98828,Bahoken,4,9,2128,40,5.1,2.0,1.0,0.5
-125,Metz,Laurent,player_100207,Jans,2,6,145,21,-,0.0,1.0,0.0
-126,Saint-Étienne,,player_100632,Gabriel Silva,2,7,152,21,-,0.0,1.0,0.0
-127,Montpellier,Téji,player_102636,Savanier,3,24,147,31,6.5,3.0,1.0,0.8300000000000001
-128,Angers,Rachid,player_102743,Alioui,4,10,2128,40,-,0.0,1.0,0.0
-129,Monaco,Djibril,player_102747,Sidibé,2,8,146,21,5.0,0.0,1.0,0.33
-130,Marseille,Bouna,player_102760,Sarr,3,13,144,32,5,0.0,1.0,0.0
-131,Lille,Adama,player_103155,Soumaoro,2,7,429,20,-,0.0,1.0,0.0
-132,Nîmes,Haris,player_103457,Duljevic,3,7,2336,32,4.8,0.0,1.0,0.17
-133,Montpellier,,player_103777,Yun Il-Lok,3,3,147,32,-,0.0,1.0,0.0
-134,Reims,Predrag,player_104407,Rajkovic,1,24,1423,10,5.7,0.0,1.0,0.8300000000000001
-135,Metz,Gerónimo,player_104662,Poblete,3,7,145,31,-,0.0,1.0,0.0
-136,Paris,Juan,player_105046,Bernat,2,15,149,21,4.8,0.0,1.0,0.33
-137,Angers,Danijel,player_105345,Petkovic,1,5,2128,10,-,0.0,1.0,0.0
-138,Paris,Mauro,player_106109,Icardi,4,31,149,40,6.2,2.0,1.0,0.5
-139,Marseille,Darío,player_106212,Benedetto,4,28,144,40,4.0,0.0,1.0,0.5
-140,Reims,Yunis,player_106263,Abdelhamid,2,21,1423,20,4.0,0.0,1.0,0.67
-141,Nantes,Kalifa,player_106320,Coulibaly,4,10,430,40,3.5,0.0,1.0,0.17
-142,Strasbourg,Sanjin,player_106551,Prcic,3,8,153,31,4.8,0.0,1.0,0.17
-143,Montpellier,,player_106821,Pedro Mendes,2,10,147,20,5.2,0.0,1.0,0.8300000000000001
-144,Lyon,Memphis,player_106824,Depay,4,22,143,40,5.6,4.0,1.0,0.5
-145,Lorient,Paul,player_107098,Nardi,1,14,694,10,4.7,0.0,1.0,0.8300000000000001
-146,Lorient,Laurent,player_107258,Abergel,2,17,694,21,5.3,0.0,1.0,0.5
-147,Montpellier,Jordan,player_107641,Ferri,3,10,147,31,4.9,0.0,1.0,0.8300000000000001
-148,Reims,Tristan,player_107685,Dingome,3,7,1423,32,4.5,0.0,1.0,0.0
-149,Metz,Marc-Aurèle,player_107925,Caillard,1,7,145,10,-,0.0,1.0,0.0
-150,Marseille,Hiroki,player_109404,Sakai,2,9,144,21,5.0,0.0,1.0,0.8300000000000001
-151,Nice,,player_109653,Rony Lopes,3,15,1395,32,4.4,0.0,1.0,0.5
-152,Angers,Pierrick,player_112580,Capelle,3,9,2128,32,5.1,0.0,1.0,0.5
-153,Strasbourg,Stefan,player_112945,Mitrovic,2,10,153,20,5.0,1.0,1.0,0.67
-154,Brest,Christophe,player_113541,Herelle,2,16,862,20,5.0,0.0,1.0,0.5
-155,Metz,Farid,player_114531,Boulaya,3,9,145,32,5.5,0.0,1.0,0.67
-156,Monaco,Ruben,player_115327,Aguilar,2,13,146,21,5.6,1.0,1.0,0.8300000000000001
-157,Marseille,Jordan,player_115380,Amavi,2,13,144,21,5.3,0.0,1.0,0.33
-158,Nice,Yoan,player_115851,Cardinale,1,6,1395,10,-,0.0,1.0,0.0
-159,Strasbourg,Adrien,player_115961,Thomasson,3,25,153,32,4.6,0.0,1.0,0.67
-160,Paris,,player_116406,Marquinhos,2,25,149,20,6.3,1.0,1.0,0.5
-161,Bordeaux,,player_116504,Pablo,2,7,140,20,5.5,0.0,1.0,0.17
-162,Montpellier,Florent,player_116627,Mollet,3,22,147,32,4.8,1.0,1.0,0.17
-163,Dijon,Yassine,player_116628,Benzia,3,8,2130,32,-,0.0,1.0,0.0
-164,Dijon,Fouad,player_119679,Chafik,2,11,2130,21,4.8,0.0,1.0,0.67
-165,Reims,Xavier,player_119770,Chavalerin,3,15,1423,31,5.1,0.0,1.0,0.8300000000000001
-166,Reims,Thomas,player_120947,Foket,2,10,1423,21,4.5,0.0,1.0,0.67
-167,Nîmes,Renaud,player_121150,Ripart,2,12,2336,21,5.0,0.0,1.0,0.8300000000000001
-168,Bordeaux,Maxime,player_121524,Poundjé,2,8,140,21,5.2,0.0,1.0,0.17
-169,Nice,Walter,player_121709,Benítez,1,25,1395,10,6.2,0.0,1.0,0.8300000000000001
-170,Lyon,Moussa,player_122399,Dembele,4,32,143,40,4.6,0.0,1.0,0.67
-171,Marseille,Morgan,player_122775,Sanson,3,25,144,32,5.9,1.0,1.0,0.67
-172,Metz,Opa,player_124148,Nguette,3,22,145,32,4.7,0.0,1.0,0.67
-173,Lens,Corentin,player_126177,Jean,4,8,142,40,4.8,0.0,1.0,0.17
-174,Paris,Presnel,player_129479,Kimpembe,2,18,149,20,5.5,0.0,1.0,0.67
-175,Lille,Mike,player_129487,Maignan,1,21,429,10,5.9,0.0,1.0,0.8300000000000001
-176,Nantes,Roli,player_129510,Pereira De Sa,3,2,430,32,-,0.0,1.0,0.0
-177,Dijon,Bersant,player_136380,Celina,3,5,2130,32,5.2,0.0,1.0,0.33
-178,Strasbourg,Alexander,player_143685,Djiku,2,11,153,20,4.4,0.0,1.0,0.67
-179,Dijon,Didier,player_144660,Ndong,3,15,2130,31,5.1,0.0,1.0,0.8300000000000001
-180,Lens,Issiaga,player_145221,Sylla,2,8,142,21,5.1,0.0,1.0,0.5
-181,Angers,Lois,player_147577,Diony,4,8,2128,40,4.7,0.0,1.0,0.0
-182,Lyon,Maxwel,player_149519,Cornet,3,19,143,32,5.3,0.0,1.0,0.8300000000000001
-183,Brest,Romain,player_150172,Philippoteaux,3,23,862,32,5.5,1.0,1.0,0.5
-184,Nice,Wylan,player_151873,Cyprien,3,13,1395,32,-,0.0,1.0,0.0
-185,Angers,Jimmy,player_151912,Cabot,3,10,2128,32,5,0.0,1.0,0.0
-186,Lens,Cheick,player_152865,Traoré,2,5,142,21,-,0.0,1.0,0.0
-187,Dijon,Jordan,player_153014,Marié,3,9,2130,31,4.5,0.0,1.0,0.67
-188,Rennes,Flavien,player_154011,Tait,3,8,150,32,5.3,0.0,1.0,0.17
-189,Montpellier,Stephy,player_154048,Mavididi,4,11,147,40,4.5,0.0,1.0,0.0
-190,Monaco,,player_154310,Gelson Martins,4,10,146,40,5.0,0.0,1.0,0.5
-191,Lens,Seko,player_154344,Fofana,3,14,142,31,5.5,0.0,1.0,0.0
-192,Monaco,Guillermo,player_155335,Maripán,2,8,146,20,5,0.0,1.0,0.0
-193,Lyon,Julian,player_156003,Pollersbeck,1,6,143,10,-,0.0,1.0,0.0
-194,Monaco,,player_156708,Keita,4,6,146,40,-,0.0,1.0,0.0
-195,Lyon,,player_158047,Thiago Mendes,3,14,143,31,5,0.0,1.0,0.0
-196,Nantes,Jean-Charles,player_158494,Castelletto,2,9,430,20,5,0.0,1.0,0.0
-197,Nantes,Abdoulaye,player_158496,Touré,3,17,430,31,4.3,0.0,1.0,0.17
-198,Monaco,Antonio,player_159039,Barreca,2,4,146,21,-,0.0,1.0,0.0
-199,Rennes,Benjamin,player_159967,Bourigeaud,3,17,150,32,6.3,1.0,1.0,0.67
-200,Lyon,Jason,player_160729,Denayer,2,16,143,20,5.5,0.0,1.0,0.8300000000000001
-201,Rennes,Adrien,player_161472,Hunou,4,16,150,40,5.3,1.0,1.0,0.17
-202,Monaco,Aleksandr,player_161950,Golovin,3,21,146,32,6.0,0.0,1.0,0.33
-203,Rennes,Serhou,player_162275,Guirassy,4,18,150,40,5.9,4.0,1.0,0.67
-204,Brest,Brendan,player_162316,Chardonnet,2,8,862,20,4.5,0.0,1.0,0.17
-205,Monaco,,player_162654,Jemerson,2,7,146,20,-,0.0,1.0,0.0
-206,Bordeaux,Youssouf,player_164474,Sabaly,2,11,140,21,4.9,0.0,1.0,0.8300000000000001
-207,Nantes,Renaud,player_166286,Emond,4,8,430,40,5,1.0,1.0,0.0
-208,Montpellier,Gaetan,player_167443,Laborde,4,18,147,40,6.4,2.0,1.0,0.8300000000000001
-209,Lens,,player_168104,Steven Fortes,2,9,142,20,5.0,0.0,1.0,0.17
-210,Strasbourg,Ludovic,player_168539,Ajorque,4,17,153,40,4.8,1.0,1.0,0.8300000000000001
-211,Brest,Steve,player_169141,Mounie,4,12,862,40,5.7,2.0,1.0,0.5
-212,Marseille,Saif-Eddine,player_169427,Khaoui,3,4,144,32,5,0.0,1.0,0.0
-213,Nîmes,Gaetan,player_169860,Paquiez,2,6,2336,21,5.5,0.0,1.0,0.33
-214,Nantes,,player_170409,Andrei Girotto,2,15,430,20,5.2,1.0,1.0,0.8300000000000001
-215,Nice,Hassane,player_171099,Kamara,2,17,1395,21,5.5,0.0,1.0,0.8300000000000001
-216,Metz,Thierry,player_171173,Ambrose,4,6,145,40,4.5,0.0,1.0,0.0
-217,Lille,,player_171319,Renato Sanches,3,16,429,32,4.8,0.0,1.0,0.33
-218,Lille,Mehmet,player_171435,Zeki Çelik,2,10,429,21,5.1,0.0,1.0,0.67
-219,Nice,,player_173085,Danilo,3,9,1395,31,-,0.0,1.0,0.0
-220,Lorient,Adrian,player_173235,Grbic,4,17,694,40,4.9,2.0,1.0,0.8300000000000001
-221,Metz,Habib,player_173253,Maïga,3,20,145,31,5.2,0.0,1.0,0.8300000000000001
-222,Marseille,Duje,player_173271,Caleta-Car,2,17,144,20,5.6,2.0,1.0,0.8300000000000001
-223,Nantes,Pedro,player_174254,Chirivella,3,10,430,31,4.7,0.0,1.0,0.8300000000000001
-224,Rennes,,player_174528,Hamari Traoré,2,14,150,21,5.5,0.0,1.0,0.5
-225,Brest,Franck,player_174655,Honorat,3,10,862,32,5.4,1.0,1.0,0.33
-226,Lyon,Joachim,player_174874,Andersen,2,12,143,20,4.8,0.0,1.0,0.33
-227,Monaco,Jean Eudes,player_174908,Aholou,3,8,146,31,5.3,0.0,1.0,0.0
-228,Dijon,Aníbal,player_175624,Chalá,2,8,2130,21,4.6,0.0,1.0,0.5
-229,Reims,,player_176495,Moreto Cassamã,3,9,1423,31,5.1,0.0,1.0,0.67
-230,Lens,Jonathan,player_176501,Gradit,2,7,142,21,4.6,0.0,1.0,0.8300000000000001
-231,Reims,Arbër,player_177885,Zeneli,3,6,1423,32,4.9,0.0,1.0,0.33
-232,Paris,Abdou,player_178478,Diallo,2,7,149,20,5.0,0.0,1.0,0.17
-233,Nîmes,Zinedine,player_180303,Ferhat,3,22,2336,32,6.7,3.0,1.0,0.8300000000000001
-234,Montpellier,Ambroise,player_180562,Oyongo,2,9,147,21,5.1,0.0,1.0,0.0
-235,Lorient,Trevoh,player_180736,Chalobah,3,6,694,31,5,0.0,1.0,0.0
-236,Bordeaux,,player_180835,Otávio,3,19,140,31,6.1,0.0,1.0,0.8300000000000001
-237,Nîmes,Adrián,player_181402,Cubas,3,14,2336,31,6.2,1.0,1.0,0.8300000000000001
-238,Nantes,Moses,player_181441,Simon,3,18,430,32,5.2,1.0,1.0,0.8300000000000001
-239,Monaco,,player_181978,Jorge,2,2,146,21,-,0.0,1.0,0.0
-240,Lyon,Léo,player_183779,Dubois,2,13,143,21,5.5,1.0,1.0,0.8300000000000001
-241,Nice,Racine,player_184215,Coly,2,5,1395,21,-,0.0,1.0,0.0
-242,Nîmes,Anthony,player_184961,Briancon,2,12,2336,20,5.5,0.0,1.0,0.33
-243,Saint-Étienne,Miguel,player_185441,Trauco,2,7,152,21,-,0.0,1.0,0.0
-244,Reims,Dereck,player_185527,Kutesa,3,9,1423,32,4.7,0.0,1.0,0.33
-245,Montpellier,Jonas,player_186796,Omlin,1,17,147,10,5.6,0.0,1.0,0.8300000000000001
-246,Bordeaux,Alexandre,player_189542,Mendy,4,5,140,40,-,0.0,1.0,0.0
-247,Reims,Moussa,player_193400,Doumbia,3,14,1423,32,-,0.0,1.0,0.0
-248,Brest,Haris,player_193411,Belkebla,3,13,862,31,4.2,0.0,1.0,0.8300000000000001
-249,Lyon,Karl,player_193454,Toko Ekambi,4,18,143,40,4.6,0.0,1.0,0.5
-250,Marseille,Valentin,player_193539,Rongier,3,21,144,31,5.2,0.0,1.0,0.67
-251,Strasbourg,Bingourou,player_194188,Kamara,1,10,153,10,4.7,0.0,1.0,0.5
-252,Bordeaux,Josh,player_195480,Maja,4,14,140,40,5.0,1.0,1.0,0.5
-253,Lille,Jonathan,player_195883,Bamba,3,19,429,32,6.3,2.0,1.0,0.8300000000000001
-254,Marseille,Nemanja,player_195908,Radonjic,3,8,144,32,4.6,0.0,1.0,0.17
-255,Montpellier,,player_197017,Junior Sambia,3,7,147,31,4.7,0.0,1.0,0.17
-256,Lens,Tony,player_197026,Mauricio,3,16,142,32,5,0.0,1.0,0.0
-257,Nîmes,Birger,player_197498,Meling,2,11,2336,21,5.8,1.0,1.0,0.67
-258,Angers,Antonin,player_198990,Bobichon,3,9,2128,32,5.0,0.0,1.0,0.5
-259,Nice,Jean-Victor,player_199666,Makengo,3,8,1395,31,-,0.0,1.0,0.0
-260,Lille,Jonathan,player_199672,Ikoné,3,17,429,32,5.0,0.0,1.0,0.5
-261,Nîmes,Florian,player_200666,Miguel,2,8,2336,21,5.0,0.0,1.0,0.17
-262,Nîmes,Clement,player_200671,Depres,4,2,2336,40,-,0.0,1.0,0.0
-263,Nantes,Anthony,player_200722,Walongwa,2,2,430,20,-,0.0,1.0,0.0
-264,Angers,Paul,player_200848,Bernardoni,1,16,2128,10,5.7,0.0,1.0,0.8300000000000001
-265,Paris,Thilo,player_201057,Kehrer,2,8,149,21,4.5,0.0,1.0,0.33
-266,Bordeaux,,player_201440,Hwang Ui-Jo,4,15,140,40,5.0,0.0,1.0,0.67
-267,Nantes,Marcus,player_201562,Coco,3,8,430,32,5.3,0.0,1.0,0.5
-268,Dijon,Roger,player_201865,Assalé,4,10,2130,40,3.5,0.0,1.0,0.17
-269,Dijon,,player_202520,Pape Cheikh,3,9,2130,31,4.2,0.0,1.0,0.5
-270,Angers,Angelo,player_202857,Fulgini,3,14,2128,32,5.6,1.0,1.0,0.8300000000000001
-271,Angers,Sada,player_202858,Thioub,4,13,2128,40,5.5,1.0,1.0,0.5
-272,Lorient,Jerome,player_202963,Hergault,2,9,694,21,-,0.0,1.0,0.0
-273,Reims,Anastasios,player_204184,Donis,4,6,1423,40,4.5,0.0,1.0,0.17
-274,Lens,Florian,player_204188,Sotoca,4,17,142,40,5.0,0.0,1.0,0.67
-275,Metz,Victorien,player_204534,Angban,3,7,145,31,5.1,0.0,1.0,0.67
-276,Bordeaux,Gaetan,player_204715,Poussin,1,7,140,10,-,0.0,1.0,0.0
-277,Nantes,Thomas,player_204719,Basila,2,5,430,20,-,0.0,1.0,0.0
-278,Nantes,Alban,player_204739,Lafont,1,20,430,10,5.5,0.0,1.0,0.8300000000000001
-279,Nîmes,Yassine,player_204742,Benrahou,3,12,2336,32,4.5,0.0,1.0,0.67
-280,Dijon,Mounir,player_204744,Chouiar,3,15,2130,32,4.6,0.0,1.0,0.33
-281,Lorient,Julien,player_205552,Laporte,2,13,694,20,4.3,0.0,1.0,0.67
-282,Montpellier,Mihailo,player_206340,Ristic,2,7,147,21,5.3,0.0,1.0,0.8300000000000001
-283,Dijon,Mihai-Alexandru,player_207300,Dobre,3,8,2130,32,4.5,0.0,1.0,0.17
-284,Saint-Étienne,Sergi,player_207756,Palencia,2,5,152,21,-,0.0,1.0,0.0
-285,Angers,Enzo,player_208554,Ebosse,2,7,2128,21,4.7,0.0,1.0,0.17
-286,Bordeaux,Loic,player_208555,Bessile,2,1,140,20,-,0.0,1.0,0.0
-287,Nice,Myziane,player_208556,Maolida,4,7,1395,40,4.3,0.0,1.0,0.17
-288,Nice,Stanley,player_208559,N'Soki,2,13,1395,21,-,0.0,1.0,0.0
-289,Lyon,,player_208706,Bruno Guimarães,3,16,143,31,5.6,0.0,1.0,0.8300000000000001
-290,Lyon,Jeff,player_208987,Reine-Adélaïde,3,10,143,32,5.5,0.0,1.0,0.0
-291,Dijon,Jonathan,player_209035,Panzo,2,3,2130,20,4.8,0.0,1.0,0.5
-292,Montpellier,Dimitry,player_209218,Bertaud,1,7,147,10,-,0.0,1.0,0.0
-293,Monaco,Pietro,player_209335,Pellegri,4,2,146,40,4,0.0,1.0,0.0
-294,Saint-Étienne,Harold,player_209608,Moukoudi,2,6,152,20,4.3,0.0,1.0,0.33
-295,Lens,Wuilker,player_209778,Fariñez,1,7,142,10,-,0.0,1.0,0.0
-296,Nice,Kasper,player_209914,Dolberg,4,27,1395,40,4.8,2.0,1.0,0.67
-297,Nîmes,Sidy,player_210187,Sarr,3,8,2336,31,5.0,0.0,1.0,0.17
-298,Nîmes,Moussa,player_210202,Koné,4,9,2336,40,4.8,1.0,1.0,0.0
-299,Bordeaux,Vukasin,player_210228,Jovanovic,2,6,140,20,-,0.0,1.0,0.0
-300,Angers,Souleyman,player_210456,Doumbia,2,14,2128,21,5.3,0.0,1.0,0.5
-301,Rennes,Nayef,player_210494,Aguerd,2,10,150,20,5.9,2.0,1.0,0.8300000000000001
-302,Nice,Pierre,player_212325,Lees-Melou,3,25,1395,32,5.5,0.0,1.0,0.8300000000000001
-303,Bordeaux,Toma,player_212851,Basic,3,15,140,31,5.8,1.0,1.0,0.8300000000000001
-304,Nantes,Ludovic,player_213940,Blas,3,19,430,32,5.2,1.0,1.0,0.67
-305,Marseille,Maxime,player_213965,Lopez,3,7,144,32,4.2,0.0,1.0,0.33
-306,Metz,Fabien,player_214245,Centonze,2,15,145,21,5.2,0.0,1.0,0.8300000000000001
-307,Metz,Habib,player_214254,Diallo,4,19,145,40,4.0,0.0,1.0,0.17
-308,Monaco,Youssef,player_214472,Aït Bennasser,3,6,146,31,-,0.0,1.0,0.0
-309,Rennes,,player_214473,Faitout Maouassa,2,17,150,21,5.1,0.0,1.0,0.67
-310,Bordeaux,Enock,player_215046,Kwateng,2,9,140,21,5.3,0.0,1.0,0.0
-311,Angers,Lassana,player_215047,Coulibaly,3,9,2128,31,5.3,0.0,1.0,0.17
-312,Lille,Timothy,player_215473,Weah,4,5,429,40,4.3,0.0,1.0,0.0
-313,Lyon,Tinotenda,player_215669,Kadewere,4,8,143,40,4.6,0.0,1.0,0.17
-314,Monaco,,player_216055,Florentino Luís,3,6,146,31,-,0.0,1.0,0.0
-315,Brest,Gautier,player_216100,Larsonneur,1,23,862,10,4.2,0.0,1.0,0.8300000000000001
-316,Saint-Étienne,Denis,player_216227,Bouanga,3,29,152,32,5.3,2.0,1.0,0.8300000000000001
-317,Lorient,Yoane,player_216646,Wissa,4,19,694,40,5.9,3.0,1.0,0.8300000000000001
-318,Reims,Mathieu,player_217597,Cafaro,3,10,1423,32,5.0,0.0,1.0,0.67
-319,Nantes,,player_217872,Charles Traoré,2,11,430,21,5.0,0.0,1.0,0.33
-320,Rennes,Jeremy,player_217992,Gelin,2,7,150,20,-,0.0,1.0,0.0
-321,Reims,Wout,player_218218,Faes,2,10,1423,20,4.3,0.0,1.0,0.5
-322,Metz,Mamadou,player_218240,Fofana,2,10,145,20,4.8,0.0,1.0,0.5
-323,Nice,Alexis,player_218357,Claude Maurice,3,13,1395,32,4.7,0.0,1.0,0.17
-324,Nîmes,Lamine,player_218366,Fomba,3,7,2336,31,5.3,0.0,1.0,0.33
-325,Monaco,Loic,player_218389,Badiashile,1,2,146,10,-,0.0,1.0,0.0
-326,Metz,Kevin,player_218796,N'Doram,3,9,145,31,-,0.0,1.0,0.0
-327,Monaco,,player_219230,Gil Dias,3,4,146,32,-,0.0,1.0,0.0
-328,Nantes,Batista,player_219286,Mendy,2,1,430,20,4.5,0.0,1.0,0.0
-329,Lille,Alexis,player_219289,Flips,3,1,429,32,-,0.0,1.0,0.0
-330,Monaco,Aurelien,player_219292,Tchouameni,3,11,146,31,5.2,0.0,1.0,0.8300000000000001
-331,Lyon,Maxence,player_219296,Caqueret,3,11,143,31,5.3,0.0,1.0,0.67
-332,Rennes,Romain,player_219873,Del Castillo,4,9,150,40,5.7,0.0,1.0,0.17
-333,Rennes,,player_219961,Raphinha,3,24,150,32,5.6,0.0,1.0,0.67
-334,Lens,Simon,player_219969,Banza,4,10,142,40,4.8,0.0,1.0,0.17
-335,Brest,Ronaël,player_220074,Pierre-Gabriel,2,10,862,21,4.1,0.0,1.0,0.67
-336,Paris,Kylian,player_220160,Mbappé,4,42,149,40,7.3,1.0,1.0,0.33
-337,Lille,Sven,player_220237,Botman,2,13,429,20,5.8,0.0,1.0,0.8300000000000001
-338,Monaco,Axel,player_220362,Disasi,2,17,146,20,4.7,1.0,1.0,0.8300000000000001
-339,Lorient,Quentin,player_220494,Boisgard,3,12,694,32,5.0,0.0,1.0,0.67
-340,Lille,Yusuf,player_220734,Yazici,3,7,429,32,4.9,0.0,1.0,0.0
-341,Lorient,Andreaw,player_220872,Gravillon,2,9,694,20,-,0.0,1.0,0.0
-342,Brest,Ferris,player_221024,N'Goma,3,5,862,31,-,0.0,1.0,0.0
-343,Lens,Jonathan,player_221095,Clauss,3,7,142,31,5.2,0.0,1.0,0.5
-344,Metz,,player_221542,Vágner,3,10,145,32,-,0.0,1.0,0.0
-345,Metz,Matthieu,player_221987,Udol,2,8,145,21,5.6,0.0,1.0,0.67
-346,Angers,Mathias,player_223140,Pereira Lage,3,7,2128,32,4.5,0.0,1.0,0.17
-347,Lille,,player_223908,Luiz Araújo,4,8,429,40,5.6,2.0,1.0,0.33
-348,Angers,,player_224077,Elhadji Djibril Diaw,2,1,2128,20,-,0.0,1.0,0.0
-349,Lorient,Stéphane,player_224297,Diarra,4,7,694,40,4.5,0.0,1.0,0.33
-350,Lens,Facundo,player_224868,Medina,2,6,142,21,4.7,1.0,1.0,0.8300000000000001
-351,Bordeaux,Samuel,player_225702,Kalu,3,8,140,32,5.1,1.0,1.0,0.33
-352,Monaco,Fode,player_225897,Ballo-Toure,2,10,146,21,5.3,0.0,1.0,0.5
-353,Lille,Boubakary,player_225902,Soumaré,3,8,429,31,4.9,0.0,1.0,0.33
-354,Nîmes,Sofiane,player_225997,Alakouch,2,8,2336,21,4,0.0,1.0,0.0
-355,Monaco,Samuel,player_226194,Grandsir,3,7,146,32,-,0.0,1.0,0.0
-356,Strasbourg,Ibrahima,player_226451,Sissoko,3,10,153,31,4.6,0.0,1.0,0.8300000000000001
-357,Lens,Didier,player_226943,Desprez,1,3,142,10,-,0.0,1.0,0.0
-358,Marseille,Boubacar,player_226944,Kamara,2,20,144,20,4.9,0.0,1.0,0.8300000000000001
-359,Nîmes,Amine,player_226948,Karraoui,4,1,2336,40,-,0.0,1.0,0.0
-360,Lorient,Mohamed,player_227326,Mara,4,1,694,40,-,0.0,1.0,0.0
-361,Metz,,player_228254,Kiki Kouyate,2,7,145,20,5,0.0,1.0,0.0
-362,Strasbourg,Dimitri,player_228322,Lienard,3,15,153,32,5.3,0.0,1.0,0.0
-363,Montpellier,Keagan,player_228361,Dolly,3,6,147,32,5,0.0,1.0,0.0
-364,Monaco,Radoslaw,player_228539,Majecki,1,7,146,10,5.0,0.0,1.0,0.17
-365,Reims,Dario,player_228563,Maresic,2,8,1423,20,4.5,0.0,1.0,0.5
-366,Lorient,Houboulang,player_229222,Mendes,2,9,694,21,3.8,0.0,1.0,0.8300000000000001
-367,Bordeaux,Remi,player_229230,Oudin,3,23,140,32,5.4,0.0,1.0,0.5
-368,Monaco,Henry,player_229273,Onyekuru,3,10,146,32,4.8,0.0,1.0,0.33
-369,Lens,Clement,player_229605,Michelin,2,16,142,21,5.2,0.0,1.0,0.33
-370,Nice,Jordan,player_229707,Lotomba,2,12,1395,21,5.3,0.0,1.0,0.67
-371,Strasbourg,Lebo,player_230337,Mothiba,4,8,153,40,-,0.0,1.0,0.0
-372,Metz,Manuel,player_230443,Cabit,2,4,145,21,-,0.0,1.0,0.0
-373,Lens,Aleksandar,player_230801,Radovanovic,2,16,142,20,-,0.0,1.0,0.0
-374,Monaco,,player_230971,Caio Henrique,2,6,146,21,-,0.0,1.0,0.0
-375,Strasbourg,Jean-Ricner,player_231057,Bellegarde,3,9,153,31,4.8,0.0,1.0,0.67
-376,Metz,Dylan,player_231058,Bronn,2,8,145,20,5.1,0.0,1.0,0.8300000000000001
-377,Paris,Marcin,player_231399,Bulka,1,1,149,10,4.0,0.0,1.0,0.17
-378,Reims,Yehvann,player_231875,Diouf,1,1,1423,10,-,0.0,1.0,0.0
-379,Brest,Jean-Kevin,player_231881,Duverne,2,10,862,20,4.0,0.0,1.0,0.8300000000000001
-380,Lyon,Houssem,player_231961,Aouar,3,20,143,32,5.0,0.0,1.0,0.33
-381,Rennes,Martin,player_232176,Terrier,3,11,150,32,5.3,0.0,1.0,0.67
-382,Nîmes,Patrick,player_232197,Burner,2,8,2336,21,5,0.0,1.0,0.0
-383,Strasbourg,Anthony,player_232240,Caci,2,8,153,21,4.5,0.0,1.0,0.33
-384,Reims,Fraser,player_232828,Hornby,3,6,1423,32,4.3,0.0,1.0,0.0
-385,Saint-Étienne,Arnaud,player_235050,Nordin,3,12,152,32,5.4,0.0,1.0,0.67
-386,Brest,Ibrahima,player_240143,Diallo,3,10,862,31,4.9,0.0,1.0,0.8300000000000001
-387,Brest,Irvin,player_240145,Cardona,4,12,862,40,4.5,1.0,1.0,0.33
-388,Bordeaux,Mehdi,player_240153,Zerkane,3,3,140,32,4.0,0.0,1.0,0.17
-389,Saint-Étienne,Alexis,player_240185,Guendouz,1,1,152,10,-,0.0,1.0,0.0
-390,Reims,Kaj,player_240860,Sierhuis,4,5,1423,40,4.3,0.0,1.0,0.0
-391,Reims,Thibault,player_241059,De Smet,2,4,1423,21,-,0.0,1.0,0.0
-392,Saint-Étienne,Rayan,player_241099,Souici,2,1,152,20,-,0.0,1.0,0.0
-393,Lens,Cyrille,player_241345,Bayala,3,5,142,32,-,0.0,1.0,0.0
-394,Lorient,Pierre-Yves,player_242167,Hamel,4,16,694,40,5.4,1.0,1.0,0.0
-395,Lille,,player_242600,Xeka,3,14,429,31,6.2,0.0,1.0,0.33
-396,Saint-Étienne,Stefan,player_242878,Bajic,1,3,152,10,-,0.0,1.0,0.0
-397,Monaco,Benoit,player_242880,Badiashile Mukinayi,2,17,146,20,5.5,2.0,1.0,0.8300000000000001
-398,Nice,,player_242887,Kephren Thuram,3,9,1395,31,4.5,0.0,1.0,0.67
-399,Nantes,Abdoulaye,player_242890,Dabo,3,1,430,32,-,0.0,1.0,0.0
-400,Rennes,Yann,player_242893,Gboho,3,5,150,32,4.8,0.0,1.0,0.0
-401,Monaco,Willem,player_242894,Geubbels,4,8,146,40,4.9,1.0,1.0,0.0
-402,Brest,Hugo,player_243741,Magnetti,3,6,862,31,4.5,0.0,1.0,0.0
-403,Nîmes,Lucas,player_244136,Lionel Dias,1,7,2336,10,-,0.0,1.0,0.0
-404,Saint-Étienne,Zaydou,player_244182,Youssouf,3,6,152,31,4.8,0.0,1.0,0.33
-405,Metz,Youssef,player_244490,Maziz,3,1,145,32,5,0.0,1.0,0.0
-406,Brest,Romain,player_244560,Perraud,2,11,862,21,6.0,2.0,1.0,0.67
-407,Reims,Ghislain,player_244642,Konan,2,9,1423,21,4.4,0.0,1.0,0.8300000000000001
-408,Rennes,Namakoro,player_244754,Diallo,2,1,150,21,-,0.0,1.0,0.0
-409,Rennes,James,player_244842,Lea Siliki,3,8,150,31,-,0.0,1.0,0.0
-410,Nice,,player_245090,Robson Bambu,2,7,1395,20,5.0,0.0,1.0,0.17
-411,Lille,Hakim,player_245715,Ouro-Sama,2,1,429,20,-,0.0,1.0,0.0
-412,Nîmes,Kévin,player_245918,Denkey,4,12,2336,40,4.9,1.0,1.0,0.5
-413,Lorient,Umut,player_246451,Bozok,4,6,694,40,4.5,0.0,1.0,0.0
-414,Saint-Étienne,Yvan,player_247146,Neyou,3,8,152,31,5.6,0.0,1.0,0.67
-415,Dijon,Anthony,player_247385,Racioppi,1,1,2130,10,-,0.0,1.0,0.0
-416,Nice,Amine,player_247400,Gouiri,4,15,1395,40,6.3,2.0,1.0,0.67
-417,Lille,,player_247629,Tiago Djaló,2,5,429,20,-,0.0,1.0,0.0
-418,Nantes,Randal,player_247693,Kolo Muani,4,7,430,40,5.0,0.0,1.0,0.67
-419,Paris,Mitchel,player_247957,Bakker,2,3,149,21,5.6,0.0,1.0,0.5
-420,Nîmes,Sami,player_250588,Ben Amar,4,2,2336,40,-,0.0,1.0,0.0
-421,Brest,,player_250685,Heriberto Tavares,4,7,862,40,4.3,0.0,1.0,0.0
-422,Metz,Ibrahima,player_250694,Niane,4,7,145,40,5.1,3.0,1.0,0.8300000000000001
-423,Lille,Jonathan Christian,player_421821,David,4,16,429,40,4.8,0.0,1.0,0.8300000000000001
-424,Marseille,Pape Alassane,player_422453,Gueye,3,7,144,31,4.6,0.0,1.0,0.17
-425,Dijon,Ngonda,player_422631,Muzinga,2,5,2130,21,5.0,0.0,1.0,0.17
-426,Lens,Gaëtan,player_423151,Robail,3,19,142,32,-,0.0,1.0,0.0
-427,Nîmes,Matteo,player_423870,Ahlinvi,3,1,2336,31,5,0.0,1.0,0.0
-428,Saint-Étienne,Jean-Phillipe,player_424920,Krasso,4,5,152,40,4.8,0.0,1.0,0.0
-429,Nice,Youcef,player_425614,Atal,2,14,1395,21,4.0,0.0,1.0,0.33
-430,Reims,Moise,player_428373,Sakava,3,1,1423,31,-,0.0,1.0,0.0
-431,Montpellier,Nicolas,player_428989,Cozza,2,6,147,20,5.0,0.0,1.0,0.17
-432,Dijon,,player_430510,Mama Baldé,3,13,2130,32,5.0,0.0,1.0,0.17
-433,Lorient,Franklin,player_431653,Wadja,3,4,694,31,5,0.0,1.0,0.0
-434,Nantes,Samuel,player_432489,Moutoussamy,3,7,430,31,5.0,0.0,1.0,0.17
-435,Reims,Sambou,player_432662,Sissoko,3,4,1423,31,-,0.0,1.0,0.0
-436,Reims,Marshall,player_433312,Munetsi,3,10,1423,31,4.3,0.0,1.0,0.5
-437,Strasbourg,Kévin,player_433640,Zohi,4,6,153,40,4.6,0.0,1.0,0.17
-438,Nîmes,Lucas,player_433731,Buades,3,2,2336,32,4.5,0.0,1.0,0.0
-439,Lens,Ignatius,player_433771,Ganago,4,10,142,40,6.4,4.0,1.0,0.67
-440,Bordeaux,Over,player_433830,Mandanda,1,1,140,10,-,0.0,1.0,0.0
-441,Lille,,player_434399,Reinildo,2,8,429,21,4.3,0.0,1.0,0.17
-442,Rennes,Gerzino,player_435731,Nyamsi,2,3,150,20,-,0.0,1.0,0.0
-443,Strasbourg,Ismaël,player_436644,Aaneba,2,1,153,20,-,0.0,1.0,0.0
-444,Saint-Étienne,Alpha,player_437204,Sissoko,2,1,152,21,5,0.0,1.0,0.0
-445,Lyon,Melvin,player_437497,Bard,2,5,143,21,5.1,0.0,1.0,0.17
-446,Nice,Andy,player_437501,Pelmard,2,8,1395,20,5.1,0.0,1.0,0.67
-447,Bordeaux,Yacine,player_437504,Adli,3,14,140,32,5.2,0.0,1.0,0.17
-448,Brest,Sebastien,player_437721,Cibois,1,6,862,10,-,0.0,1.0,0.0
-449,Monaco,Arthur,player_437726,Zagre,2,2,146,21,-,0.0,1.0,0.0
-450,Monaco,Giulian,player_437753,Biancone,2,2,146,21,4.5,0.0,1.0,0.0
-451,Monaco,Gobe,player_437754,Gouano,4,1,146,40,-,0.0,1.0,0.0
-452,Nice,Flavius,player_437925,Daniliuc,2,3,1395,20,5,0.0,1.0,0.0
-453,Dijon,Éric,player_438309,Ebimbe,3,9,2130,32,4.5,1.0,1.0,0.8300000000000001
-454,Lens,Cheick Oumar,player_438464,Doucoure,3,14,142,31,5.3,0.0,1.0,0.8300000000000001
-455,Nîmes,Kelyan,player_439122,Guessoum,2,1,2336,20,-,0.0,1.0,0.0
-456,Paris,Garissone,player_439363,Innocent,1,1,149,10,-,0.0,1.0,0.0
-457,Brest,Romain,player_441240,Faivre,3,13,862,32,5.9,1.0,1.0,0.8300000000000001
-458,Marseille,Christopher,player_441576,Rocchia,2,4,144,21,5,0.0,1.0,0.0
-459,Saint-Étienne,Mahdi,player_442264,Camara,3,11,152,31,5.9,1.0,1.0,0.8300000000000001
-460,Dijon,Aurelien,player_442673,Scheidler,4,12,2130,40,4.3,1.0,1.0,0.5
-461,Nantes,Abdoul Kader,player_443202,Bamba,3,15,430,32,4.8,0.0,1.0,0.33
-462,Lyon,,player_444151,Jean Lucas,3,5,143,31,5.2,0.0,1.0,0.17
-463,Lyon,Boubacar,player_444204,Fofana,4,1,143,40,-,0.0,1.0,0.0
-464,Saint-Étienne,Wesley,player_444463,Fofana,2,10,152,20,5.5,0.0,1.0,0.5
-465,Montpellier,Yannis,player_446006,Ammour,3,1,147,32,-,0.0,1.0,0.0
-466,Marseille,Leonardo,player_446682,Balerdi,2,9,144,20,3.8,0.0,1.0,0.33
-467,Angers,Farid,player_447389,El Melali,3,7,2128,32,4.8,0.0,1.0,0.17
-468,Rennes,Lilian,player_447547,Brassier,2,4,150,20,-,0.0,1.0,0.0
-469,Monaco,Jonathan,player_448197,Bakali Wawina,4,1,146,40,-,0.0,1.0,0.0
-470,Angers,Rayan,player_448514,Ait Nouri,2,7,2128,21,5.5,0.0,1.0,0.17
-471,Lorient,Armand,player_449431,Laurienté,3,4,694,32,-,0.0,1.0,0.0
-472,Strasbourg,Mahamé,player_454671,Siby,3,3,153,31,-,0.0,1.0,0.0
-473,Dijon,Senou,player_454964,Coulibaly,2,5,2130,20,-,0.0,1.0,0.0
-474,Montpellier,Clement,player_456193,Vidal,2,3,147,20,-,0.0,1.0,0.0
-475,Montpellier,Amir,player_456195,Adouyev,3,1,147,32,-,0.0,1.0,0.0
-476,Marseille,Lucas,player_456300,Perrin,2,4,144,20,-,0.0,1.0,0.0
-477,Dijon,Lévi,player_456355,Ntumba,1,1,2130,10,-,0.0,1.0,0.0
-478,Nice,Dan,player_456512,Ndoye,4,6,1395,40,4.6,0.0,1.0,0.17
-479,Bordeaux,Ibrahim,player_457234,Diarra,4,1,140,40,-,0.0,1.0,0.0
-480,Paris,Colin,player_458250,Dagba,2,6,149,21,5.0,0.0,1.0,0.17
-481,Lorient,Julien,player_458322,Ponceau,3,2,694,32,-,0.0,1.0,0.0
-482,Metz,Cheick Tidiane,player_458345,Sabaly,4,6,145,40,4.3,0.0,1.0,0.17
-483,Lens,Ansou,player_458347,Sow,4,1,142,40,-,0.0,1.0,0.0
-484,Metz,Warren,player_458455,Tchimbembé,4,5,145,40,5,0.0,1.0,0.0
-485,Lille,Domagoj,player_458681,Bradaric,2,8,429,21,5.3,0.0,1.0,0.67
-486,Monaco,Sofiane,player_460267,Diop,3,7,146,32,5.5,1.0,1.0,0.33
-487,Marseille,Florian,player_461397,Chabrolle,3,1,144,32,-,0.0,1.0,0.0
-488,Lille,Eugenio,player_461698,Pizzuto,3,4,429,31,-,0.0,1.0,0.0
-489,Lille,Arton,player_461833,Zekaj,3,3,429,31,-,0.0,1.0,0.0
-490,Strasbourg,Louis,player_461908,Pelletier,1,1,153,10,-,0.0,1.0,0.0
-491,Strasbourg,Mohamed,player_461910,Simakan,2,10,153,20,4.8,0.0,1.0,0.8300000000000001
-492,Monaco,Youssouf,player_461913,Fofana,3,14,146,31,4.4,0.0,1.0,0.67
-493,Rennes,Georginio,player_463067,Rutter,4,1,150,40,4,0.0,1.0,0.0
-494,Reims,Virgile,player_464192,Pinson,4,1,1423,40,-,0.0,1.0,0.0
-495,Saint-Étienne,Bilal,player_465151,Benkhedim,3,5,152,32,-,0.0,1.0,0.0
-496,Lyon,Cedric,player_465154,Augarreau,3,1,143,31,-,0.0,1.0,0.0
-497,Rennes,Lucas,player_465158,Da Cunha,3,5,150,32,-,0.0,1.0,0.0
-498,Nice,,player_465203,Pedro Brazao,3,1,1395,32,-,0.0,1.0,0.0
-499,Angers,Anthony,player_465299,Mancini,3,1,2128,32,-,0.0,1.0,0.0
-500,Monaco,Chrislain,player_465524,Matsima,2,3,146,20,5.5,0.0,1.0,0.0
-501,Monaco,Eliot,player_465525,Matazo,3,1,146,31,5,0.0,1.0,0.0
-502,Monaco,Enzo,player_465526,Millot,3,1,146,32,-,0.0,1.0,0.0
-503,Lyon,Heritier,player_465540,Deyonge,2,2,143,21,-,0.0,1.0,0.0
-504,Saint-Étienne,Adil,player_465676,Aouchiche,3,16,152,32,5.8,1.0,1.0,0.8300000000000001
-505,Paris,Arnaud Kalimuendo,player_465680,Muinga,4,1,149,40,4.5,0.0,1.0,0.17
-506,Paris,Bandiougou,player_465681,Fadiga,3,1,149,32,4.5,0.0,1.0,0.0
-507,Paris,Kays,player_465684,Ruiz-Atil,3,1,149,31,4.3,0.0,1.0,0.17
-508,Paris,Maxen,player_465685,Kapo,3,1,149,31,-,0.0,1.0,0.0
-509,Paris,Timothee,player_465702,Pembele,2,2,149,20,-,0.0,1.0,0.0
-510,Lyon,Yaya,player_466038,Soumare,3,1,143,32,-,0.0,1.0,0.0
-511,Lyon,Rayan,player_466052,Cherki,3,8,143,32,5.2,0.0,1.0,0.33
-512,Marseille,Abdallah,player_467625,Mohamed Abdallah,2,1,144,21,-,0.0,1.0,0.0
-513,Monaco,,player_468220,Gabriel Pereira,1,3,146,10,-,0.0,1.0,0.0
-514,Reims,Boulaye,player_468488,Dia,4,18,1423,40,5.5,2.0,1.0,0.5
-515,Nice,Eddy,player_469204,Sylvestre,3,8,1395,32,5.1,0.0,1.0,0.17
-516,Saint-Étienne,Lucas,player_469266,Gourna-Douath,3,1,152,31,4.8,0.0,1.0,0.0
-517,Metz,Lenny,player_469267,Lacroix,2,1,145,20,-,0.0,1.0,0.0
-518,Angers,Kevin,player_469318,Mouanga,2,1,2128,20,-,0.0,1.0,0.0
-519,Lorient,Teddy,player_469324,Bartouche,1,1,694,10,-,0.0,1.0,0.0
-520,Lyon,Modeste Duku,player_469847,Mbenga,3,1,143,32,-,0.0,1.0,0.0
-521,Marseille,Alexandre,player_471437,Phliponeau,3,1,144,31,-,0.0,1.0,0.0
-522,Nantes,Imran,player_471471,Louza,3,17,430,32,5.5,1.0,1.0,0.5
-523,Montpellier,Matis,player_471924,Carvalho,1,1,147,10,-,0.0,1.0,0.0
-524,Saint-Étienne,Charles,player_472778,Abi,4,12,152,40,4.5,0.0,1.0,0.17
-525,Saint-Étienne,Marvin,player_472779,Tshibuabua,2,1,152,20,-,0.0,1.0,0.0
-526,Rennes,Eduardo,player_475561,Camavinga,3,19,150,31,6.0,1.0,1.0,0.67
-527,Reims,,player_476411,Dialy Ndiaye,1,3,1423,10,-,0.0,1.0,0.0
-528,Reims,El Bilal,player_476489,Touré,4,12,1423,40,4.7,1.0,1.0,0.67
-529,Metz,Boubacar,player_476502,Traore,3,1,145,31,-,0.0,1.0,0.0
-530,Rennes,Brandon,player_476883,Soppy,2,7,150,21,5.1,0.0,1.0,0.33
-531,Lille,Isaac,player_476884,Lihadji,4,4,429,40,5,0.0,1.0,0.0
-532,Bordeaux,Dilane,player_476887,Bakwa,4,4,140,40,5,0.0,1.0,0.0
-533,Bordeaux,Sékou,player_476888,Mara,4,1,140,40,-,0.0,1.0,0.0
-534,Nîmes,Amjhad,player_476889,Nazih,1,1,2336,10,-,0.0,1.0,0.0
-535,Marseille,Richecarde,player_476890,Richard,2,1,144,21,-,0.0,1.0,0.0
-536,Reims,Nathanael,player_476892,Mbuku,4,6,1423,40,5.0,0.0,1.0,0.17
-537,Nice,Paul,player_477085,Wade,3,1,1395,31,-,0.0,1.0,0.0
-538,Nantes,Josué,player_477411,Homawoo,2,1,430,20,-,0.0,1.0,0.0
-539,Montpellier,Adil,player_477697,Ben Achour,3,2,147,32,-,0.0,1.0,0.0
-540,Montpellier,Bastian,player_477699,Badu,4,5,147,40,-,0.0,1.0,0.0
-541,Montpellier,Joris,player_477711,Chotard,3,8,147,31,4.8,0.0,1.0,0.17
-542,Montpellier,Samy,player_477720,Benchama,3,3,147,31,4.5,0.0,1.0,0.0
-543,Montpellier,Thibault,player_477729,Tamas,2,1,147,21,-,0.0,1.0,0.0
-544,Montpellier,Thibaut,player_477730,Vargas,2,7,147,21,-,0.0,1.0,0.0
-545,Marseille,,player_478270,Luis Henrique,4,5,144,40,-,0.0,1.0,0.0
-546,Angers,Haithem,player_480778,Loucif,3,5,2128,32,-,0.0,1.0,0.0
-547,Nice,Hichem,player_480779,Boudaoui,3,7,1395,32,-,0.0,1.0,0.0
-548,Rennes,Sacha,player_481616,Boey,2,4,150,21,3.5,0.0,1.0,0.17
-549,Bordeaux,Albert-Nicolas,player_481667,Lottin,3,1,140,31,-,0.0,1.0,0.0
-550,Bordeaux,Alexandre,player_482549,Lauray,2,2,140,20,-,0.0,1.0,0.0
-551,Lorient,Enzo,player_484420,Le Fée,3,10,694,32,5.1,0.0,1.0,0.67
-552,Marseille,Marley,player_485176,Aké,3,7,144,32,4.7,0.0,1.0,0.0
-553,Marseille,Jores,player_485180,Rahou,3,1,144,32,-,0.0,1.0,0.0
-554,Lille,Lucas,player_485335,Chevalier,1,1,429,10,-,0.0,1.0,0.0
-555,Nice,Evann,player_485337,Guessand,4,4,1395,40,4.7,0.0,1.0,0.0
-556,Nantes,Bridge,player_486792,Ndilu,4,3,430,40,4,0.0,1.0,0.0
-557,Monaco,Strahinja,player_487606,Pavlovic,2,3,146,20,-,0.0,1.0,0.0
-558,Strasbourg,Adrien,player_488337,Lebeau,3,4,153,32,-,0.0,1.0,0.0
-559,Lens,Charles,player_488351,Boli,3,8,142,32,-,0.0,1.0,0.0
-560,Angers,Zinédine,player_488448,Ould Khaled,3,4,2128,31,-,0.0,1.0,0.0
-561,Lens,Cheikh Cory,player_488580,Sene,2,2,142,20,-,0.0,1.0,0.0
-562,Bordeaux,Davy,player_488695,Rouyard,1,1,140,10,-,0.0,1.0,0.0
-563,Bordeaux,Ismael,player_488697,Sow,2,1,140,21,-,0.0,1.0,0.0
-564,Bordeaux,David,player_488698,Cardoso,2,1,140,20,-,0.0,1.0,0.0
-565,Brest,Hianga'a,player_489230,M'Bock,3,8,862,31,5,0.0,1.0,0.0
-566,Saint-Étienne,Etienne,player_489571,Green,1,1,152,10,-,0.0,1.0,0.0
-567,Saint-Étienne,Aïmen,player_489573,Moueffek,3,1,152,31,4.3,0.0,1.0,0.33
-568,Metz,Papa Ndiaga,player_489661,Yade,3,6,145,32,5.4,0.0,1.0,0.0
-569,Marseille,Ahmadou,player_489963,Dia,1,1,144,10,-,0.0,1.0,0.0
-570,Nantes,Wesley,player_489995,Moustache,2,1,430,21,-,0.0,1.0,0.0
-571,Marseille,Simon,player_490135,Ngapandouetnbu,1,1,144,10,-,0.0,1.0,0.0
-572,Dijon,Rayan,player_490190,Philippe,4,7,2130,40,4.9,0.0,1.0,0.33
-573,Rennes,Elias,player_490191,Damergy,1,1,150,10,-,0.0,1.0,0.0
-574,Lille,Cheikh,player_490209,Niasse,3,3,429,31,-,0.0,1.0,0.0
-575,Lyon,Cenk,player_490239,Özkacar,2,1,143,20,-,0.0,1.0,0.0
-576,Strasbourg,Mehdi,player_490340,Chahiri,3,12,153,32,5.4,2.0,1.0,0.33
-577,Angers,Mohamed,player_490884,Ali-Cho,3,3,2128,32,4.8,0.0,1.0,0.0
-578,Nîmes,Antoine,player_492825,Valerio,3,2,2336,32,-,0.0,1.0,0.0
-579,Lille,Nassim,player_492836,Innocenti,2,2,429,20,-,0.0,1.0,0.0
-580,Lille,Fadiga,player_492925,Ouattara,4,1,429,40,-,0.0,1.0,0.0
-581,Lyon,Sinaly,player_492975,Diomande,2,1,143,20,4.5,0.0,1.0,0.17
-582,Paris,Abdoulaye,player_493345,Kamara,3,1,149,31,-,0.0,1.0,0.0
-583,Paris,Edouard,player_493349,Michut,3,1,149,31,-,0.0,1.0,0.0
-584,Paris,Xavi,player_493362,Simons,3,1,149,31,-,0.0,1.0,0.0
-585,Rennes,Pépé,player_493984,Bonet,1,1,150,10,-,0.0,1.0,0.0
-586,Rennes,Adrien,player_494521,Truffert,2,1,150,21,7.5,1.0,1.0,0.0
-587,Angers,Waniss,player_494978,Taibi,3,1,2128,32,-,0.0,1.0,0.0
-588,Nîmes,Valentin,player_495476,Rabouille,1,1,2336,10,-,0.0,1.0,0.0
-589,Lens,Kandet,player_496521,Diawara,3,1,142,31,-,0.0,1.0,0.0
-590,Nîmes,Nassim,player_496523,Chadli,4,1,2336,40,-,0.0,1.0,0.0
-591,Paris,Kenny,player_496630,Nagera,4,1,149,40,-,0.0,1.0,0.0
-592,Dijon,Ahmad Toure,player_497278,Ngouyamsa Nounchil,2,9,2130,21,3.8,0.0,1.0,0.33
-593,Saint-Étienne,Edmilson,player_498406,Indjai Correia,4,4,152,40,-,0.0,1.0,0.0
-594,Nîmes,Lucas,player_499658,Valls,3,1,2336,31,-,0.0,1.0,0.0
-595,Saint-Étienne,Victor,player_500222,Petit,3,1,152,31,-,0.0,1.0,0.0
-596,Lens,Loic,player_500267,Bade,2,8,142,20,5.1,0.0,1.0,0.67
-597,Metz,Lamine,player_501334,Gueye,3,3,145,32,4.5,0.0,1.0,0.0
-598,Saint-Étienne,Maxence,player_501599,Rivera,4,5,152,40,4.6,0.0,1.0,0.0
-599,Nice,Noah,player_501797,Crétier,2,1,1395,20,-,0.0,1.0,0.0
-600,Nîmes,Julien,player_502435,Megier,2,1,2336,20,-,0.0,1.0,0.0
-601,Saint-Étienne,Yvann,player_502951,Maçon,2,9,152,21,5.5,1.0,1.0,0.8300000000000001
-602,Nice,Alexis,player_505193,Trouillet,3,5,1395,32,5,0.0,1.0,0.0
-603,Lens,David,player_505834,Pereira Da Costa,3,1,142,31,-,0.0,1.0,0.0
-604,Lens,Ismael,player_510139,Boura,2,3,142,21,4.8,0.0,1.0,0.33
-605,Lens,Adam,player_510140,Oudjani,3,1,142,32,-,0.0,1.0,0.0
-606,Marseille,Cheick,player_510299,Souaré,3,1,144,31,-,0.0,1.0,0.0
-607,Marseille,Nassim,player_510310,Ahmed,3,1,144,31,-,0.0,1.0,0.0
-608,Marseille,Ugo,player_510312,Bertelli,3,1,144,31,-,0.0,1.0,0.0
-609,Marseille,Aaron,player_510314,Kamardin,2,1,144,20,-,0.0,1.0,0.0
-610,Reims,Hugo,player_510663,Ekitike,3,1,1423,32,-,0.0,1.0,0.0
-611,Paris,El Chadaille,player_510881,Bitshiabu,2,2,149,20,-,0.0,1.0,0.0
-612,Nantes,Charly,player_511226,Jan,1,1,430,10,-,0.0,1.0,0.0
-613,Dijon,Wilitty,player_511568,Younoussa,3,1,2130,31,4.8,0.0,1.0,0.0
-614,Angers,Kevin,player_511570,Bemanga,3,1,2128,32,-,0.0,1.0,0.0
-615,Brest,Rafiki,player_511591,Said,4,1,862,40,-,0.0,1.0,0.0
-616,Brest,Idrissa,player_511592,Dioh,3,1,862,31,-,0.0,1.0,0.0
-617,Brest,Jeremy,player_511593,Le Douaron,4,6,862,40,5.0,0.0,1.0,0.67
-618,Dijon,Bogdan,player_512111,Racovitan,2,1,2130,20,-,0.0,1.0,0.0
-619,Dijon,Amir,player_512112,Arli,3,1,2130,32,-,0.0,1.0,0.0
-620,Angers,Kévin,player_512113,Boma,2,1,2128,20,-,0.0,1.0,0.0
-621,Brest,Killian,player_512157,Benvindo,3,1,862,32,-,0.0,1.0,0.0
-622,Nice,Salim,player_512726,Ben Seghir,4,1,1395,40,-,0.0,1.0,0.0
-623,Reims,Fodé,player_512759,Doucouré,2,3,1423,21,-,0.0,1.0,0.0
-624,Brest,Cheick Djibril,player_512760,Bangoura,3,6,862,32,-,0.0,1.0,0.0
-625,Marseille,Fabio,player_512761,Vanni,1,1,144,10,-,0.0,1.0,0.0
-626,Saint-Étienne,Saidou,player_512771,Sow,2,1,152,21,-,0.0,1.0,0.0
-627,Nice,Theo,player_513349,Pionnier Bertrand,2,1,1395,21,-,0.0,1.0,0.0
-628,Nice,Soudeysse,player_513350,Kari,3,1,1395,31,-,0.0,1.0,0.0
-629,Nice,Malik,player_513351,Sellouki,3,1,1395,31,-,0.0,1.0,0.0
-630,Nice,Alexandre,player_513352,Parsemain,4,1,1395,40,-,0.0,1.0,0.0
-631,Strasbourg,Benjamin,player_514434,Besic,3,3,153,32,-,0.0,1.0,0.0
-632,Nîmes,Marco,player_515139,Ludivin Majouga,4,1,2336,40,4.5,0.0,1.0,0.0
-633,Saint-Étienne,Abdoulaye,player_515700,Sidibé,4,1,152,40,4,0.0,1.0,0.0
-634,Saint-Étienne,Tyrone,player_516137,Tormin,3,1,152,32,5,0.0,1.0,0.0
+94,Lens,Zakaria,player_85682,Diallo,2,3,142,20,-,0.0,1.0,0.0
+95,Lorient,Jonathan,player_86281,Delaplace,3,7,694,31,4.7,0.0,1.0,0.32
+96,Strasbourg,Lionel,player_86413,Carole,2,10,153,21,4.6,0.0,1.0,0.37
+97,Monaco,Benjamin,player_86873,Lecomte,1,7,146,10,5.2,0.0,1.0,0.47000000000000003
+98,Paris,,player_87668,Danilo Pereira,3,9,149,31,5.2,0.0,1.0,0.26
+99,Paris,Pablo,player_88484,Sarabia,3,9,149,32,5.6,3.0,1.0,0.37
+100,Nantes,Anthony,player_88931,Limbombe,3,4,430,32,-,0.0,1.0,0.0
+101,Paris,Layvin,player_89068,Kurzawa,2,10,149,21,5.0,0.0,1.0,0.32
+102,Paris,Leandro,player_91080,Paredes,3,9,149,31,4.8,0.0,1.0,0.32
+103,Lens,,player_92170,Massadio Haidara,2,10,142,21,4.9,0.0,1.0,0.47000000000000003
+104,Rennes,Alfred,player_92216,Gomis,1,14,150,10,5.3,0.0,1.0,0.53
+105,Nîmes,Loïck,player_92258,Landre,2,8,2336,20,4.2,0.0,1.0,0.68
+106,Strasbourg,Kenny,player_92527,Lala,2,14,153,21,4.9,3.0,1.0,1.0
+107,Paris,,player_92819,Rafinha,3,16,149,32,6.2,0.0,1.0,0.47000000000000003
+108,Paris,Julian,player_92985,Draxler,3,10,149,32,5.5,2.0,1.0,0.26
+109,Nîmes,Baptiste,player_93619,Reynet,1,12,2336,10,5.1,0.0,1.0,1.0
+110,Nîmes,Pablo,player_93622,Martinez,2,7,2336,20,4.7,0.0,1.0,0.32
+111,Paris,Sergio,player_94248,Rico,1,7,149,10,5.4,0.0,1.0,0.21
+112,Brest,Cristian,player_94753,Battocchio,3,9,862,32,4.9,0.0,1.0,0.11
+113,Marseille,Florian,player_95434,Thauvin,3,25,144,32,5.8,6.0,1.0,0.79
+114,Marseille,Álvaro,player_96084,González,2,16,144,20,5.4,0.0,1.0,0.79
+115,Lorient,Thomas,player_96616,Monconduit,3,11,694,31,4.9,1.0,1.0,0.32
+116,Rennes,M'Baye,player_96764,Niang,4,14,150,40,4.7,1.0,1.0,0.21
+117,Marseille,Valère,player_97041,Germain,4,11,144,40,4.8,3.0,1.0,0.11
+118,Brest,Denys,player_97433,Bain,2,3,862,20,-,0.0,1.0,0.0
+119,Paris,Alessandro,player_97617,Florenzi,2,14,149,21,5.6,2.0,1.0,0.53
+120,Nantes,Mehdi,player_98746,Abeid,3,10,430,31,5.2,0.0,1.0,0.68
+121,Metz,Thomas,player_98826,Delaine,2,12,145,21,4.9,0.0,1.0,0.47000000000000003
+122,Angers,Stéphane,player_98828,Bahoken,4,17,2128,40,4.9,5.0,1.0,0.58
+123,Saint-Étienne,,player_100632,Gabriel Silva,2,5,152,21,5.0,0.0,1.0,0.05
+124,Montpellier,Téji,player_102636,Savanier,3,23,147,31,5.7,3.0,1.0,0.68
+125,Angers,Rachid,player_102743,Alioui,4,5,2128,40,4.5,0.0,1.0,0.0
+126,Monaco,Djibril,player_102747,Sidibé,2,9,146,21,4.8,0.0,1.0,0.32
+127,Nîmes,Haris,player_103457,Duljevic,3,10,2336,32,4.9,0.0,1.0,0.32
+128,Montpellier,,player_103777,Yun Il-Lok,3,9,147,32,4.4,0.0,1.0,0.16
+129,Reims,Predrag,player_104407,Rajkovic,1,19,1423,10,5.4,0.0,1.0,0.9500000000000001
+130,Dijon,Moussa,player_104613,Konaté,4,14,2130,40,4.3,3.0,1.0,0.53
+131,Paris,Juan,player_105046,Bernat,2,3,149,21,4.8,0.0,1.0,0.11
+132,Angers,Danijel,player_105345,Petkovic,1,3,2128,10,-,0.0,1.0,0.0
+133,Paris,Mauro,player_106109,Icardi,4,12,149,40,5.8,3.0,1.0,0.21
+134,Marseille,Darío,player_106212,Benedetto,4,16,144,40,4.7,3.0,1.0,0.74
+135,Reims,Yunis,player_106263,Abdelhamid,2,17,1423,20,5.1,2.0,1.0,0.9500000000000001
+136,Nantes,,player_106320,Kalifa Coulibaly,4,4,430,40,4.2,0.0,1.0,0.16
+137,Strasbourg,Sanjin,player_106551,Prcic,3,5,153,31,4.8,0.0,1.0,0.11
+138,Montpellier,,player_106821,Pedro Mendes,2,14,147,20,5.0,2.0,1.0,0.74
+139,Lyon,Memphis,player_106824,Depay,4,26,143,40,5.8,11.0,1.0,0.79
+140,Lyon,Mattia,player_107013,De Sciglio,2,10,143,21,5.0,0.0,1.0,0.21
+141,Lorient,Paul,player_107098,Nardi,1,13,694,10,4.7,0.0,1.0,0.9500000000000001
+142,Lorient,Laurent,player_107258,Abergel,2,12,694,21,4.9,0.0,1.0,0.84
+143,Montpellier,Jordan,player_107641,Ferri,3,13,147,31,5.1,0.0,1.0,0.84
+144,Metz,Marc-Aurèle,player_107925,Caillard,1,8,145,10,5.5,0.0,1.0,0.05
+145,Marseille,Hiroki,player_109404,Sakai,2,9,144,21,4.8,0.0,1.0,0.84
+146,Nice,,player_109653,Rony Lopes,3,10,1395,32,4.8,1.0,1.0,0.68
+147,Angers,Pierrick,player_112580,Capelle,3,13,2128,32,5.2,2.0,1.0,0.53
+148,Strasbourg,,player_112945,Stefan Mitrovic,2,7,153,20,4.5,1.0,1.0,0.63
+149,Brest,Christophe,player_113541,Herelle,2,10,862,20,4.8,0.0,1.0,0.47000000000000003
+150,Metz,Farid,player_114531,Boulaya,3,18,145,32,6.0,3.0,1.0,0.79
+151,Monaco,Ruben,player_115327,Aguilar,2,12,146,21,5.1,1.0,1.0,0.89
+152,Brest,Mouez,player_115357,Hassen,1,1,862,10,-,0.0,1.0,0.0
+153,Marseille,Jordan,player_115380,Amavi,2,14,144,21,5.8,1.0,1.0,0.47000000000000003
+154,Nice,Yoan,player_115851,Cardinale,1,7,1395,10,-,0.0,1.0,0.0
+155,Strasbourg,Adrien,player_115961,Thomasson,3,18,153,32,5.1,2.0,1.0,0.68
+156,Paris,,player_116406,Marquinhos,2,25,149,20,6.0,1.0,1.0,0.53
+157,Bordeaux,,player_116504,Pablo,2,10,140,20,4.8,1.0,1.0,0.63
+158,Montpellier,Florent,player_116627,Mollet,3,22,147,32,5.2,3.0,1.0,0.74
+159,Dijon,Yassine,player_116628,Benzia,3,5,2130,32,-,0.0,1.0,0.0
+160,Dijon,Fouad,player_119679,Chafik,2,7,2130,21,4.7,0.0,1.0,0.53
+161,Reims,Xavier,player_119770,Chavalerin,3,8,1423,31,5.2,0.0,1.0,0.58
+162,Reims,Thomas,player_120947,Foket,2,10,1423,21,4.7,0.0,1.0,0.9500000000000001
+163,Nîmes,Renaud,player_121150,Ripart,2,15,2336,21,4.9,3.0,1.0,0.84
+164,Bordeaux,Maxime,player_121524,Poundjé,2,7,140,21,4.9,0.0,1.0,0.11
+165,Nice,Walter,player_121709,Benítez,1,24,1395,10,5.6,0.0,1.0,0.9500000000000001
+166,Marseille,Morgan,player_122775,Sanson,3,23,144,32,5.8,2.0,1.0,0.42
+167,Metz,Opa,player_124148,Nguette,3,18,145,32,5.1,3.0,1.0,0.68
+168,Lens,Corentin,player_126177,Jean,4,7,142,40,4.7,0.0,1.0,0.16
+169,Angers,Sofiane,player_128198,Boufal,3,12,2128,32,5.4,1.0,1.0,0.21
+170,Angers,Ibrahim,player_128348,Amadou,3,7,2128,31,5.0,0.0,1.0,0.42
+171,Paris,Presnel,player_129479,Kimpembe,2,16,149,20,5.3,0.0,1.0,0.53
+172,Lille,Mike,player_129487,Maignan,1,28,429,10,5.7,0.0,1.0,1.0
+173,Nantes,Roli,player_129510,Pereira De Sa,3,4,430,32,5,0.0,1.0,0.0
+174,Dijon,Bersant,player_136380,Celina,3,10,2130,32,5.4,0.0,1.0,0.63
+175,Strasbourg,Alexander,player_143685,Djiku,2,9,153,20,5.0,0.0,1.0,0.74
+176,Dijon,Didier,player_144660,Ndong,3,14,2130,31,5.3,0.0,1.0,0.9500000000000001
+177,Lens,Issiaga,player_145221,Sylla,2,11,142,21,5.1,1.0,1.0,0.53
+178,Angers,Lois,player_147577,Diony,4,11,2128,40,4.6,2.0,1.0,0.32
+179,Lyon,Maxwel,player_149519,Cornet,3,17,143,32,5.5,1.0,1.0,0.89
+180,Lyon,Islam,player_149828,Slimani,4,10,143,40,4.5,0.0,1.0,0.0
+181,Brest,Romain,player_150172,Philippoteaux,3,12,862,32,5.1,2.0,1.0,0.37
+182,Rennes,Daniele,player_150710,Rugani,2,6,150,20,5.0,0.0,1.0,0.05
+183,Angers,Jimmy,player_151912,Cabot,3,12,2128,32,5.0,1.0,1.0,0.32
+184,Lens,,player_152865,Cheick Traoré,2,3,142,21,-,0.0,1.0,0.0
+185,Dijon,Jordan,player_153014,Marié,3,7,2130,31,4.8,0.0,1.0,0.32
+186,Rennes,Flavien,player_154011,Tait,3,8,150,32,5.2,0.0,1.0,0.37
+187,Montpellier,Stephy,player_154048,Mavididi,4,14,147,40,5.0,4.0,1.0,0.37
+188,Monaco,,player_154310,Gelson Martins,4,14,146,40,5.4,2.0,1.0,0.89
+189,Lens,Seko,player_154344,Fofana,3,16,142,31,5.5,0.0,1.0,0.42
+190,Monaco,Guillermo,player_155335,Maripán,2,8,146,20,5.3,2.0,1.0,0.21
+191,Lyon,Julian,player_156003,Pollersbeck,1,4,143,10,-,0.0,1.0,0.0
+192,Nîmes,Niclas,player_157841,Eliasson,3,10,2336,31,4.7,0.0,1.0,0.47000000000000003
+193,Lyon,,player_158047,Thiago Mendes,3,13,143,31,5.8,0.0,1.0,0.53
+194,Nantes,Jean-Charles,player_158494,Castelletto,2,7,430,20,4.8,0.0,1.0,0.37
+195,Nantes,Abdoulaye,player_158496,Touré,3,10,430,31,5.2,1.0,1.0,0.53
+196,Rennes,Benjamin,player_159967,Bourigeaud,3,16,150,32,5.5,3.0,1.0,0.74
+197,Lyon,Jason,player_160729,Denayer,2,15,143,20,5.6,1.0,1.0,0.89
+198,Rennes,Adrien,player_161472,Hunou,4,14,150,40,5.1,4.0,1.0,0.26
+199,Monaco,Aleksandr,player_161950,Golovin,3,7,146,32,6.1,1.0,1.0,0.11
+200,Rennes,Serhou,player_162275,Guirassy,4,13,150,40,5.1,4.0,1.0,0.53
+201,Brest,Brendan,player_162316,Chardonnet,2,14,862,20,5.3,1.0,1.0,0.58
+202,Bordeaux,Youssouf,player_164474,Sabaly,2,10,140,21,4.9,0.0,1.0,0.9500000000000001
+203,Nantes,Renaud,player_166286,Emond,4,6,430,40,4.7,1.0,1.0,0.16
+204,Montpellier,Gaetan,player_167443,Laborde,4,25,147,40,5.6,6.0,1.0,1.0
+205,Lens,,player_168104,Steven Fortes,2,8,142,20,4.6,0.0,1.0,0.26
+206,Strasbourg,Ludovic,player_168539,Ajorque,4,19,153,40,5.3,8.0,1.0,0.89
+207,Brest,Steve,player_169141,Mounie,4,17,862,40,5.3,5.0,1.0,0.79
+208,Marseille,Saif-Eddine,player_169427,Khaoui,3,6,144,32,5.2,0.0,1.0,0.0
+209,Nîmes,Gaetan,player_169860,Paquiez,2,8,2336,21,4.4,0.0,1.0,0.47000000000000003
+210,Nantes,,player_170409,Andrei Girotto,2,11,430,20,5.0,1.0,1.0,0.84
+211,Nice,Hassane,player_171099,Kamara,2,11,1395,21,5.3,0.0,1.0,0.74
+212,Metz,Thierry,player_171173,Ambrose,4,8,145,40,4.5,0.0,1.0,0.11
+213,Lille,,player_171319,Renato Sanches,3,16,429,32,5.6,1.0,1.0,0.37
+214,Lille,Mehmet,player_171435,Zeki Çelik,2,10,429,21,5.2,1.0,1.0,0.63
+215,Montpellier,Mathías,player_173046,Suárez,2,4,147,21,-,0.0,1.0,0.0
+216,Nice,,player_173085,Danilo,3,6,1395,31,4.1,0.0,1.0,0.16
+217,Lorient,Adrian,player_173235,Grbic,4,10,694,40,4.6,3.0,1.0,0.37
+218,Metz,Habib,player_173253,Maïga,3,19,145,31,5.8,1.0,1.0,0.84
+219,Marseille,Duje,player_173271,Caleta-Car,2,15,144,20,5.4,2.0,1.0,0.79
+220,Nantes,Pedro,player_174254,Chirivella,3,10,430,31,4.7,0.0,1.0,0.58
+221,Rennes,,player_174528,Hamari Traoré,2,15,150,21,5.1,1.0,1.0,0.84
+222,Brest,Franck,player_174655,Honorat,3,16,862,32,5.7,5.0,1.0,0.63
+223,Strasbourg,Jean Eudes,player_174908,Aholou,3,11,153,31,5.3,1.0,1.0,0.53
+224,Dijon,Aníbal,player_175624,Chalá,2,5,2130,21,4.3,0.0,1.0,0.26
+225,Reims,,player_176495,Moreto Cassamã,3,11,1423,31,5.1,1.0,1.0,0.58
+226,Lens,Jonathan,player_176501,Gradit,2,11,142,21,4.8,0.0,1.0,0.84
+227,Reims,Arbër,player_177885,Zeneli,3,13,1423,32,5.4,1.0,1.0,0.47000000000000003
+228,Paris,Abdou,player_178478,Diallo,2,9,149,20,5.5,0.0,1.0,0.47000000000000003
+229,Nîmes,Zinedine,player_180303,Ferhat,3,17,2336,32,5.5,3.0,1.0,0.84
+230,Montpellier,Ambroise,player_180562,Oyongo,2,8,147,21,5.0,1.0,1.0,0.26
+231,Lorient,Trevoh,player_180736,Chalobah,3,9,694,31,4.8,0.0,1.0,0.47000000000000003
+232,Bordeaux,,player_180835,Otávio,3,14,140,31,5.5,1.0,1.0,0.89
+233,Nîmes,Adrián,player_181402,Cubas,3,13,2336,31,5.5,1.0,1.0,0.68
+234,Nantes,Moses,player_181441,Simon,3,15,430,32,5.0,2.0,1.0,0.58
+235,Lyon,Léo,player_183779,Dubois,2,14,143,21,5.4,1.0,1.0,0.89
+236,Nice,Racine,player_184215,Coly,2,5,1395,21,5,0.0,1.0,0.0
+237,Nîmes,Anthony,player_184961,Briancon,2,7,2336,20,4.8,0.0,1.0,0.42
+238,Saint-Étienne,Miguel,player_185441,Trauco,2,10,152,21,4.7,0.0,1.0,0.42
+239,Reims,Dereck,player_185527,Kutesa,3,6,1423,32,4.8,0.0,1.0,0.21
+240,Metz,Aaron,player_185727,Leya Iseka,4,11,145,40,4.2,2.0,1.0,0.32
+241,Montpellier,Jonas,player_186796,Omlin,1,12,147,10,5.2,0.0,1.0,0.89
+242,Reims,Moussa,player_193400,Doumbia,3,10,1423,32,5.2,0.0,1.0,0.11
+243,Brest,Haris,player_193411,Belkebla,3,13,862,31,5.1,0.0,1.0,0.9500000000000001
+244,Lyon,Karl,player_193454,Toko Ekambi,4,26,143,40,5.9,9.0,1.0,0.79
+245,Marseille,Valentin,player_193539,Rongier,3,23,144,31,5.8,1.0,1.0,0.79
+246,Strasbourg,Bingourou,player_194188,Kamara,1,11,153,10,4.5,0.0,1.0,0.42
+247,Bordeaux,Josh,player_195480,Maja,4,8,140,40,4.7,2.0,1.0,0.58
+248,Lille,Jonathan,player_195883,Bamba,3,24,429,32,6.1,5.0,1.0,0.9500000000000001
+249,Marseille,Nemanja,player_195908,Radonjic,3,5,144,32,4.9,1.0,1.0,0.16
+250,Montpellier,,player_197017,Junior Sambia,3,11,147,31,5.1,0.0,1.0,0.53
+251,Lens,Tony,player_197026,Mauricio,3,9,142,32,5.1,0.0,1.0,0.05
+252,Nîmes,Birger,player_197498,Meling,2,6,2336,21,5.3,1.0,1.0,0.42
+253,Nantes,Jean-Kévin,player_198523,Augustin,4,6,430,40,4.5,0.0,1.0,0.0
+254,Angers,Antonin,player_198990,Bobichon,3,9,2128,32,5.0,0.0,1.0,0.21
+255,Lille,Jonathan,player_199672,Ikoné,3,15,429,32,5.1,3.0,1.0,0.74
+256,Nîmes,Florian,player_200666,Miguel,2,9,2336,21,4.5,0.0,1.0,0.47000000000000003
+257,Nîmes,Clement,player_200671,Depres,4,1,2336,40,-,0.0,1.0,0.0
+258,Nantes,Anthony,player_200722,Walongwa,2,1,430,20,-,0.0,1.0,0.0
+259,Angers,Paul,player_200848,Bernardoni,1,14,2128,10,5,0.0,1.0,1.0
+260,Paris,Thilo,player_201057,Kehrer,2,10,149,21,5.1,0.0,1.0,0.37
+261,Bordeaux,,player_201440,Hwang Ui-Jo,4,12,140,40,5.1,2.0,1.0,0.68
+262,Nantes,Marcus,player_201562,Coco,3,9,430,32,4.9,0.0,1.0,0.53
+263,Dijon,Saturnin,player_201644,Allagbe,1,7,2130,10,5.3,0.0,1.0,0.47000000000000003
+264,Dijon,Roger,player_201865,Assalé,4,6,2130,40,4.1,0.0,1.0,0.26
+265,Dijon,,player_202520,Pape Cheikh Diop Gueye,3,9,2130,31,4.8,0.0,1.0,0.53
+266,Angers,Angelo,player_202857,Fulgini,3,16,2128,32,5.5,3.0,1.0,0.9500000000000001
+267,Angers,Sada,player_202858,Thioub,4,7,2128,40,5.1,1.0,1.0,0.32
+268,Lorient,Jerome,player_202963,Hergault,2,9,694,21,4.9,0.0,1.0,0.16
+269,Reims,Anastasios,player_204184,Donis,4,4,1423,40,3.7,0.0,1.0,0.05
+270,Lens,Florian,player_204188,Sotoca,4,20,142,40,5.4,5.0,1.0,0.79
+271,Metz,Victorien,player_204534,Angban,3,10,145,31,5.3,0.0,1.0,0.84
+272,Bordeaux,Gaëtan,player_204715,Poussin,1,7,140,10,-,0.0,1.0,0.0
+273,Nantes,Thomas,player_204719,Basila,2,3,430,20,-,0.0,1.0,0.0
+274,Marseille,Michaël,player_204730,Cuisance,3,8,144,31,4.7,0.0,1.0,0.42
+275,Nantes,Alban,player_204739,Lafont,1,15,430,10,5.4,0.0,1.0,1.0
+276,Nîmes,Yassine,player_204742,Benrahou,3,6,2336,32,4.6,0.0,1.0,0.32
+277,Dijon,Mounir,player_204744,Chouiar,3,8,2130,32,4.8,0.0,1.0,0.53
+278,Lorient,Julien,player_205552,Laporte,2,7,694,20,4.3,0.0,1.0,0.68
+279,Montpellier,Mihailo,player_206340,Ristic,2,10,147,21,5.0,0.0,1.0,0.68
+280,Dijon,Mihai-Alexandru,player_207300,Dobre,3,9,2130,32,5.0,0.0,1.0,0.16
+281,Angers,Enzo,player_208554,Ebosse,2,5,2128,21,4.3,0.0,1.0,0.16
+282,Bordeaux,Loic,player_208555,Bessile,2,1,140,20,-,0.0,1.0,0.0
+283,Nice,Myziane,player_208556,Maolida,4,6,1395,40,4.9,1.0,1.0,0.11
+284,Nice,Stanley,player_208559,N'Soki,2,8,1395,21,4.6,0.0,1.0,0.53
+285,Nice,Hicham,player_208560,Mahou,3,2,1395,32,5,0.0,1.0,0.0
+286,Lyon,,player_208706,Bruno Guimarães,3,16,143,31,5.5,1.0,1.0,0.53
+287,Nice,Jeff,player_208987,Reine-Adélaïde,3,13,1395,32,5.3,1.0,1.0,0.47000000000000003
+288,Dijon,Jonathan,player_209035,Panzo,2,8,2130,20,4.9,0.0,1.0,0.63
+289,Montpellier,Dimitry,player_209218,Bertaud,1,8,147,10,6.2,0.0,1.0,0.11
+290,Monaco,Pietro,player_209335,Pellegri,4,9,146,40,4.5,1.0,1.0,0.0
+291,Saint-Étienne,Harold,player_209608,Moukoudi,2,12,152,20,4.7,1.0,1.0,0.68
+292,Lens,Wuilker,player_209778,Fariñez,1,7,142,10,5,0.0,1.0,0.0
+293,Nice,Kasper,player_209914,Dolberg,4,14,1395,40,4.8,3.0,1.0,0.37
+294,Nîmes,,player_210187,Sidy Sarr,3,8,2336,31,4.9,0.0,1.0,0.21
+295,Nîmes,Moussa,player_210202,Koné,4,8,2336,40,4.4,2.0,1.0,0.21
+296,Bordeaux,Vukasin,player_210228,Jovanovic,2,3,140,20,-,0.0,1.0,0.0
+297,Angers,Souleyman,player_210456,Doumbia,2,8,2128,21,4.9,0.0,1.0,0.68
+298,Rennes,Nayef,player_210494,Aguerd,2,16,150,20,5.4,3.0,1.0,0.89
+299,Nice,Pierre,player_212325,Lees-Melou,3,24,1395,32,6.0,3.0,1.0,0.58
+300,Rennes,,player_212752,Dalbert,2,9,150,21,5.0,0.0,1.0,0.11
+301,Bordeaux,Toma,player_212851,Basic,3,13,140,31,5.2,3.0,1.0,1.0
+302,Nantes,Ludovic,player_213940,Blas,3,24,430,32,5.4,5.0,1.0,0.79
+303,Metz,Fabien,player_214245,Centonze,2,13,145,21,5.5,0.0,1.0,0.9500000000000001
+304,Strasbourg,Habib,player_214254,Diallo,4,19,153,40,5.4,7.0,1.0,0.58
+305,Monaco,Youssef,player_214472,Aït Bennasser,3,3,146,31,-,0.0,1.0,0.0
+306,Rennes,,player_214473,Faitout Maouassa,2,10,150,21,5.2,0.0,1.0,0.42
+307,Bordeaux,Enock,player_215046,Kwateng,2,7,140,21,4.9,0.0,1.0,0.21
+308,Angers,,player_215047,Lassana Coulibaly,3,11,2128,31,5.0,0.0,1.0,0.37
+309,Lille,Timothy,player_215473,Weah,4,13,429,40,4.7,2.0,1.0,0.11
+310,Lyon,Tinotenda,player_215669,Kadewere,4,26,143,40,5.5,7.0,1.0,0.74
+311,Monaco,,player_216055,Florentino Luís,3,7,146,31,4.8,0.0,1.0,0.11
+312,Brest,Gautier,player_216100,Larsonneur,1,20,862,10,5.4,0.0,1.0,1.0
+313,Saint-Étienne,Denis,player_216227,Bouanga,3,21,152,32,4.8,3.0,1.0,0.84
+314,Lorient,Yoane,player_216646,Wissa,4,19,694,40,5.3,5.0,1.0,0.84
+315,Marseille,Pol,player_216791,Lirola,2,6,144,21,4.9,0.0,1.0,0.21
+316,Metz,,player_217486,Adama Traoré,4,2,145,40,-,0.0,1.0,0.0
+317,Reims,Mathieu,player_217597,Cafaro,3,15,1423,32,5.5,3.0,1.0,0.68
+318,Nantes,,player_217872,Charles Traoré,2,9,430,21,4.8,1.0,1.0,0.32
+319,Reims,Wout,player_218218,Faes,2,12,1423,20,5.1,1.0,1.0,0.84
+320,Metz,Mamadou,player_218240,Fofana,2,12,145,20,5.0,0.0,1.0,0.42
+321,Nice,Alexis,player_218357,Claude Maurice,3,10,1395,32,4.5,1.0,1.0,0.26
+322,Nîmes,Lamine,player_218366,Fomba,3,7,2336,31,4.8,0.0,1.0,0.53
+323,Metz,Kevin,player_218796,N'Doram,3,4,145,31,-,0.0,1.0,0.0
+324,Nantes,Batista,player_219286,Mendy,2,3,430,20,4.5,0.0,1.0,0.0
+325,Lille,Alexis,player_219289,Flips,3,1,429,32,-,0.0,1.0,0.0
+326,Monaco,Aurelien,player_219292,Tchouameni,3,10,146,31,5.2,0.0,1.0,0.9500000000000001
+327,Lyon,Maxence,player_219296,Caqueret,3,9,143,31,4.9,0.0,1.0,0.42
+328,Rennes,Romain,player_219873,Del Castillo,4,7,150,40,5.3,0.0,1.0,0.26
+329,Lens,Simon,player_219969,Banza,4,12,142,40,4.9,2.0,1.0,0.26
+330,Brest,Ronaël,player_220074,Pierre-Gabriel,2,13,862,21,5.1,1.0,1.0,0.74
+331,Paris,Kylian,player_220160,Mbappé,4,47,149,40,6.1,12.0,1.0,0.58
+332,Lille,Sven,player_220237,Botman,2,16,429,20,5.5,0.0,1.0,1.0
+333,Monaco,Axel,player_220362,Disasi,2,16,146,20,5.0,3.0,1.0,0.79
+334,Lorient,Quentin,player_220494,Boisgard,3,12,694,32,5.2,1.0,1.0,0.63
+335,Lille,Yusuf,player_220734,Yazici,3,18,429,32,5.5,5.0,1.0,0.21
+336,Lorient,Andreaw,player_220872,Gravillon,2,8,694,20,4.4,1.0,1.0,0.58
+337,Brest,Ferris,player_221024,N'Goma,3,3,862,31,-,0.0,1.0,0.0
+338,Lens,Jonathan,player_221095,Clauss,3,8,142,31,4.9,0.0,1.0,0.63
+339,Metz,,player_221542,Vágner Dias,3,8,145,32,4.7,0.0,1.0,0.05
+340,Metz,Matthieu,player_221987,Udol,2,6,145,21,5.2,0.0,1.0,0.47000000000000003
+341,Saint-Étienne,Panagiotis,player_222786,Retsos,2,4,152,20,4.5,0.0,1.0,0.21
+342,Angers,Mathias,player_223140,Pereira Lage,3,16,2128,32,5.4,3.0,1.0,0.47000000000000003
+343,Lille,,player_223908,Luiz Araújo,4,14,429,40,5.9,3.0,1.0,0.42
+344,Lyon,,player_224024,Lucas Paquetá,3,16,143,32,5.8,1.0,1.0,0.58
+345,Angers,,player_224077,Elhadji Djibril Diaw,2,1,2128,20,-,0.0,1.0,0.0
+346,Lorient,Stéphane,player_224297,Diarra,4,5,694,40,4.6,0.0,1.0,0.11
+347,Lens,Facundo,player_224868,Medina,2,6,142,21,4.7,1.0,1.0,0.53
+348,Bordeaux,Samuel,player_225702,Kalu,3,6,140,32,5.3,2.0,1.0,0.26
+349,Monaco,Fode,player_225897,Ballo-Toure,2,8,146,21,4.8,0.0,1.0,0.26
+350,Lille,Boubakary,player_225902,Soumaré,3,12,429,31,5.1,0.0,1.0,0.42
+351,Nîmes,Sofiane,player_225997,Alakouch,2,8,2336,21,4.4,0.0,1.0,0.26
+352,Monaco,Samuel,player_226194,Grandsir,3,4,146,32,-,0.0,1.0,0.0
+353,Strasbourg,Ibrahima,player_226451,Sissoko,3,10,153,31,5.3,0.0,1.0,0.84
+354,Marseille,Boubacar,player_226944,Kamara,2,17,144,20,5.5,0.0,1.0,0.89
+355,Nîmes,Amine,player_226948,Karraoui,4,1,2336,40,-,0.0,1.0,0.0
+356,Metz,,player_228254,Kiki Kouyate,2,12,145,20,5.5,0.0,1.0,0.37
+357,Strasbourg,Dimitri,player_228322,Lienard,3,13,153,32,5.2,1.0,1.0,0.32
+358,Montpellier,Keagan,player_228361,Dolly,3,9,147,32,4.9,0.0,1.0,0.11
+359,Lyon,Djamel,player_228373,Benlamri,2,5,143,20,5.2,0.0,1.0,0.0
+360,Monaco,Radoslaw,player_228539,Majecki,1,7,146,10,5.0,0.0,1.0,0.05
+361,Reims,Dario,player_228563,Maresic,2,6,1423,20,4.6,0.0,1.0,0.21
+362,Lorient,Houboulang,player_229222,Mendes,2,5,694,21,3.9,0.0,1.0,0.47000000000000003
+363,Bordeaux,Remi,player_229230,Oudin,3,15,140,32,5.4,4.0,1.0,0.63
+364,Monaco,Henry,player_229273,Onyekuru,3,5,146,32,4.8,0.0,1.0,0.11
+365,Lens,Clement,player_229605,Michelin,2,9,142,21,5.1,0.0,1.0,0.32
+366,Nice,Jordan,player_229707,Lotomba,2,12,1395,21,4.9,1.0,1.0,0.84
+367,Strasbourg,Lebo,player_230337,Mothiba,4,4,153,40,-,0.0,1.0,0.0
+368,Metz,Manuel,player_230443,Cabit,2,2,145,21,-,0.0,1.0,0.0
+369,Lens,Aleksandar,player_230801,Radovanovic,2,5,142,20,3.0,0.0,1.0,0.05
+370,Monaco,,player_230971,Caio Henrique,2,9,146,21,5.3,0.0,1.0,0.42
+371,Strasbourg,Jean-Ricner,player_231057,Bellegarde,3,10,153,31,5.4,0.0,1.0,0.84
+372,Metz,Dylan,player_231058,Bronn,2,13,145,20,5.1,1.0,1.0,1.0
+373,Reims,Yehvann,player_231875,Diouf,1,6,1423,10,5.5,0.0,1.0,0.05
+374,Brest,Jean-Kevin,player_231881,Duverne,2,11,862,20,4.5,1.0,1.0,0.89
+375,Lyon,Houssem,player_231961,Aouar,3,23,143,32,5.6,3.0,1.0,0.74
+376,Rennes,Martin,player_232176,Terrier,3,13,150,32,5.3,2.0,1.0,0.58
+377,Nîmes,Patrick,player_232197,Burner,2,7,2336,21,4.6,0.0,1.0,0.47000000000000003
+378,Strasbourg,Anthony,player_232240,Caci,2,7,153,21,4.8,0.0,1.0,0.68
+379,Reims,Fraser,player_232828,Hornby,3,4,1423,32,4.3,0.0,1.0,0.0
+380,Saint-Étienne,Arnaud,player_235050,Nordin,3,12,152,32,5.4,2.0,1.0,0.53
+381,Brest,Irvin,player_240145,Cardona,4,14,862,40,4.7,5.0,1.0,0.63
+382,Bordeaux,Mehdi,player_240153,Zerkane,3,10,140,32,4.8,0.0,1.0,0.42
+383,Saint-Étienne,Alexis,player_240185,Guendouz,1,1,152,10,-,0.0,1.0,0.0
+384,Reims,Kaj,player_240860,Sierhuis,4,7,1423,40,4.5,0.0,1.0,0.32
+385,Reims,Thibault,player_241059,De Smet,2,5,1423,21,4.4,0.0,1.0,0.21
+386,Saint-Étienne,Rayan,player_241099,Souici,2,2,152,20,5,0.0,1.0,0.0
+387,Paris,Moise,player_242058,Kean,4,24,149,40,5.3,9.0,1.0,0.63
+388,Lorient,Pierre-Yves,player_242167,Hamel,4,13,694,40,5.1,4.0,1.0,0.37
+389,Lille,,player_242600,Xeka,3,13,429,31,5.4,0.0,1.0,0.32
+390,Saint-Étienne,Stefan,player_242878,Bajic,1,6,152,10,-,0.0,1.0,0.0
+391,Monaco,Benoit,player_242880,Badiashile,2,12,146,20,5.1,2.0,1.0,0.89
+392,Nice,,player_242887,Khéphren Thuram,3,10,1395,31,4.9,1.0,1.0,0.63
+393,Nantes,Abdoulaye,player_242890,Dabo,3,1,430,32,-,0.0,1.0,0.0
+394,Rennes,Yann,player_242893,Gboho,3,7,150,32,4.7,0.0,1.0,0.11
+395,Monaco,Willem,player_242894,Geubbels,4,9,146,40,4.6,1.0,1.0,0.11
+396,Brest,Hugo,player_243741,Magnetti,3,5,862,31,4.8,0.0,1.0,0.05
+397,Nîmes,Lucas,player_244136,Dias,1,5,2336,10,-,0.0,1.0,0.0
+398,Saint-Étienne,Zaydou,player_244182,Youssouf,3,8,152,31,4.8,0.0,1.0,0.53
+399,Metz,Youssef,player_244490,Maziz,3,5,145,32,5.0,0.0,1.0,0.11
+400,Brest,Romain,player_244560,Perraud,2,17,862,21,5.4,3.0,1.0,0.89
+401,Reims,Ghislain,player_244642,Konan,2,10,1423,21,4.7,0.0,1.0,0.68
+402,Rennes,Namakoro,player_244754,Diallo,2,1,150,21,-,0.0,1.0,0.0
+403,Rennes,James,player_244842,Lea Siliki,3,8,150,31,4.5,0.0,1.0,0.16
+404,Nice,,player_245090,Robson Bambu,2,9,1395,20,4.9,0.0,1.0,0.42
+405,Lille,Hakim,player_245715,Ouro-Sama,2,1,429,20,-,0.0,1.0,0.0
+406,Lorient,Umut,player_246451,Bozok,4,5,694,40,4.5,0.0,1.0,0.0
+407,Saint-Étienne,Yvan,player_247146,Neyou,3,13,152,31,5.3,1.0,1.0,0.79
+408,Dijon,Anthony,player_247385,Racioppi,1,13,2130,10,5.8,0.0,1.0,0.53
+409,Nice,Amine,player_247400,Gouiri,4,23,1395,40,5.7,6.0,1.0,0.79
+410,Lille,,player_247629,Tiago Djaló,2,8,429,20,5.0,0.0,1.0,0.21
+411,Nantes,Randal,player_247693,Kolo Muani,4,12,430,40,5.0,2.0,1.0,0.84
+412,Paris,Mitchel,player_247957,Bakker,2,13,149,21,5.5,0.0,1.0,0.74
+413,Rennes,Jéremy,player_248875,Doku,3,15,150,32,5.5,0.0,1.0,0.53
+414,Nîmes,Sami,player_250588,Ben Amar,4,1,2336,40,-,0.0,1.0,0.0
+415,Metz,Ibrahima,player_250694,Niane,4,5,145,40,5.7,6.0,1.0,0.32
+416,Lille,Jonathan,player_421821,David,4,13,429,40,4.9,2.0,1.0,0.68
+417,Marseille,Pape,player_422453,Gueye,3,10,144,31,5.0,1.0,1.0,0.37
+418,Dijon,Ngonda,player_422631,Muzinga,2,9,2130,21,5.0,1.0,1.0,0.58
+419,Nîmes,Matteo,player_423870,Ahlinvi,3,12,2336,31,4.7,2.0,1.0,0.42
+420,Saint-Étienne,Jean-Phillipe,player_424920,Krasso,4,4,152,40,4.5,0.0,1.0,0.05
+421,Nice,Youcef,player_425614,Atal,2,6,1395,21,4.6,0.0,1.0,0.26
+422,Reims,Moise,player_428373,Sakava,3,3,1423,31,5,0.0,1.0,0.0
+423,Montpellier,Nicolas,player_428989,Cozza,2,6,147,20,5.0,0.0,1.0,0.32
+424,Dijon,,player_430510,Mama Baldé,3,17,2130,32,5.1,5.0,1.0,0.63
+425,Lorient,Franklin,player_431653,Wadja,3,4,694,31,5,0.0,1.0,0.0
+426,Reims,Marshall,player_433312,Munetsi,3,12,1423,31,5.1,1.0,1.0,0.58
+427,Strasbourg,Kévin,player_433640,Zohi,4,9,153,40,4.6,1.0,1.0,0.05
+428,Nîmes,Lucas,player_433731,Buades,3,3,2336,32,4.5,0.0,1.0,0.0
+429,Lens,Ignatius,player_433771,Ganago,4,14,142,40,5.3,5.0,1.0,0.47000000000000003
+430,Bordeaux,Over,player_433830,Mandanda,1,1,140,10,-,0.0,1.0,0.0
+431,Lille,,player_434399,Reinildo,2,11,429,21,5.0,0.0,1.0,0.42
+432,Rennes,Gerzino,player_435731,Nyamsi,2,6,150,20,4.5,0.0,1.0,0.16
+433,Strasbourg,Ismaël,player_436644,Aaneba,2,4,153,20,5,0.0,1.0,0.0
+434,Saint-Étienne,Alpha,player_437204,Sissoko,2,6,152,21,4.1,0.0,1.0,0.21
+435,Lyon,Melvin,player_437497,Bard,2,6,143,21,5.1,0.0,1.0,0.16
+436,Nice,Andy,player_437501,Pelmard,2,8,1395,20,4.9,0.0,1.0,0.42
+437,Bordeaux,Yacine,player_437504,Adli,3,12,140,32,5.1,1.0,1.0,0.37
+438,Brest,Sebastien,player_437721,Cibois,1,7,862,10,-,0.0,1.0,0.0
+439,Dijon,Arthur,player_437726,Zagre,2,1,2130,21,-,0.0,1.0,0.0
+440,Monaco,Gobe,player_437754,Gouano,4,1,146,40,-,0.0,1.0,0.0
+441,Nice,Flavius,player_437925,Daniliuc,2,10,1395,20,5.0,0.0,1.0,0.37
+442,Dijon,Éric,player_438309,Ebimbe,3,11,2130,32,4.9,1.0,1.0,0.84
+443,Lorient,Terem,player_438398,Moffi,4,11,694,40,4.7,4.0,1.0,0.47000000000000003
+444,Lens,Cheick Oumar,player_438464,Doucoure,3,9,142,31,5.3,1.0,1.0,0.68
+445,Nîmes,Kelyan,player_439122,Guessoum,2,6,2336,20,4.5,0.0,1.0,0.16
+446,Brest,Romain,player_441240,Faivre,3,24,862,32,6.1,4.0,1.0,0.9500000000000001
+447,Marseille,Christopher,player_441576,Rocchia,2,2,144,21,5,0.0,1.0,0.0
+448,Saint-Étienne,Mahdi,player_442264,Camara,3,13,152,31,5.3,2.0,1.0,0.9500000000000001
+449,Dijon,Aurelien,player_442673,Scheidler,4,5,2130,40,4.4,1.0,1.0,0.16
+450,Nantes,Abdoul Kader,player_443202,Bamba,3,9,430,32,4.8,2.0,1.0,0.32
+451,Brest,,player_444151,Jean Lucas,3,6,862,31,4.8,0.0,1.0,0.05
+452,Montpellier,Yannis,player_446006,Ammour,3,1,147,32,-,0.0,1.0,0.0
+453,Marseille,Leonardo,player_446682,Balerdi,2,9,144,20,4.9,1.0,1.0,0.26
+454,Angers,Farid,player_447389,El Melali,3,10,2128,32,4.9,0.0,1.0,0.11
+455,Brest,Lilian,player_447547,Brassier,2,4,862,20,5.5,0.0,1.0,0.05
+456,Monaco,Jonathan,player_448197,Bakali Wawina,4,1,146,40,-,0.0,1.0,0.0
+457,Lorient,Armand,player_449431,Laurienté,3,12,694,32,5.0,0.0,1.0,0.42
+458,Lyon,Malcolm,player_451542,Barcola,1,2,143,10,-,0.0,1.0,0.0
+459,Strasbourg,Mahamé,player_454671,Siby,3,5,153,31,4.8,0.0,1.0,0.0
+460,Dijon,,player_454964,Senou Coulibaly,2,6,2130,20,5.4,0.0,1.0,0.26
+461,Montpellier,Clement,player_456193,Vidal,2,1,147,20,-,0.0,1.0,0.0
+462,Marseille,Lucas,player_456300,Perrin,2,2,144,20,-,0.0,1.0,0.0
+463,Dijon,Lévi,player_456355,Ntumba,1,1,2130,10,-,0.0,1.0,0.0
+464,Nice,Dan,player_456512,Ndoye,4,9,1395,40,4.7,1.0,1.0,0.05
+465,Lorient,Thomas,player_457225,Callens,1,2,694,10,-,0.0,1.0,0.0
+466,Bordeaux,Ibrahim,player_457234,Diarra,4,1,140,40,-,0.0,1.0,0.0
+467,Paris,Colin,player_458250,Dagba,2,12,149,21,5.2,1.0,1.0,0.42
+468,Lens,Ansou,player_458347,Sow,4,1,142,40,-,0.0,1.0,0.0
+469,Metz,Warren,player_458455,Tchimbembé,4,6,145,40,5.0,0.0,1.0,0.21
+470,Lille,Domagoj,player_458681,Bradaric,2,9,429,21,5.1,0.0,1.0,0.58
+471,Monaco,Sofiane,player_460267,Diop,3,18,146,32,5.9,5.0,1.0,0.74
+472,Nice,Ayodeji,player_461528,Sotona,4,2,1395,40,-,0.0,1.0,0.0
+473,Lille,Eugenio,player_461698,Pizzuto,3,2,429,31,-,0.0,1.0,0.0
+474,Lille,Arton,player_461833,Zekaj,3,2,429,31,-,0.0,1.0,0.0
+475,Strasbourg,Louis,player_461908,Pelletier,1,1,153,10,-,0.0,1.0,0.0
+476,Strasbourg,Mohamed,player_461910,Simakan,2,13,153,20,4.9,1.0,1.0,1.0
+477,Monaco,Youssouf,player_461913,Fofana,3,13,146,31,5.0,0.0,1.0,0.84
+478,Nice,William,player_462424,Saliba,2,8,1395,20,5.0,0.0,1.0,0.11
+479,Rennes,Georginio,player_463067,Rutter,4,4,150,40,4.1,0.0,1.0,0.0
+480,Saint-Étienne,Bilal,player_465151,Benkhedim,3,3,152,32,4.5,0.0,1.0,0.05
+481,Lyon,Cedric,player_465154,Augarreau,3,1,143,31,-,0.0,1.0,0.0
+482,Monaco,Chrislain,player_465524,Matsima,2,5,146,20,4.9,0.0,1.0,0.16
+483,Monaco,Eliot,player_465525,Matazo,3,6,146,31,4.5,0.0,1.0,0.05
+484,Monaco,Enzo,player_465526,Millot,3,3,146,32,4.8,0.0,1.0,0.0
+485,Saint-Étienne,Adil,player_465676,Aouchiche,3,15,152,32,5.5,2.0,1.0,0.63
+486,Lens,Arnaud,player_465680,Kalimuendo,4,15,142,40,5.1,4.0,1.0,0.37
+487,Paris,Bandiougou,player_465681,Fadiga,3,5,149,32,4.8,0.0,1.0,0.0
+488,Paris,Kays,player_465684,Ruiz-Atil,3,6,149,31,4.8,0.0,1.0,0.05
+489,Paris,Maxen,player_465685,Kapo,3,1,149,31,-,0.0,1.0,0.0
+490,Paris,Timothee,player_465702,Pembele,2,9,149,20,5.1,1.0,1.0,0.16
+491,Lyon,Yaya,player_466038,Soumare,3,2,143,32,5,0.0,1.0,0.0
+492,Lyon,Rayan,player_466052,Cherki,3,10,143,32,5.0,0.0,1.0,0.16
+493,Lyon,Florent,player_466054,da Silva,3,1,143,31,-,0.0,1.0,0.0
+494,Reims,Boulaye,player_468488,Dia,4,30,1423,40,5.6,12.0,1.0,0.84
+495,Saint-Étienne,Lucas,player_469266,Gourna-Douath,3,9,152,31,4.8,0.0,1.0,0.21
+496,Metz,Lenny,player_469267,Lacroix,2,1,145,20,-,0.0,1.0,0.0
+497,Angers,Kevin,player_469318,Mouanga,2,1,2128,20,-,0.0,1.0,0.0
+498,Lorient,Teddy,player_469324,Bartouche,1,1,694,10,-,0.0,1.0,0.0
+499,Lyon,Modeste Duku,player_469847,Mbenga,3,1,143,32,-,0.0,1.0,0.0
+500,Marseille,Alexandre,player_471437,Phliponeau,3,1,144,31,-,0.0,1.0,0.0
+501,Nantes,Imran,player_471471,Louza,3,13,430,32,5.2,3.0,1.0,0.68
+502,Montpellier,Matis,player_471924,Carvalho,1,1,147,10,-,0.0,1.0,0.0
+503,Saint-Étienne,Charles,player_472778,Abi,4,5,152,40,4.4,1.0,1.0,0.16
+504,Saint-Étienne,Marvin,player_472779,Tshibuabua,2,3,152,20,5,0.0,1.0,0.0
+505,Rennes,Eduardo,player_475561,Camavinga,3,14,150,31,5.4,1.0,1.0,0.63
+506,Nîmes,Karim,player_475944,Aribi,4,5,2336,40,4.1,0.0,1.0,0.11
+507,Reims,,player_476411,Dialy Ndiaye,1,1,1423,10,-,0.0,1.0,0.0
+508,Reims,Dion,player_476412,Lopy,3,2,1423,31,-,0.0,1.0,0.0
+509,Reims,El Bilal,player_476489,Touré,4,11,1423,40,4.4,2.0,1.0,0.42
+510,Metz,Boubacar,player_476502,Traore,3,1,145,31,-,0.0,1.0,0.0
+511,Rennes,Brandon,player_476883,Soppy,2,5,150,21,5.0,0.0,1.0,0.16
+512,Lille,Isaac,player_476884,Lihadji,4,8,429,40,4.7,0.0,1.0,0.05
+513,Bordeaux,Dilane,player_476887,Bakwa,4,4,140,40,5,0.0,1.0,0.0
+514,Bordeaux,Sékou,player_476888,Mara,4,1,140,40,-,0.0,1.0,0.0
+515,Nîmes,Amjhad,player_476889,Nazih,1,1,2336,10,-,0.0,1.0,0.0
+516,Marseille,Richecarde,player_476890,Richard,2,1,144,21,-,0.0,1.0,0.0
+517,Reims,Nathanael,player_476892,Mbuku,4,10,1423,40,5.2,1.0,1.0,0.58
+518,Bordeaux,Amadou,player_476893,Traoré,4,4,140,40,4.4,0.0,1.0,0.0
+519,Nice,Paul,player_477085,Wade,3,1,1395,31,-,0.0,1.0,0.0
+520,Nantes,Josué,player_477411,Homawoo,2,1,430,20,-,0.0,1.0,0.0
+521,Montpellier,Adil,player_477697,Ben Achour,3,1,147,32,-,0.0,1.0,0.0
+522,Montpellier,Joris,player_477711,Chotard,3,8,147,31,4.8,0.0,1.0,0.37
+523,Montpellier,Samy,player_477720,Benchama,3,1,147,31,4.5,0.0,1.0,0.0
+524,Montpellier,Sepe Elye,player_477724,Wahi,4,1,147,40,4,0.0,1.0,0.0
+525,Montpellier,Thibault,player_477729,Tamas,2,1,147,21,-,0.0,1.0,0.0
+526,Montpellier,Thibaut,player_477730,Vargas,2,4,147,21,-,0.0,1.0,0.0
+527,Marseille,,player_478270,Luis Henrique,4,5,144,40,4.4,0.0,1.0,0.0
+528,Angers,Haithem,player_480778,Loucif,3,2,2128,32,-,0.0,1.0,0.0
+529,Nice,Hichem,player_480779,Boudaoui,3,9,1395,32,4.6,1.0,1.0,0.42
+530,Dijon,Sacha,player_481616,Boey,2,9,2130,21,4.8,0.0,1.0,0.63
+531,Metz,Pape,player_482442,Sarr,3,5,145,31,4.7,0.0,1.0,0.05
+532,Lyon,Malo,player_482609,Gusto,2,1,143,21,-,0.0,1.0,0.0
+533,Lorient,Enzo,player_484420,Le Fée,3,12,694,32,5.0,0.0,1.0,0.42
+534,Marseille,Marley,player_485176,Aké,3,6,144,32,4.7,0.0,1.0,0.0
+535,Marseille,Jores,player_485180,Rahou,3,1,144,32,-,0.0,1.0,0.0
+536,Lille,Lucas,player_485335,Chevalier,1,1,429,10,-,0.0,1.0,0.0
+537,Nantes,Bridge,player_486792,Ndilu,4,5,430,40,4.3,0.0,1.0,0.0
+538,Monaco,Strahinja,player_487606,Pavlovic,2,3,146,20,5,0.0,1.0,0.0
+539,Strasbourg,Adrien,player_488337,Lebeau,3,2,153,32,-,0.0,1.0,0.0
+540,Angers,Zinédine,player_488448,Ould Khaled,3,2,2128,31,-,0.0,1.0,0.0
+541,Strasbourg,Abdoulaye,player_488547,Ousmane,3,1,153,31,-,0.0,1.0,0.0
+542,Lens,Cheikh Cory,player_488580,Sene,2,1,142,20,-,0.0,1.0,0.0
+543,Bordeaux,Davy,player_488695,Rouyard,1,1,140,10,-,0.0,1.0,0.0
+544,Bordeaux,Ismael,player_488697,Sow,2,1,140,21,-,0.0,1.0,0.0
+545,Bordeaux,David,player_488698,Cardoso,2,1,140,20,-,0.0,1.0,0.0
+546,Brest,Hianga'a,player_489230,M'Bock,3,9,862,31,4.9,0.0,1.0,0.21
+547,Saint-Étienne,Etienne,player_489571,Green,1,1,152,10,-,0.0,1.0,0.0
+548,Saint-Étienne,Aïmen,player_489573,Moueffek,3,5,152,31,4.6,0.0,1.0,0.21
+549,Metz,Papa Ndiaga,player_489661,Yade,3,10,145,32,5.2,1.0,1.0,0.16
+550,Nantes,Wesley,player_489995,Moustache,2,1,430,21,-,0.0,1.0,0.0
+551,Marseille,Simon,player_490135,Ngapandouetnbu,1,1,144,10,-,0.0,1.0,0.0
+552,Rennes,Elias,player_490191,Damergy,1,1,150,10,-,0.0,1.0,0.0
+553,Lille,Cheikh,player_490209,Niasse,3,2,429,31,-,0.0,1.0,0.0
+554,Lyon,Cenk,player_490239,Özkacar,2,1,143,20,-,0.0,1.0,0.0
+555,Strasbourg,Mehdi,player_490340,Chahiri,3,11,153,32,5.1,2.0,1.0,0.32
+556,Angers,Mohamed,player_490884,Ali-Cho,3,7,2128,32,4.9,0.0,1.0,0.0
+557,Metz,Ernest,player_492034,Boahene,2,1,145,21,-,0.0,1.0,0.0
+558,Lille,Ismail,player_492824,Bouleghcha,2,1,429,20,-,0.0,1.0,0.0
+559,Nîmes,Antoine,player_492825,Valerio,3,1,2336,32,-,0.0,1.0,0.0
+560,Lille,Nassim,player_492836,Innocenti,2,1,429,20,-,0.0,1.0,0.0
+561,Lille,Fadiga,player_492925,Ouattara,4,1,429,40,-,0.0,1.0,0.0
+562,Lyon,Sinaly,player_492975,Diomande,2,10,143,20,5.1,0.0,1.0,0.26
+563,Paris,Abdoulaye,player_493345,Kamara,3,1,149,31,-,0.0,1.0,0.0
+564,Paris,Edouard,player_493349,Michut,3,1,149,31,-,0.0,1.0,0.0
+565,Paris,Xavi,player_493362,Simons,3,1,149,31,-,0.0,1.0,0.0
+566,Rennes,Pépé,player_493984,Bonet,1,1,150,10,-,0.0,1.0,0.0
+567,Rennes,Adrien,player_494521,Truffert,2,12,150,21,5.1,1.0,1.0,0.47000000000000003
+568,Angers,Waniss,player_494978,Taibi,3,1,2128,32,-,0.0,1.0,0.0
+569,Bordeaux,Darren,player_495193,Lima Semedo,1,1,140,10,-,0.0,1.0,0.0
+570,Lens,Kandet,player_496521,Diawara,3,1,142,31,-,0.0,1.0,0.0
+571,Nîmes,Nassim,player_496523,Chadli,4,1,2336,40,-,0.0,1.0,0.0
+572,Paris,Kenny,player_496630,Nagera,4,1,149,40,-,0.0,1.0,0.0
+573,Dijon,Ahmad Toure,player_497278,Ngouyamsa,2,4,2130,21,3.8,0.0,1.0,0.11
+574,Saint-Étienne,Edmilson,player_498406,Indjai Correia,4,2,152,40,-,0.0,1.0,0.0
+575,Saint-Étienne,Victor,player_500222,Petit,3,1,152,31,-,0.0,1.0,0.0
+576,Lens,Loic,player_500267,Bade,2,10,142,20,4.9,0.0,1.0,0.84
+577,Metz,Lamine,player_501334,Gueye,3,9,145,32,5.4,1.0,1.0,0.53
+578,Saint-Étienne,Maxence,player_501599,Rivera,4,6,152,40,4.5,0.0,1.0,0.05
+579,Nice,Noah,player_501797,Crétier,2,1,1395,20,-,0.0,1.0,0.0
+580,Nîmes,Julien,player_502435,Megier,2,1,2336,20,-,0.0,1.0,0.0
+581,Saint-Étienne,Yvann,player_502951,Maçon,2,3,152,21,5.3,1.0,1.0,0.32
+582,Rennes,Chimuanya,player_503714,Ugochukwu,3,2,150,31,-,0.0,1.0,0.0
+583,Rennes,Lorenz,player_503724,Assignon,2,1,150,21,-,0.0,1.0,0.0
+584,Rennes,Warmed,player_503732,Omari,2,1,150,20,-,0.0,1.0,0.0
+585,Nice,Alexis,player_505193,Trouillet,3,5,1395,32,4.9,0.0,1.0,0.0
+586,Lens,David,player_505834,Pereira Da Costa,3,5,142,31,4.8,0.0,1.0,0.0
+587,Lens,Ismael,player_510139,Boura,2,5,142,21,4.7,0.0,1.0,0.26
+588,Lens,Adam,player_510140,Oudjani,3,1,142,32,-,0.0,1.0,0.0
+589,Marseille,Cheick,player_510299,Souaré,3,1,144,31,-,0.0,1.0,0.0
+590,Marseille,Nassim,player_510310,Ahmed,3,1,144,31,-,0.0,1.0,0.0
+591,Marseille,Ugo,player_510312,Bertelli,3,1,144,31,-,0.0,1.0,0.0
+592,Marseille,Aaron,player_510314,Kamardin,2,1,144,20,-,0.0,1.0,0.0
+593,Reims,Hugo,player_510663,Ekitike,3,3,1423,32,4.8,0.0,1.0,0.0
+594,Paris,El Chadaille,player_510881,Bitshiabu,2,1,149,20,-,0.0,1.0,0.0
+595,Nantes,Charly,player_511226,Jan,1,1,430,10,-,0.0,1.0,0.0
+596,Dijon,Wilitty,player_511568,Younoussa,3,4,2130,31,4.8,0.0,1.0,0.0
+597,Angers,Kevin,player_511570,Bemanga,3,1,2128,32,-,0.0,1.0,0.0
+598,Brest,Rafiki,player_511591,Said,4,1,862,40,-,0.0,1.0,0.0
+599,Brest,Idrissa,player_511592,Dioh,3,1,862,31,-,0.0,1.0,0.0
+600,Brest,Jeremy,player_511593,Le Douaron,4,7,862,40,4.6,0.0,1.0,0.32
+601,Dijon,Bogdan,player_512111,Racovitan,2,1,2130,20,-,0.0,1.0,0.0
+602,Dijon,Amir,player_512112,Arli,3,1,2130,32,-,0.0,1.0,0.0
+603,Angers,Kévin,player_512113,Boma,2,1,2128,20,-,0.0,1.0,0.0
+604,Brest,Killian,player_512157,Benvindo,3,1,862,32,-,0.0,1.0,0.0
+605,Nice,Salim,player_512726,Ben Seghir,4,2,1395,40,4.5,0.0,1.0,0.0
+606,Reims,Fodé,player_512759,Doucouré,2,5,1423,21,4.9,0.0,1.0,0.11
+607,Brest,Cheick Djibril,player_512760,Bangoura,3,3,862,32,-,0.0,1.0,0.0
+608,Marseille,Fabio,player_512761,Vanni,1,1,144,10,-,0.0,1.0,0.0
+609,Saint-Étienne,Saidou,player_512771,Sow,2,5,152,21,4.4,0.0,1.0,0.21
+610,Nice,Theo,player_513349,Pionnier Bertrand,2,1,1395,21,-,0.0,1.0,0.0
+611,Nice,Soudeysse,player_513350,Kari,3,1,1395,31,-,0.0,1.0,0.0
+612,Nice,Malik,player_513351,Sellouki,3,1,1395,31,-,0.0,1.0,0.0
+613,Nice,Alexandre,player_513352,Parsemain,4,1,1395,40,-,0.0,1.0,0.0
+614,Strasbourg,Benjamin,player_514434,Besic,3,1,153,32,-,0.0,1.0,0.0
+615,Nîmes,Marco,player_515139,Ludivin Majouga,4,5,2336,40,4.5,0.0,1.0,0.0
+616,Saint-Étienne,Abdoulaye,player_515700,Sidibé,4,2,152,40,4,0.0,1.0,0.0
+617,Saint-Étienne,Tyrone,player_516137,Tormin,3,4,152,32,5,0.0,1.0,0.0
+618,Lyon,Habib,player_517058,Keita,3,4,143,31,-,0.0,1.0,0.0
+619,Saint-Étienne,Boubacar,player_517404,Fall,1,1,152,10,-,0.0,1.0,0.0
+620,Reims,Mouhamadou,player_518089,Drammeh,2,5,1423,20,4.5,0.0,1.0,0.0
+621,Angers,Oussama,player_518313,Falouh,2,2,2128,21,-,0.0,1.0,0.0
+622,Paris,Mathyas,player_518805,Randriamamy,1,1,149,10,-,0.0,1.0,0.0
+623,Strasbourg,Noé,player_519342,Sommer,3,1,153,32,-,0.0,1.0,0.0
+624,Strasbourg,Marvin,player_519343,Senaya,1,1,153,10,-,0.0,1.0,0.0
+625,Strasbourg,Alexandre,player_521055,Pierre,1,1,153,10,-,0.0,1.0,0.0
+626,Nice,Teddy,player_521470,Boulhendi,1,1,1395,10,-,0.0,1.0,0.0
+627,Nice,Jules,player_522458,Rolland,1,1,1395,10,-,0.0,1.0,0.0
+628,Nice,Laurenzo,player_522461,Prso,2,1,1395,20,-,0.0,1.0,0.0
+629,Lorient,Loris,player_523232,Mouyokolo,2,1,694,20,5,0.0,1.0,0.0
+630,Nîmes,Adilson,player_523643,Malanda,2,1,2336,20,-,0.0,1.0,0.0
+631,Bordeaux,Tom,player_523685,Lacoux,3,1,140,31,5,0.0,1.0,0.0
+632,Lille,Mamadou,player_523895,Simbakoli,4,1,429,40,-,0.0,1.0,0.0
+633,Saint-Étienne,Baptiste,player_523896,Gabard,3,1,152,31,-,0.0,1.0,0.0

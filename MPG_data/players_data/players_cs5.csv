@@ -1,821 +1,725 @@
 ,club,firstname,id,lastname,position,quotation,teamId,ultraPosition,avgRate,sumGoals,currentChampionship,percentageStarter
-0,Juventus,Gianluigi,player_4126,Buffon,1,8,128,10,-,0.0,5.0,0.0
-1,Sassuolo,Gianluca,player_7485,Pegolo,1,8,2182,10,-,0.0,5.0,0.0
-2,Lazio,,player_8432,Pepe Reina,1,9,129,10,-,0.0,5.0,0.0
-3,Benevento,Christian,player_8522,Maggio,2,16,2000,21,3.5,0.0,5.0,0.33
-4,Milan,Zlatan,player_9808,Ibrahimovic,4,32,120,40,7.5,2.0,5.0,0.33
-5,Spezia,Claudio,player_12026,Terzi,2,12,2036,20,5.0,0.0,5.0,0.33
-6,Sampdoria,Fabio,player_12473,Quagliarella,4,24,603,40,5.3,1.0,5.0,0.33
-7,Roma,Antonio,player_12730,Mirante,1,8,121,10,5.3,0.0,5.0,0.67
-8,Sassuolo,Francesco,player_14715,Magnanelli,3,11,2182,31,-,0.0,5.0,0.0
-9,Juventus,,player_14937,Cristiano Ronaldo,4,45,128,40,7.3,3.0,5.0,0.67
-10,Genoa,Goran,player_15061,Pandev,4,21,990,40,4.5,1.0,5.0,0.33
+0,Juventus,Gianluigi,player_4126,Buffon,1,10,128,10,5.5,0.0,5.0,0.24
+1,Sassuolo,Gianluca,player_7485,Pegolo,1,7,2182,10,6.0,0.0,5.0,0.06
+2,Lazio,,player_8432,Pepe Reina,1,14,129,10,5.5,0.0,5.0,0.65
+3,Benevento,Christian,player_8522,Maggio,2,7,2000,21,4.2,0.0,5.0,0.12
+4,Milan,Zlatan,player_9808,Ibrahimovic,4,39,120,40,6.6,10.0,5.0,0.35000000000000003
+5,Spezia,Claudio,player_12026,Terzi,2,9,2036,20,4.7,1.0,5.0,0.71
+6,Sampdoria,Fabio,player_12473,Quagliarella,4,26,603,40,5.1,7.0,5.0,0.71
+7,Roma,Antonio,player_12730,Mirante,1,14,121,10,5.2,0.0,5.0,0.65
+8,Sassuolo,Francesco,player_14715,Magnanelli,3,5,2182,31,4.8,0.0,5.0,0.12
+9,Juventus,,player_14937,Cristiano Ronaldo,4,55,128,40,6.6,15.0,5.0,0.71
+10,Genoa,Goran,player_15061,Pandev,4,10,990,40,4.7,1.0,5.0,0.35000000000000003
 11,Torino,Antonio,player_17192,Rosati,1,3,135,10,-,0.0,5.0,0.0
 12,Benevento,Pier Graziano,player_17331,Gori,1,1,2000,10,-,0.0,5.0,0.0
-13,Crotone,Alex,player_17423,Cordaz,1,14,744,10,4.5,0.0,5.0,0.67
-14,Genoa,Andrea,player_17985,Masiello,2,8,990,20,2.0,0.0,5.0,0.33
-15,Juventus,Giorgio,player_18102,Chiellini,2,9,128,20,5.5,0.0,5.0,0.67
-16,Crotone,Luca,player_18362,Cigarini,3,6,744,31,4.5,0.0,5.0,0.67
+13,Crotone,Alex,player_17423,Cordaz,1,18,744,10,4.6,0.0,5.0,1.0
+14,Genoa,Andrea,player_17985,Masiello,2,8,990,20,4.6,0.0,5.0,0.71
+15,Juventus,Giorgio,player_18102,Chiellini,2,7,128,20,5.3,0.0,5.0,0.12
+16,Crotone,Luca,player_18362,Cigarini,3,5,744,31,4.3,0.0,5.0,0.35000000000000003
 17,Inter,Daniele,player_18377,Padelli,1,7,127,10,-,0.0,5.0,0.0
-18,Inter,Samir,player_18383,Handanovic,1,12,127,10,4.0,0.0,5.0,0.67
-19,Sassuolo,Andrea,player_18500,Consigli,1,14,2182,10,5.5,0.0,5.0,0.67
-20,Inter,Ashley,player_18892,Young,2,20,127,21,5.0,0.0,5.0,0.67
-21,Verona,,player_19620,Miguel Veloso,3,16,126,31,5.3,0.0,5.0,0.67
-22,Napoli,Fernando,player_19760,Llorente,4,4,459,40,-,0.0,5.0,0.0
-23,Crotone,Maximiliano,player_19787,López,4,1,744,40,-,0.0,5.0,0.0
-24,Genoa,Domenico,player_19821,Criscito,2,29,990,21,-,0.0,5.0,0.0
-25,Genoa,Lasse,player_19891,Schöne,3,11,990,31,-,0.0,5.0,0.0
-26,Udinese,Stefano,player_20046,Okaka,4,16,136,40,4.0,0.0,5.0,0.67
-27,Bologna,Rodrigo,player_20153,Palacio,4,11,123,40,5.8,1.0,5.0,0.67
-28,Genoa,Valon,player_21123,Behrami,3,9,990,31,4.5,0.0,5.0,0.0
-29,Bologna,Lorenzo,player_21125,De Silvestri,2,10,123,21,4.8,0.0,5.0,0.67
-30,Torino,Salvatore,player_21155,Sirigu,1,19,135,10,4.8,0.0,5.0,0.67
-31,Benevento,Nicolò,player_21207,Manfredini,1,6,2000,10,-,0.0,5.0,0.0
-32,Lazio,Silvio,player_27251,Proto,1,7,129,10,-,0.0,5.0,0.0
-33,Parma,,player_27256,Bruno Alves,2,8,131,20,3.5,0.0,5.0,0.67
-34,Genoa,,player_27300,Cristián Zapata,2,8,990,20,6.0,0.0,5.0,0.33
-35,Lazio,Stefan,player_27353,Radu,2,11,129,20,5.0,0.0,5.0,0.67
-36,Fiorentina,Borja,player_27794,Valero,3,12,125,31,4.8,0.0,5.0,0.0
-37,Juventus,Leonardo,player_28277,Bonucci,2,22,128,20,6.3,1.0,5.0,0.67
-38,Fiorentina,Franck,player_28559,Ribéry,4,11,125,40,5.3,0.0,5.0,0.67
-39,Cagliari,Diego,player_32281,Godín,2,11,124,20,-,0.0,5.0,0.0
-40,Verona,Samuel,player_32286,Di Carmine,4,8,126,40,4.0,0.0,5.0,0.67
-41,Cagliari,Ragnar,player_33871,Klavan,2,9,124,20,4.8,0.0,5.0,0.67
-42,Parma,Simone,player_37020,Iacoponi,2,10,131,20,3.8,0.0,5.0,0.67
-43,Inter,Alexis,player_37265,Sánchez,4,15,127,40,5.5,0.0,5.0,0.33
-44,Sassuolo,Federico,player_38476,Peluso,2,7,2182,21,-,0.0,5.0,0.0
-45,Genoa,Federico,player_38479,Marchetti,1,3,990,10,2.5,0.0,5.0,0.33
+18,Inter,Samir,player_18383,Handanovic,1,14,127,10,5.2,0.0,5.0,1.0
+19,Sassuolo,Andrea,player_18500,Consigli,1,19,2182,10,5.5,0.0,5.0,0.9400000000000001
+20,Inter,Ashley,player_18892,Young,2,15,127,21,5.0,0.0,5.0,0.53
+21,Verona,,player_19620,Miguel Veloso,3,13,126,31,5.5,2.0,5.0,0.53
+22,Napoli,Fernando,player_19760,Llorente,4,3,459,40,4.3,0.0,5.0,0.0
+23,Genoa,Domenico,player_19821,Criscito,2,11,990,21,4.8,1.0,5.0,0.35000000000000003
+24,Genoa,Lasse,player_19891,Schöne,3,4,990,31,-,0.0,5.0,0.0
+25,Roma,Simone,player_19902,Farelli,1,3,121,10,-,0.0,5.0,0.0
+26,Udinese,Stefano,player_20046,Okaka,4,8,136,40,4.7,2.0,5.0,0.47000000000000003
+27,Bologna,Rodrigo,player_20153,Palacio,4,12,123,40,5,1.0,5.0,1.0
+28,Genoa,Valon,player_21123,Behrami,3,9,990,31,4.9,0.0,5.0,0.24
+29,Bologna,Lorenzo,player_21125,De Silvestri,2,9,123,21,4.4,1.0,5.0,0.8200000000000001
+30,Torino,Salvatore,player_21155,Sirigu,1,11,135,10,4.5,0.0,5.0,0.88
+31,Benevento,Nicolò,player_21207,Manfredini,1,7,2000,10,-,0.0,5.0,0.0
+32,Lazio,Silvio,player_27251,Proto,1,1,129,10,-,0.0,5.0,0.0
+33,Parma,,player_27256,Bruno Alves,2,10,131,20,4.6,0.0,5.0,0.8200000000000001
+34,Genoa,,player_27300,Cristián Zapata,2,7,990,20,5.0,0.0,5.0,0.47000000000000003
+35,Lazio,Stefan,player_27353,Radu,2,10,129,20,5.0,0.0,5.0,0.76
+36,Fiorentina,Borja,player_27794,Valero,3,10,125,31,5.1,0.0,5.0,0.12
+37,Juventus,Leonardo,player_28277,Bonucci,2,20,128,20,5.5,2.0,5.0,0.8200000000000001
+38,Fiorentina,Franck,player_28559,Ribéry,4,13,125,40,5.0,0.0,5.0,0.76
+39,Cagliari,Diego,player_32281,Godín,2,7,124,20,4.8,1.0,5.0,0.47000000000000003
+40,Verona,Samuel,player_32286,Di Carmine,4,6,126,40,4.1,0.0,5.0,0.35000000000000003
+41,Cagliari,Ragnar,player_33871,Klavan,2,7,124,20,4.8,0.0,5.0,0.29
+42,Parma,Simone,player_37020,Iacoponi,2,9,131,20,4.4,0.0,5.0,0.59
+43,Inter,Alexis,player_37265,Sánchez,4,13,127,40,5.3,2.0,5.0,0.41000000000000003
+44,Sassuolo,Federico,player_38476,Peluso,2,4,2182,21,5.0,0.0,5.0,0.06
+45,Genoa,Federico,player_38479,Marchetti,1,7,990,10,3.3,0.0,5.0,0.12
 46,Sampdoria,Nicola,player_38597,Ravaglia,1,3,603,10,-,0.0,5.0,0.0
-47,Inter,Radja,player_38833,Nainggolan,3,14,127,32,4.5,0.0,5.0,0.0
-48,Verona,Luigi,player_38986,Vitale,2,6,126,21,-,0.0,5.0,0.0
-49,Inter,Andrea,player_39167,Ranocchia,2,8,127,20,-,0.0,5.0,0.0
-50,Verona,Karamoko,player_39351,Cissé,4,1,126,40,-,0.0,5.0,0.0
-51,Cagliari,Simone,player_39354,Aresti,1,1,124,10,-,0.0,5.0,0.0
-52,Benevento,Perparim,player_39481,Hetemaj,3,11,2000,32,5,0.0,5.0,0.0
-53,Udinese,Fernando,player_39570,Forestieri,4,8,136,40,4.8,0.0,5.0,0.0
-54,Udinese,Sebastien,player_39781,De Maio,2,11,136,20,4.8,0.0,5.0,0.67
-55,Crotone,Mattia,player_39782,Mustacchio,3,14,744,32,-,0.0,5.0,0.0
-56,Juventus,Sami,player_39816,Khedira,3,9,128,31,-,0.0,5.0,0.0
-57,Inter,Danilo,player_39826,D'Ambrosio,2,9,127,21,4.5,1.0,5.0,0.33
-58,Bologna,Andrea,player_39830,Poli,3,9,123,31,5.5,0.0,5.0,0.33
-59,Benevento,Pasquale,player_39970,Schiattarella,3,13,2000,31,4.5,0.0,5.0,0.67
-60,Lazio,Davide,player_40001,Di Gennaro,3,7,129,31,-,0.0,5.0,0.0
-61,Parma,Matteo,player_40002,Darmian,2,9,131,21,3.5,0.0,5.0,0.67
-62,Benevento,Marco,player_40239,Sau,4,17,2000,40,5,0.0,5.0,0.0
-63,Benevento,Nicolas,player_40364,Viola,3,18,2000,32,-,0.0,5.0,0.0
-64,Genoa,Ivan,player_40436,Radovanovic,3,6,990,31,5,0.0,5.0,0.0
-65,Roma,Federico,player_40792,Fazio,2,9,121,20,-,0.0,5.0,0.0
-66,Juventus,Aaron,player_41792,Ramsey,3,13,128,32,6.0,0.0,5.0,0.67
-67,Udinese,Sebastian,player_41945,Prödl,2,1,136,20,-,0.0,5.0,0.0
-68,Lazio,Felipe,player_42173,Caicedo,4,12,129,40,5.0,1.0,5.0,0.33
-69,Sampdoria,Lorenzo,player_42426,Tonelli,2,5,603,20,3.8,0.0,5.0,0.67
-70,Roma,Edin,player_42544,Dzeko,4,26,121,40,5.5,0.0,5.0,0.33
-71,Inter,Arturo,player_42565,Vidal,3,9,127,31,5.0,0.0,5.0,0.33
-72,Inter,Aleksandar,player_42593,Kolarov,2,29,127,21,5.3,0.0,5.0,0.67
-73,Torino,Samir,player_42825,Ujkani,1,7,135,10,-,0.0,5.0,0.0
-74,Parma,Marcello,player_42886,Gazzola,2,8,131,21,-,0.0,5.0,0.0
-75,Lazio,,player_43191,Lucas Leiva,3,13,129,31,4.8,0.0,5.0,0.67
-76,Parma,,player_43274,Gervinho,4,11,131,40,3.0,0.0,5.0,0.33
-77,Fiorentina,Martín,player_43693,Cáceres,2,9,125,20,4.5,0.0,5.0,0.67
-78,Milan,Ciprian,player_44898,Tatarusanu,1,8,120,10,-,0.0,5.0,0.0
-79,Benevento,Massimo,player_45019,Volta,2,8,2000,20,-,0.0,5.0,0.0
-80,Inter,Ivan,player_45034,Perisic,3,17,127,32,4.3,0.0,5.0,0.33
-81,Sampdoria,Antonio,player_45156,Candreva,3,18,603,32,5.5,0.0,5.0,0.33
-82,Milan,Simon,player_48714,Kjaer,2,12,120,20,6.0,0.0,5.0,0.67
-83,Napoli,David,player_48844,Ospina,1,10,459,10,6.0,0.0,5.0,0.33
-84,Bologna,Gary,player_48853,Medel,3,9,123,31,5.5,0.0,5.0,0.0
-85,Verona,Marco,player_49391,Faraoni,2,17,126,21,6.0,0.0,5.0,0.67
-86,Fiorentina,Giacomo,player_49417,Bonaventura,3,17,125,32,5.8,0.0,5.0,0.67
-87,Inter,Kwadwo,player_49485,Asamoah,2,4,127,21,-,0.0,5.0,0.0
-88,Roma,,player_49579,Pedro,4,15,121,40,5.5,0.0,5.0,0.67
-89,Cagliari,Daniele,player_49720,Ragatzu,4,7,124,40,-,0.0,5.0,0.0
-90,Sampdoria,Vasco,player_49940,Regini,2,4,603,20,-,0.0,5.0,0.0
-91,Parma,Luca,player_49988,Siligardi,4,7,131,40,4.5,0.0,5.0,0.0
-92,Crotone,Andrea,player_50016,Rispoli,2,12,744,21,4.8,0.0,5.0,0.0
-93,Parma,Simone,player_50322,Colombi,1,8,131,10,-,0.0,5.0,0.0
-94,Sampdoria,Albin,player_50779,Ekdal,3,19,603,31,4.5,0.0,5.0,0.67
-95,Sassuolo,Francesco,player_50821,Caputo,4,37,2182,40,6.3,1.0,5.0,0.67
-96,Torino,Tomás,player_50933,Rincón,3,11,135,31,5.0,0.0,5.0,0.67
-97,Torino,Cristian,player_50937,Ansaldi,2,10,135,21,4.5,0.0,5.0,0.33
-98,Lazio,Marco,player_51221,Parolo,3,10,129,31,5,0.0,5.0,0.0
-99,Crotone,Emmanuel,player_51621,Rivière,4,11,744,40,6.0,1.0,5.0,0.33
-100,Benevento,Iago,player_51960,Falque,3,8,2000,32,-,0.0,5.0,0.0
-101,Lazio,Senad,player_52049,Lulic,3,5,129,31,-,0.0,5.0,0.0
-102,Torino,Nicolas,player_52775,Nkoulou,2,10,135,20,4.0,0.0,5.0,0.67
-103,Cagliari,Fabio,player_53344,Pisacane,2,8,124,20,5.5,0.0,5.0,0.0
-104,Bologna,,player_53686,Danilo,2,9,123,20,5.3,0.0,5.0,0.67
-105,Juventus,,player_53693,Alex Sandro,2,18,128,21,-,0.0,5.0,0.0
-106,Roma,Javier,player_54782,Pastore,3,6,121,32,-,0.0,5.0,0.0
-107,Napoli,Dries,player_54917,Mertens,4,19,459,40,7.8,2.0,5.0,0.67
-108,Atalanta,Marco,player_55083,Sportiello,1,16,456,10,5.5,0.0,5.0,0.67
-109,Roma,Diego,player_55340,Perotti,3,8,121,32,-,0.0,5.0,0.0
-110,Benevento,Alessandro,player_55414,Tuia,2,12,2000,20,4.8,0.0,5.0,0.0
-111,Crotone,Nicolás,player_55523,Spolli,2,7,744,20,-,0.0,5.0,0.0
-112,Roma,Davide,player_55604,Santon,2,5,121,21,5.0,0.0,5.0,0.33
-113,Spezia,Diego,player_55654,Farias,4,6,2036,40,4.3,0.0,5.0,0.0
-114,Atalanta,Josip,player_55712,Ilicic,4,31,456,40,-,0.0,5.0,0.0
-115,Atalanta,Alejandro,player_55776,Gómez,3,30,456,32,8.0,3.0,5.0,0.67
-116,Bologna,,player_55885,Ângelo da Costa,1,7,123,10,-,0.0,5.0,0.0
-117,Verona,Marco,player_56486,Silvestri,1,24,126,10,6.8,0.0,5.0,0.67
-118,Udinese,Mato,player_56733,Jajalo,3,7,136,31,-,0.0,5.0,0.0
-119,Genoa,Milan,player_56999,Badelj,3,7,990,31,5.3,0.0,5.0,0.67
-120,Verona,Darko,player_57012,Lazovic,3,18,126,32,-,0.0,5.0,0.0
-121,Fiorentina,Riccardo,player_57107,Saponara,3,10,125,32,-,0.0,5.0,0.0
-122,Juventus,,player_57195,Douglas Costa,3,10,128,32,5,0.0,5.0,0.0
-123,Roma,Henrikh,player_57249,Mkhitaryan,3,28,121,32,5.3,0.0,5.0,0.67
-124,Milan,Mateo,player_57527,Musacchio,2,5,120,20,-,0.0,5.0,0.0
-125,Lazio,Ciro,player_59046,Immobile,4,47,129,40,5.0,1.0,5.0,0.67
-126,Spezia,Jeroen,player_59108,Zoet,1,12,2036,10,3.5,0.0,5.0,0.67
-127,Parma,Luigi,player_59326,Sepe,1,11,131,10,3.5,0.0,5.0,0.67
-128,Juventus,Carlo,player_59338,Pinsoglio,1,3,128,10,-,0.0,5.0,0.0
-129,Sassuolo,Pedro,player_59779,Obiang,3,6,2182,31,4.8,0.0,5.0,0.67
-130,Bologna,Roberto,player_59920,Soriano,3,18,123,32,7.0,2.0,5.0,0.67
-131,Juventus,Wojciech,player_59936,Szczesny,1,23,128,10,5.5,0.0,5.0,0.67
-132,Verona,Antonino,player_59972,Ragusa,4,6,126,40,-,0.0,5.0,0.0
-133,Crotone,Luca,player_60017,Marrone,2,9,744,20,3.3,0.0,5.0,0.67
-134,Benevento,Luca,player_60067,Caldirola,2,16,2000,20,5.3,2.0,5.0,0.67
-135,Genoa,Mattia,player_60071,Destro,4,8,990,40,4.8,1.0,5.0,0.67
-136,Torino,Simone,player_60270,Zaza,4,10,135,40,4.0,0.0,5.0,0.67
-137,Benevento,Artur,player_60655,Ionita,3,9,2000,32,4.3,0.0,5.0,0.67
-138,Verona,Emmanuel,player_60800,Badu,3,6,126,31,-,0.0,5.0,0.0
-139,Cagliari,Luca,player_60849,Ceppitelli,2,6,124,20,-,0.0,5.0,0.0
-140,Parma,Matteo,player_60999,Scozzarella,3,6,131,31,-,0.0,5.0,0.0
-141,Atalanta,,player_61118,Rafael Tolói,2,17,456,20,5.3,0.0,5.0,0.67
-142,Spezia,Luca,player_61330,Mora,3,13,2036,32,5,0.0,5.0,0.0
-143,Sampdoria,Manolo,player_61548,Gabbiadini,4,24,603,40,4.5,0.0,5.0,0.0
-144,Udinese,Roberto,player_61566,Pereyra,3,14,136,32,-,0.0,5.0,0.0
-145,Sassuolo,Vlad,player_62305,Chiriches,2,8,2182,20,5.5,0.0,5.0,0.67
-146,Udinese,Tolgay,player_62339,Arslan,3,9,136,31,5.0,0.0,5.0,0.33
-147,Sassuolo,Filip,player_66228,Djuricic,3,25,2182,32,7.0,1.0,5.0,0.67
-148,Udinese,Marvin,player_66247,Zeegelaar,2,10,136,21,4.3,0.0,5.0,0.67
-149,Juventus,Juan,player_66733,Cuadrado,2,19,128,21,5.3,0.0,5.0,0.67
-150,Inter,Romelu,player_66749,Lukaku,4,39,127,40,6.8,3.0,5.0,0.67
-151,Napoli,Kostas,player_66806,Manolas,2,21,459,20,5.8,0.0,5.0,0.67
-152,Cagliari,Leonardo,player_67977,Pavoletti,4,3,124,40,4.5,0.0,5.0,0.0
-153,Udinese,Jens,player_68659,Stryger Larsen,2,12,136,21,-,0.0,5.0,0.0
-154,Parma,Juraj,player_69143,Kucka,3,15,131,31,4.0,0.0,5.0,0.67
-155,Torino,Ricardo,player_69305,Rodríguez,2,7,135,21,-,0.0,5.0,0.0
-156,Benevento,Kamil,player_71403,Glik,2,12,2000,20,3.8,0.0,5.0,0.67
-157,Udinese,Ilija,player_72486,Nestorovski,4,12,136,40,4.5,0.0,5.0,0.0
-158,Atalanta,Francesco,player_73709,Rossi,1,3,456,10,-,0.0,5.0,0.0
-159,Crotone,Antonio,player_74027,Mazzotta,2,14,744,21,3.0,0.0,5.0,0.33
-160,Spezia,Andrej,player_74145,Galabinov,4,13,2036,40,6.5,3.0,5.0,0.67
-161,Napoli,Lorenzo,player_75592,Insigne,4,29,459,40,6.0,1.0,5.0,0.67
-162,Spezia,,player_75770,Rafael,1,3,2036,10,6.5,0.0,5.0,0.0
-163,Verona,Karim,player_76065,Laribi,3,8,126,32,-,0.0,5.0,0.0
-164,Benevento,Oliver,player_76209,Kragl,3,15,2000,32,-,0.0,5.0,0.0
-165,Udinese,Bram,player_76623,Nuytinck,2,13,136,20,-,0.0,5.0,0.0
-166,Parma,Jacopo,player_76811,Dezi,3,6,131,32,4.3,0.0,5.0,0.33
-167,Sampdoria,Gastón,player_78091,Ramírez,3,16,603,32,5,0.0,5.0,0.0
-168,Bologna,Federico,player_78109,Santander,4,5,123,40,4.5,0.0,5.0,0.0
-169,Inter,Stefan,player_78140,de Vrij,2,24,127,20,5.0,0.0,5.0,0.33
-170,Sassuolo,Mehdi,player_78796,Bourabia,3,9,2182,31,5.3,1.0,5.0,0.0
-171,Torino,Simone,player_78819,Verdi,4,13,135,40,4.5,0.0,5.0,0.0
-172,Fiorentina,Pietro,player_79583,Terracciano,1,17,125,10,-,0.0,5.0,0.0
-173,Sampdoria,Maya,player_80447,Yoshida,2,13,603,20,4,0.0,5.0,0.0
-174,Inter,Christian,player_80607,Eriksen,3,18,127,32,4.8,0.0,5.0,0.33
-175,Benevento,Gianluca,player_80948,Lapadula,4,16,2000,40,4.8,0.0,5.0,0.0
-176,Spezia,Jacopo,player_80974,Sala,2,6,2036,21,3.0,0.0,5.0,0.33
-177,Bologna,Nicola,player_81033,Sansone,3,8,123,32,5,0.0,5.0,0.0
-178,Parma,Roberto,player_82135,Inglese,4,10,131,40,3.5,0.0,5.0,0.33
-179,Atalanta,Marten,player_82428,de Roon,3,16,456,31,5.8,1.0,5.0,0.33
-180,Lazio,,player_82451,Luis Alberto,3,29,129,32,4.0,0.0,5.0,0.67
-181,Napoli,Kevin,player_83340,Malcuit,2,4,459,21,-,0.0,5.0,0.0
-182,Benevento,Bryan,player_83561,Dabo,3,9,2000,31,4.5,0.0,5.0,0.67
-183,Milan,,player_83984,Antonio Donnarumma,1,3,120,10,-,0.0,5.0,0.0
-184,Crotone,Guillaume,player_84160,Gigliotti,2,9,744,20,-,0.0,5.0,0.0
-185,Roma,Leonardo,player_84161,Spinazzola,2,11,121,21,5.5,0.0,5.0,0.67
-186,Lazio,Francesco,player_84178,Acerbi,2,22,129,20,4.5,0.0,5.0,0.67
-187,Sampdoria,Bartosz,player_84724,Bereszynski,2,8,603,21,3.3,0.0,5.0,0.67
-188,Parma,Vincent,player_85046,Laurini,2,8,131,21,3.0,0.0,5.0,0.33
-189,Bologna,Lukasz,player_85288,Skorupski,1,12,123,10,4.8,0.0,5.0,0.67
-190,Benevento,Gaetano,player_85295,Letizia,2,13,2000,21,5.3,1.0,5.0,0.33
-191,Napoli,Kalidou,player_86129,Koulibaly,2,9,459,20,6.3,0.0,5.0,0.67
-192,Sampdoria,,player_86371,Dodô,2,3,603,21,-,0.0,5.0,0.0
-193,Crotone,Lisandro,player_86940,Magallán,2,5,744,20,4.0,0.0,5.0,0.67
-194,Napoli,Nikola,player_87542,Maksimovic,2,11,459,20,5.5,0.0,5.0,0.0
-195,Atalanta,Luis,player_87750,Muriel,4,31,456,40,5.3,1.0,5.0,0.33
-196,Genoa,Mattia,player_87995,Perin,1,12,990,10,5.5,0.0,5.0,0.33
-197,Cagliari,,player_88340,João Pedro,4,37,124,40,5.3,0.0,5.0,0.67
-198,Fiorentina,Cristiano,player_88432,Biraghi,2,22,125,21,4.3,0.0,5.0,0.67
-199,Juventus,Álvaro,player_88482,Morata,4,17,128,40,4.0,0.0,5.0,0.33
-200,Napoli,Faouzi,player_88746,Ghoulam,2,6,459,21,4.5,0.0,5.0,0.0
-201,Udinese,Lukasz,player_88768,Teodorczyk,4,5,136,40,-,0.0,5.0,0.0
-202,Atalanta,Remo,player_89076,Freuler,3,17,456,31,5.8,0.0,5.0,0.67
-203,Atalanta,José Luis,player_89861,Palomino,2,19,456,20,5.3,0.0,5.0,0.33
-204,Fiorentina,Federico,player_90557,Ceccherini,2,9,125,20,4.3,0.0,5.0,0.67
-205,Fiorentina,Valentin,player_91070,Eysseric,3,6,125,32,-,0.0,5.0,0.0
-206,Roma,,player_91990,Juan Jesus,2,2,121,20,-,0.0,5.0,0.0
-207,Napoli,Diego,player_92042,Demme,3,9,459,31,5.0,0.0,5.0,0.33
-208,Atalanta,Cristiano,player_92055,Piccini,2,12,456,21,-,0.0,5.0,0.0
-209,Parma,Jasmin,player_92519,Kurtic,3,21,131,32,-,0.0,5.0,0.0
-210,Verona,Simone,player_93336,Calvano,3,6,126,31,-,0.0,5.0,0.0
-211,Napoli,Giovanni,player_93661,Di Lorenzo,2,19,459,21,6.5,0.0,5.0,0.67
-212,Parma,Gastón,player_93854,Brugman,3,16,131,31,5.5,0.0,5.0,0.67
-213,Verona,Alessandro,player_94239,Berardi,1,3,126,10,-,0.0,5.0,0.0
-214,Inter,Marcelo,player_94425,Brozovic,3,20,127,31,5.0,0.0,5.0,0.33
-215,Genoa,Stefano,player_94751,Sturaro,3,8,990,31,-,0.0,5.0,0.0
-216,Benevento,Gianluca,player_95180,Caprari,4,9,2000,40,6.8,2.0,5.0,0.67
-217,Sassuolo,Gregoire,player_95215,Defrel,4,7,2182,40,5.8,1.0,5.0,0.33
-218,Atalanta,Berat,player_96645,Djimsiti,2,17,456,20,6.0,0.0,5.0,0.33
-219,Roma,Jordan,player_96740,Veretout,3,22,121,31,6.8,2.0,5.0,0.67
-220,Parma,Kastriot,player_97346,Dermaku,2,8,131,20,5,0.0,5.0,0.0
-221,Milan,Ante,player_98456,Rebic,4,26,120,40,5.8,0.0,5.0,0.67
-222,Verona,Antonio,player_100075,Di Gaudio,3,5,126,32,-,0.0,5.0,0.0
-223,Juventus,,player_100180,Danilo,2,13,128,21,6.5,0.0,5.0,0.67
-224,Napoli,,player_101019,Mário Rui,2,11,459,21,-,0.0,5.0,0.0
-225,Verona,Alberto,player_101020,Almici,2,2,126,21,-,0.0,5.0,0.0
-226,Napoli,Stanislav,player_101820,Lobotka,3,12,459,31,5,0.0,5.0,0.0
-227,Torino,Daniele,player_102195,Baselli,3,4,135,31,-,0.0,5.0,0.0
-228,Genoa,Marko,player_102228,Pjaca,3,7,990,32,4.5,1.0,5.0,0.33
-229,Genoa,Petar,player_102290,Brlek,3,3,990,31,-,0.0,5.0,0.0
-230,Torino,Koffi,player_102766,Djidji,2,5,135,20,-,0.0,5.0,0.0
-231,Napoli,Arkadiusz,player_103076,Milik,4,18,459,40,-,0.0,5.0,0.0
-232,Atalanta,Duván,player_103086,Zapata,4,35,456,40,5.5,0.0,5.0,0.67
-233,Torino,Soualiho,player_103119,Meité,3,13,135,31,4.8,0.0,5.0,0.67
-234,Benevento,Pietro,player_103607,Iemmello,4,2,2000,40,-,0.0,5.0,0.0
-235,Lazio,Jean-Daniel,player_104359,Akpa Akpro,2,8,129,21,4.5,0.0,5.0,0.0
-236,Crotone,Ahmad,player_104529,Benali,3,16,744,32,-,0.0,5.0,0.0
-237,Udinese,,player_105059,Nícolas,1,7,136,10,-,0.0,5.0,0.0
-238,Torino,Nicola,player_105108,Murru,2,7,135,21,3.0,0.0,5.0,0.33
-239,Torino,Armando,player_105119,Izzo,2,9,135,20,5.0,0.0,5.0,0.33
-240,Benevento,Luca,player_105131,Antei,2,8,2000,20,-,0.0,5.0,0.0
-241,Sampdoria,Valerio,player_105132,Verre,3,12,603,32,4.8,0.0,5.0,0.33
-242,Cagliari,Alessio,player_105133,Cragno,1,18,124,10,6.0,0.0,5.0,0.67
-243,Genoa,Davide,player_105700,Zappacosta,2,13,990,21,4.8,1.0,5.0,0.67
-244,Benevento,Riccardo,player_106008,Improta,3,18,2000,32,5,0.0,5.0,0.0
-245,Sassuolo,Georgios,player_106247,Kyriakopoulos,2,9,2182,21,4.8,0.0,5.0,0.33
-246,Lazio,,player_106461,Patric,2,8,129,20,4.5,0.0,5.0,0.67
-247,Juventus,Mattia,player_107013,De Sciglio,2,7,128,21,5,0.0,5.0,0.0
-248,Napoli,Elseid,player_107363,Hysaj,2,9,459,21,6.0,0.0,5.0,0.67
-249,Verona,Mariusz,player_108143,Stepinski,4,7,126,40,-,0.0,5.0,0.0
-250,Roma,Ante,player_109100,Coric,3,6,121,32,-,0.0,5.0,0.0
-251,Lazio,Jordan,player_109353,Lukaku,2,7,129,21,-,0.0,5.0,0.0
-252,Roma,Bryan,player_109511,Cristante,3,12,121,31,4.0,0.0,5.0,0.33
-253,Inter,,player_109788,João Mário,3,8,127,32,-,0.0,5.0,0.0
-254,Lazio,,player_110654,Bastos,2,7,129,20,4.5,0.0,5.0,0.0
-255,Cagliari,Charalampos,player_111515,Lykogiannis,2,9,124,21,4.8,0.0,5.0,0.67
-256,Torino,Andrea,player_111722,Belotti,4,32,135,40,6.3,2.0,5.0,0.67
-257,Bologna,Stefano,player_111729,Denswil,2,6,123,20,5,0.0,5.0,0.0
-258,Milan,Hakan,player_111732,Calhanoglu,3,26,120,32,5.5,0.0,5.0,0.67
-259,Roma,Robin,player_111782,Olsen,1,7,121,10,-,0.0,5.0,0.0
-260,Parma,Michele,player_111907,Fornasier,2,5,131,20,-,0.0,5.0,0.0
-261,Inter,Milan,player_112065,Skriniar,2,9,127,20,4.0,0.0,5.0,0.33
-262,Napoli,Amin,player_113529,Younes,4,5,459,40,-,0.0,5.0,0.0
-263,Sassuolo,Federico,player_113543,Ricci,3,14,2182,31,5,0.0,5.0,0.0
-264,Parma,Andreas,player_114517,Cornelius,4,12,131,40,4.5,0.0,5.0,0.33
-265,Fiorentina,,player_116056,Joseph Alfred Duncan,3,8,125,31,5.5,0.0,5.0,0.33
-266,Lazio,Joaquín,player_116195,Correa,4,16,129,40,5.0,0.0,5.0,0.33
-267,Genoa,Davide,player_116196,Biraschi,2,7,990,20,4.0,0.0,5.0,0.67
-268,Sassuolo,Domenico,player_116796,Berardi,4,27,2182,40,6.5,1.0,5.0,0.67
-269,Verona,Koray,player_118888,Günter,2,11,126,20,5.8,0.0,5.0,0.67
-270,Udinese,Rodrigo,player_119141,de Paul,3,30,136,32,5.5,0.0,5.0,0.67
-271,Bologna,Mitchell,player_119213,Dijks,2,7,123,21,4.0,0.0,5.0,0.33
-272,Roma,,player_119605,Bruno Peres,2,17,121,21,5,0.0,5.0,0.0
-273,Bologna,Ibrahima,player_119908,Mbaye,2,9,123,21,-,0.0,5.0,0.0
-274,Juventus,Paulo,player_120638,Dybala,4,32,128,40,-,0.0,5.0,0.0
-275,Juventus,Adrien,player_120743,Rabiot,3,17,128,31,4.5,0.0,5.0,0.67
-276,Udinese,,player_121126,Ryder Matos,4,6,136,40,5,0.0,5.0,0.0
-277,Fiorentina,Germán,player_121220,Pezzella,2,17,125,20,-,0.0,5.0,0.0
-278,Udinese,Juan,player_121537,Musso,1,26,136,10,4.3,0.0,5.0,0.67
-279,Sampdoria,Leonardo,player_122008,Capezzi,3,6,603,31,-,0.0,5.0,0.0
-280,Verona,Marco,player_122476,Benassi,3,7,126,32,-,0.0,5.0,0.0
-281,Cagliari,Paolo,player_123309,Faragò,2,9,124,21,3.8,0.0,5.0,0.67
-282,Genoa,Ivan,player_123508,Lakicevic,2,2,990,21,-,0.0,5.0,0.0
-283,Cagliari,Kiril,player_123671,Despodov,4,1,124,40,4.5,0.0,5.0,0.0
-284,Parma,Yves,player_124197,Baraye,3,2,131,32,-,0.0,5.0,0.0
-285,Napoli,Piotr,player_126440,Zielinski,3,20,459,32,6.8,1.0,5.0,0.67
-286,Milan,Alessio,player_126551,Romagnoli,2,18,120,20,-,0.0,5.0,0.0
-287,Benevento,Federico,player_127122,Barba,2,5,2000,20,4.5,0.0,5.0,0.33
-288,Juventus,Laurentiu,player_128349,Branescu,1,1,128,10,-,0.0,5.0,0.0
-289,Lazio,Riza,player_128376,Durmisi,2,5,129,21,-,0.0,5.0,0.0
-290,Lazio,Danilo,player_130963,Cataldi,3,9,129,31,4.8,0.0,5.0,0.0
-291,Udinese,William,player_131304,Troost-Ekong,2,14,136,20,-,0.0,5.0,0.0
-292,Milan,Alen,player_134316,Halilovic,3,4,120,32,-,0.0,5.0,0.0
-293,Genoa,Miha,player_135334,Zajc,3,8,990,31,5.0,0.0,5.0,0.67
-294,Sassuolo,Jeremie,player_135365,Boga,3,30,2182,32,-,0.0,5.0,0.0
-295,Fiorentina,Erick,player_139146,Pulgar,3,25,125,31,-,0.0,5.0,0.0
-296,Torino,Karol,player_140181,Linetty,3,17,135,31,4.8,0.0,5.0,0.67
-297,Lazio,Thomas,player_140200,Strakosha,1,24,129,10,4.5,0.0,5.0,0.67
-298,Lazio,Guido,player_141219,Guerrieri,1,3,129,10,-,0.0,5.0,0.0
-299,Spezia,Federico,player_141563,Mattiello,2,12,2036,21,-,0.0,5.0,0.0
-300,Parma,Eric,player_141568,Lanini,4,5,131,40,-,0.0,5.0,0.0
-301,Verona,Pawel,player_141925,Dawidowicz,2,5,126,20,5,0.0,5.0,0.0
-302,Inter,Stefano,player_147166,Sensi,3,5,127,31,5.8,0.0,5.0,0.33
-303,Juventus,Federico,player_147297,Bernardeschi,4,8,128,40,-,0.0,5.0,0.0
-304,Genoa,Edoardo,player_147614,Goldaniga,2,7,990,20,4.5,0.0,5.0,0.67
-305,Napoli,Andrea,player_147886,Petagna,4,9,459,40,4.5,0.0,5.0,0.0
-306,Milan,Diego,player_148025,Laxalt,3,7,120,31,-,0.0,5.0,0.0
-307,Benevento,Roberto,player_148202,Insigne,4,17,2000,40,4.0,0.0,5.0,0.67
-308,Inter,Matías,player_148215,Vecino,3,8,127,31,-,0.0,5.0,0.0
-309,Parma,Mattia,player_148868,Sprocati,3,6,131,32,5,0.0,5.0,0.0
-310,Juventus,Daniele,player_150710,Rugani,2,7,128,20,-,0.0,5.0,0.0
-311,Parma,Marco,player_151544,Frediani,4,2,131,40,-,0.0,5.0,0.0
-312,Udinese,Simone,player_151804,Scuffet,1,4,136,10,-,0.0,5.0,0.0
-313,Fiorentina,Sebastián,player_151978,Cristóforo,3,5,125,31,-,0.0,5.0,0.0
-314,Verona,Adrien,player_152338,Tameze,3,9,126,31,5.8,0.0,5.0,0.67
-315,Atalanta,Johan,player_152723,Mojica,2,7,456,21,5,0.0,5.0,0.0
-316,Bologna,Mattia,player_152965,Bani,2,8,123,20,-,0.0,5.0,0.0
-317,Cagliari,Gastón,player_153603,Pereiro,3,7,124,32,-,0.0,5.0,0.0
-318,Parma,Riccardo,player_153693,Gagliolo,2,14,131,21,-,0.0,5.0,0.0
-319,Crotone,Marco,player_153704,Festa,1,7,744,10,-,0.0,5.0,0.0
-320,Crotone,Salvatore,player_153754,Molina,3,13,744,31,4.8,0.0,5.0,0.67
-321,Napoli,Amato,player_153757,Ciciretti,3,6,459,32,-,0.0,5.0,0.0
-322,Napoli,Matteo,player_153776,Politano,3,11,459,32,5.5,1.0,5.0,0.0
-323,Spezia,Matteo,player_153857,Ricci,3,16,2036,31,6.0,0.0,5.0,0.67
-324,Spezia,Daniele,player_153867,Verde,4,3,2036,40,5.0,0.0,5.0,0.33
-325,Sassuolo,Gian Marco,player_155620,Ferrari,2,14,2182,20,6.3,0.0,5.0,0.67
-326,Milan,Rade,player_155748,Krunic,3,8,120,32,4.8,0.0,5.0,0.0
-327,Bologna,Arturo,player_155895,Calabresi,2,6,123,20,-,0.0,5.0,0.0
-328,Verona,Deian,player_155907,Boldor,2,1,126,20,-,0.0,5.0,0.0
-329,Benevento,Lorenzo,player_156245,Montipò,1,15,2000,10,2.8,0.0,5.0,0.67
-330,Sampdoria,Omar,player_156267,Colley,2,12,603,20,4.8,1.0,5.0,0.67
-331,Lazio,Vedat,player_156293,Muriqi,4,16,129,40,-,0.0,5.0,0.0
-332,Lazio,Gonzalo,player_156305,Escalante,3,10,129,31,5,0.0,5.0,0.0
-333,Lazio,Manuel,player_156323,Lazzari,3,9,129,31,5.3,1.0,5.0,0.67
-334,Atalanta,Pierluigi,player_156683,Gollini,1,8,456,10,-,0.0,5.0,0.0
-335,Cagliari,Alberto,player_156707,Cerri,4,9,124,40,-,0.0,5.0,0.0
-336,Benevento,Lorenzo,player_156883,Del Pinto,3,8,2000,31,-,0.0,5.0,0.0
-337,Verona,Mattia,player_157008,Zaccagni,3,14,126,32,5.5,0.0,5.0,0.33
-338,Atalanta,Ruslan,player_157374,Malinovskiy,3,31,456,32,6.3,0.0,5.0,0.33
-339,Parma,,player_157717,Hernani,3,15,131,31,4.8,1.0,5.0,0.67
-340,Genoa,Vittorio,player_159042,Parigini,4,5,990,40,-,0.0,5.0,0.0
-341,Spezia,Emmanuel,player_159043,Gyasi,4,15,2036,40,4.8,0.0,5.0,0.67
-342,Sassuolo,Kaan,player_159522,Ayhan,2,9,2182,20,5,0.0,5.0,0.0
-343,Lazio,,player_160058,Wallace,2,7,129,20,-,0.0,5.0,0.0
-344,Atalanta,Aleksey,player_160174,Miranchuk,3,12,456,32,-,0.0,5.0,0.0
-345,Sassuolo,Jeremy,player_160540,Toljan,2,8,2182,21,5.3,0.0,5.0,0.67
-346,Sampdoria,Alex,player_161490,Ferrari,2,4,603,20,-,0.0,5.0,0.0
-347,Verona,Giangiacomo,player_161794,Magnani,2,10,126,20,-,0.0,5.0,0.0
-348,Milan,Davide,player_161918,Calabria,2,13,120,21,6.0,0.0,5.0,0.67
-349,Verona,Federico,player_161919,Dimarco,2,9,126,21,5.5,0.0,5.0,0.67
-350,Spezia,Elio,player_161921,Capradossi,2,13,2036,20,-,0.0,5.0,0.0
-351,Sampdoria,Federico,player_161932,Bonazzoli,4,20,603,40,4.3,0.0,5.0,0.67
-352,Spezia,Alessandro,player_162330,Deiola,3,7,2036,31,5.3,0.0,5.0,0.33
-353,Udinese,,player_162651,Samir,2,7,136,20,4.3,0.0,5.0,0.67
-354,Fiorentina,Bartlomiej,player_162842,Dragowski,1,10,125,10,5.5,0.0,5.0,0.67
-355,Cagliari,Razvan,player_163632,Marin,3,12,124,31,4.5,0.0,5.0,0.67
-356,Sassuolo,,player_164099,Marlon Santos,2,8,2182,20,-,0.0,5.0,0.0
-357,Lazio,Denis,player_164266,Vavro,2,8,129,20,-,0.0,5.0,0.0
-358,Crotone,Tomislav,player_164543,Gomelt,3,12,744,31,4.5,0.0,5.0,0.0
-359,Atalanta,Mario,player_164570,Pasalic,3,24,456,32,5.0,0.0,5.0,0.33
-360,Crotone,,player_164633,Simy,4,18,744,40,3.0,0.0,5.0,0.67
-361,Napoli,Amir,player_165196,Rrahmani,2,14,459,20,-,0.0,5.0,0.0
-362,Genoa,Filip,player_165229,Jagiello,3,10,990,31,-,0.0,5.0,0.0
-363,Cagliari,Giovanni,player_166016,Simeone,4,16,124,40,5.0,1.0,5.0,0.67
-364,Genoa,Lukas,player_166965,Lerager,3,10,990,31,4.3,0.0,5.0,0.67
-365,Cagliari,Filip,player_167164,Bradaric,3,8,124,31,-,0.0,5.0,0.0
-366,Napoli,Sebastiano,player_168618,Luperto,2,4,459,20,-,0.0,5.0,0.0
-367,Benevento,Cy,player_168768,Goddard,3,1,2000,32,-,0.0,5.0,0.0
-368,Lazio,Adam,player_169107,Marusic,2,7,129,21,5.3,0.0,5.0,0.67
-369,Parma,Luca,player_169482,Zamparo,4,1,131,40,-,0.0,5.0,0.0
-370,Atalanta,Hans,player_170135,Hateboer,2,13,456,21,6.8,2.0,5.0,0.67
-371,Spezia,Giuseppe,player_170346,Mastinu,3,10,2036,32,-,0.0,5.0,0.0
-372,Lazio,Djavan,player_170857,Anderson,2,5,129,21,4.5,0.0,5.0,0.0
-373,Inter,Roberto,player_171152,Gagliardini,3,11,127,31,8.0,1.0,5.0,0.33
-374,Napoli,Alex,player_171366,Meret,1,11,459,10,5.0,0.0,5.0,0.33
-375,Inter,Nicolò,player_171384,Barella,3,9,127,32,4.8,0.0,5.0,0.33
-376,Sassuolo,Manuel,player_171387,Locatelli,3,25,2182,31,5.5,0.0,5.0,0.67
-377,Sassuolo,Filippo,player_171390,Romagna,2,7,2182,20,-,0.0,5.0,0.0
-378,Verona,Alan,player_172838,Empereur,2,9,126,20,4.5,0.0,5.0,0.33
-379,Fiorentina,,player_172912,Sofyan Amrabat,3,12,125,31,5.5,0.0,5.0,0.33
-380,Sassuolo,Lukas,player_173131,Haraslin,4,8,2182,40,5.5,0.0,5.0,0.33
-381,Milan,Franck,player_173181,Kessié,3,24,120,31,6.8,1.0,5.0,0.67
-382,Atalanta,Mattia,player_174651,Caldara,2,12,456,20,4.0,0.0,5.0,0.33
-383,Benevento,Gabriele,player_174876,Moncini,4,10,2000,40,4.5,0.0,5.0,0.67
-384,Udinese,Kevin,player_175639,Bonifazi,2,8,136,20,-,0.0,5.0,0.0
-385,Bologna,Godfred,player_176116,Donsah,3,9,123,31,-,0.0,5.0,0.0
-386,Crotone,,player_176485,Pedro Pereira,2,10,744,21,4.0,0.0,5.0,0.33
-387,Napoli,Nikita,player_177880,Contini,1,1,459,10,-,0.0,5.0,0.0
-388,Atalanta,Robin,player_177901,Gosens,2,30,456,21,6.3,1.0,5.0,0.67
-389,Fiorentina,Lorenzo,player_178724,Venuti,2,10,125,21,5,0.0,5.0,0.0
-390,Sampdoria,Morten,player_179296,Thorsby,3,12,603,31,4.3,0.0,5.0,0.33
-391,Spezia,Simone,player_179329,Bastoni,2,8,2036,21,-,0.0,5.0,0.0
-392,Napoli,Hirving,player_179361,Lozano,4,10,459,40,7.3,2.0,5.0,0.67
-393,Roma,Carles,player_179369,Pérez,3,12,121,32,-,0.0,5.0,0.0
-394,Lazio,Sergej,player_180793,Milinkovic-Savic,3,31,129,32,4.3,0.0,5.0,0.67
-395,Udinese,Rolando,player_182514,Mandragora,3,5,136,31,-,0.0,5.0,0.0
-396,Torino,Andrea,player_182515,Zaccagno,1,1,135,10,-,0.0,5.0,0.0
-397,Genoa,Francesco,player_182518,Cassata,3,9,990,31,-,0.0,5.0,0.0
-398,Roma,Pau,player_182960,López,1,14,121,10,-,0.0,5.0,0.0
-399,Crotone,,player_183253,Eduardo Henrique,3,7,744,31,3.8,0.0,5.0,0.0
-400,Benevento,Andrés,player_183383,Tello,3,14,2000,31,-,0.0,5.0,0.0
-401,Parma,Yann,player_184095,Karamoh,4,8,131,40,4.3,0.0,5.0,0.33
-402,Cagliari,Guglielmo,player_184254,Vicario,1,1,124,10,-,0.0,5.0,0.0
-403,Udinese,,player_184289,Walace,3,9,136,31,-,0.0,5.0,0.0
-404,Roma,,player_184441,Lorenzo Pellegrini,3,12,121,32,5.3,0.0,5.0,0.67
-405,Udinese,Hidde,player_184508,ter Avest,2,10,136,21,4.3,0.0,5.0,0.67
-406,Parma,Lorenzo,player_185079,Simonetti,3,1,131,31,-,0.0,5.0,0.0
-407,Verona,Kevin,player_185521,Rüegg,2,8,126,21,5.5,0.0,5.0,0.0
-408,Roma,Rick,player_186665,Karsdorp,2,10,121,20,5.0,0.0,5.0,0.33
-409,Genoa,Marcos,player_189581,Curado,2,1,990,20,-,0.0,5.0,0.0
-410,Cagliari,Marko,player_192252,Pajac,3,4,124,31,-,0.0,5.0,0.0
-411,Cagliari,Nahitan,player_192351,Nández,3,13,124,31,4.8,0.0,5.0,0.67
-412,Verona,Enrico,player_192448,Bearzotti,3,1,126,32,-,0.0,5.0,0.0
-413,Udinese,Kevin,player_192905,Lasagna,4,22,136,40,4.0,0.0,5.0,0.67
-414,Spezia,Gennaro,player_193106,Acampora,3,8,2036,31,-,0.0,5.0,0.0
-415,Sampdoria,Antonio,player_193126,Palumbo,3,4,603,31,-,0.0,5.0,0.0
-416,Milan,Andrea,player_193183,Conti,2,11,120,21,-,0.0,5.0,0.0
-417,Fiorentina,Kevin,player_193228,Diks,2,1,125,21,-,0.0,5.0,0.0
-418,Milan,,player_193449,Samu Castillejo,3,7,120,32,4.3,0.0,5.0,0.33
-419,Sampdoria,Emil,player_193509,Audero,1,21,603,10,4.5,0.0,5.0,0.67
-420,Torino,Vanja,player_193773,Milinkovic-Savic,1,1,135,10,-,0.0,5.0,0.0
-421,Fiorentina,Julián,player_194789,Illanes,2,2,125,20,-,0.0,5.0,0.0
-422,Spezia,Juan,player_195046,Ramos,2,8,2036,21,4.3,0.0,5.0,0.67
-423,Cagliari,Marko,player_195303,Rog,3,10,124,32,5.3,0.0,5.0,0.67
-424,Torino,,player_195385,Alex Berenguer,3,11,135,32,4.5,0.0,5.0,0.67
-425,Udinese,Cristo,player_195504,González,4,14,136,40,-,0.0,5.0,0.0
-426,Parma,Alberto,player_195516,Grassi,3,8,131,31,5.0,0.0,5.0,0.33
-427,Sampdoria,Jakub,player_195577,Jankto,3,18,603,32,4.0,0.0,5.0,0.67
-428,Fiorentina,Gaetano,player_195634,Castrovilli,3,14,125,32,5.8,2.0,5.0,0.67
-429,Genoa,Filippo,player_195896,Melegoni,3,3,990,32,5,0.0,5.0,0.0
-430,Sassuolo,Gianluca,player_195899,Scamacca,4,6,2182,40,-,0.0,5.0,0.0
-431,Parma,Alessio,player_196098,Da Cruz,3,2,131,32,-,0.0,5.0,0.0
-432,Crotone,Aristóteles,player_196302,Romero,3,3,744,31,-,0.0,5.0,0.0
-433,Parma,Giacomo,player_197903,Ricci,2,1,131,21,-,0.0,5.0,0.0
-434,Torino,Simone,player_197983,Edera,3,7,135,32,-,0.0,5.0,0.0
-435,Roma,Gianluca,player_198374,Mancini,2,15,121,20,4.8,0.0,5.0,0.67
-436,Spezia,Riccardo,player_201333,Marchizza,2,6,2036,20,-,0.0,5.0,0.0
-437,Napoli,Fabián,player_201379,Ruiz,3,28,459,31,6.3,0.0,5.0,0.67
-438,Verona,Andrea,player_201652,Favilli,4,7,126,40,6,1.0,5.0,0.0
-439,Milan,Ismael,player_202041,Bennacer,3,22,120,31,6.0,0.0,5.0,0.33
-440,Genoa,Paolo,player_202903,Ghiglione,2,7,990,21,5.0,0.0,5.0,0.33
-441,Juventus,Rodrigo,player_202993,Bentancur,3,22,128,31,5.3,0.0,5.0,0.0
-442,Juventus,,player_203237,Matheus Pereira,3,1,128,32,-,0.0,5.0,0.0
-443,Juventus,,player_204043,Arthur,3,9,128,31,5.5,0.0,5.0,0.0
-444,Spezia,Martin,player_204631,Erlic,2,10,2036,20,4.3,0.0,5.0,0.33
-445,Milan,,player_204936,Gianluigi Donnarumma,1,17,120,10,6.0,0.0,5.0,0.67
-446,Atalanta,Anton,player_205079,Kresic,2,1,456,20,-,0.0,5.0,0.0
-447,Udinese,Samuele,player_205198,Perisan,1,3,136,10,-,0.0,5.0,0.0
-448,Parma,Fabrizio,player_205199,Alastra,1,3,131,10,-,0.0,5.0,0.0
-449,Crotone,Vladimir,player_205578,Golemic,2,16,744,20,3.3,0.0,5.0,0.67
-450,Sassuolo,Leonardo,player_205625,Fontanesi,2,1,2182,20,-,0.0,5.0,0.0
-451,Parma,,player_206552,José Machín,3,1,131,31,-,0.0,5.0,0.0
-452,Genoa,Rok,player_207015,Vodisek,1,1,990,10,-,0.0,5.0,0.0
-453,Sampdoria,Antonino,player_208339,La Gumina,4,5,603,40,-,0.0,5.0,0.0
-454,Udinese,Francisco,player_208973,Sierralta,2,1,136,20,-,0.0,5.0,0.0
-455,Genoa,Flavio Junior,player_209340,Bianchi,4,1,990,40,-,0.0,5.0,0.0
-456,Juventus,Luca,player_209343,Coccolo,2,1,128,20,-,0.0,5.0,0.0
-457,Torino,Federico,player_209344,Giraudo,2,1,135,21,-,0.0,5.0,0.0
-458,Fiorentina,Patrick,player_209353,Cutrone,4,18,125,40,4.5,0.0,5.0,0.0
-459,Juventus,Matthijs,player_209365,de Ligt,2,6,128,20,-,0.0,5.0,0.0
-460,Inter,Lautaro,player_209737,Martínez,4,18,127,40,6.5,2.0,5.0,0.33
-461,Napoli,Zinedine,player_210415,Machach,3,2,459,31,-,0.0,5.0,0.0
-462,Bologna,Mattias,player_210912,Svanberg,3,9,123,31,5,0.0,5.0,0.0
-463,Crotone,Luka,player_210959,Markovic,4,2,744,40,-,0.0,5.0,0.0
-464,Torino,Sasa,player_212314,Lukic,3,12,135,31,4.8,0.0,5.0,0.0
-465,Roma,Amadou,player_212533,Diawara,3,9,121,31,5.5,0.0,5.0,0.33
-466,Lazio,Marius,player_212633,Adamonis,1,1,129,10,-,0.0,5.0,0.0
-467,Torino,Mergim,player_212667,Vojvoda,2,9,135,21,4.5,0.0,5.0,0.33
-468,Torino,,player_212721,Lyanco,2,8,135,20,-,0.0,5.0,0.0
-469,Spezia,Paolo,player_213364,Bartolomei,3,14,2036,31,4.3,0.0,5.0,0.33
-470,Spezia,Cristian,player_213534,Dell'Orco,2,12,2036,21,3.5,0.0,5.0,0.33
-471,Verona,Boris,player_213535,Radunovic,1,7,126,10,-,0.0,5.0,0.0
-472,Parma,Abdou,player_213672,Diakhate,3,8,131,31,-,0.0,5.0,0.0
-473,Lazio,Andreas,player_213933,Karo,2,1,129,20,-,0.0,5.0,0.0
-474,Spezia,Nahuel,player_214064,Estévez,3,9,2036,31,-,0.0,5.0,0.0
-475,Lazio,Bobby,player_214435,Adekanye,4,7,129,40,-,0.0,5.0,0.0
-476,Atalanta,Sam,player_215145,Lammers,4,11,456,40,4.3,0.0,5.0,0.0
-477,Parma,Giuseppe,player_215312,Pezzella,2,7,131,21,3.5,0.0,5.0,0.33
-478,Verona,Vincenzo,player_215313,Silvestro,3,1,126,32,-,0.0,5.0,0.0
-479,Spezia,Luca,player_215421,Vignali,2,10,2036,21,-,0.0,5.0,0.0
-480,Crotone,Aniello,player_215448,Viscovo,1,1,744,10,-,0.0,5.0,0.0
-481,Lazio,,player_215510,Luiz Felipe,2,7,129,20,-,0.0,5.0,0.0
-482,Inter,Ionut,player_215531,Radu,1,3,127,10,-,0.0,5.0,0.0
-483,Roma,Moustapha,player_215652,Seck,2,1,121,21,-,0.0,5.0,0.0
-484,Inter,Alessandro,player_215977,Bastoni,2,11,127,20,5.0,0.0,5.0,0.33
-485,Milan,Matteo,player_215979,Gabbia,2,9,120,20,5.8,0.0,5.0,0.67
-486,Genoa,Luca,player_215981,Pellegrini,2,6,990,21,3.0,0.0,5.0,0.33
-487,Cagliari,Alessandro,player_216035,Tripaldelli,2,3,124,21,5,0.0,5.0,0.0
-488,Inter,Andrea,player_216040,Pinamonti,4,14,127,40,-,0.0,5.0,0.0
-489,Juventus,Marco,player_216042,Olivieri,4,1,128,40,-,0.0,5.0,0.0
-490,Milan,,player_216065,Rafael Leão,4,12,120,40,5,0.0,5.0,0.0
-491,Milan,Brahim,player_216183,Díaz,3,7,120,32,5.8,1.0,5.0,0.33
-492,Fiorentina,Pol,player_216791,Lirola,2,17,125,21,4.5,0.0,5.0,0.0
-493,Crotone,Nicola,player_217729,Nanni,4,1,744,40,-,0.0,5.0,0.0
-494,Udinese,Thomas,player_218127,Ouwejan,2,7,136,21,4.8,0.0,5.0,0.0
-495,Bologna,Kingsley,player_218324,Michael,3,3,123,31,-,0.0,5.0,0.0
-496,Napoli,Victor,player_218329,Osimhen,4,20,459,40,5.5,0.0,5.0,0.33
-497,Sassuolo,,player_218441,Rogerio,2,9,2182,21,5.0,0.0,5.0,0.33
-498,Spezia,M'Bala,player_218707,Nzola,4,1,2036,40,-,0.0,5.0,0.0
-499,Verona,Antonin,player_218784,Barak,3,9,126,32,5.5,0.0,5.0,0.33
-500,Fiorentina,,player_218998,Bobby Duncan,4,3,125,40,-,0.0,5.0,0.0
-501,Verona,Andrea,player_219104,Badan,2,1,126,21,-,0.0,5.0,0.0
-502,Crotone,Denis,player_219348,Dragus,4,3,744,40,4.0,0.0,5.0,0.33
-503,Genoa,Joel,player_219727,Asoro,4,1,990,40,-,0.0,5.0,0.0
-504,Udinese,,player_220063,Rodrigo Becão,2,15,136,20,4.3,0.0,5.0,0.67
-505,Crotone,Giovanni,player_220091,Crociata,3,15,744,32,-,0.0,5.0,0.0
-506,Verona,Lubomir,player_220157,Tupta,4,1,126,40,4.5,0.0,5.0,0.33
-507,Cagliari,Simone,player_220176,Pinna,2,5,124,21,-,0.0,5.0,0.0
-508,Udinese,Nahuel,player_221586,Molina,2,7,136,21,-,0.0,5.0,0.0
-509,Sampdoria,Ronaldo,player_221608,Vieira,3,8,603,31,-,0.0,5.0,0.0
-510,Atalanta,Cristian,player_221632,Romero,2,8,456,20,6,0.0,5.0,0.0
-511,Milan,,player_222329,Léo Duarte,2,3,120,20,5,0.0,5.0,0.0
-512,Sampdoria,Fabio,player_222467,Depaoli,2,14,603,21,4.3,0.0,5.0,0.33
-513,Verona,Simon,player_222572,Stefanec,3,1,126,32,-,0.0,5.0,0.0
-514,Roma,Justin,player_222683,Kluivert,4,7,121,40,4.5,0.0,5.0,0.0
-515,Milan,Theo,player_222784,Hernández,2,28,120,21,6.3,0.0,5.0,0.67
-516,Fiorentina,,player_223434,Igor Julio,2,9,125,20,-,0.0,5.0,0.0
-517,Fiorentina,Simone,player_223467,Ghidotti,1,1,125,10,-,0.0,5.0,0.0
-518,Cagliari,Fabrizio,player_223475,Caligara,3,3,124,31,5.3,0.0,5.0,0.33
-519,Sassuolo,Giacomo,player_223540,Satalino,1,1,2182,10,-,0.0,5.0,0.0
-520,Fiorentina,Federico,player_223541,Chiesa,4,22,125,40,5.5,1.0,5.0,0.67
-521,Bologna,Takehiro,player_223723,Tomiyasu,2,10,123,21,5.3,0.0,5.0,0.67
-522,Inter,Achraf,player_223760,Hakimi,2,16,127,21,6.8,1.0,5.0,0.33
-523,Bologna,Riccardo,player_223966,Orsolini,4,19,123,40,3.8,0.0,5.0,0.33
-524,Milan,,player_224024,Lucas Paquetá,3,7,120,32,-,0.0,5.0,0.0
-525,Parma,Emmanuele,player_224104,Matino,2,1,131,20,-,0.0,5.0,0.0
-526,Sassuolo,Mert,player_224990,Müldür,2,11,2182,21,5,0.0,5.0,0.0
-527,Lazio,Abukar,player_225050,Mohamed,3,1,129,31,-,0.0,5.0,0.0
-528,Inter,,player_225287,Gabriel Brazão,1,1,127,10,-,0.0,5.0,0.0
-529,Fiorentina,Dusan,player_225479,Vlahovic,4,7,125,40,4.3,0.0,5.0,0.0
-530,Cagliari,Senna,player_225776,Miangue,2,1,124,21,-,0.0,5.0,0.0
-531,Napoli,Eljif,player_225807,Elmas,3,12,459,32,6.3,1.0,5.0,0.0
-532,Bologna,Juan Manuel,player_226024,Valencia,3,1,123,32,-,0.0,5.0,0.0
-533,Lazio,Alessandro,player_226103,Rossi,4,3,129,40,-,0.0,5.0,0.0
-534,Sampdoria,Matteo,player_226252,Raspa,1,1,603,10,-,0.0,5.0,0.0
-535,Spezia,Lorenzo,player_226256,Colombini,2,5,2036,21,-,0.0,5.0,0.0
-536,Lazio,Nicolò,player_226257,Armini,2,1,129,20,-,0.0,5.0,0.0
-537,Spezia,Roberto,player_226267,Piccoli,4,3,2036,40,-,0.0,5.0,0.0
-538,Atalanta,Alessandro,player_226269,Cortinovis,3,2,456,32,-,0.0,5.0,0.0
-539,Milan,Riccardo,player_226272,Tonin,4,2,120,40,-,0.0,5.0,0.0
-540,Bologna,Edoardo,player_226273,Vergani,4,1,123,40,-,0.0,5.0,0.0
-541,Fiorentina,Nikola,player_227444,Milenkovic,2,14,125,20,4.0,0.0,5.0,0.67
-542,Fiorentina,Petko,player_228276,Hristov,2,1,125,20,-,0.0,5.0,0.0
-543,Crotone,Arkadiusz,player_229798,Reca,2,6,744,21,5,0.0,5.0,0.0
-544,Spezia,Ardian,player_229912,Ismajli,2,7,2036,20,-,0.0,5.0,0.0
-545,Bologna,Jerdy,player_230152,Schouten,3,7,123,31,6.5,0.0,5.0,0.67
-546,Inter,Axel,player_230651,Bakayoko,4,1,127,40,-,0.0,5.0,0.0
-547,Crotone,Milos,player_230804,Vulic,3,5,744,32,5,0.0,5.0,0.0
-548,Crotone,Niccolò,player_230836,Zanellato,3,8,744,32,3.8,0.0,5.0,0.67
-549,Spezia,Titas,player_232048,Krapikas,1,7,2036,10,-,0.0,5.0,0.0
-550,Fiorentina,Christian,player_232061,Kouamé,4,4,125,40,5.5,1.0,5.0,0.67
-551,Benevento,Dejan,player_232628,Vokic,3,2,2000,32,-,0.0,5.0,0.0
-552,Juventus,Luca,player_233386,Zanimacchia,3,1,128,32,-,0.0,5.0,0.0
-553,Spezia,Giulio,player_233558,Maggiore,3,13,2036,31,6.0,0.0,5.0,0.33
-554,Benevento,Abdallah,player_233568,Basit,3,6,2000,31,-,0.0,5.0,0.0
-555,Atalanta,Emmanuel,player_233581,Latte Lath,4,1,456,40,-,0.0,5.0,0.0
-556,Atalanta,Matteo,player_233596,Salvi,2,1,456,20,-,0.0,5.0,0.0
-557,Torino,Karlo,player_234753,Butic,4,1,135,40,-,0.0,5.0,0.0
-558,Crotone,Giuseppe,player_235247,Cuomo,2,12,744,20,-,0.0,5.0,0.0
-559,Verona,Andrea,player_235447,Danzi,3,1,126,31,4.5,0.0,5.0,0.33
-560,Cagliari,Riccardo,player_235454,Sottil,4,6,124,40,4.5,0.0,5.0,0.33
-561,Cagliari,Gabriele,player_235584,Zappa,2,4,124,21,4.8,0.0,5.0,0.0
-562,Roma,Mirko,player_235630,Antonucci,3,5,121,32,-,0.0,5.0,0.0
-563,Benevento,Giovanni,player_235653,Volpicelli,3,1,2000,31,-,0.0,5.0,0.0
-564,Benevento,Luca,player_235658,Sparandeo,2,3,2000,20,-,0.0,5.0,0.0
-565,Torino,Manuel,player_235885,De Luca,4,1,135,40,-,0.0,5.0,0.0
-566,Cagliari,Luca,player_240302,Crosta,1,1,124,10,-,0.0,5.0,0.0
-567,Juventus,Daouda,player_240939,Peeters,3,1,128,31,-,0.0,5.0,0.0
-568,Juventus,Weston,player_241519,McKennie,3,9,128,31,5.5,0.0,5.0,0.67
-569,Genoa,,player_243715,Vasco Oliveira,2,1,990,20,-,0.0,5.0,0.0
-570,Crotone,Giuseppe,player_243787,Borello,4,7,744,40,-,0.0,5.0,0.0
-571,Bologna,Emanuel,player_244290,Vignato,3,1,123,32,5,0.0,5.0,0.0
-572,Lazio,Sofian,player_244291,Kiyine,3,1,129,32,-,0.0,5.0,0.0
-573,Spezia,Abdullahi,player_244368,Suleiman,3,1,2036,31,-,0.0,5.0,0.0
-574,Juventus,Giacomo,player_244421,Vrioni,4,1,128,40,-,0.0,5.0,0.0
-575,Verona,Nicolò,player_244453,Casale,2,1,126,21,-,0.0,5.0,0.0
-576,Cagliari,,player_244715,Damir Ceter,4,1,124,40,-,0.0,5.0,0.0
-577,Spezia,Vincenzo,player_245153,Pinto,4,2,2036,40,-,0.0,5.0,0.0
-578,Roma,Nicolò,player_245414,Zaniolo,3,13,121,32,-,0.0,5.0,0.0
-579,Bologna,Fabrizio,player_246001,Brignani,2,1,123,20,-,0.0,5.0,0.0
-580,Juventus,Gianluca,player_246002,Frabotta,2,1,128,21,4.8,0.0,5.0,0.33
-581,Torino,Alessandro,player_247359,Buongiorno,2,2,135,20,-,0.0,5.0,0.0
-582,Bologna,Sebastian,player_247362,Breza,1,1,123,10,-,0.0,5.0,0.0
-583,Sampdoria,Mohamed,player_247386,Bahlouli,4,2,603,40,-,0.0,5.0,0.0
-584,Roma,Matteo,player_248666,Cardinali,1,1,121,10,-,0.0,5.0,0.0
-585,Torino,Mattia,player_248669,Sandri,3,1,135,31,-,0.0,5.0,0.0
-586,Udinese,Mamadou,player_249710,Coulibaly,3,3,136,31,4.3,0.0,5.0,0.67
-587,Bologna,Nicolás,player_250199,Domínguez,3,14,123,31,4.5,0.0,5.0,0.33
-588,Atalanta,David,player_250869,Heidenreich,2,1,456,20,-,0.0,5.0,0.0
-589,Spezia,Simone,player_250962,Barone,1,2,2036,10,-,0.0,5.0,0.0
-590,Sampdoria,Nik,player_250992,Prelec,4,2,603,40,-,0.0,5.0,0.0
-591,Cagliari,Nunzio,player_423118,Lella,2,1,124,20,-,0.0,5.0,0.0
-592,Sampdoria,Mehdi,player_423768,Léris,3,4,603,32,4.5,0.0,5.0,0.33
-593,Sassuolo,Hamed Junior,player_424044,Traore,3,7,2182,32,5,0.0,5.0,0.0
-594,Torino,,player_428585,Bremer,2,12,135,20,4.5,0.0,5.0,0.67
-595,Spezia,Julian,player_428785,Chabot,2,8,2036,20,5.5,0.0,5.0,0.33
-596,Verona,,player_428897,Eddie Salcedo,4,7,126,40,-,0.0,5.0,0.0
-597,Cagliari,Sebastian,player_429187,Walukiewicz,2,9,124,20,4.5,0.0,5.0,0.67
-598,Spezia,Alessandro,player_429411,Bordin,3,3,2036,31,-,0.0,5.0,0.0
-599,Cagliari,Matteo,player_429453,Tramoni,3,8,124,32,5,0.0,5.0,0.0
-600,Bologna,Andreas,player_430368,Skov Olsen,3,7,123,32,6.0,1.0,5.0,0.33
-601,Spezia,Daniel,player_430724,Boloca,3,9,2036,31,-,0.0,5.0,0.0
-602,Roma,,player_430788,Ibañez,2,8,121,20,5.5,0.0,5.0,0.67
-603,Verona,Ivan,player_430848,Ilic,3,9,126,31,5,0.0,5.0,0.0
-604,Sampdoria,Tommaso,player_431079,Augello,2,13,603,21,4.0,0.0,5.0,0.67
-605,Fiorentina,Federico,player_431959,Brancolini,1,1,125,10,-,0.0,5.0,0.0
-606,Crotone,Junior,player_432070,Messias,4,13,744,40,3.8,0.0,5.0,0.67
-607,Atalanta,Matteo,player_432105,Pessina,3,23,456,32,-,0.0,5.0,0.0
-608,Milan,Sandro,player_432422,Tonali,3,16,120,31,5.3,0.0,5.0,0.33
-609,Sassuolo,Giacomo,player_432450,Manzari,4,3,2182,40,-,0.0,5.0,0.0
-610,Milan,Matteo,player_432760,Soncin,1,1,120,10,-,0.0,5.0,0.0
-611,Roma,Marash,player_433059,Kumbulla,2,7,121,20,4.5,0.0,5.0,0.33
-612,Verona,Nicola,player_433060,Borghetto,1,1,126,10,-,0.0,5.0,0.0
-613,Sassuolo,Stefano,player_433128,Turati,1,3,2182,10,-,0.0,5.0,0.0
-614,Verona,Yildirim Mert,player_433734,Çetin,2,6,126,20,5.8,0.0,5.0,0.67
-615,Crotone,Pasquale,player_434059,Giannotti,3,1,744,31,-,0.0,5.0,0.0
-616,Atalanta,,player_434384,Rodrigo Guth,2,1,456,20,-,0.0,5.0,0.0
-617,Udinese,Petar,player_435580,Micin,3,1,136,32,-,0.0,5.0,0.0
-618,Benevento,Daam,player_437743,Foulon,2,8,2000,21,5.0,0.0,5.0,0.33
-619,Milan,Alexis,player_437746,Saelemaekers,2,12,120,21,5.0,0.0,5.0,0.33
-620,Juventus,Hans,player_437784,Nicolussi Caviglia,3,1,128,32,-,0.0,5.0,0.0
-621,Juventus,Manolo,player_437802,Portanova,3,1,128,32,-,0.0,5.0,0.0
-622,Roma,Devid Eugene,player_437878,Bouah,2,3,121,21,-,0.0,5.0,0.0
-623,Juventus,,player_438539,Wesley,2,2,128,21,-,0.0,5.0,0.0
-624,Spezia,Axel,player_438664,Desjardins,1,10,2036,10,-,0.0,5.0,0.0
-625,Spezia,Matteo,player_438976,Figoli,3,1,2036,31,-,0.0,5.0,0.0
-626,Juventus,Merih,player_439128,Demiral,2,1,128,20,5,0.0,5.0,0.0
-627,Fiorentina,Nicky,player_439921,Medja Beloko,3,1,125,31,-,0.0,5.0,0.0
-628,Cagliari,Riccardo,player_439928,Ladinetti,3,1,124,31,-,0.0,5.0,0.0
-629,Sampdoria,Mikkel,player_440089,Damsgaard,3,7,603,32,5,0.0,5.0,0.0
-630,Udinese,Manuel,player_440705,Gasparini,1,1,136,10,-,0.0,5.0,0.0
-631,Torino,Alessandro,player_442111,Fiordaliso,2,1,135,21,-,0.0,5.0,0.0
-632,Torino,,player_442112,Ben Kone,3,1,135,32,-,0.0,5.0,0.0
-633,Bologna,Musa,player_442430,Barrow,4,17,123,40,5.5,0.0,5.0,0.67
-634,Torino,Vincenzo,player_442661,Millico,3,7,135,32,4.5,0.0,5.0,0.0
-635,Cagliari,Christian,player_444628,Oliva,3,6,124,31,5,0.0,5.0,0.0
-636,Spezia,Kevin,player_444845,Agudelo,3,5,2036,32,3.0,0.0,5.0,0.33
-637,Juventus,Dejan,player_445044,Kulusevski,3,19,128,32,6.3,1.0,5.0,0.67
-638,Sassuolo,Emiliano,player_446358,Gómez,4,1,2182,40,-,0.0,5.0,0.0
-639,Sassuolo,Giacomo,player_446969,Raspadori,4,7,2182,40,-,0.0,5.0,0.0
-640,Crotone,Giacomo,player_446971,Figliuzzi,1,2,744,10,-,0.0,5.0,0.0
-641,Benevento,Siriki,player_448055,Sanogo,3,2,2000,31,-,0.0,5.0,0.0
-642,Parma,Emerson,player_448105,Espinoza,3,1,131,31,-,0.0,5.0,0.0
-643,Torino,Michel Ndary,player_449470,Adopo,3,1,135,31,-,0.0,5.0,0.0
-644,Bologna,Andri Fannar,player_449580,Baldursson,3,4,123,31,-,0.0,5.0,0.0
-645,Milan,Emanuele,player_449738,Torrasi,3,1,120,31,-,0.0,5.0,0.0
-646,Torino,Erick,player_449750,Ferigra,2,1,135,20,-,0.0,5.0,0.0
-647,Verona,Bogdan,player_449822,Jocic,3,1,126,32,-,0.0,5.0,0.0
-648,Juventus,,player_449991,Felix Correia,4,5,128,40,-,0.0,5.0,0.0
-649,Atalanta,Ludovico,player_450014,Gelmi,1,1,456,10,-,0.0,5.0,0.0
-650,Sassuolo,Alessandro,player_450015,Russo,1,1,2182,10,-,0.0,5.0,0.0
-651,Fiorentina,Fabio,player_450017,Ponsi,2,1,125,21,-,0.0,5.0,0.0
-652,Torino,,player_450019,Jean Greco,3,1,135,31,-,0.0,5.0,0.0
-653,Genoa,Nicolò,player_450024,Rovella,3,3,990,31,-,0.0,5.0,0.0
-654,Milan,Lorenzo,player_450025,Colombo,4,3,120,40,4,0.0,5.0,0.0
-655,Sampdoria,Kristoffer,player_450048,Askildsen,3,5,603,31,-,0.0,5.0,0.0
-656,Roma,Gonzalo,player_450782,Villar,3,7,121,31,4.5,0.0,5.0,0.0
-657,Atalanta,Lorenzo,player_451016,Peli,4,1,456,40,-,0.0,5.0,0.0
-658,Sassuolo,Andrea,player_454683,Cisco,4,1,2182,40,-,0.0,5.0,0.0
-659,Atalanta,Bosko,player_455774,Sutalo,2,8,456,20,5.0,0.0,5.0,0.33
-660,Juventus,Pietro,player_455779,Beruatto,2,1,128,21,-,0.0,5.0,0.0
-661,Crotone,Augustus,player_456354,Kargbo,4,2,744,40,4,0.0,5.0,0.0
-662,Torino,Emin,player_457784,Ghazoini,2,1,135,21,-,0.0,5.0,0.0
-663,Milan,Gabriele,player_458033,Bellodi,2,1,120,20,-,0.0,5.0,0.0
-664,Milan,Marco,player_458059,Brescianini,3,1,120,31,-,0.0,5.0,0.0
-665,Bologna,Leonardo,player_458356,Stanzani,4,1,123,40,-,0.0,5.0,0.0
-666,Sampdoria,Felice,player_458824,D'Amico,3,4,603,32,-,0.0,5.0,0.0
-667,Genoa,Lennart,player_458919,Czyborra,2,4,990,21,5,0.0,5.0,0.0
-668,Spezia,Tommaso,player_459025,Pobega,3,6,2036,31,4.3,0.0,5.0,0.33
-669,Verona,Ivor,player_459089,Pandur,1,4,126,10,-,0.0,5.0,0.0
-670,Fiorentina,,player_459362,Tòfol Montiel,3,1,125,32,-,0.0,5.0,0.0
-671,Parma,Giuseppe,player_462431,Carriero,3,1,131,31,-,0.0,5.0,0.0
-672,Benevento,Salvatore,player_462466,Tazza,2,1,2000,21,-,0.0,5.0,0.0
-673,Parma,Lautaro,player_462487,Valenti,2,4,131,20,-,0.0,5.0,0.0
-674,Napoli,Franco,player_462508,Ferrari,4,1,459,40,-,0.0,5.0,0.0
-675,Atalanta,Marco,player_462537,Carnesecchi,1,1,456,10,-,0.0,5.0,0.0
-676,Bologna,Musa,player_462538,Juwara,4,6,123,40,-,0.0,5.0,0.0
-677,Lazio,,player_462708,André Anderson,3,4,129,32,-,0.0,5.0,0.0
-678,Torino,Jacopo,player_463427,Segre,3,2,135,31,5,0.0,5.0,0.0
-679,Milan,Nikos,player_463440,Michelis,3,1,120,31,-,0.0,5.0,0.0
-680,Crotone,Zak,player_463900,Ruggiero,4,3,744,40,-,0.0,5.0,0.0
-681,Crotone,Silvestre,player_463901,Tripoli,4,2,744,40,-,0.0,5.0,0.0
-682,Crotone,Fabio,player_463902,Sapone,4,1,744,40,-,0.0,5.0,0.0
-683,Roma,Daniele,player_464769,Trasciani,2,1,121,20,-,0.0,5.0,0.0
-684,Parma,Andrea,player_465614,Adorante,4,3,131,40,4,0.0,5.0,0.0
-685,Inter,Filip,player_465626,Stankovic,1,1,127,10,-,0.0,5.0,0.0
-686,Inter,Lorenzo,player_465637,Pirola,2,3,127,20,-,0.0,5.0,0.0
-687,Genoa,Laurens,player_465639,Serpe,2,1,990,20,-,0.0,5.0,0.0
-688,Genoa,Nicholas,player_465665,Rizzo,2,1,990,20,-,0.0,5.0,0.0
-689,Roma,Ruben,player_465697,Providence,3,1,121,32,-,0.0,5.0,0.0
-690,Lazio,,player_465701,Raul Moro,4,3,129,40,-,0.0,5.0,0.0
-691,Napoli,Antonio Pio,player_465737,Daniele,1,1,459,10,-,0.0,5.0,0.0
-692,Milan,Pierre,player_466041,Kalulu Kyatengwa,2,3,120,21,-,0.0,5.0,0.0
-693,Roma,Riccardo,player_466075,Calafiori,2,1,121,21,-,0.0,5.0,0.0
-694,Bologna,Gabriel,player_466111,Boloca,2,1,123,20,-,0.0,5.0,0.0
-695,Roma,Pietro,player_466135,Boer,1,1,121,10,-,0.0,5.0,0.0
-696,Roma,Luca,player_466142,Chierico,3,1,121,31,-,0.0,5.0,0.0
-697,Roma,Nicola,player_466147,Zalewski,3,1,121,32,-,0.0,5.0,0.0
-698,Napoli,Hubert Dawid,player_466946,Idasiak,1,1,459,10,-,0.0,5.0,0.0
-699,Parma,Drissa,player_467101,Camara,3,1,131,32,-,0.0,5.0,0.0
-700,Crotone,Luis,player_467205,Rojas,3,9,744,32,-,0.0,5.0,0.0
-701,Spezia,Salvador,player_467208,Ferrer,2,12,2036,21,5.8,0.0,5.0,0.33
-702,Sampdoria,Lorenzo,player_467209,Avogadri,1,1,603,10,-,0.0,5.0,0.0
-703,Spezia,Lucien,player_468426,Agoume,3,5,2036,31,-,0.0,5.0,0.0
-704,Sampdoria,,player_470329,Kaique Rocha,2,1,603,21,-,0.0,5.0,0.0
-705,Verona,Ebrima,player_470501,Colley,3,6,126,32,5,0.0,5.0,0.0
-706,Lazio,Marco,player_471435,Alia,1,1,129,10,-,0.0,5.0,0.0
-707,Bologna,Federico,player_472001,Bonini,2,1,123,21,-,0.0,5.0,0.0
-708,Bologna,Aaron,player_472713,Hickey,2,6,123,21,5.0,0.0,5.0,0.33
-709,Torino,Luca,player_473242,Gemello,1,1,135,10,-,0.0,5.0,0.0
-710,Atalanta,Memeh Caleb,player_473341,Okoli,2,1,456,20,-,0.0,5.0,0.0
-711,Crotone,Francesco,player_473706,Rodio,3,3,744,32,-,0.0,5.0,0.0
-712,Lazio,,player_474781,Jorge Silva,2,1,129,20,-,0.0,5.0,0.0
-713,Benevento,Gennaro,player_474811,Zagari,1,1,2000,10,-,0.0,5.0,0.0
-714,Crotone,Federico,player_475919,Panza,2,1,744,20,-,0.0,5.0,0.0
-715,Parma,Botond,player_477121,Balogh,2,1,131,20,-,0.0,5.0,0.0
-716,Parma,Márk,player_477131,Kosznovszky,3,1,131,31,-,0.0,5.0,0.0
-717,Roma,Ebrima,player_477632,Darboe,3,1,121,31,-,0.0,5.0,0.0
-718,Roma,Felipe Estrella,player_477633,Galeazzi,4,2,121,40,-,0.0,5.0,0.0
-719,Verona,,player_478573,Lucas,3,1,126,31,-,0.0,5.0,0.0
-720,Torino,Wilfried Stephane,player_478960,Singo,2,6,135,20,-,0.0,5.0,0.0
-721,Milan,Andreas,player_481509,Jungdal,1,1,120,10,-,0.0,5.0,0.0
-722,Genoa,Fallou,player_482097,Njie,2,1,990,20,-,0.0,5.0,0.0
-723,Cagliari,,player_482301,Zito,4,7,124,40,-,0.0,5.0,0.0
-724,Parma,Redi,player_482545,Kasa,3,1,131,32,-,0.0,5.0,0.0
-725,Verona,Matteo,player_483988,Lovato,2,3,126,20,5.0,0.0,5.0,0.33
-726,Benevento,Giuseppe,player_484456,Di Serio,4,9,2000,40,-,0.0,5.0,0.0
-727,Benevento,Christian,player_484457,Pastina,2,6,2000,20,-,0.0,5.0,0.0
-728,Benevento,Francesco,player_484656,Rillo,2,5,2000,21,-,0.0,5.0,0.0
-729,Sassuolo,Andrea,player_485264,Ghion,3,5,2182,31,-,0.0,5.0,0.0
-730,Verona,Iyenoma,player_487053,Destiny Udogie,2,1,126,21,-,0.0,5.0,0.0
-731,Genoa,Darian,player_487476,Males,4,1,990,40,-,0.0,5.0,0.0
-732,Fiorentina,Niccolò,player_487495,Chiorra,1,1,125,10,-,0.0,5.0,0.0
-733,Bologna,Marco,player_487988,Molla,1,1,123,10,-,0.0,5.0,0.0
-734,Fiorentina,Christian,player_487991,Dalle Mura,2,2,125,20,-,0.0,5.0,0.0
-735,Atalanta,Matteo,player_487992,Ruggeri,2,2,456,21,-,0.0,5.0,0.0
-736,Milan,Daniel,player_488253,Maldini,3,2,120,32,-,0.0,5.0,0.0
-737,Milan,Andrea,player_488254,Capone,4,1,120,40,-,0.0,5.0,0.0
-738,Milan,Antonio,player_488255,Mionic,3,1,120,31,-,0.0,5.0,0.0
-739,Parma,Edoardo,player_488616,Corvi,1,1,131,10,-,0.0,5.0,0.0
-740,Parma,Cristian,player_489213,Cauz,2,1,131,21,-,0.0,5.0,0.0
-741,Torino,Nicola,player_489361,Rauti,4,3,135,40,-,0.0,5.0,0.0
-742,Udinese,Francesco,player_489482,Mazzolo,2,1,136,20,-,0.0,5.0,0.0
-743,Crotone,Jeremy,player_490059,Petris,2,2,744,21,-,0.0,5.0,0.0
-744,Crotone,Jean Lambert,player_490061,Evans,3,6,744,31,-,0.0,5.0,0.0
-745,Parma,Walid,player_490738,Cheddira,4,1,131,40,-,0.0,5.0,0.0
-746,Cagliari,Giuseppe,player_490833,Ciocci,1,1,124,10,-,0.0,5.0,0.0
-747,Crotone,Daniele,player_490966,Mariani,2,1,744,20,-,0.0,5.0,0.0
-748,Atalanta,Khadim,player_491518,Ndiaye,1,1,456,10,-,0.0,5.0,0.0
-749,Benevento,Giovanni,player_491934,Balsamà,3,1,2000,32,-,0.0,5.0,0.0
-750,Inter,Georgios,player_492198,Vagiannidis,2,6,127,21,-,0.0,5.0,0.0
-751,Inter,Matias,player_492868,Fonseca,4,1,127,40,-,0.0,5.0,0.0
-752,Udinese,Jan,player_493196,Kubala,3,1,136,31,-,0.0,5.0,0.0
-753,Atalanta,Amad Diallo,player_493250,Traore,3,4,456,32,-,0.0,5.0,0.0
-754,Atalanta,Jacopo,player_493265,Da Riva,3,1,456,31,-,0.0,5.0,0.0
-755,Crotone,Sergio,player_494251,Yakubiv,2,1,744,20,-,0.0,5.0,0.0
-756,Parma,Filippo,player_495227,Rinaldi,1,1,131,10,-,0.0,5.0,0.0
-757,Benevento,Marco,player_495457,Moccia,2,1,2000,20,-,0.0,5.0,0.0
-758,Sassuolo,Stefano,player_495527,Piccinini,2,1,2182,20,-,0.0,5.0,0.0
-759,Atalanta,Matevz,player_495733,Dajcar,1,1,456,10,-,0.0,5.0,0.0
-760,Bologna,Denis,player_496275,Portanova,2,1,123,20,-,0.0,5.0,0.0
-761,Genoa,Denilho,player_496855,Cleonise,4,3,990,40,-,0.0,5.0,0.0
-762,Benevento,Igor,player_497520,Lucatelli,1,1,2000,10,-,0.0,5.0,0.0
-763,Crotone,Francesco,player_497521,D'Alterio,1,1,744,10,-,0.0,5.0,0.0
-764,Udinese,Martin,player_497953,Palumbo,3,1,136,31,4.0,0.0,5.0,0.33
-765,Udinese,Marco,player_498407,Ballarini,3,1,136,31,-,0.0,5.0,0.0
-766,Lazio,Luca,player_498794,Falbo,2,3,129,21,-,0.0,5.0,0.0
-767,Genoa,Steeve-Mike,player_499164,Eboa Ebongue,3,1,990,31,-,0.0,5.0,0.0
-768,Genoa,Augustinas,player_499165,Klimavicius,4,1,990,40,-,0.0,5.0,0.0
-769,Sassuolo,Brian,player_499194,Oddei,4,1,2182,40,-,0.0,5.0,0.0
-770,Sassuolo,Jacopo,player_499195,Pellegrini,4,1,2182,40,-,0.0,5.0,0.0
-771,Sassuolo,Iulius,player_499197,Marginean,3,1,2182,31,-,0.0,5.0,0.0
-772,Parma,Gabriele,player_499440,Artistico,4,1,131,40,-,0.0,5.0,0.0
-773,Benevento,Francesco,player_499659,Solimeno,2,1,2000,21,-,0.0,5.0,0.0
-774,Cagliari,Andrea,player_501395,Carboni,2,6,124,20,-,0.0,5.0,0.0
-775,Parma,Patricio Alexis,player_502051,Goglino,4,1,131,40,-,0.0,5.0,0.0
-776,Cagliari,Fabio,player_502665,Porru,2,1,124,21,-,0.0,5.0,0.0
-777,Bologna,Leonardo,player_503371,Mazza,3,1,123,31,-,0.0,5.0,0.0
-778,Bologna,Dion,player_504761,Ruffo Luci,3,1,123,31,-,0.0,5.0,0.0
-779,Spezia,Marco,player_505061,Angeletti,1,1,2036,10,-,0.0,5.0,0.0
-780,Milan,Luca,player_508492,Stanga,2,1,120,21,-,0.0,5.0,0.0
-781,Milan,Giacomo,player_508493,Olzer,3,1,120,32,-,0.0,5.0,0.0
-782,Torino,Christian,player_508616,Celesia,2,1,135,20,-,0.0,5.0,0.0
-783,Cagliari,Salvatore,player_508621,Boccia,2,2,124,20,-,0.0,5.0,0.0
-784,Cagliari,Federico,player_508622,Marigosu,3,1,124,32,-,0.0,5.0,0.0
-785,Cagliari,Isaias,player_508623,Del Pupo,3,1,124,32,-,0.0,5.0,0.0
-786,Verona,Bernardo,player_508624,Calabrese,2,1,126,20,-,0.0,5.0,0.0
-787,Verona,Filippo,player_508625,Terracciano,3,1,126,31,-,0.0,5.0,0.0
-788,Parma,,player_508627,Reinaldo Radu,2,1,131,21,-,0.0,5.0,0.0
-789,Sassuolo,Giuseppe,player_508629,Aurelio,2,1,2182,21,-,0.0,5.0,0.0
-790,Sassuolo,Alessandro,player_508630,Mercati,3,1,2182,31,-,0.0,5.0,0.0
-791,Torino,Luca,player_508635,Trombini,1,1,135,10,-,0.0,5.0,0.0
-792,Torino,Fabio,player_508636,Gonella,4,1,135,40,-,0.0,5.0,0.0
-793,Milan,Emil,player_508829,Roback,4,1,120,40,-,0.0,5.0,0.0
-794,Verona,Eugenio,player_508950,Bracelli,2,1,126,20,-,0.0,5.0,0.0
-795,Benevento,Vincenzo,player_509008,Alfieri,3,1,2000,31,-,0.0,5.0,0.0
-796,Verona,Christian,player_509044,Pierobon,3,1,126,31,-,0.0,5.0,0.0
-797,Udinese,Enrico,player_509231,Oviszach,3,1,136,32,-,0.0,5.0,0.0
-798,Benevento,Davide,player_509254,Gentile,2,1,2000,21,-,0.0,5.0,0.0
-799,Verona,Philip,player_509269,Yeboah Ankrah,4,1,126,40,-,0.0,5.0,0.0
-800,Udinese,Mattia,player_509530,Compagnon,3,1,136,32,-,0.0,5.0,0.0
-801,Crotone,Antonio,player_510619,Ranieri,3,1,744,32,-,0.0,5.0,0.0
-802,Roma,Amir,player_511181,Feratovic,2,3,121,20,-,0.0,5.0,0.0
-803,Crotone,Gian Marco,player_512325,Crespi,1,1,744,10,-,0.0,5.0,0.0
-804,Cagliari,Bruno,player_514263,Conti,3,2,124,32,-,0.0,5.0,0.0
-805,Roma,Filippo,player_514270,Berti,1,1,121,10,-,0.0,5.0,0.0
-806,Sassuolo,Samuele,player_514798,Vitale,1,1,2182,10,-,0.0,5.0,0.0
-807,Verona,Matei,player_515579,Ilie,2,1,126,20,-,0.0,5.0,0.0
-808,Verona,Adama,player_515581,Sane,4,1,126,40,-,0.0,5.0,0.0
-809,Roma,Riccardo,player_515593,Ciervo,3,1,121,32,-,0.0,5.0,0.0
-810,Roma,Lamine,player_515598,Tall,4,1,121,40,-,0.0,5.0,0.0
-811,Roma,Javier,player_515601,Vicario,2,1,121,20,-,0.0,5.0,0.0
-812,Genoa,Giuseppe,player_515606,Agostino,1,1,990,10,-,0.0,5.0,0.0
-813,Milan,Leonardo,player_515610,Moleri,1,1,120,10,-,0.0,5.0,0.0
-814,Milan,Riccardo,player_515612,Oddi,2,1,120,21,-,0.0,5.0,0.0
-815,Milan,Marco,player_515613,Frigerio,3,1,120,31,-,0.0,5.0,0.0
-816,Milan,Alessio,player_515614,Brambilla,3,1,120,31,-,0.0,5.0,0.0
-817,Crotone,Andrea,player_515617,Amerise,2,2,744,20,-,0.0,5.0,0.0
-818,Genoa,Claudiu,player_515618,Micovschi,3,4,990,32,-,0.0,5.0,0.0
-819,Benevento,Davide,player_516073,Masella,3,2,2000,32,-,0.0,5.0,0.0
+47,Inter,Radja,player_38833,Nainggolan,3,6,127,32,5.2,0.0,5.0,0.12
+48,Verona,Luigi,player_38986,Vitale,2,2,126,21,-,0.0,5.0,0.0
+49,Inter,Andrea,player_39167,Ranocchia,2,6,127,20,5.8,0.0,5.0,0.18
+50,Cagliari,Simone,player_39354,Aresti,1,3,124,10,-,0.0,5.0,0.0
+51,Benevento,Perparim,player_39481,Hetemaj,3,12,2000,32,5.1,0.0,5.0,0.53
+52,Udinese,Fernando,player_39570,Forestieri,4,8,136,40,4.8,1.0,5.0,0.12
+53,Udinese,Sebastien,player_39781,De Maio,2,6,136,20,4.8,0.0,5.0,0.41000000000000003
+54,Crotone,Mattia,player_39782,Mustacchio,3,3,744,32,-,0.0,5.0,0.0
+55,Juventus,Sami,player_39816,Khedira,3,2,128,31,-,0.0,5.0,0.0
+56,Inter,Danilo,player_39826,D'Ambrosio,2,12,127,21,5.1,3.0,5.0,0.24
+57,Bologna,Andrea,player_39830,Poli,3,6,123,31,4.7,0.0,5.0,0.12
+58,Benevento,Pasquale,player_39970,Schiattarella,3,13,2000,31,5.3,1.0,5.0,0.88
+59,Lazio,Davide,player_40001,Di Gennaro,3,2,129,31,-,0.0,5.0,0.0
+60,Inter,Matteo,player_40002,Darmian,2,9,127,21,5.0,0.0,5.0,0.53
+61,Benevento,Marco,player_40239,Sau,4,12,2000,40,5.1,3.0,5.0,0.24
+62,Benevento,Nicolas,player_40364,Viola,3,4,2000,32,-,0.0,5.0,0.0
+63,Genoa,Ivan,player_40436,Radovanovic,3,10,990,31,5.1,0.0,5.0,0.41000000000000003
+64,Roma,Federico,player_40792,Fazio,2,2,121,20,-,0.0,5.0,0.0
+65,Juventus,Aaron,player_41792,Ramsey,3,8,128,32,5.6,1.0,5.0,0.47000000000000003
+66,Udinese,Sebastian,player_41945,Prödl,2,1,136,20,-,0.0,5.0,0.0
+67,Lazio,Felipe,player_42173,Caicedo,4,14,129,40,5.1,6.0,5.0,0.41000000000000003
+68,Sampdoria,Lorenzo,player_42426,Tonelli,2,10,603,20,4.8,0.0,5.0,0.76
+69,Roma,Edin,player_42544,Dzeko,4,25,121,40,5.4,7.0,5.0,0.76
+70,Inter,Arturo,player_42565,Vidal,3,11,127,31,5.2,0.0,5.0,0.59
+71,Inter,Aleksandar,player_42593,Kolarov,2,9,127,21,5.1,0.0,5.0,0.24
+72,Torino,Samir,player_42825,Ujkani,1,3,135,10,-,0.0,5.0,0.0
+73,Lazio,,player_43191,Lucas Leiva,3,9,129,31,5.0,0.0,5.0,0.59
+74,Parma,,player_43274,Gervinho,4,13,131,40,5.0,4.0,5.0,0.76
+75,Fiorentina,Martín,player_43693,Cáceres,2,11,125,20,4.6,1.0,5.0,0.76
+76,Milan,Ciprian,player_44898,Tatarusanu,1,7,120,10,3.5,0.0,5.0,0.06
+77,Benevento,Massimo,player_45019,Volta,2,2,2000,20,-,0.0,5.0,0.0
+78,Inter,Ivan,player_45034,Perisic,3,15,127,32,5.1,1.0,5.0,0.53
+79,Sampdoria,Antonio,player_45156,Candreva,3,20,603,32,5.9,3.0,5.0,0.65
+80,Sampdoria,,player_46483,Adrien Silva,3,10,603,31,5.2,0.0,5.0,0.29
+81,Milan,Simon,player_48714,Kjaer,2,11,120,20,5.5,0.0,5.0,0.71
+82,Napoli,David,player_48844,Ospina,1,12,459,10,4.9,0.0,5.0,0.53
+83,Bologna,Gary,player_48853,Medel,3,11,123,31,5.3,0.0,5.0,0.29
+84,Verona,Marco,player_49391,Faraoni,2,10,126,21,5.3,0.0,5.0,0.8200000000000001
+85,Fiorentina,Giacomo,player_49417,Bonaventura,3,9,125,32,5.0,0.0,5.0,0.65
+86,Roma,,player_49579,Pedro,4,18,121,40,5.4,3.0,5.0,0.71
+87,Sampdoria,Vasco,player_49940,Regini,2,4,603,20,4.3,0.0,5.0,0.06
+88,Crotone,Luca,player_49988,Siligardi,4,5,744,40,4.5,0.0,5.0,0.0
+89,Crotone,Andrea,player_50016,Rispoli,2,6,744,21,4.7,0.0,5.0,0.06
+90,Parma,Simone,player_50322,Colombi,1,7,131,10,-,0.0,5.0,0.0
+91,Verona,Nikola,player_50401,Kalinic,4,6,126,40,4.5,1.0,5.0,0.41000000000000003
+92,Sampdoria,Albin,player_50779,Ekdal,3,21,603,31,5.4,2.0,5.0,0.88
+93,Sassuolo,Francesco,player_50821,Caputo,4,29,2182,40,5.5,6.0,5.0,0.59
+94,Torino,Tomás,player_50933,Rincón,3,13,135,31,5.3,0.0,5.0,0.9400000000000001
+95,Torino,Cristian,player_50937,Ansaldi,2,9,135,21,4.8,1.0,5.0,0.24
+96,Lazio,Marco,player_51221,Parolo,3,7,129,31,4.8,0.0,5.0,0.29
+97,Crotone,Emmanuel,player_51621,Rivière,4,9,744,40,4.5,1.0,5.0,0.29
+98,Fiorentina,José,player_51732,Callejón,3,7,125,32,4.8,0.0,5.0,0.29
+99,Benevento,Iago,player_51960,Falque,3,5,2000,32,4.6,0.0,5.0,0.12
+100,Lazio,Senad,player_52049,Lulic,3,2,129,31,-,0.0,5.0,0.0
+101,Torino,Nicolas,player_52775,Nkoulou,2,8,135,20,4.4,1.0,5.0,0.35000000000000003
+102,Cagliari,Fabio,player_53344,Pisacane,2,6,124,20,4.7,0.0,5.0,0.12
+103,Bologna,,player_53686,Danilo,2,10,123,20,4.4,0.0,5.0,0.9400000000000001
+104,Juventus,,player_53693,Alex Sandro,2,12,128,21,5.4,0.0,5.0,0.24
+105,Roma,Javier,player_54782,Pastore,3,2,121,32,-,0.0,5.0,0.0
+106,Napoli,Dries,player_54917,Mertens,4,27,459,40,6.2,4.0,5.0,0.59
+107,Atalanta,Marco,player_55083,Sportiello,1,7,456,10,4.8,0.0,5.0,0.41000000000000003
+108,Benevento,Alessandro,player_55414,Tuia,2,9,2000,20,4.8,1.0,5.0,0.41000000000000003
+109,Roma,Davide,player_55604,Santon,2,4,121,21,5.1,0.0,5.0,0.18
+110,Spezia,Diego,player_55654,Farias,4,11,2036,40,4.7,2.0,5.0,0.47000000000000003
+111,Atalanta,Josip,player_55712,Ilicic,4,15,456,40,5.9,2.0,5.0,0.47000000000000003
+112,Atalanta,Alejandro,player_55776,Gómez,3,22,456,32,5.8,4.0,5.0,0.53
+113,Bologna,,player_55885,Ângelo da Costa,1,11,123,10,4.9,0.0,5.0,0.35000000000000003
+114,Roma,Chris,player_55909,Smalling,2,9,121,20,5.3,0.0,5.0,0.41000000000000003
+115,Verona,Marco,player_56486,Silvestri,1,23,126,10,5.8,0.0,5.0,1.0
+116,Udinese,Mato,player_56733,Jajalo,3,4,136,31,5,0.0,5.0,0.0
+117,Genoa,Milan,player_56999,Badelj,3,10,990,31,5.3,0.0,5.0,0.71
+118,Verona,Darko,player_57012,Lazovic,3,12,126,32,5.0,1.0,5.0,0.47000000000000003
+119,Fiorentina,Riccardo,player_57107,Saponara,3,4,125,32,4.8,0.0,5.0,0.0
+120,Roma,Henrikh,player_57249,Mkhitaryan,3,42,121,32,6.3,8.0,5.0,1.0
+121,Milan,Mateo,player_57527,Musacchio,2,2,120,20,-,0.0,5.0,0.0
+122,Lazio,Ciro,player_59046,Immobile,4,50,129,40,5.6,11.0,5.0,0.8200000000000001
+123,Spezia,Jeroen,player_59108,Zoet,1,1,2036,10,3.5,0.0,5.0,0.12
+124,Parma,Luigi,player_59326,Sepe,1,14,131,10,4.9,0.0,5.0,1.0
+125,Juventus,Carlo,player_59338,Pinsoglio,1,3,128,10,-,0.0,5.0,0.0
+126,Sassuolo,Pedro,player_59779,Obiang,3,10,2182,31,4.9,0.0,5.0,0.29
+127,Bologna,Roberto,player_59920,Soriano,3,27,123,32,5.7,6.0,5.0,1.0
+128,Juventus,Wojciech,player_59936,Szczesny,1,15,128,10,5.3,0.0,5.0,0.71
+129,Crotone,Luca,player_60017,Marrone,2,9,744,20,3.8,0.0,5.0,0.76
+130,Benevento,Luca,player_60067,Caldirola,2,9,2000,20,4.6,2.0,5.0,0.53
+131,Genoa,Mattia,player_60071,Destro,4,15,990,40,5.2,6.0,5.0,0.41000000000000003
+132,Torino,Simone,player_60270,Zaza,4,7,135,40,4.4,1.0,5.0,0.35000000000000003
+133,Benevento,Artur,player_60655,Ionita,3,12,2000,32,4.6,0.0,5.0,1.0
+134,Verona,Emmanuel,player_60800,Badu,3,2,126,31,-,0.0,5.0,0.0
+135,Cagliari,Luca,player_60849,Ceppitelli,2,7,124,20,4.3,0.0,5.0,0.18
+136,Parma,Matteo,player_60999,Scozzarella,3,6,131,31,5.0,0.0,5.0,0.18
+137,Atalanta,,player_61118,Rafael Tolói,2,15,456,20,5.0,2.0,5.0,0.71
+138,Spezia,Luca,player_61330,Mora,3,4,2036,32,4.8,0.0,5.0,0.06
+139,Sampdoria,Manolo,player_61548,Gabbiadini,4,7,603,40,4.7,0.0,5.0,0.06
+140,Udinese,Roberto,player_61566,Pereyra,3,12,136,32,5.1,1.0,5.0,0.8200000000000001
+141,Sassuolo,Vlad,player_62305,Chiriches,2,14,2182,20,5.3,2.0,5.0,0.71
+142,Udinese,Tolgay,player_62339,Arslan,3,11,136,31,5.3,2.0,5.0,0.65
+143,Sassuolo,Filip,player_66228,Djuricic,3,22,2182,32,5.6,3.0,5.0,0.71
+144,Udinese,Marvin,player_66247,Zeegelaar,2,10,136,21,4.7,1.0,5.0,0.65
+145,Juventus,Juan,player_66733,Cuadrado,2,20,128,21,5.2,0.0,5.0,0.65
+146,Inter,Romelu,player_66749,Lukaku,4,48,127,40,5.8,12.0,5.0,0.76
+147,Napoli,Kostas,player_66806,Manolas,2,15,459,20,5.3,0.0,5.0,0.88
+148,Cagliari,Leonardo,player_67977,Pavoletti,4,8,124,40,4.5,1.0,5.0,0.29
+149,Udinese,Jens,player_68659,Stryger Larsen,2,10,136,21,4.8,0.0,5.0,0.59
+150,Parma,Juraj,player_69143,Kucka,3,17,131,31,5.2,2.0,5.0,0.76
+151,Torino,Ricardo,player_69305,Rodríguez,2,8,135,21,4.7,0.0,5.0,0.65
+152,Benevento,Kamil,player_71403,Glik,2,11,2000,20,4.8,0.0,5.0,1.0
+153,Udinese,Ilija,player_72486,Nestorovski,4,9,136,40,4.7,1.0,5.0,0.06
+154,Atalanta,Francesco,player_73709,Rossi,1,5,456,10,-,0.0,5.0,0.0
+155,Crotone,Antonio,player_74027,Mazzotta,2,2,744,21,3.0,0.0,5.0,0.06
+156,Spezia,Andrej,player_74145,Galabinov,4,6,2036,40,5.7,3.0,5.0,0.18
+157,Napoli,Lorenzo,player_75592,Insigne,4,31,459,40,6.3,7.0,5.0,0.76
+158,Spezia,,player_75770,Rafael,1,7,2036,10,5.0,0.0,5.0,0.06
+159,Verona,Karim,player_76065,Laribi,3,3,126,32,-,0.0,5.0,0.0
+160,Udinese,Bram,player_76623,Nuytinck,2,8,136,20,5.6,0.0,5.0,0.24
+161,Parma,Jacopo,player_76811,Dezi,3,3,131,32,4.3,0.0,5.0,0.06
+162,Sampdoria,Gastón,player_78091,Ramírez,3,10,603,32,5.0,0.0,5.0,0.35000000000000003
+163,Bologna,Federico,player_78109,Santander,4,2,123,40,4.9,0.0,5.0,0.0
+164,Inter,Stefan,player_78140,de Vrij,2,15,127,20,5.3,1.0,5.0,0.8200000000000001
+165,Sassuolo,Mehdi,player_78796,Bourabia,3,9,2182,31,5.1,1.0,5.0,0.24
+166,Torino,Simone,player_78819,Verdi,4,12,135,40,5.0,1.0,5.0,0.47000000000000003
+167,Fiorentina,Pietro,player_79583,Terracciano,1,7,125,10,-,0.0,5.0,0.0
+168,Sampdoria,Maya,player_80447,Yoshida,2,9,603,20,5.0,0.0,5.0,0.71
+169,Inter,Christian,player_80607,Eriksen,3,7,127,32,4.8,0.0,5.0,0.24
+170,Benevento,Gianluca,player_80948,Lapadula,4,13,2000,40,4.9,3.0,5.0,0.76
+171,Spezia,Jacopo,player_80974,Sala,2,5,2036,21,4.0,0.0,5.0,0.24
+172,Bologna,Nicola,player_81033,Sansone,3,6,123,32,4.9,0.0,5.0,0.06
+173,Parma,Roberto,player_82135,Inglese,4,8,131,40,4.1,0.0,5.0,0.35000000000000003
+174,Atalanta,Marten,player_82428,de Roon,3,14,456,31,5.5,1.0,5.0,0.76
+175,Lazio,,player_82451,Luis Alberto,3,21,129,32,5.1,4.0,5.0,0.88
+176,Napoli,Kevin,player_83340,Malcuit,2,3,459,21,5,0.0,5.0,0.0
+177,Benevento,Bryan,player_83561,Dabo,3,9,2000,31,4.7,0.0,5.0,0.41000000000000003
+178,Milan,,player_83984,Antonio Donnarumma,1,3,120,10,-,0.0,5.0,0.0
+179,Roma,Leonardo,player_84161,Spinazzola,2,16,121,21,5.3,1.0,5.0,0.8200000000000001
+180,Lazio,Francesco,player_84178,Acerbi,2,15,129,20,5.2,0.0,5.0,0.8200000000000001
+181,Sampdoria,Bartosz,player_84724,Bereszynski,2,8,603,21,4.9,0.0,5.0,0.65
+182,Parma,Vincent,player_85046,Laurini,2,4,131,21,4.3,0.0,5.0,0.18
+183,Bologna,Lukasz,player_85288,Skorupski,1,10,123,10,5.1,0.0,5.0,0.59
+184,Benevento,Gaetano,player_85295,Letizia,2,16,2000,21,5.4,3.0,5.0,0.8200000000000001
+185,Napoli,Kalidou,player_86129,Koulibaly,2,12,459,20,5.3,0.0,5.0,0.71
+186,Crotone,Lisandro,player_86940,Magallán,2,8,744,20,4.0,0.0,5.0,0.71
+187,Napoli,,player_87542,Nikola Maksimovic,2,5,459,20,5.1,0.0,5.0,0.24
+188,Atalanta,Luis,player_87750,Muriel,4,28,456,40,5.6,10.0,5.0,0.29
+189,Genoa,Mattia,player_87995,Perin,1,12,990,10,5.0,0.0,5.0,0.8200000000000001
+190,Cagliari,,player_88340,João Pedro,4,44,124,40,5.8,10.0,5.0,1.0
+191,Fiorentina,Cristiano,player_88432,Biraghi,2,16,125,21,5.0,1.0,5.0,0.88
+192,Juventus,Álvaro,player_88482,Morata,4,24,128,40,5.4,4.0,5.0,0.59
+193,Napoli,Faouzi,player_88746,Ghoulam,2,7,459,21,4.9,0.0,5.0,0.06
+194,Atalanta,Remo,player_89076,Freuler,3,14,456,31,5.7,1.0,5.0,0.71
+195,Atalanta,José Luis,player_89861,Palomino,2,12,456,20,5.0,0.0,5.0,0.59
+196,Verona,Federico,player_90557,Ceccherini,2,10,126,20,4.8,0.0,5.0,0.88
+197,Fiorentina,Valentin,player_91070,Eysseric,3,4,125,32,4.7,0.0,5.0,0.06
+198,Roma,,player_91990,Juan Jesus,2,6,121,20,4.5,0.0,5.0,0.0
+199,Napoli,Diego,player_92042,Demme,3,9,459,31,5.5,1.0,5.0,0.35000000000000003
+200,Atalanta,Cristiano,player_92055,Piccini,2,4,456,21,4.5,0.0,5.0,0.0
+201,Parma,Jasmin,player_92519,Kurtic,3,18,131,32,5.2,2.0,5.0,0.8200000000000001
+202,Napoli,Giovanni,player_93661,Di Lorenzo,2,15,459,21,5.3,0.0,5.0,0.9400000000000001
+203,Parma,Gastón,player_93854,Brugman,3,9,131,31,5.1,0.0,5.0,0.41000000000000003
+204,Verona,Alessandro,player_94239,Berardi,1,7,126,10,-,0.0,5.0,0.0
+205,Inter,Marcelo,player_94425,Brozovic,3,14,127,31,5.7,1.0,5.0,0.71
+206,Genoa,Stefano,player_94751,Sturaro,3,10,990,31,4.5,1.0,5.0,0.35000000000000003
+207,Udinese,Gerard,player_94924,Deulofeu,4,9,136,40,4.5,0.0,5.0,0.18
+208,Benevento,Gianluca,player_95180,Caprari,4,17,2000,40,5.6,4.0,5.0,0.76
+209,Sassuolo,Gregoire,player_95215,Defrel,4,4,2182,40,5.2,2.0,5.0,0.24
+210,Atalanta,Berat,player_96645,Djimsiti,2,13,456,20,5.4,0.0,5.0,0.71
+211,Roma,Jordan,player_96740,Veretout,3,24,121,31,5.7,7.0,5.0,0.88
+212,Milan,Ante,player_98456,Rebic,4,16,120,40,5.5,1.0,5.0,0.53
+213,Verona,Antonio,player_100075,Di Gaudio,3,2,126,32,-,0.0,5.0,0.0
+214,Juventus,,player_100180,Danilo,2,17,128,21,5.8,1.0,5.0,0.8200000000000001
+215,Napoli,,player_101019,Mário Rui,2,10,459,21,5.3,0.0,5.0,0.47000000000000003
+216,Napoli,Stanislav,player_101820,Lobotka,3,6,459,31,4.9,0.0,5.0,0.0
+217,Torino,Daniele,player_102195,Baselli,3,2,135,31,-,0.0,5.0,0.0
+218,Genoa,Marko,player_102228,Pjaca,3,14,990,32,4.6,3.0,5.0,0.47000000000000003
+219,Genoa,Petar,player_102290,Brlek,3,1,990,31,-,0.0,5.0,0.0
+220,Crotone,Koffi,player_102766,Djidji,2,3,744,20,4.8,0.0,5.0,0.06
+221,Napoli,Arkadiusz,player_103076,Milik,4,2,459,40,-,0.0,5.0,0.0
+222,Atalanta,Duván,player_103086,Zapata,4,25,456,40,5.4,7.0,5.0,0.71
+223,Torino,Soualiho,player_103119,Meité,3,11,135,31,4.9,1.0,5.0,0.65
+224,Lazio,Jean-Daniel,player_104359,Akpa Akpro,2,9,129,21,4.9,0.0,5.0,0.12
+225,Crotone,Ahmad,player_104529,Benali,3,8,744,32,4.9,0.0,5.0,0.29
+226,Udinese,,player_105059,Nícolas,1,3,136,10,3.8,0.0,5.0,0.12
+227,Torino,Nicola,player_105108,Murru,2,5,135,21,4.7,0.0,5.0,0.18
+228,Torino,Armando,player_105119,Izzo,2,9,135,20,5.3,2.0,5.0,0.35000000000000003
+229,Sampdoria,Valerio,player_105132,Verre,3,12,603,32,5.0,2.0,5.0,0.35000000000000003
+230,Cagliari,Alessio,player_105133,Cragno,1,19,124,10,5.4,0.0,5.0,1.0
+231,Genoa,Davide,player_105700,Zappacosta,2,6,990,21,4.8,1.0,5.0,0.29
+232,Benevento,Riccardo,player_106008,Improta,3,14,2000,32,5.0,1.0,5.0,0.47000000000000003
+233,Sassuolo,Georgios,player_106247,Kyriakopoulos,2,8,2182,21,4.7,0.0,5.0,0.41000000000000003
+234,Lazio,,player_106461,Patric,2,8,129,20,4.6,0.0,5.0,0.59
+235,Napoli,Elseid,player_107363,Hysaj,2,7,459,21,5.5,0.0,5.0,0.41000000000000003
+236,Roma,Bryan,player_109511,Cristante,3,12,121,31,5.1,0.0,5.0,0.47000000000000003
+237,Cagliari,Charalampos,player_111515,Lykogiannis,2,12,124,21,4.8,2.0,5.0,0.76
+238,Torino,Andrea,player_111722,Belotti,4,39,135,40,6.2,9.0,5.0,0.9400000000000001
+239,Bologna,Stefano,player_111729,Denswil,2,4,123,20,4.9,0.0,5.0,0.06
+240,Milan,Hakan,player_111732,Calhanoglu,3,30,120,32,6.1,1.0,5.0,0.88
+241,Inter,Milan,player_112065,Skriniar,2,13,127,20,5.2,2.0,5.0,0.71
+242,Sassuolo,Federico,player_113543,Ricci,3,3,2182,31,5,0.0,5.0,0.0
+243,Parma,Andreas,player_114517,Cornelius,4,8,131,40,4.5,0.0,5.0,0.53
+244,Fiorentina,Joseph Alfred,player_116056,Duncan,3,4,125,31,4.6,0.0,5.0,0.12
+245,Lazio,Joaquín,player_116195,Correa,4,14,129,40,5.0,1.0,5.0,0.59
+246,Genoa,Davide,player_116196,Biraschi,2,4,990,20,3.8,0.0,5.0,0.29
+247,Sassuolo,Domenico,player_116796,Berardi,4,39,2182,40,6.2,7.0,5.0,0.88
+248,Verona,Koray,player_118888,Günter,2,8,126,20,5.3,0.0,5.0,0.29
+249,Udinese,Rodrigo,player_119141,de Paul,3,32,136,32,5.7,3.0,5.0,0.9400000000000001
+250,Bologna,Mitchell,player_119213,Dijks,2,5,123,21,4.8,0.0,5.0,0.24
+251,Roma,,player_119605,Bruno Peres,2,8,121,21,5.0,0.0,5.0,0.24
+252,Bologna,Ibrahima,player_119908,Mbaye,2,3,123,21,4.0,0.0,5.0,0.06
+253,Juventus,Paulo,player_120638,Dybala,4,18,128,40,5.3,2.0,5.0,0.47000000000000003
+254,Juventus,Adrien,player_120743,Rabiot,3,16,128,31,5.3,1.0,5.0,0.53
+255,Fiorentina,Germán,player_121220,Pezzella,2,16,125,20,5.1,1.0,5.0,0.71
+256,Udinese,Juan,player_121537,Musso,1,12,136,10,5.0,0.0,5.0,0.8200000000000001
+257,Verona,Marco,player_122476,Benassi,3,2,126,32,-,0.0,5.0,0.0
+258,Cagliari,Paolo,player_123309,Faragò,2,6,124,21,4.8,0.0,5.0,0.24
+259,Genoa,Ivan,player_123508,Lakicevic,2,1,990,21,-,0.0,5.0,0.0
+260,Napoli,Piotr,player_126440,Zielinski,3,15,459,32,6.0,3.0,5.0,0.65
+261,Genoa,Lukas,player_126541,Zima,1,3,990,10,-,0.0,5.0,0.0
+262,Milan,Alessio,player_126551,Romagnoli,2,13,120,20,5.3,1.0,5.0,0.76
+263,Benevento,Federico,player_127122,Barba,2,10,2000,20,4.8,0.0,5.0,0.65
+264,Lazio,Riza,player_128376,Durmisi,2,1,129,21,-,0.0,5.0,0.0
+265,Lazio,Danilo,player_130963,Cataldi,3,8,129,31,4.8,0.0,5.0,0.12
+266,Genoa,Miha,player_135334,Zajc,3,7,990,31,4.8,1.0,5.0,0.41000000000000003
+267,Sassuolo,Jeremie,player_135365,Boga,3,21,2182,32,5.4,2.0,5.0,0.53
+268,Fiorentina,Erick,player_139146,Pulgar,3,12,125,31,5.3,0.0,5.0,0.29
+269,Torino,Karol,player_140181,Linetty,3,12,135,31,5.0,1.0,5.0,0.9400000000000001
+270,Lazio,Thomas,player_140200,Strakosha,1,7,129,10,4.6,0.0,5.0,0.35000000000000003
+271,Spezia,Federico,player_141563,Mattiello,2,5,2036,21,5,0.0,5.0,0.0
+272,Verona,Pawel,player_141925,Dawidowicz,2,10,126,20,5.2,0.0,5.0,0.59
+273,Inter,Stefano,player_147166,Sensi,3,6,127,31,5.1,0.0,5.0,0.06
+274,Juventus,Federico,player_147297,Bernardeschi,4,11,128,40,4.7,0.0,5.0,0.12
+275,Genoa,Edoardo,player_147614,Goldaniga,2,9,990,20,4.4,0.0,5.0,0.59
+276,Napoli,Andrea,player_147886,Petagna,4,13,459,40,5.2,4.0,5.0,0.29
+277,Benevento,Roberto,player_148202,Insigne,4,16,2000,40,5.1,2.0,5.0,0.65
+278,Inter,Matías,player_148215,Vecino,3,2,127,31,-,0.0,5.0,0.0
+279,Parma,Mattia,player_148868,Sprocati,3,3,131,32,5,0.0,5.0,0.0
+280,Udinese,Simone,player_151804,Scuffet,1,7,136,10,-,0.0,5.0,0.0
+281,Parma,Wylan,player_151873,Cyprien,3,8,131,32,4.7,0.0,5.0,0.12
+282,Spezia,Ivan,player_151923,Provedel,1,12,2036,10,5.3,0.0,5.0,0.8200000000000001
+283,Verona,Adrien,player_152338,Tameze,3,15,126,31,5.4,1.0,5.0,0.88
+284,Atalanta,Johan,player_152723,Mojica,2,8,456,21,4.7,0.0,5.0,0.18
+285,Genoa,Alberto,player_152934,Paleari,1,7,990,10,5.0,0.0,5.0,0.06
+286,Genoa,Mattia,player_152965,Bani,2,9,990,20,4.5,0.0,5.0,0.59
+287,Cagliari,Gastón,player_153603,Pereiro,3,5,124,32,4.9,0.0,5.0,0.06
+288,Parma,Riccardo,player_153693,Gagliolo,2,13,131,21,4.5,1.0,5.0,0.65
+289,Crotone,Marco,player_153704,Festa,1,7,744,10,-,0.0,5.0,0.0
+290,Crotone,Salvatore,player_153754,Molina,3,12,744,31,5.0,1.0,5.0,0.8200000000000001
+291,Napoli,Matteo,player_153776,Politano,3,13,459,32,5.1,3.0,5.0,0.41000000000000003
+292,Spezia,Matteo,player_153857,Ricci,3,17,2036,31,5.3,0.0,5.0,0.71
+293,Spezia,Daniele,player_153867,Verde,4,5,2036,40,4.8,1.0,5.0,0.24
+294,Sassuolo,Gian Marco,player_155620,Ferrari,2,15,2182,20,5.1,0.0,5.0,0.9400000000000001
+295,Milan,Rade,player_155748,Krunic,3,8,120,32,5.0,0.0,5.0,0.12
+296,Bologna,Arturo,player_155895,Calabresi,2,3,123,20,5,0.0,5.0,0.0
+297,Benevento,Lorenzo,player_156245,Montipò,1,16,2000,10,5,0.0,5.0,1.0
+298,Sampdoria,Omar,player_156267,Colley,2,10,603,20,4.9,1.0,5.0,0.59
+299,Lazio,Vedat,player_156293,Muriqi,4,7,129,40,4.2,0.0,5.0,0.12
+300,Lazio,Gonzalo,player_156305,Escalante,3,10,129,31,5.1,0.0,5.0,0.24
+301,Lazio,Manuel,player_156323,Lazzari,3,11,129,31,5.0,1.0,5.0,0.76
+302,Atalanta,Pierluigi,player_156683,Gollini,1,13,456,10,5.5,0.0,5.0,0.53
+303,Lazio,,player_156689,Andreas Pereira,3,11,129,32,4.8,1.0,5.0,0.12
+304,Cagliari,Alberto,player_156707,Cerri,4,7,124,40,4.3,0.0,5.0,0.06
+305,Sampdoria,,player_156708,Keita Baldé,4,7,603,40,4.8,2.0,5.0,0.12
+306,Benevento,Lorenzo,player_156883,Del Pinto,3,2,2000,31,4,0.0,5.0,0.0
+307,Verona,Mattia,player_157008,Zaccagni,3,21,126,32,6.0,4.0,5.0,0.88
+308,Atalanta,Ruslan,player_157374,Malinovskiy,3,19,456,32,5.4,1.0,5.0,0.35000000000000003
+309,Parma,,player_157717,Hernani,3,17,131,31,5.3,3.0,5.0,0.8200000000000001
+310,Fiorentina,Antonio,player_159039,Barreca,2,3,125,21,4.5,0.0,5.0,0.06
+311,Genoa,Vittorio,player_159042,Parigini,4,4,990,40,5.1,0.0,5.0,0.0
+312,Spezia,Emmanuel,player_159043,Gyasi,4,13,2036,40,4.9,1.0,5.0,0.8200000000000001
+313,Sassuolo,Kaan,player_159522,Ayhan,2,9,2182,20,5.2,0.0,5.0,0.29
+314,Atalanta,Aleksey,player_160174,Miranchuk,3,10,456,32,5.3,1.0,5.0,0.0
+315,Sassuolo,Jeremy,player_160540,Toljan,2,8,2182,21,4.8,0.0,5.0,0.47000000000000003
+316,Sampdoria,Alex,player_161490,Ferrari,2,8,603,20,5.2,0.0,5.0,0.29
+317,Verona,Giangiacomo,player_161794,Magnani,2,8,126,20,5.0,0.0,5.0,0.35000000000000003
+318,Milan,Davide,player_161918,Calabria,2,17,120,21,5.3,2.0,5.0,1.0
+319,Verona,Federico,player_161919,Dimarco,2,12,126,21,5.6,2.0,5.0,0.88
+320,Spezia,Elio,player_161921,Capradossi,2,2,2036,20,-,0.0,5.0,0.0
+321,Torino,Federico,player_161932,Bonazzoli,4,11,135,40,4.7,1.0,5.0,0.24
+322,Spezia,Alessandro,player_162330,Deiola,3,8,2036,31,5.0,0.0,5.0,0.24
+323,Udinese,,player_162651,Samir,2,12,136,20,4.6,1.0,5.0,0.9400000000000001
+324,Fiorentina,Bartlomiej,player_162842,Dragowski,1,17,125,10,5.4,0.0,5.0,1.0
+325,Cagliari,Razvan,player_163632,Marin,3,13,124,31,4.9,1.0,5.0,0.9400000000000001
+326,Sassuolo,,player_164099,Marlon Santos,2,7,2182,20,5.3,0.0,5.0,0.24
+327,Lazio,Denis,player_164266,Vavro,2,3,129,20,5,0.0,5.0,0.0
+328,Crotone,Tomislav,player_164543,Gomelt,3,3,744,31,4.8,0.0,5.0,0.0
+329,Atalanta,Mario,player_164570,Pasalic,3,17,456,32,5.1,1.0,5.0,0.35000000000000003
+330,Crotone,,player_164633,Simy,4,16,744,40,4.3,4.0,5.0,0.8200000000000001
+331,Napoli,Amir,player_165196,Rrahmani,2,3,459,20,4.5,0.0,5.0,0.06
+332,Cagliari,Giovanni,player_166016,Simeone,4,15,124,40,4.9,5.0,5.0,0.65
+333,Genoa,Lukas,player_166965,Lerager,3,11,990,31,4.8,0.0,5.0,0.76
+334,Lazio,Wesley,player_167075,Hoedt,2,9,129,20,5.0,0.0,5.0,0.35000000000000003
+335,Udinese,Ignacio,player_168290,Pussetto,4,15,136,40,5.2,3.0,5.0,0.53
+336,Crotone,Sebastiano,player_168618,Luperto,2,8,744,20,4.2,0.0,5.0,0.65
+337,Napoli,Tiemoué,player_169102,Bakayoko,3,12,459,31,5.5,1.0,5.0,0.71
+338,Lazio,Adam,player_169107,Marusic,2,11,129,21,5.1,0.0,5.0,0.76
+339,Atalanta,Hans,player_170135,Hateboer,2,13,456,21,5.3,2.0,5.0,0.76
+340,Spezia,Giuseppe,player_170346,Mastinu,3,5,2036,32,4.5,0.0,5.0,0.0
+341,Lazio,Djavan,player_170857,Anderson,2,2,129,21,4.3,0.0,5.0,0.06
+342,Inter,Roberto,player_171152,Gagliardini,3,12,127,31,5.2,2.0,5.0,0.53
+343,Napoli,Alex,player_171366,Meret,1,9,459,10,5.4,0.0,5.0,0.41000000000000003
+344,Inter,Nicolò,player_171384,Barella,3,16,127,32,5.4,1.0,5.0,0.8200000000000001
+345,Sassuolo,Manuel,player_171387,Locatelli,3,24,2182,31,5.8,2.0,5.0,0.9400000000000001
+346,Sassuolo,Filippo,player_171390,Romagna,2,3,2182,20,-,0.0,5.0,0.0
+347,Bologna,Nehuén,player_171699,Paz,2,9,123,20,5.3,1.0,5.0,0.18
+348,Fiorentina,Sofyan,player_172912,Amrabat,3,11,125,31,5.0,0.0,5.0,0.9400000000000001
+349,Sassuolo,Lukas,player_173131,Haraslin,4,4,2182,40,4.6,0.0,5.0,0.12
+350,Milan,Franck,player_173181,Kessié,3,29,120,31,6.0,6.0,5.0,0.88
+351,Atalanta,Mattia,player_174651,Caldara,2,3,456,20,4.5,0.0,5.0,0.06
+352,Benevento,Gabriele,player_174876,Moncini,4,6,2000,40,4.5,0.0,5.0,0.24
+353,Juventus,Stefano,player_175274,Gori,1,1,128,10,-,0.0,5.0,0.0
+354,Udinese,Kevin,player_175639,Bonifazi,2,8,136,20,4.7,0.0,5.0,0.41000000000000003
+355,Crotone,,player_176485,Pedro Pereira,2,9,744,21,4.2,0.0,5.0,0.8200000000000001
+356,Lazio,,player_176500,Madiu Bari,3,1,129,31,-,0.0,5.0,0.0
+357,Napoli,Nikita,player_177880,Contini,1,3,459,10,-,0.0,5.0,0.0
+358,Atalanta,Robin,player_177901,Gosens,2,21,456,21,5.7,5.0,5.0,0.71
+359,Fiorentina,Lorenzo,player_178724,Venuti,2,8,125,21,4.8,0.0,5.0,0.35000000000000003
+360,Sampdoria,Morten,player_179296,Thorsby,3,16,603,31,5.0,2.0,5.0,0.8200000000000001
+361,Spezia,Simone,player_179329,Bastoni,2,8,2036,21,4.4,0.0,5.0,0.53
+362,Napoli,Hirving,player_179361,Lozano,4,23,459,40,6.2,7.0,5.0,0.8200000000000001
+363,Roma,Carles,player_179369,Pérez,3,7,121,32,4.7,1.0,5.0,0.06
+364,Lazio,Sergej,player_180793,Milinkovic-Savic,3,21,129,32,5.4,3.0,5.0,0.8200000000000001
+365,Torino,Amer,player_181055,Gojak,3,6,135,32,4.9,1.0,5.0,0.29
+366,Udinese,Rolando,player_182514,Mandragora,3,5,136,31,4.9,0.0,5.0,0.06
+367,Genoa,Francesco,player_182518,Cassata,3,3,990,31,-,0.0,5.0,0.0
+368,Roma,Pau,player_182960,López,1,9,121,10,5.6,0.0,5.0,0.35000000000000003
+369,Crotone,,player_183253,Eduardo Henrique,3,9,744,31,4.2,1.0,5.0,0.29
+370,Benevento,Andrés,player_183383,Tello,3,10,2000,31,5,0.0,5.0,0.0
+371,Parma,Yann,player_184095,Karamoh,4,9,131,40,4.7,1.0,5.0,0.59
+372,Cagliari,Guglielmo,player_184254,Vicario,1,7,124,10,-,0.0,5.0,0.0
+373,Udinese,,player_184289,Walace,3,6,136,31,4.9,0.0,5.0,0.24
+374,Roma,,player_184441,Lorenzo Pellegrini,3,19,121,32,5.8,3.0,5.0,0.8200000000000001
+375,Udinese,Hidde,player_184508,ter Avest,2,5,136,21,4.6,0.0,5.0,0.24
+376,Lazio,Mohamed,player_184661,Fares,3,7,129,32,4.9,0.0,5.0,0.29
+377,Verona,Kevin,player_185521,Rüegg,2,6,126,21,5.2,0.0,5.0,0.0
+378,Roma,Rick,player_186665,Karsdorp,2,12,121,20,5.1,0.0,5.0,0.76
+379,Cagliari,Marko,player_192252,Pajac,3,1,124,31,-,0.0,5.0,0.0
+380,Cagliari,Nahitan,player_192351,Nández,3,14,124,31,5.2,1.0,5.0,0.71
+381,Udinese,Kevin,player_192905,Lasagna,4,10,136,40,4.4,2.0,5.0,0.53
+382,Spezia,Gennaro,player_193106,Acampora,3,4,2036,31,5.0,0.0,5.0,0.12
+383,Milan,Andrea,player_193183,Conti,2,3,120,21,5,0.0,5.0,0.0
+384,Milan,,player_193449,Samu Castillejo,3,10,120,32,5.1,1.0,5.0,0.29
+385,Sampdoria,Emil,player_193509,Audero,1,17,603,10,5.6,0.0,5.0,1.0
+386,Torino,Vanja,player_193773,Milinkovic-Savic,1,8,135,10,5.0,0.0,5.0,0.12
+387,Spezia,Juan,player_195046,Ramos,2,3,2036,21,4.5,0.0,5.0,0.12
+388,Cagliari,Marko,player_195303,Rog,3,12,124,32,5.3,0.0,5.0,0.8200000000000001
+389,Udinese,Cristo,player_195504,González,4,3,136,40,-,0.0,5.0,0.0
+390,Parma,Alberto,player_195516,Grassi,3,6,131,31,4.9,0.0,5.0,0.29
+391,Crotone,Jacopo,player_195559,Petriccione,3,9,744,31,4.4,0.0,5.0,0.29
+392,Sampdoria,Jakub,player_195577,Jankto,3,21,603,32,5.6,4.0,5.0,0.88
+393,Fiorentina,Gaetano,player_195634,Castrovilli,3,17,125,32,5.3,4.0,5.0,0.88
+394,Genoa,Filippo,player_195896,Melegoni,3,4,990,32,4.9,0.0,5.0,0.0
+395,Genoa,Gianluca,player_195899,Scamacca,4,9,990,40,4.8,2.0,5.0,0.47000000000000003
+396,Crotone,Aristóteles,player_196302,Romero,3,1,744,31,-,0.0,5.0,0.0
+397,Parma,Giacomo,player_197903,Ricci,2,1,131,21,4,0.0,5.0,0.0
+398,Torino,Simone,player_197983,Edera,3,5,135,32,5.5,0.0,5.0,0.0
+399,Roma,Gianluca,player_198374,Mancini,2,14,121,20,5.2,2.0,5.0,0.88
+400,Roma,Borja,player_199248,Mayoral,4,10,121,40,4.7,3.0,5.0,0.18
+401,Udinese,Jean-Victor,player_199666,Makengo,3,5,136,31,4.8,0.0,5.0,0.0
+402,Spezia,Riccardo,player_201333,Marchizza,2,8,2036,20,4.8,0.0,5.0,0.35000000000000003
+403,Napoli,Fabián,player_201379,Ruiz,3,22,459,31,5.5,1.0,5.0,0.76
+404,Verona,Andrea,player_201652,Favilli,4,6,126,40,4.6,2.0,5.0,0.12
+405,Milan,Ismael,player_202041,Bennacer,3,16,120,31,5.5,0.0,5.0,0.41000000000000003
+406,Genoa,Paolo,player_202903,Ghiglione,2,9,990,21,4.9,0.0,5.0,0.53
+407,Juventus,Rodrigo,player_202993,Bentancur,3,19,128,31,5.6,0.0,5.0,0.65
+408,Juventus,,player_204043,Arthur,3,10,128,31,5.6,0.0,5.0,0.41000000000000003
+409,Spezia,,player_204069,Léo Sena,3,4,2036,31,5,0.0,5.0,0.0
+410,Parma,Yordan,player_204562,Osorio,2,9,131,20,4.6,0.0,5.0,0.59
+411,Spezia,Martin,player_204631,Erlic,2,7,2036,20,4.6,0.0,5.0,0.41000000000000003
+412,Milan,Gianluigi,player_204936,Donnarumma,1,20,120,10,5.7,0.0,5.0,0.9400000000000001
+413,Genoa,Eldor,player_205048,Shomurodov,4,9,990,40,4.8,2.0,5.0,0.41000000000000003
+414,Crotone,Vladimir,player_205578,Golemic,2,5,744,20,4.0,2.0,5.0,0.53
+415,Sampdoria,Antonino,player_208339,La Gumina,4,5,603,40,4.8,0.0,5.0,0.12
+416,Juventus,Luca,player_209343,Coccolo,2,1,128,20,-,0.0,5.0,0.0
+417,Fiorentina,Patrick,player_209353,Cutrone,4,7,125,40,4.3,0.0,5.0,0.0
+418,Juventus,Matthijs,player_209365,de Ligt,2,14,128,20,5.3,0.0,5.0,0.53
+419,Fiorentina,Lucas,player_209736,Martínez Quarta,2,3,125,20,4.4,0.0,5.0,0.12
+420,Inter,,player_209737,Lautaro Martínez,4,28,127,40,5.5,9.0,5.0,0.76
+421,Bologna,Mattias,player_210912,Svanberg,3,12,123,31,5.2,2.0,5.0,0.59
+422,Torino,Sasa,player_212314,Lukic,3,12,135,31,5.1,3.0,5.0,0.65
+423,Roma,Amadou,player_212533,Diawara,3,6,121,31,5.2,0.0,5.0,0.06
+424,Torino,Mergim,player_212667,Vojvoda,2,9,135,21,4.9,0.0,5.0,0.41000000000000003
+425,Torino,,player_212721,Lyanco,2,9,135,20,4.9,0.0,5.0,0.8200000000000001
+426,Spezia,Paolo,player_213364,Bartolomei,3,4,2036,31,4.5,0.0,5.0,0.18
+427,Spezia,Cristian,player_213534,Dell'Orco,2,6,2036,21,4.8,0.0,5.0,0.06
+428,Atalanta,Boris,player_213535,Radunovic,1,3,456,10,-,0.0,5.0,0.0
+429,Sassuolo,Maxime,player_213965,Lopez,3,11,2182,32,4.9,1.0,5.0,0.65
+430,Spezia,Nahuel,player_214064,Estévez,3,10,2036,31,5.2,0.0,5.0,0.53
+431,Atalanta,Sam,player_215145,Lammers,4,6,456,40,4.6,2.0,5.0,0.06
+432,Parma,Giuseppe,player_215312,Pezzella,2,6,131,21,4.8,0.0,5.0,0.47000000000000003
+433,Spezia,Luca,player_215421,Vignali,2,6,2036,21,4.9,0.0,5.0,0.35000000000000003
+434,Lazio,,player_215510,Luiz Felipe,2,8,129,20,5.1,0.0,5.0,0.47000000000000003
+435,Inter,Ionut,player_215531,Radu,1,2,127,10,-,0.0,5.0,0.0
+436,Inter,Alessandro,player_215977,Bastoni,2,12,127,20,5.4,0.0,5.0,0.8200000000000001
+437,Milan,Matteo,player_215979,Gabbia,2,7,120,20,5.6,0.0,5.0,0.35000000000000003
+438,Genoa,,player_215981,Luca Pellegrini,2,8,990,21,4.5,0.0,5.0,0.41000000000000003
+439,Cagliari,Alessandro,player_216035,Tripaldelli,2,6,124,21,4.4,0.0,5.0,0.18
+440,Inter,Andrea,player_216040,Pinamonti,4,4,127,40,4,0.0,5.0,0.0
+441,Milan,,player_216051,Diogo Dalot,2,5,120,21,4.8,0.0,5.0,0.18
+442,Milan,,player_216065,Rafael Leão,4,12,120,40,5.9,5.0,5.0,0.65
+443,Milan,Brahim,player_216183,Díaz,3,8,120,32,5.2,1.0,5.0,0.47000000000000003
+444,Cagliari,Adam,player_218005,Ounas,3,7,124,32,4.9,0.0,5.0,0.18
+445,Udinese,Thomas,player_218127,Ouwejan,2,4,136,21,4.5,0.0,5.0,0.18
+446,Bologna,Kingsley,player_218324,Michael,3,2,123,31,-,0.0,5.0,0.0
+447,Napoli,Victor,player_218329,Osimhen,4,17,459,40,5.7,2.0,5.0,0.29
+448,Sassuolo,,player_218441,Rogerio,2,9,2182,21,5.0,0.0,5.0,0.53
+449,Spezia,M'Bala,player_218707,Nzola,4,24,2036,40,5.5,9.0,5.0,0.71
+450,Verona,Antonin,player_218784,Barak,3,15,126,32,5.5,3.0,5.0,0.71
+451,Crotone,Denis,player_219348,Dragus,4,6,744,40,4.3,0.0,5.0,0.06
+452,Genoa,Joel,player_219727,Asoro,4,1,990,40,-,0.0,5.0,0.0
+453,Udinese,,player_220063,Rodrigo Becão,2,10,136,20,4.6,0.0,5.0,0.8200000000000001
+454,Crotone,Giovanni,player_220091,Crociata,3,5,744,32,4.8,0.0,5.0,0.0
+455,Cagliari,Simone,player_220176,Pinna,2,2,124,21,-,0.0,5.0,0.0
+456,Udinese,Nahuel,player_221586,Molina,2,4,136,21,4.9,0.0,5.0,0.18
+457,Verona,Ronaldo,player_221608,Vieira,3,4,126,31,5.3,0.0,5.0,0.12
+458,Atalanta,Cristian,player_221632,Romero,2,10,456,20,5.3,0.0,5.0,0.65
+459,Milan,,player_222329,Léo Duarte,2,2,120,20,5,0.0,5.0,0.0
+460,Sassuolo,Nicolás,player_222448,Schiappacasse,4,2,2182,40,4.5,0.0,5.0,0.0
+461,Atalanta,Fabio,player_222467,Depaoli,2,4,456,21,4.3,0.0,5.0,0.24
+462,Milan,Theo,player_222784,Hernández,2,36,120,21,6.0,4.0,5.0,0.88
+463,Fiorentina,,player_223434,Igor Julio,2,9,125,20,4.9,0.0,5.0,0.41000000000000003
+464,Cagliari,Fabrizio,player_223475,Caligara,3,7,124,31,4.8,0.0,5.0,0.12
+465,Juventus,Federico,player_223541,Chiesa,4,17,128,40,5.8,5.0,5.0,0.76
+466,Bologna,Takehiro,player_223723,Tomiyasu,2,12,123,21,4.7,2.0,5.0,1.0
+467,Inter,Achraf,player_223760,Hakimi,2,24,127,21,5.6,6.0,5.0,0.65
+468,Bologna,Riccardo,player_223966,Orsolini,4,16,123,40,5.3,2.0,5.0,0.59
+469,Sassuolo,Mert,player_224990,Müldür,2,8,2182,21,4.6,0.0,5.0,0.41000000000000003
+470,Lazio,Abukar,player_225050,Mohamed,3,1,129,31,-,0.0,5.0,0.0
+471,Fiorentina,Dusan,player_225479,Vlahovic,4,15,125,40,4.5,6.0,5.0,0.76
+472,Napoli,Eljif,player_225807,Elmas,3,11,459,32,5.2,1.0,5.0,0.0
+473,Milan,Jens Petter,player_225942,Hauge,3,10,120,32,5.0,1.0,5.0,0.12
+474,Lazio,Nicolò,player_226257,Armini,2,1,129,20,-,0.0,5.0,0.0
+475,Atalanta,Emmanuel,player_226262,Gyabuaa,3,1,456,31,5,0.0,5.0,0.0
+476,Spezia,Roberto,player_226267,Piccoli,4,9,2036,40,4.5,1.0,5.0,0.12
+477,Atalanta,Alessandro,player_226269,Cortinovis,3,1,456,32,-,0.0,5.0,0.0
+478,Milan,Riccardo,player_226272,Tonin,4,1,120,40,-,0.0,5.0,0.0
+479,Bologna,Edoardo,player_226273,Vergani,4,2,123,40,4.5,0.0,5.0,0.0
+480,Fiorentina,Nikola,player_227444,Milenkovic,2,15,125,20,5.2,2.0,5.0,0.9400000000000001
+481,Sampdoria,Karlo,player_229695,Letica,1,7,603,10,-,0.0,5.0,0.0
+482,Crotone,Arkadiusz,player_229798,Reca,2,12,744,21,4.6,1.0,5.0,0.88
+483,Spezia,Ardian,player_229912,Ismajli,2,4,2036,20,5.3,0.0,5.0,0.12
+484,Bologna,Jerdy,player_230152,Schouten,3,11,123,31,5.3,0.0,5.0,0.8200000000000001
+485,Inter,Axel,player_230651,Bakayoko,4,1,127,40,-,0.0,5.0,0.0
+486,Crotone,Milos,player_230804,Vulic,3,10,744,32,4.7,0.0,5.0,0.47000000000000003
+487,Crotone,Niccolò,player_230836,Zanellato,3,6,744,32,4.5,1.0,5.0,0.47000000000000003
+488,Spezia,Titas,player_232048,Krapikas,1,3,2036,10,-,0.0,5.0,0.0
+489,Fiorentina,Christian,player_232061,Kouamé,4,8,125,40,4.3,1.0,5.0,0.29
+490,Spezia,Giulio,player_233558,Maggiore,3,10,2036,31,4.9,0.0,5.0,0.41000000000000003
+491,Benevento,Abdallah,player_233568,Basit,3,2,2000,31,-,0.0,5.0,0.0
+492,Crotone,Giuseppe,player_235247,Cuomo,2,9,744,20,4.3,0.0,5.0,0.29
+493,Verona,Andrea,player_235447,Danzi,3,4,126,31,4.3,0.0,5.0,0.06
+494,Cagliari,Riccardo,player_235454,Sottil,4,12,124,40,5.2,2.0,5.0,0.71
+495,Cagliari,Gabriele,player_235584,Zappa,2,11,124,21,4.6,0.0,5.0,0.8200000000000001
+496,Bologna,Federico,player_235879,Ravaglia,1,2,123,10,2.5,0.0,5.0,0.06
+497,Parma,Juan,player_235934,Brunetta,3,9,131,32,5.0,0.0,5.0,0.06
+498,Juventus,Daouda,player_240939,Peeters,3,1,128,31,-,0.0,5.0,0.0
+499,Juventus,Weston,player_241519,McKennie,3,14,128,31,5.6,2.0,5.0,0.53
+500,Bologna,Emanuel,player_244290,Vignato,3,12,123,32,5.1,1.0,5.0,0.29
+501,Lazio,Sofian,player_244291,Kiyine,3,1,129,32,-,0.0,5.0,0.0
+502,Juventus,Giacomo,player_244421,Vrioni,4,1,128,40,4.5,0.0,5.0,0.0
+503,Roma,Nicolò,player_245414,Zaniolo,3,2,121,32,-,0.0,5.0,0.0
+504,Juventus,Gianluca,player_246002,Frabotta,2,6,128,21,5.0,0.0,5.0,0.35000000000000003
+505,Torino,Alessandro,player_247359,Buongiorno,2,3,135,20,5.0,0.0,5.0,0.12
+506,Bologna,Sebastian,player_247362,Breza,1,1,123,10,-,0.0,5.0,0.0
+507,Juventus,Hamza,player_247388,Rafia,3,1,128,32,-,0.0,5.0,0.0
+508,Juventus,Koni,player_248881,de Winter,2,1,128,20,-,0.0,5.0,0.0
+509,Inter,Tibo,player_248888,Persyn,3,1,127,32,-,0.0,5.0,0.0
+510,Udinese,Mamadou,player_249710,Coulibaly,3,3,136,31,4.5,0.0,5.0,0.12
+511,Bologna,Nicolás,player_250199,Domínguez,3,13,123,31,5.2,1.0,5.0,0.35000000000000003
+512,Sampdoria,Nik,player_250992,Prelec,4,1,603,40,-,0.0,5.0,0.0
+513,Sampdoria,Mehdi,player_423768,Léris,3,7,603,32,5.1,0.0,5.0,0.06
+514,Sassuolo,Hamed Junior,player_424044,Traore,3,14,2182,32,5.3,2.0,5.0,0.47000000000000003
+515,Juventus,Franco,player_425703,Israel,1,1,128,10,-,0.0,5.0,0.0
+516,Torino,,player_428585,Bremer,2,10,135,20,4.9,2.0,5.0,0.8200000000000001
+517,Spezia,Julian,player_428785,Chabot,2,9,2036,20,4.9,1.0,5.0,0.71
+518,Verona,,player_428897,Eddie Salcedo,4,8,126,40,4.7,0.0,5.0,0.24
+519,Cagliari,Sebastian,player_429187,Walukiewicz,2,9,124,20,4.5,0.0,5.0,0.9400000000000001
+520,Cagliari,Matteo,player_429453,Tramoni,3,6,124,32,4.9,0.0,5.0,0.0
+521,Bologna,Andreas,player_430368,Skov Olsen,3,4,123,32,5.0,1.0,5.0,0.12
+522,Roma,,player_430788,Ibañez,2,14,121,20,5.2,0.0,5.0,0.9400000000000001
+523,Verona,Ivan,player_430848,Ilic,3,12,126,31,5.1,1.0,5.0,0.41000000000000003
+524,Sampdoria,Tommaso,player_431079,Augello,2,11,603,21,4.8,1.0,5.0,0.9400000000000001
+525,Fiorentina,Federico,player_431959,Brancolini,1,3,125,10,-,0.0,5.0,0.0
+526,Crotone,Junior,player_432070,Messias,4,17,744,40,5.1,6.0,5.0,1.0
+527,Atalanta,Matteo,player_432105,Pessina,3,12,456,32,5.4,1.0,5.0,0.47000000000000003
+528,Parma,Andrea,player_432157,Dini,1,1,131,10,-,0.0,5.0,0.0
+529,Milan,Sandro,player_432422,Tonali,3,10,120,31,4.9,0.0,5.0,0.53
+530,Roma,Marash,player_433059,Kumbulla,2,8,121,20,5.2,1.0,5.0,0.35000000000000003
+531,Verona,Nicola,player_433060,Borghetto,1,1,126,10,-,0.0,5.0,0.0
+532,Sassuolo,Stefano,player_433128,Turati,1,3,2182,10,-,0.0,5.0,0.0
+533,Verona,Yildirim Mert,player_433734,Çetin,2,5,126,20,5.3,0.0,5.0,0.18
+534,Udinese,Petar,player_435580,Micin,3,1,136,32,-,0.0,5.0,0.0
+535,Benevento,Daam,player_437743,Foulon,2,10,2000,21,4.8,0.0,5.0,0.41000000000000003
+536,Milan,Alexis,player_437746,Saelemaekers,2,19,120,21,5.3,2.0,5.0,0.65
+537,Parma,Hans,player_437784,Nicolussi Caviglia,3,1,131,32,-,0.0,5.0,0.0
+538,Juventus,Alessandro,player_437791,Di Pardo,3,1,128,32,-,0.0,5.0,0.0
+539,Juventus,Manolo,player_437802,Portanova,3,2,128,32,5.0,0.0,5.0,0.06
+540,Juventus,,player_438539,Wesley,2,1,128,21,-,0.0,5.0,0.0
+541,Juventus,Merih,player_439128,Demiral,2,8,128,20,5.7,0.0,5.0,0.35000000000000003
+542,Parma,Mihai Valentin,player_439185,Mihaila,4,2,131,40,4.2,0.0,5.0,0.0
+543,Cagliari,Nicolo,player_439568,Cabras,1,1,124,10,-,0.0,5.0,0.0
+544,Sampdoria,Mikkel,player_440089,Damsgaard,3,13,603,32,5.3,2.0,5.0,0.53
+545,Udinese,Manuel,player_440705,Gasparini,1,3,136,10,-,0.0,5.0,0.0
+546,Bologna,Musa,player_442430,Barrow,4,17,123,40,5.3,3.0,5.0,0.88
+547,Torino,Vincenzo,player_442661,Millico,3,4,135,32,4.5,0.0,5.0,0.0
+548,Cagliari,Christian,player_444628,Oliva,3,8,124,31,4.9,0.0,5.0,0.12
+549,Verona,Bachir,player_444778,Manè,3,2,126,31,-,0.0,5.0,0.0
+550,Spezia,Kevin,player_444845,Agudelo,3,9,2036,32,5.0,1.0,5.0,0.41000000000000003
+551,Juventus,Dejan,player_445044,Kulusevski,3,25,128,32,5.4,3.0,5.0,0.41000000000000003
+552,Sassuolo,Giacomo,player_446969,Raspadori,4,8,2182,40,4.8,1.0,5.0,0.29
+553,Benevento,Siriki,player_448055,Sanogo,3,1,2000,31,-,0.0,5.0,0.0
+554,Torino,Michel Ndary,player_449470,Adopo,3,1,135,31,-,0.0,5.0,0.0
+555,Bologna,Andri Fannar,player_449580,Baldursson,3,6,123,31,4.6,0.0,5.0,0.06
+556,Lazio,Mattia,player_449700,Novella,2,1,129,21,-,0.0,5.0,0.0
+557,Torino,Erick,player_449750,Ferigra,2,1,135,20,-,0.0,5.0,0.0
+558,Parma,Simon,player_449790,Sohm,3,9,131,32,4.5,0.0,5.0,0.29
+559,Verona,Bogdan,player_449822,Jocic,3,1,126,32,-,0.0,5.0,0.0
+560,Juventus,,player_449991,Felix Correia,4,1,128,40,-,0.0,5.0,0.0
+561,Atalanta,Ludovico,player_450014,Gelmi,1,1,456,10,-,0.0,5.0,0.0
+562,Fiorentina,Fabio,player_450017,Ponsi,2,1,125,21,-,0.0,5.0,0.0
+563,Torino,,player_450019,Jean Greco,3,1,135,31,-,0.0,5.0,0.0
+564,Genoa,Nicolò,player_450024,Rovella,3,6,990,31,4.7,0.0,5.0,0.41000000000000003
+565,Milan,Lorenzo,player_450025,Colombo,4,5,120,40,4.5,0.0,5.0,0.06
+566,Sampdoria,Kristoffer,player_450048,Askildsen,3,2,603,31,5,0.0,5.0,0.0
+567,Roma,Gonzalo,player_450782,Villar,3,12,121,31,5.4,0.0,5.0,0.47000000000000003
+568,Atalanta,Bosko,player_455774,Sutalo,2,5,456,20,4.8,0.0,5.0,0.12
+569,Genoa,Daniel,player_455805,Dumbravanu,2,1,990,20,-,0.0,5.0,0.0
+570,Genoa,Lennart,player_458919,Czyborra,2,7,990,21,4.7,0.0,5.0,0.35000000000000003
+571,Spezia,Tommaso,player_459025,Pobega,3,10,2036,31,5.0,3.0,5.0,0.53
+572,Verona,Ivor,player_459089,Pandur,1,3,126,10,-,0.0,5.0,0.0
+573,Fiorentina,,player_459362,Tòfol Montiel,3,1,125,32,-,0.0,5.0,0.0
+574,Parma,Maxime,player_459897,Busi,2,9,131,21,4.4,0.0,5.0,0.29
+575,Parma,Giuseppe,player_462431,Carriero,3,1,131,31,-,0.0,5.0,0.0
+576,Parma,Lautaro,player_462487,Valenti,2,3,131,20,4.8,0.0,5.0,0.12
+577,Atalanta,Marco,player_462537,Carnesecchi,1,1,456,10,-,0.0,5.0,0.0
+578,Torino,Jacopo,player_463427,Segre,3,5,135,31,5.1,0.0,5.0,0.0
+579,Crotone,Silvestre,player_463901,Tripoli,4,1,744,40,-,0.0,5.0,0.0
+580,Parma,Andrea,player_465614,Adorante,4,2,131,40,4,0.0,5.0,0.0
+581,Inter,Filip,player_465626,Stankovic,1,2,127,10,-,0.0,5.0,0.0
+582,Inter,Gaetano Pio,player_465628,Oristanio,4,1,127,40,-,0.0,5.0,0.0
+583,Inter,Nicholas,player_465649,Bonfanti,4,1,127,40,-,0.0,5.0,0.0
+584,Inter,Riccardo Boscolo,player_465658,Chio,3,1,127,31,-,0.0,5.0,0.0
+585,Roma,Ruben,player_465697,Providence,3,1,121,32,-,0.0,5.0,0.0
+586,Lazio,,player_465701,Raul Moro,4,2,129,40,-,0.0,5.0,0.0
+587,Napoli,Antonio Pio,player_465737,Daniele,1,1,459,10,-,0.0,5.0,0.0
+588,Milan,Pierre,player_466041,Kalulu Kyatengwa,2,10,120,21,5.1,1.0,5.0,0.18
+589,Roma,Riccardo,player_466075,Calafiori,2,3,121,21,4.5,0.0,5.0,0.0
+590,Lazio,,player_466102,Gabriel Pereira Valadares,3,1,129,31,-,0.0,5.0,0.0
+591,Torino,Raffaele,player_466123,Spina,2,1,135,20,-,0.0,5.0,0.0
+592,Juventus,Alessandro Pio,player_466126,Riccio,2,1,128,20,-,0.0,5.0,0.0
+593,Roma,Pietro,player_466135,Boer,1,1,121,10,-,0.0,5.0,0.0
+594,Roma,Luca,player_466142,Chierico,3,1,121,31,-,0.0,5.0,0.0
+595,Roma,Nicola,player_466147,Zalewski,3,1,121,32,-,0.0,5.0,0.0
+596,Roma,Edoardo,player_466148,Bove,3,1,121,31,-,0.0,5.0,0.0
+597,Verona,Matteo,player_466149,Cancellieri,4,1,126,40,-,0.0,5.0,0.0
+598,Roma,Tommaso,player_466150,Milanese,3,1,121,32,-,0.0,5.0,0.0
+599,Roma,Mory,player_466151,Bamba,4,1,121,40,-,0.0,5.0,0.0
+600,Parma,Drissa,player_467101,Camara,3,1,131,32,-,0.0,5.0,0.0
+601,Verona,Bruno,player_467138,Amione,2,2,126,20,-,0.0,5.0,0.0
+602,Crotone,Luis,player_467205,Rojas,3,4,744,32,4.8,0.0,5.0,0.0
+603,Spezia,Salvador,player_467208,Ferrer,2,9,2036,21,5.0,0.0,5.0,0.41000000000000003
+604,Sampdoria,Lorenzo,player_467209,Avogadri,1,1,603,10,-,0.0,5.0,0.0
+605,Lazio,,player_468220,Gabriel Pereira,1,1,129,10,-,0.0,5.0,0.0
+606,Spezia,Lucien,player_468426,Agoume,3,4,2036,31,5.4,0.0,5.0,0.29
+607,Sampdoria,,player_470329,Kaique Rocha,2,1,603,21,-,0.0,5.0,0.0
+608,Verona,Ebrima,player_470501,Colley,3,9,126,32,4.5,0.0,5.0,0.18
+609,Lazio,Marco,player_471435,Alia,1,3,129,10,-,0.0,5.0,0.0
+610,Bologna,Aaron,player_472713,Hickey,2,7,123,21,4.4,0.0,5.0,0.53
+611,Inter,Martín,player_474843,Satriano,4,1,127,40,-,0.0,5.0,0.0
+612,Parma,Botond,player_477121,Balogh,2,1,131,20,4.0,0.0,5.0,0.06
+613,Roma,Ebrima,player_477632,Darboe,3,1,121,31,-,0.0,5.0,0.0
+614,Roma,Felipe Estrella,player_477633,Galeazzi,4,1,121,40,-,0.0,5.0,0.0
+615,Roma,Filippo,player_477636,Tripi,2,1,121,20,-,0.0,5.0,0.0
+616,Torino,Wilfried Stephane,player_478960,Singo,2,9,135,20,5.1,1.0,5.0,0.59
+617,Udinese,Thomas,player_480489,Battistella,3,1,136,31,-,0.0,5.0,0.0
+618,Milan,Andreas,player_481509,Jungdal,1,1,120,10,-,0.0,5.0,0.0
+619,Lazio,Angelo,player_482120,Ndrecka,2,1,129,21,-,0.0,5.0,0.0
+620,Cagliari,,player_482301,Zito,4,2,124,40,-,0.0,5.0,0.0
+621,Parma,Redi,player_482545,Kasa,3,1,131,32,-,0.0,5.0,0.0
+622,Verona,Matteo,player_483988,Lovato,2,9,126,20,4.8,0.0,5.0,0.53
+623,Benevento,Giuseppe,player_484456,Di Serio,4,4,2000,40,4.6,0.0,5.0,0.0
+624,Benevento,Christian,player_484457,Pastina,2,2,2000,20,5,0.0,5.0,0.0
+625,Lazio,Alessio,player_484471,Furlanetto,1,3,129,10,-,0.0,5.0,0.0
+626,Lazio,Alessandro,player_485254,Cerbara,3,1,129,32,-,0.0,5.0,0.0
+627,Verona,Iyenoma,player_487053,Destiny Udogie,2,4,126,21,4.8,0.0,5.0,0.0
+628,Genoa,Darian,player_487476,Males,4,1,990,40,-,0.0,5.0,0.0
+629,Atalanta,Simone,player_487989,Panada,3,1,456,31,-,0.0,5.0,0.0
+630,Fiorentina,Christian,player_487991,Dalle Mura,2,1,125,20,-,0.0,5.0,0.0
+631,Atalanta,Matteo,player_487992,Ruggeri,2,6,456,21,4.8,0.0,5.0,0.06
+632,Inter,Niccolò,player_487994,Squizzato,3,1,127,31,-,0.0,5.0,0.0
+633,Inter,,player_488159,Lorenzo Moretti,2,1,127,20,-,0.0,5.0,0.0
+634,Milan,Daniel,player_488253,Maldini,3,5,120,32,4.5,0.0,5.0,0.0
+635,Milan,Andrea,player_488254,Capone,4,1,120,40,-,0.0,5.0,0.0
+636,Milan,Antonio,player_488255,Mionic,3,1,120,31,-,0.0,5.0,0.0
+637,Torino,Samuele,player_488443,Vianni,4,1,135,40,-,0.0,5.0,0.0
+638,Torino,Krisztofer,player_489245,Horváth,3,1,135,32,-,0.0,5.0,0.0
+639,Crotone,Massimiliano,player_489371,Mignogna,2,1,744,20,-,0.0,5.0,0.0
+640,Genoa,Giuseppe,player_490747,Caso,4,1,990,40,5,0.0,5.0,0.0
+641,Inter,David,player_492860,Wieser,3,1,127,31,-,0.0,5.0,0.0
+642,Inter,Edoardo,player_492864,Sottini,2,1,127,20,-,0.0,5.0,0.0
+643,Inter,Fabio,player_492865,Cortinovis,2,1,127,20,-,0.0,5.0,0.0
+644,Inter,Franco Orlando,player_492866,Vezzoni,3,1,127,31,-,0.0,5.0,0.0
+645,Torino,Rosario,player_492870,Cancello,4,1,135,40,-,0.0,5.0,0.0
+646,Juventus,Cosimo Marco,player_493112,Da Graca,4,1,128,40,-,0.0,5.0,0.0
+647,Juventus,Giovanni Gabriele,player_493116,Garofani,1,1,128,10,-,0.0,5.0,0.0
+648,Juventus,Radu,player_493125,Dragusin,2,2,128,20,4.5,0.0,5.0,0.0
+649,Atalanta,Amad,player_493250,Diallo,3,4,456,32,4.5,0.0,5.0,0.0
+650,Verona,Lorenzo,player_493271,Bertini,4,1,126,40,-,0.0,5.0,0.0
+651,Crotone,Sergio,player_494251,Yakubiv,2,1,744,20,-,0.0,5.0,0.0
+652,Parma,Filippo,player_495227,Rinaldi,1,1,131,10,-,0.0,5.0,0.0
+653,Sassuolo,Stefano,player_495527,Piccinini,2,1,2182,20,-,0.0,5.0,0.0
+654,Torino,Denis,player_496275,Portanova,2,1,135,20,-,0.0,5.0,0.0
+655,Torino,Altin,player_496285,Kryeziu,3,1,135,31,-,0.0,5.0,0.0
+656,Genoa,Denilho,player_496855,Cleonise,4,1,990,40,-,0.0,5.0,0.0
+657,Benevento,Igor,player_497520,Lucatelli,1,3,2000,10,-,0.0,5.0,0.0
+658,Crotone,Francesco,player_497521,D'Alterio,1,1,744,10,-,0.0,5.0,0.0
+659,Udinese,Martin,player_497953,Palumbo,3,2,136,31,4.0,0.0,5.0,0.06
+660,Genoa,Steeve-Mike,player_499164,Eboa Ebongue,3,3,990,31,5,0.0,5.0,0.0
+661,Sassuolo,Brian,player_499194,Oddei,4,1,2182,40,5,0.0,5.0,0.0
+662,Parma,Gabriele,player_499440,Artistico,4,1,131,40,-,0.0,5.0,0.0
+663,Cagliari,Andrea,player_501395,Carboni,2,9,124,20,4.8,0.0,5.0,0.24
+664,Bologna,Dion,player_504761,Ruffo Luci,3,1,123,31,-,0.0,5.0,0.0
+665,Inter,Franco Ezequiel,player_505185,Carboni,4,1,127,40,-,0.0,5.0,0.0
+666,Milan,Luca,player_508492,Stanga,2,1,120,21,-,0.0,5.0,0.0
+667,Milan,Giacomo,player_508493,Olzer,3,1,120,32,-,0.0,5.0,0.0
+668,Torino,Christian,player_508616,Celesia,2,1,135,20,-,0.0,5.0,0.0
+669,Cagliari,Salvatore,player_508621,Boccia,2,1,124,20,-,0.0,5.0,0.0
+670,Verona,Bernardo,player_508624,Calabrese,2,1,126,20,-,0.0,5.0,0.0
+671,Verona,Filippo,player_508625,Terracciano,3,1,126,31,-,0.0,5.0,0.0
+672,Parma,,player_508627,Reinaldo Radu,2,1,131,21,-,0.0,5.0,0.0
+673,Sassuolo,Alessandro,player_508630,Mercati,3,1,2182,31,-,0.0,5.0,0.0
+674,Milan,Emil,player_508829,Roback,4,1,120,40,-,0.0,5.0,0.0
+675,Torino,Giovanni,player_508846,Aceto,2,1,135,20,-,0.0,5.0,0.0
+676,Verona,Eugenio,player_508950,Bracelli,2,1,126,20,-,0.0,5.0,0.0
+677,Verona,Christian,player_509044,Pierobon,3,1,126,31,-,0.0,5.0,0.0
+678,Verona,Philip,player_509269,Yeboah Ankrah,4,2,126,40,4.5,0.0,5.0,0.0
+679,Crotone,Antonio,player_510619,Ranieri,3,1,744,32,-,0.0,5.0,0.0
+680,Roma,Amir,player_511181,Feratovic,2,1,121,20,-,0.0,5.0,0.0
+681,Crotone,Gian Marco,player_512325,Crespi,1,3,744,10,-,0.0,5.0,0.0
+682,Cagliari,Bruno,player_514263,Conti,3,1,124,32,-,0.0,5.0,0.0
+683,Roma,Filippo,player_514270,Berti,1,1,121,10,-,0.0,5.0,0.0
+684,Sassuolo,Samuele,player_514798,Vitale,1,1,2182,10,-,0.0,5.0,0.0
+685,Verona,Matei,player_515579,Ilie,2,1,126,20,-,0.0,5.0,0.0
+686,Roma,Riccardo,player_515593,Ciervo,3,1,121,32,-,0.0,5.0,0.0
+687,Roma,Lamine,player_515598,Tall,4,1,121,40,-,0.0,5.0,0.0
+688,Roma,Javier,player_515601,Vicario,2,1,121,20,-,0.0,5.0,0.0
+689,Genoa,Giuseppe,player_515606,Agostino,1,1,990,10,-,0.0,5.0,0.0
+690,Milan,Leonardo,player_515610,Moleri,1,1,120,10,-,0.0,5.0,0.0
+691,Milan,Riccardo,player_515612,Oddi,2,1,120,21,-,0.0,5.0,0.0
+692,Milan,Marco,player_515613,Frigerio,3,1,120,31,-,0.0,5.0,0.0
+693,Milan,Alessio,player_515614,Brambilla,3,1,120,31,-,0.0,5.0,0.0
+694,Crotone,Andrea,player_515617,Amerise,2,1,744,20,-,0.0,5.0,0.0
+695,Genoa,Claudiu,player_515618,Micovschi,3,2,990,32,-,0.0,5.0,0.0
+696,Benevento,Davide,player_516073,Masella,3,2,2000,32,-,0.0,5.0,0.0
+697,Fiorentina,Eduard,player_516771,Dutu,2,1,125,20,-,0.0,5.0,0.0
+698,Spezia,Ayoub,player_517545,Afi,4,1,2036,40,-,0.0,5.0,0.0
+699,Lazio,Szymon,player_518129,Czyz,3,1,129,32,-,0.0,5.0,0.0
+700,Milan,Mattia,player_518146,Paloschi,1,1,120,10,-,0.0,5.0,0.0
+701,Bologna,Simone,player_518537,Rabbi,4,3,123,40,4.5,0.0,5.0,0.0
+702,Parma,Abdoul Hate,player_518590,Bane,2,1,131,20,-,0.0,5.0,0.0
+703,Lazio,Marco,player_518924,Bertini,3,1,129,31,-,0.0,5.0,0.0
+704,Lazio,Damiano,player_518925,Franco,2,1,129,20,-,0.0,5.0,0.0
+705,Lazio,Marzio,player_518926,Pica,2,1,129,20,-,0.0,5.0,0.0
+706,Parma,Martin,player_519264,Turk,1,1,131,10,-,0.0,5.0,0.0
+707,Roma,Suf,player_519337,Podgoreanu,3,1,121,32,-,0.0,5.0,0.0
+708,Sassuolo,Raul,player_519350,Steau,3,1,2182,31,-,0.0,5.0,0.0
+709,Bologna,Alex,player_519383,Arnofoli,2,1,123,21,-,0.0,5.0,0.0
+710,Bologna,Matias,player_519384,Rocchi,3,1,123,32,-,0.0,5.0,0.0
+711,Atalanta,Giorgio,player_519394,Scalvini,2,1,456,20,-,0.0,5.0,0.0
+712,Bologna,Omar,player_519872,Khailoti,2,2,123,20,5,0.0,5.0,0.0
+713,Bologna,Mattia,player_519873,Pagliuca,4,2,123,40,5,0.0,5.0,0.0
+714,Spezia,Stefano,player_521145,Vannucchi,1,1,2036,10,-,0.0,5.0,0.0
+715,Sassuolo,Gioele,player_521146,Zacchi,1,1,2182,10,-,0.0,5.0,0.0
+716,Cagliari,Francesco,player_521424,Cusumano,2,1,124,20,-,0.0,5.0,0.0
+717,Verona,Andrea,player_521579,Gresele,2,1,126,20,-,0.0,5.0,0.0
+718,Crotone,Mattia,player_521631,Timmoneri,3,1,744,31,-,0.0,5.0,0.0
+719,Cagliari,Gianluca,player_521635,Contini,4,1,124,40,-,0.0,5.0,0.0
+720,Fiorentina,Dimo,player_522117,Krastev,3,1,125,31,-,0.0,5.0,0.0
+721,Udinese,Matteo,player_523101,Carnelos,1,1,136,10,-,0.0,5.0,0.0
+722,Udinese,Alessandro,player_523102,Rigo,3,1,136,31,-,0.0,5.0,0.0
+723,Lazio,Enzo,player_523107,Adeagbo,2,1,129,20,-,0.0,5.0,0.0

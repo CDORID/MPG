@@ -1,711 +1,665 @@
 ,club,firstname,id,lastname,position,quotation,teamId,ultraPosition,avgRate,sumGoals,currentChampionship,percentageStarter
-0,Man. United,Lee,player_6744,Grant,1,1,1,10,-,0.0,2.0,0.0
-1,Sheffield,Phil,player_7645,Jagielka,2,5,49,20,-,0.0,2.0,0.0
-2,Leicester,Eldin,player_11974,Jakupovic,1,1,13,10,-,0.0,2.0,0.0
-3,Leicester,Wes,player_15033,Morgan,2,8,13,20,5,0.0,2.0,0.0
-4,Liverpool,James,player_15157,Milner,3,11,14,31,5.3,0.0,2.0,0.0
-5,Tottenham,Joe,player_15749,Hart,1,3,6,10,-,0.0,2.0,0.0
-6,Man. City,Scott,player_17601,Carson,1,1,43,10,-,0.0,2.0,0.0
-7,Leicester,Kasper,player_17745,Schmeichel,1,24,13,10,5.8,0.0,2.0,0.75
-8,Burnley,James,player_17761,Tarkowski,2,22,90,20,-,0.0,2.0,0.0
-9,Burnley,Phil,player_17997,Bardsley,2,9,90,21,4.0,0.0,2.0,0.5
-10,West Ham,Mark,player_18073,Noble,3,14,21,31,4.5,0.0,2.0,0.25
-11,Sheffield,Billy,player_18867,Sharp,4,7,49,40,4.3,0.0,2.0,0.25
-12,West Ham,Robert,player_18987,Snodgrass,3,16,21,32,-,0.0,2.0,0.0
-13,Crystal Palace,Scott,player_19188,Dann,2,9,31,20,6.0,0.0,2.0,0.25
-14,West Ham,David,player_19194,Martin,1,1,21,10,-,0.0,2.0,0.0
-15,Wolverhampton,John,player_19236,Ruddy,1,7,39,10,-,0.0,2.0,0.0
-16,Crystal Palace,Gary,player_19419,Cahill,2,11,31,20,-,0.0,2.0,0.0
-17,Wolverhampton,,player_19624,João Moutinho,3,17,39,32,5.0,0.0,2.0,0.75
-18,Crystal Palace,Wayne,player_20066,Hennessey,1,7,31,10,-,0.0,2.0,0.0
-19,Chelsea,Willy,player_20310,Caballero,1,7,8,10,4.0,0.0,2.0,0.25
-20,Southampton,Shane,player_20452,Long,4,9,20,40,4.5,0.0,2.0,0.0
-21,Everton,Theo,player_20467,Walcott,4,7,11,40,-,0.0,2.0,0.0
-22,Aston Villa,Tom,player_21205,Heaton,1,14,7,10,-,0.0,2.0,0.0
-23,Sheffield,David,player_27436,McGoldrick,4,8,49,40,4.2,0.0,2.0,0.5
-24,Man. City,,player_27789,Fernandinho,2,12,43,20,4.5,0.0,2.0,0.5
-25,Leeds,,player_28690,Pablo Hernández,3,15,2,32,4.0,0.0,2.0,0.25
-26,West Ham,Darren,player_32259,Randolph,1,7,21,10,-,0.0,2.0,0.0
-27,Tottenham,Gareth,player_36903,Bale,4,13,6,40,-,0.0,2.0,0.0
-28,West Ham,Lukasz,player_37096,Fabianski,1,16,21,10,4.7,0.0,2.0,0.75
-29,Aston Villa,,player_37339,Ahmed El Mohamady,2,7,7,21,-,0.0,2.0,0.0
-30,Leicester,Christian,player_37402,Fuchs,2,7,13,21,4.5,0.0,2.0,0.0
-31,Man. City,Sergio,player_37572,Agüero,4,21,43,40,-,0.0,2.0,0.0
-32,Arsenal,Mesut,player_37605,Özil,3,7,3,32,-,0.0,2.0,0.0
-33,Leicester,Jonny,player_37642,Evans,2,25,13,20,5.5,0.0,2.0,0.25
-34,Tottenham,Hugo,player_37915,Lloris,1,25,6,10,5.2,0.0,2.0,0.75
-35,Tottenham,Danny,player_38290,Rose,2,9,6,21,-,0.0,2.0,0.0
-36,Wolverhampton,,player_38533,Rui Patrício,1,19,39,10,5.0,0.0,2.0,0.75
-37,Leeds,Gaetano,player_38588,Berardi,2,1,2,21,-,0.0,2.0,0.0
-38,West Bromwich,Lee,player_38716,Peltier,2,8,35,21,-,0.0,2.0,0.0
-39,Brighton,Adam,player_39155,Lallana,3,12,36,32,4.5,0.0,2.0,0.5
-40,Arsenal,,player_39476,Sokratis,2,10,3,20,-,0.0,2.0,0.0
-41,Burnley,Erik,player_39487,Pieters,2,9,90,21,3,0.0,2.0,0.0
-42,Leeds,,player_39790,Kiko Casilla,1,15,2,10,-,0.0,2.0,0.0
-43,Newcastle,Andy,player_40142,Carroll,4,6,4,40,4.7,0.0,2.0,0.5
-44,Burnley,Jack,player_40145,Cork,3,14,90,31,-,0.0,2.0,0.0
-45,Southampton,Ryan,player_40146,Bertrand,2,11,20,21,4.2,0.0,2.0,0.75
-46,Southampton,Fraser,player_40383,Forster,1,3,20,10,-,0.0,2.0,0.0
-47,Sheffield,Chris,player_40386,Basham,2,14,49,20,5.0,0.0,2.0,0.75
+0,Man. United,Lee,player_6744,Grant,1,3,1,10,-,0.0,2.0,0.0
+1,Sheffield,Phil,player_7645,Jagielka,2,4,49,20,4.0,0.0,2.0,0.06
+2,West Bromwich,Andy,player_11948,Lonergan,1,1,35,10,-,0.0,2.0,0.0
+3,Leicester,Eldin,player_11974,Jakupovic,1,1,13,10,-,0.0,2.0,0.0
+4,Leicester,Wes,player_15033,Morgan,2,6,13,20,5,0.0,2.0,0.0
+5,Liverpool,James,player_15157,Milner,3,7,14,31,5.4,0.0,2.0,0.17
+6,Tottenham,Joe,player_15749,Hart,1,7,6,10,-,0.0,2.0,0.0
+7,Man. City,Scott,player_17601,Carson,1,1,43,10,-,0.0,2.0,0.0
+8,Leicester,Kasper,player_17745,Schmeichel,1,27,13,10,5.6,0.0,2.0,0.9400000000000001
+9,Burnley,James,player_17761,Tarkowski,2,14,90,20,5.1,0.0,2.0,0.78
+10,Burnley,Phil,player_17997,Bardsley,2,3,90,21,3.7,0.0,2.0,0.17
+11,West Ham,Mark,player_18073,Noble,3,7,21,31,4.7,0.0,2.0,0.17
+12,Sheffield,Billy,player_18867,Sharp,4,4,49,40,4.5,2.0,2.0,0.11
+13,West Bromwich,Robert,player_18987,Snodgrass,3,6,35,32,5,0.0,2.0,0.0
+14,Crystal Palace,Scott,player_19188,Dann,2,8,31,20,4.8,1.0,2.0,0.44
+15,West Ham,David,player_19194,Martin,1,1,21,10,-,0.0,2.0,0.0
+16,Wolverhampton,John,player_19236,Ruddy,1,7,39,10,-,0.0,2.0,0.0
+17,Crystal Palace,Gary,player_19419,Cahill,2,7,31,20,4.4,0.0,2.0,0.28
+18,Wolverhampton,,player_19624,João Moutinho,3,9,39,32,5.1,0.0,2.0,0.72
+19,Crystal Palace,Wayne,player_20066,Hennessey,1,3,31,10,-,0.0,2.0,0.0
+20,Chelsea,Willy,player_20310,Caballero,1,5,8,10,4.0,0.0,2.0,0.06
+21,Southampton,Shane,player_20452,Long,4,6,20,40,4.5,0.0,2.0,0.06
+22,Southampton,Theo,player_20467,Walcott,4,15,20,40,5.3,2.0,2.0,0.67
+23,Aston Villa,Tom,player_21205,Heaton,1,3,7,10,-,0.0,2.0,0.0
+24,Sheffield,David,player_27436,McGoldrick,4,13,49,40,4.8,4.0,2.0,0.67
+25,Man. City,,player_27789,Fernandinho,2,7,43,20,4.9,0.0,2.0,0.17
+26,Leeds,,player_28690,Pablo Hernández,3,7,2,32,4.8,0.0,2.0,0.11
+27,West Ham,Darren,player_32259,Randolph,1,7,21,10,6.0,0.0,2.0,0.06
+28,Tottenham,Gareth,player_36903,Bale,4,8,6,40,5.0,1.0,2.0,0.06
+29,West Ham,Lukasz,player_37096,Fabianski,1,16,21,10,5.3,0.0,2.0,0.89
+30,Aston Villa,,player_37339,Ahmed El Mohamady,2,7,7,21,5.2,0.0,2.0,0.06
+31,Leicester,Christian,player_37402,Fuchs,2,7,13,21,4.7,0.0,2.0,0.44
+32,Man. City,Sergio,player_37572,Agüero,4,9,43,40,4.4,0.0,2.0,0.11
+33,Arsenal,Mesut,player_37605,Özil,3,3,3,32,-,0.0,2.0,0.0
+34,Leicester,Jonny,player_37642,Evans,2,13,13,20,5.0,0.0,2.0,0.72
+35,Tottenham,Hugo,player_37915,Lloris,1,25,6,10,5.6,0.0,2.0,0.9400000000000001
+36,Tottenham,Danny,player_38290,Rose,2,3,6,21,-,0.0,2.0,0.0
+37,Wolverhampton,,player_38533,Rui Patrício,1,16,39,10,5,0.0,2.0,1.0
+38,West Bromwich,Lee,player_38716,Peltier,2,3,35,21,4.0,0.0,2.0,0.06
+39,Brighton,Adam,player_39155,Lallana,3,11,36,32,4.9,0.0,2.0,0.56
+40,Arsenal,,player_39476,Sokratis,2,3,3,20,-,0.0,2.0,0.0
+41,Burnley,Erik,player_39487,Pieters,2,8,90,21,4.6,0.0,2.0,0.22
+42,Leeds,,player_39790,Kiko Casilla,1,7,2,10,-,0.0,2.0,0.0
+43,Newcastle,Andy,player_40142,Carroll,4,6,4,40,4.8,1.0,2.0,0.11
+44,Burnley,Jack,player_40145,Cork,3,3,90,31,-,0.0,2.0,0.0
+45,Southampton,Ryan,player_40146,Bertrand,2,9,20,21,4.8,0.0,2.0,0.89
+46,Southampton,Fraser,player_40383,Forster,1,7,20,10,6.0,0.0,2.0,0.06
+47,Sheffield,Chris,player_40386,Basham,2,11,49,20,4.6,0.0,2.0,1.0
 48,Fulham,,player_40559,Fabri,1,1,54,10,-,0.0,2.0,0.0
 49,Aston Villa,Henri,player_40564,Lansbury,3,1,7,32,-,0.0,2.0,0.0
-50,West Ham,Angelo,player_40669,Ogbonna,2,16,21,20,5.0,0.0,2.0,0.75
-51,Crystal Palace,Mamadou,player_40784,Sakho,2,6,31,20,5.3,0.0,2.0,0.5
-52,Crystal Palace,Vicente,player_40836,Guaita,1,17,31,10,6.3,0.0,2.0,0.75
-53,Burnley,Dale,player_40845,Stephens,3,12,90,31,5.5,0.0,2.0,0.25
-54,West Bromwich,Branislav,player_41135,Ivanovic,2,16,35,20,-,0.0,2.0,0.0
-55,Arsenal,,player_41270,David Luiz,2,13,3,20,4.3,0.0,2.0,0.25
-56,Chelsea,César,player_41328,Azpilicueta,2,18,8,21,5,0.0,2.0,0.0
-57,Burnley,Kevin,player_41674,Long,2,8,90,20,4.0,0.0,2.0,0.5
-58,Wolverhampton,Ryan,player_41727,Bennett,2,7,39,20,-,0.0,2.0,0.0
-59,Liverpool,Georginio,player_41733,Wijnaldum,3,22,14,32,5.3,0.0,2.0,0.75
-60,Everton,Fabian,player_41823,Delph,3,7,11,31,-,0.0,2.0,0.0
-61,West Bromwich,Kieran,player_42427,Gibbs,2,13,35,21,3.8,0.0,2.0,0.5
-62,Man. United,Sergio,player_42899,Romero,1,7,1,10,-,0.0,2.0,0.0
-63,Newcastle,Henri,player_43521,Saivet,3,3,4,32,-,0.0,2.0,0.0
-64,Man. United,Juan,player_43670,Mata,3,7,1,32,-,0.0,2.0,0.0
-65,Chelsea,Olivier,player_44346,Giroud,4,17,8,40,4.5,0.0,2.0,0.0
-66,Burnley,Jay,player_44683,Rodriguez,4,18,90,40,3.5,0.0,2.0,0.25
-67,Burnley,Ashley,player_44699,Barnes,4,9,90,40,-,0.0,2.0,0.0
-68,Tottenham,Moussa,player_45268,Sissoko,3,16,6,31,4.5,0.0,2.0,0.0
-69,Leicester,,player_46483,Adrien Silva,3,4,13,31,-,0.0,2.0,0.0
-70,Sheffield,John,player_47247,Fleck,3,17,49,32,4.5,0.0,2.0,0.5
-71,Aston Villa,Neil,player_47390,Taylor,2,6,7,21,-,0.0,2.0,0.0
-72,Arsenal,,player_47431,Willian,4,14,3,40,5.5,0.0,2.0,0.75
-73,West Ham,Winston,player_48717,Reid,2,1,21,20,-,0.0,2.0,0.0
-74,Chelsea,Victor,player_49013,Moses,3,1,8,32,-,0.0,2.0,0.0
-75,Sheffield,Luke,player_49083,Freeman,3,3,49,32,-,0.0,2.0,0.0
-76,Brighton,Jason,player_49262,Steele,1,1,36,10,-,0.0,2.0,0.0
-77,Sheffield,Jack,player_49384,Rodwell,3,5,49,31,-,0.0,2.0,0.0
-78,Crystal Palace,James,player_49413,Tomkins,2,10,31,20,-,0.0,2.0,0.0
-79,West Bromwich,Hal,player_49440,Robson-Kanu,4,11,35,40,4.8,0.0,2.0,0.0
-80,West Bromwich,Jake,player_49944,Livermore,3,12,35,31,4.0,0.0,2.0,0.75
-81,West Bromwich,Kamil,player_49957,Grosicki,3,8,35,32,-,0.0,2.0,0.0
-82,West Bromwich,David,player_50093,Button,1,7,35,10,-,0.0,2.0,0.0
-83,West Bromwich,Matt,player_50229,Phillips,3,12,35,32,5,0.0,2.0,0.0
-84,Newcastle,Jonjo,player_50232,Shelvey,3,20,4,31,4.7,0.0,2.0,0.75
-85,Crystal Palace,James,player_50471,McArthur,3,13,31,31,6.0,0.0,2.0,0.75
-86,Crystal Palace,James,player_50472,McCarthy,3,7,31,31,5.3,0.0,2.0,0.75
-87,Chelsea,,player_51090,Thiago Silva,2,12,8,20,3.0,0.0,2.0,0.25
-88,Burnley,Ben,player_51927,Mee,2,15,90,20,-,0.0,2.0,0.0
-89,Leicester,Marc,player_51938,Albrighton,3,8,13,32,5,0.0,2.0,0.0
-90,Man. United,David,player_51940,de Gea,1,18,1,10,4.8,0.0,2.0,0.5
-91,West Ham,Jack,player_54102,Wilshere,3,5,21,32,-,0.0,2.0,0.0
-92,Arsenal,Pierre-Emerick,player_54694,Aubameyang,4,41,3,40,5.7,1.0,2.0,0.75
-93,Crystal Palace,Christian,player_54861,Benteke,4,7,31,40,4.5,0.0,2.0,0.0
-94,Crystal Palace,Cheikhou,player_55037,Kouyaté,3,10,31,31,5.8,1.0,2.0,0.75
-95,Fulham,Kevin,player_55038,McDonald,3,5,54,31,-,0.0,2.0,0.0
-96,Everton,Gylfi,player_55422,Sigurdsson,3,16,11,32,5.2,0.0,2.0,0.0
-97,Everton,Yannick,player_55452,Bolasie,4,1,11,40,-,0.0,2.0,0.0
-98,West Ham,Aaron,player_55459,Cresswell,2,17,21,21,5.3,0.0,2.0,0.75
-99,Crystal Palace,Joel,player_55494,Ward,2,10,31,21,4.8,0.0,2.0,0.75
-100,Tottenham,Toby,player_55605,Alderweireld,2,15,6,20,4.5,0.0,2.0,0.25
-101,Man. United,Chris,player_55909,Smalling,2,9,1,20,-,0.0,2.0,0.0
-102,Leeds,Liam,player_55914,Cooper,2,13,2,20,5.0,0.0,2.0,0.5
-103,West Ham,Andriy,player_56377,Yarmolenko,4,9,21,40,4.5,0.0,2.0,0.0
-104,Liverpool,Jordan,player_56979,Henderson,3,14,14,31,4.5,0.0,2.0,0.5
-105,Newcastle,Matt,player_56983,Ritchie,2,12,4,21,5.0,0.0,2.0,0.25
-106,Newcastle,Federico,player_57145,Fernández,2,15,4,20,5.2,0.0,2.0,0.75
-107,Man. City,Nicolás,player_57410,Otamendi,2,12,43,20,-,0.0,2.0,0.0
-108,Everton,Jonas,player_57513,Lössl,1,3,11,10,-,0.0,2.0,0.0
-109,West Ham,Michail,player_57531,Antonio,4,20,21,40,5.7,1.0,2.0,0.75
-110,Leeds,Barry,player_57913,Douglas,2,5,2,21,-,0.0,2.0,0.0
-111,Southampton,Alex,player_58376,McCarthy,1,17,20,10,4.7,0.0,2.0,0.75
-112,Man. United,Odion,player_58498,Ighalo,4,3,1,40,4,0.0,2.0,0.0
-113,Man. City,Kyle,player_58621,Walker,2,17,43,21,4.0,0.0,2.0,0.5
-114,Crystal Palace,Martin,player_58786,Kelly,2,8,31,21,-,0.0,2.0,0.0
-115,Arsenal,,player_58822,Cédric Soares,2,9,3,21,-,0.0,2.0,0.0
-116,Newcastle,Ciaran,player_58845,Clark,2,6,4,20,-,0.0,2.0,0.0
-117,Man. United,Marcos,player_58893,Rojo,2,3,1,20,-,0.0,2.0,0.0
-118,Crystal Palace,Connor,player_59125,Wickham,4,5,31,40,-,0.0,2.0,0.0
-119,Newcastle,Karl,player_59735,Darlow,1,7,4,10,6.3,0.0,2.0,0.75
-120,Man. City,Ilkay,player_59859,Gündogan,3,16,43,31,-,0.0,2.0,0.0
-121,West Bromwich,Kyle,player_59940,Bartley,2,11,35,20,4.3,1.0,2.0,0.75
-122,Everton,Séamus,player_59949,Coleman,2,10,11,21,5.5,0.0,2.0,0.75
-123,Arsenal,Alexandre,player_59966,Lacazette,4,25,3,40,6.2,3.0,2.0,0.75
-124,Everton,James,player_60025,Rodríguez,3,15,11,32,6.5,1.0,2.0,0.75
-125,Crystal Palace,Andros,player_60252,Townsend,3,9,31,32,7.0,1.0,2.0,0.75
-126,Brighton,Pascal,player_60307,Groß,3,13,36,32,5,0.0,2.0,0.0
-127,Burnley,Ashley,player_60551,Westwood,3,17,90,31,4.5,0.0,2.0,0.5
-128,Burnley,Jóhann,player_60586,Gudmundsson,3,6,90,32,-,0.0,2.0,0.0
-129,Burnley,Chris,player_60689,Wood,4,23,90,40,5.0,1.0,2.0,0.5
-130,Liverpool,,player_60706,Adrián,1,7,14,10,-,0.0,2.0,0.0
-131,Liverpool,Joel,player_60914,Matip,2,9,14,20,5,0.0,2.0,0.0
-132,Man. City,Kevin,player_61366,De Bruyne,3,39,43,32,6.0,1.0,2.0,0.5
-133,Liverpool,,player_61558,Thiago,3,14,14,31,4,0.0,2.0,0.0
-134,West Bromwich,Romaine,player_61600,Sawyers,3,11,35,32,4.2,0.0,2.0,0.75
-135,Chelsea,Daniel,player_61603,Drinkwater,3,8,8,31,-,0.0,2.0,0.0
-136,Leicester,Matty,player_61604,James,3,1,13,31,-,0.0,2.0,0.0
-137,Fulham,Maxime,player_61739,Le Marchand,2,5,54,20,5,0.0,2.0,0.0
-138,Fulham,Stefan,player_61916,Johansen,3,5,54,31,-,0.0,2.0,0.0
-139,Man. United,Nemanja,player_62398,Matic,3,10,1,31,6.0,0.0,2.0,0.25
-140,Tottenham,Erik,player_62974,Lamela,3,9,6,32,5.3,0.0,2.0,0.0
-141,Sheffield,Enda,player_63426,Stevens,2,16,49,21,4.7,0.0,2.0,0.75
-142,Brighton,Davy,player_66242,Pröpper,3,14,36,31,-,0.0,2.0,0.0
-143,Leeds,Luke,player_66588,Ayling,2,12,2,21,5.0,0.0,2.0,0.75
-144,Everton,Cenk,player_66838,Tosun,4,6,11,40,-,0.0,2.0,0.0
-145,Crystal Palace,Luka,player_66975,Milivojevic,3,15,31,31,5.5,0.0,2.0,0.0
-146,Newcastle,Martin,player_67089,Dubravka,1,16,4,10,-,0.0,2.0,0.0
-147,Wolverhampton,,player_67184,Roderick Miranda,2,5,39,20,-,0.0,2.0,0.0
-148,Liverpool,Xherdan,player_68312,Shaqiri,4,3,14,40,-,0.0,2.0,0.0
-149,Burnley,Matthew,player_68983,Lowton,2,9,90,21,-,0.0,2.0,0.0
-150,Arsenal,Shkodran,player_69140,Mustafi,2,10,3,20,-,0.0,2.0,0.0
-151,Leeds,Mateusz,player_72222,Klich,3,13,2,32,5.8,2.0,2.0,0.75
-152,Fulham,Denis,player_72681,Odoi,2,10,54,21,3.5,0.0,2.0,0.75
-153,Man. United,Paul,player_74208,Pogba,3,18,1,31,3.8,0.0,2.0,0.5
-154,Crystal Palace,Patrick,player_74230,van Aanholt,2,18,31,21,-,0.0,2.0,0.0
-155,Sheffield,Simon,player_74854,Moore,1,7,49,10,-,0.0,2.0,0.0
-156,Newcastle,Callum,player_75115,Wilson,4,16,4,40,5.3,2.0,2.0,0.75
-157,Fulham,Tom,player_76357,Cairney,3,15,54,32,4.3,0.0,2.0,0.5
-158,Man. United,Phil,player_76359,Jones,2,2,1,20,-,0.0,2.0,0.0
-159,West Bromwich,,player_77777,Ahmed Hegazi,2,9,35,20,-,0.0,2.0,0.0
-160,Southampton,Oriol,player_78056,Romeu,3,8,20,31,4.5,0.0,2.0,0.75
-161,West Bromwich,Charlie,player_78356,Austin,4,9,35,40,-,0.0,2.0,0.0
-162,West Bromwich,Jonathan,player_78603,Bond,1,2,35,10,-,0.0,2.0,0.0
-163,Tottenham,Harry,player_78830,Kane,4,34,6,40,6.5,1.0,2.0,0.75
-164,Brighton,Dan,player_78916,Burn,2,13,36,20,5,0.0,2.0,0.0
-165,Aston Villa,Jed,player_79852,Steer,1,1,7,10,-,0.0,2.0,0.0
-166,Sheffield,Oliver,player_79934,Norwood,3,16,49,31,4.5,0.0,2.0,0.25
-167,Crystal Palace,Jordan,player_80146,Ayew,4,18,31,40,4.5,0.0,2.0,0.75
-168,Leeds,Adam,player_80179,Forshaw,3,5,2,31,-,0.0,2.0,0.0
-169,Arsenal,Bernd,player_80201,Leno,1,7,3,10,5.0,0.0,2.0,0.75
-170,Tottenham,Serge,player_80226,Aurier,2,15,6,21,-,0.0,2.0,0.0
-171,Leeds,,player_80954,Rodrigo Moreno,4,16,2,40,4.0,0.0,2.0,0.25
-172,West Ham,Ryan,player_81012,Fredericks,2,11,21,21,5.0,0.0,2.0,0.75
-173,Burnley,Matej,player_81183,Vydra,4,7,90,40,4.5,0.0,2.0,0.25
-174,Newcastle,Mark,player_81441,Gillespie,1,1,4,10,-,0.0,2.0,0.0
-175,Liverpool,Alex,player_81880,Oxlade-Chamberlain,3,12,14,32,-,0.0,2.0,0.0
-176,West Bromwich,Kenneth,player_82078,Zohore,4,5,35,40,-,0.0,2.0,0.0
-177,Sheffield,Wes,player_82143,Foderingham,1,1,49,10,-,0.0,2.0,0.0
-178,Chelsea,Marcos,player_82263,Alonso,2,14,8,21,4.3,0.0,2.0,0.75
-179,Crystal Palace,Wilfried,player_82403,Zaha,4,13,31,40,6.3,3.0,2.0,0.75
-180,Fulham,Tim,player_82514,Ream,2,13,54,20,4.0,0.0,2.0,0.5
-181,Sheffield,George,player_82691,Baldock,2,17,49,21,4.8,0.0,2.0,0.75
-182,Southampton,Nathan,player_83283,Redmond,3,18,20,32,4.5,0.0,2.0,0.25
-183,Brighton,Lewis,player_83299,Dunk,2,22,36,20,4.7,0.0,2.0,0.75
-184,Newcastle,Jeff,player_83314,Hendrick,3,9,4,32,5.7,1.0,2.0,0.75
-185,Sheffield,Jack,player_83427,Robinson,2,8,49,21,5.0,0.0,2.0,0.25
-186,Fulham,Anthony,player_83543,Knockaert,3,13,54,32,-,0.0,2.0,0.0
-187,Fulham,Alphonse,player_84182,Areola,1,8,54,10,3.8,0.0,2.0,0.5
-188,Arsenal,Granit,player_84450,Xhaka,3,18,3,31,5.2,0.0,2.0,0.75
-189,Fulham,Michael,player_84915,Hector,2,12,54,20,3.5,0.0,2.0,0.75
-190,Southampton,Danny,player_84939,Ings,4,38,20,40,5.7,3.0,2.0,0.75
-191,Aston Villa,Conor,player_85242,Hourihane,3,15,7,31,6.8,1.0,2.0,0.5
-192,Chelsea,,player_85955,Jorginho,3,16,8,31,5.0,1.0,2.0,0.5
-193,Tottenham,,player_85971,Son Heung-Min,4,21,6,40,6.7,4.0,2.0,0.75
-194,Crystal Palace,Jeffrey,player_86417,Schlupp,2,14,31,21,6.0,0.0,2.0,0.5
-195,Leicester,Nampalys,player_86881,Mendy,3,7,13,31,5.7,0.0,2.0,0.75
-196,West Ham,Manuel,player_86934,Lanzini,3,8,21,32,-,0.0,2.0,0.0
-197,Tottenham,Matt,player_87835,Doherty,2,21,6,21,4.7,0.0,2.0,0.75
-198,Leeds,Stuart,player_87873,Dallas,2,13,2,21,5.5,0.0,2.0,0.75
-199,Aston Villa,Lovre,player_88175,Kalinic,1,1,7,10,-,0.0,2.0,0.0
-200,Chelsea,Ross,player_88894,Barkley,3,8,8,32,5,0.0,2.0,0.0
-201,Southampton,Jack,player_88900,Stephens,2,13,20,20,3.3,0.0,2.0,0.5
-202,Aston Villa,,player_89274,Jota,3,4,7,32,-,0.0,2.0,0.0
-203,Newcastle,Ryan,player_90105,Fraser,3,8,4,32,5,0.0,2.0,0.0
-204,Burnley,Robbie,player_90517,Brady,3,5,90,31,5.5,0.0,2.0,0.25
-205,Wolverhampton,Willy,player_90585,Boly,2,13,39,20,4.0,0.0,2.0,0.75
-206,Southampton,Stuart,player_91047,Armstrong,3,17,20,32,4.3,0.0,2.0,0.5
-207,Chelsea,Mateo,player_91651,Kovacic,3,14,8,32,4.8,0.0,2.0,0.5
-208,Liverpool,,player_92217,Roberto Firmino,4,19,14,40,5.5,0.0,2.0,0.75
-209,Fulham,Neeskens,player_92259,Kebano,3,8,54,32,5.0,0.0,2.0,0.25
-210,Arsenal,Pablo,player_92371,Marí,2,4,3,20,-,0.0,2.0,0.0
-211,Southampton,Jannik,player_93100,Vestergaard,2,8,20,20,6.0,0.0,2.0,0.25
-212,Tottenham,Eric,player_93264,Dier,3,11,6,31,4.7,0.0,2.0,0.75
-213,Brighton,Florin,player_93284,Andone,4,6,36,40,-,0.0,2.0,0.0
-214,Wolverhampton,Conor,player_94147,Coady,2,15,39,20,4.0,0.0,2.0,0.75
-215,Crystal Palace,Michy,player_94245,Batshuayi,4,4,31,40,4.3,0.0,2.0,0.0
-216,Leicester,Danny,player_95463,Ward,1,7,13,10,-,0.0,2.0,0.0
-217,Man. United,Harry,player_95658,Maguire,2,23,1,20,4.8,0.0,2.0,0.5
-218,Tottenham,,player_95715,Lucas Moura,3,14,6,32,4.8,1.0,2.0,0.75
-219,Fulham,Bobby,player_96994,De Cordova-Reid,3,8,54,32,4.3,1.0,2.0,0.25
-220,Liverpool,Virgil,player_97032,van Dijk,2,31,14,20,5.5,1.0,2.0,0.75
-221,Man. City,John,player_97299,Stones,2,9,43,20,5.5,0.0,2.0,0.25
-222,Arsenal,Héctor,player_98745,Bellerín,2,9,3,21,4.5,0.0,2.0,0.75
-223,Burnley,Nick,player_98747,Pope,1,24,90,10,4.0,0.0,2.0,0.5
-224,Aston Villa,Ørjan,player_98770,Nyland,1,7,7,10,-,0.0,2.0,0.0
-225,Southampton,Guido,player_98914,Carrillo,4,5,20,40,-,0.0,2.0,0.0
-226,Aston Villa,Emiliano,player_98980,Martínez,1,19,7,10,6.5,0.0,2.0,0.5
-227,Everton,,player_100649,Bernard,3,8,11,32,-,0.0,2.0,0.0
-228,Fulham,Joe,player_101105,Bryan,2,10,54,21,4.0,0.0,2.0,0.75
-229,Newcastle,Jamaal,player_101148,Lascelles,2,13,4,20,5.0,0.0,2.0,0.75
-230,Southampton,James,player_101178,Ward-Prowse,3,22,20,32,4.8,0.0,2.0,0.75
-231,Arsenal,Calum,player_101184,Chambers,2,1,3,20,-,0.0,2.0,0.0
-232,Everton,Lucas,player_101188,Digne,2,14,11,21,5.8,0.0,2.0,0.75
-233,West Ham,,player_101537,Felipe Anderson,3,9,21,32,5,0.0,2.0,0.0
-234,Man. United,,player_101582,Fred,3,15,1,32,4.5,0.0,2.0,0.0
-235,Leicester,Jamie,player_101668,Vardy,4,41,13,40,6.8,5.0,2.0,0.75
-236,West Bromwich,Sam,player_101982,Johnstone,1,14,35,10,4.2,0.0,2.0,0.75
-237,Wolverhampton,Raúl,player_102057,Jiménez,4,32,39,40,5.2,2.0,2.0,0.75
-238,Chelsea,Antonio,player_102380,Rüdiger,2,11,8,20,-,0.0,2.0,0.0
-239,Man. City,Benjamin,player_102826,Mendy,2,15,43,21,3.8,0.0,2.0,0.5
-240,Tottenham,Paulo,player_102884,Gazzaniga,1,7,6,10,-,0.0,2.0,0.0
-241,Man. City,Riyad,player_103025,Mahrez,3,33,43,32,5.5,1.0,2.0,0.25
-242,West Ham,Sébastien,player_103123,Haller,4,16,21,40,5,1.0,2.0,0.0
-243,Chelsea,Kurt,player_103192,Zouma,2,9,8,20,5.8,1.0,2.0,0.5
-244,Burnley,Charlie,player_103914,Taylor,2,12,90,21,4.5,0.0,2.0,0.5
-245,Man. City,Raheem,player_103955,Sterling,4,37,43,40,4.3,0.0,2.0,0.5
-246,Newcastle,Dwight,player_104547,Gayle,4,11,4,40,-,0.0,2.0,0.0
-247,Newcastle,Christian,player_104953,Atsu,3,4,4,32,-,0.0,2.0,0.0
-248,Leeds,Ezgjan,player_105377,Alioski,2,8,2,21,5,0.0,2.0,0.0
-249,West Ham,Arthur,player_105717,Masuaku,2,6,21,21,5.5,0.0,2.0,0.5
-250,Everton,Michael,player_106611,Keane,2,12,11,20,5.7,1.0,2.0,0.75
-251,Leeds,Patrick,player_106617,Bamford,4,14,2,40,6.7,3.0,2.0,0.75
-252,Newcastle,Paul,player_106618,Dummett,2,1,4,20,-,0.0,2.0,0.0
-253,Man. United,Luke,player_106760,Shaw,2,13,1,21,4.5,0.0,2.0,0.5
-254,Leicester,Dennis,player_106837,Praet,3,8,13,32,6.5,1.0,2.0,0.75
-255,Fulham,Jordan,player_107084,Archer,1,1,54,10,-,0.0,2.0,0.0
-256,Southampton,Angus,player_107265,Gunn,1,7,20,10,-,0.0,2.0,0.0
-257,Wolverhampton,Romain,player_107613,Saïss,2,14,39,20,4.5,1.0,2.0,0.75
-258,West Bromwich,Conor,player_108053,Townsend,2,7,35,21,4.0,0.0,2.0,0.25
-259,Aston Villa,Björn,player_108156,Engels,2,5,7,20,-,0.0,2.0,0.0
-260,Sheffield,John,player_108416,Egan,2,17,49,20,3.8,0.0,2.0,0.5
-261,Everton,Sandro,player_108438,Ramírez,4,6,11,40,-,0.0,2.0,0.0
-262,Brighton,Christian,player_108813,Walton,1,2,36,10,-,0.0,2.0,0.0
-263,Tottenham,Dele,player_108823,Alli,3,24,6,32,4.0,0.0,2.0,0.25
-264,Man. United,Jesse,player_109322,Lingard,3,8,1,32,-,0.0,2.0,0.0
-265,Brighton,Solly,player_109345,March,3,6,36,32,5.5,1.0,2.0,0.75
-266,Newcastle,Javier,player_109528,Manquillo,2,10,4,21,4.8,0.0,2.0,0.75
-267,Chelsea,,player_109533,Emerson,2,7,8,21,-,0.0,2.0,0.0
-268,Sheffield,Kean,player_109638,Bryan,2,1,49,20,-,0.0,2.0,0.0
-269,Chelsea,Kepa,player_109745,Arrizabalaga,1,15,8,10,3.8,0.0,2.0,0.5
-270,Aston Villa,Bertrand,player_110504,Traoré,3,10,7,32,5,0.0,2.0,0.0
-271,Brighton,Adam,player_110735,Webster,2,20,36,20,4.7,0.0,2.0,0.75
-272,Liverpool,Sadio,player_110979,Mané,4,40,14,40,7.0,3.0,2.0,0.75
-273,Everton,Jordan,player_111234,Pickford,1,17,11,10,5.3,0.0,2.0,0.75
-274,Wolverhampton,,player_111291,Marçal,2,9,39,21,5.3,0.0,2.0,0.75
-275,Arsenal,Sead,player_111457,Kolasinac,2,12,3,21,5.0,0.0,2.0,0.25
-276,Brighton,Joël,player_111478,Veltman,2,11,36,21,-,0.0,2.0,0.0
-277,Newcastle,Emil,player_111773,Krafth,2,8,4,21,-,0.0,2.0,0.0
-278,Leicester,,player_111931,Ricardo Pereira,2,19,13,21,-,0.0,2.0,0.0
-279,Arsenal,Matt,player_113534,Macey,1,5,3,10,-,0.0,2.0,0.0
-280,Wolverhampton,,player_114128,Jonny,2,12,39,21,-,0.0,2.0,0.0
-281,Newcastle,Jacob,player_114243,Murphy,3,6,4,32,5,0.0,2.0,0.0
-282,Aston Villa,Jack,player_114283,Grealish,3,33,7,32,6.5,1.0,2.0,0.5
-283,Brighton,Neal,player_115382,Maupay,4,21,36,40,6.0,3.0,2.0,0.75
-284,Tottenham,Ben,player_115556,Davies,2,7,6,21,4.7,0.0,2.0,0.75
-285,Leicester,Rachid,player_115858,Ghezzal,3,6,13,32,-,0.0,2.0,0.0
-286,Arsenal,Rúnar Alex,player_115918,Rúnarsson,1,7,3,10,-,0.0,2.0,0.0
-287,Brighton,Leandro,player_116216,Trossard,3,23,36,32,6.0,1.0,2.0,0.75
-288,Liverpool,,player_116535,Alisson,1,20,14,10,5.8,0.0,2.0,0.75
-289,Chelsea,N'Golo,player_116594,Kanté,3,11,8,31,5.7,0.0,2.0,0.75
-290,Liverpool,,player_116643,Fabinho,3,10,14,31,6.2,0.0,2.0,0.5
-291,Liverpool,,player_118748,Mohamed Salah,4,40,14,40,6.7,3.0,2.0,0.75
-292,Newcastle,Fabian,player_119471,Schär,2,11,4,20,-,0.0,2.0,0.0
-293,Everton,,player_119765,Allan,3,13,11,31,5.8,0.0,2.0,0.75
-294,Everton,,player_120250,André Gomes,3,9,11,31,5.3,0.0,2.0,0.75
-295,Man. City,,player_121145,João Cancelo,2,9,43,21,-,0.0,2.0,0.0
-296,Man. City,,player_121160,Ederson,1,18,43,10,3.8,0.0,2.0,0.5
-297,Everton,Abdoulaye,player_121599,Doucouré,3,21,11,32,5.8,0.0,2.0,0.75
-298,Liverpool,Andrew,player_122798,Robertson,2,21,14,21,5.5,1.0,2.0,0.75
-299,Aston Villa,John,player_122806,McGinn,3,15,7,31,6.8,0.0,2.0,0.5
-300,Aston Villa,Kortney,player_123354,Hause,2,11,7,20,-,0.0,2.0,0.0
-301,Man. City,Patrick,player_124165,Roberts,3,3,43,32,-,0.0,2.0,0.0
-302,Chelsea,Hakim,player_124183,Ziyech,3,17,8,32,-,0.0,2.0,0.0
-303,Man. City,Nathan,player_126184,Aké,2,17,43,20,4.8,1.0,2.0,0.5
-304,Chelsea,Ruben,player_126187,Loftus-Cheek,3,7,8,32,4.0,0.0,2.0,0.25
-305,Southampton,Sofiane,player_128198,Boufal,3,6,20,32,-,0.0,2.0,0.0
-306,Fulham,Aleksandar,player_128389,Mitrovic,4,15,54,40,5.0,2.0,2.0,0.5
-307,Brighton,Mat,player_131897,Ryan,1,18,36,10,4.3,0.0,2.0,0.75
-308,Tottenham,Pierre-Emile,player_132015,Højbjerg,3,12,6,31,5.7,0.0,2.0,0.75
-309,Chelsea,Andreas,player_135363,Christensen,2,13,8,20,4.8,0.0,2.0,0.75
-310,Crystal Palace,Max,player_141020,Meyer,3,8,31,32,-,0.0,2.0,0.0
-311,Man. United,,player_141746,Bruno Fernandes,3,37,1,32,6.5,1.0,2.0,0.5
-312,West Bromwich,,player_146426,Semi Ajayi,2,13,35,20,3.5,0.0,2.0,0.75
-313,Sheffield,Jack,player_146610,O'Connell,2,15,49,20,4.0,0.0,2.0,0.5
-314,Man. City,Aymeric,player_146941,Laporte,2,18,43,20,-,0.0,2.0,0.0
-315,Man. United,Anthony,player_148225,Martial,4,35,1,40,3.8,0.0,2.0,0.5
-316,Aston Villa,,player_148508,Trézéguet,3,23,7,32,5.8,0.0,2.0,0.5
-317,Aston Villa,Tyrone,player_149484,Mings,2,14,7,20,7.3,1.0,2.0,0.5
-318,Leicester,Islam,player_149828,Slimani,4,5,13,40,-,0.0,2.0,0.0
-319,Leeds,Diego,player_149915,Llorente,2,14,2,20,5.5,0.0,2.0,0.25
-320,Fulham,Mario,player_151086,Lemina,3,3,54,31,5,0.0,2.0,0.0
-321,Newcastle,DeAndre,player_151119,Yedlin,2,9,4,21,-,0.0,2.0,0.0
-322,Wolverhampton,Leander,player_151589,Dendoncker,3,14,39,31,5.8,0.0,2.0,0.25
-323,Liverpool,Divock,player_152760,Origi,4,9,14,40,-,0.0,2.0,0.0
-324,Newcastle,Isaac,player_153127,Hayden,3,13,4,31,5.2,0.0,2.0,0.75
-325,Everton,Alex,player_153133,Iwobi,3,9,11,32,5,0.0,2.0,0.0
-326,Arsenal,,player_153256,Mohamed Elneny,3,7,3,31,5.8,0.0,2.0,0.5
-327,Fulham,Harrison,player_153366,Reed,3,5,54,31,5.0,0.0,2.0,0.5
-328,Southampton,Sam,player_153373,McQueen,2,1,20,21,-,0.0,2.0,0.0
-329,Southampton,Josh,player_153379,Sims,3,3,20,32,-,0.0,2.0,0.0
-330,Everton,Jonjoe,player_153673,Kenny,2,3,11,21,-,0.0,2.0,0.0
-331,Liverpool,Harry,player_153682,Wilson,3,10,14,32,-,0.0,2.0,0.0
-332,Sheffield,John,player_153723,Lundstram,3,20,49,31,4.5,0.0,2.0,0.75
-333,Arsenal,Ainsley,player_154043,Maitland-Niles,2,7,3,21,4.3,0.0,2.0,0.5
-334,Sheffield,Max,player_155197,Lowe,2,9,49,21,-,0.0,2.0,0.0
-335,Leeds,Kalvin,player_155405,Phillips,3,12,2,31,5.7,0.0,2.0,0.75
-336,Newcastle,Rolando,player_155513,Aarons,3,1,4,32,-,0.0,2.0,0.0
-337,Fulham,Marek,player_155529,Rodák,1,15,54,10,3.5,0.0,2.0,0.25
-338,Leicester,Daniel,player_155569,Amartey,3,1,13,31,5.0,0.0,2.0,0.25
-339,Arsenal,Rob,player_156074,Holding,2,7,3,20,4.8,0.0,2.0,0.75
-340,Man. United,,player_156689,Andreas Pereira,3,9,1,32,-,0.0,2.0,0.0
-341,Tottenham,Harry,player_157668,Winks,3,13,6,31,4.8,0.0,2.0,0.75
-342,Liverpool,Takumi,player_157882,Minamino,4,6,14,40,4.5,0.0,2.0,0.0
-343,Southampton,Kyle,player_158534,Walker-Peters,2,12,20,21,4.3,0.0,2.0,0.75
-344,Southampton,Jake,player_158544,Hesketh,3,3,20,32,-,0.0,2.0,0.0
-345,Fulham,,player_159506,Ola Aina,2,5,54,21,-,0.0,2.0,0.0
-346,Wolverhampton,Adama,player_159533,Traoré,4,17,39,40,5.2,0.0,2.0,0.75
-347,Everton,Jean-Philippe,player_160987,Gbamin,3,1,11,31,-,0.0,2.0,0.0
-348,Chelsea,Matt,player_163793,Miazga,2,5,8,20,-,0.0,2.0,0.0
-349,Man. City,Zack,player_164484,Steffen,1,6,43,10,-,0.0,2.0,0.0
-350,Everton,Yerry,player_164511,Mina,2,12,11,20,5.7,0.0,2.0,0.75
-351,Chelsea,Timo,player_165153,Werner,4,17,8,40,5.5,0.0,2.0,0.75
-352,Brighton,Alireza,player_165210,Jahanbakhsh,4,7,36,40,5,0.0,2.0,0.0
-353,Leeds,,player_165808,Hélder Costa,3,13,2,32,5.8,2.0,2.0,0.75
-354,Man. City,,player_165809,Bernardo Silva,3,25,43,32,-,0.0,2.0,0.0
-355,Fulham,,player_166324,Ivan Cavaleiro,3,10,54,32,4.2,0.0,2.0,0.75
-356,Leicester,Timothy,player_166477,Castagne,2,12,13,21,6.3,1.0,2.0,0.75
-357,West Ham,Fabián,player_166640,Balbuena,2,8,21,20,6.0,0.0,2.0,0.25
-358,Leicester,Youri,player_166989,Tielemans,3,16,13,32,6.0,1.0,2.0,0.75
-359,Fulham,Kenny,player_167074,Tete,2,6,54,21,4.8,0.0,2.0,0.5
-360,Southampton,Wesley,player_167075,Hoedt,2,3,20,20,-,0.0,2.0,0.0
-361,Brighton,José,player_167473,Izquierdo,4,1,36,40,-,0.0,2.0,0.0
-362,Sheffield,Ben,player_167878,Osborn,3,9,49,31,4.5,0.0,2.0,0.25
-363,Man. United,,player_168196,Joel Pereira,1,1,1,10,-,0.0,2.0,0.0
-364,Burnley,Will,player_168399,Norris,1,1,90,10,-,0.0,2.0,0.0
-365,Leicester,Ayoze,player_168580,Pérez,3,20,13,32,5.0,0.0,2.0,0.5
-366,Tottenham,Cameron,player_168763,Carter-Vickers,2,5,6,20,-,0.0,2.0,0.0
-367,Fulham,Josh,player_168765,Onomah,3,11,54,32,3.8,0.0,2.0,0.5
-368,Chelsea,Tiemoué,player_169102,Bakayoko,3,7,8,31,-,0.0,2.0,0.0
-369,Liverpool,Trent,player_169187,Alexander-Arnold,2,23,14,21,5.0,0.0,2.0,0.75
-370,Aston Villa,Matt,player_169359,Targett,2,12,7,21,5.5,0.0,2.0,0.5
-371,Sheffield,Oliver,player_169432,McBurnie,4,13,49,40,5.0,0.0,2.0,0.25
-372,Fulham,Antonee,player_169528,Robinson,2,7,54,21,-,0.0,2.0,0.0
-373,Newcastle,Allan,player_170137,Saint-Maximin,3,16,4,32,5.3,0.0,2.0,0.5
-374,Fulham,Jean Michael,player_170271,Seri,3,3,54,31,-,0.0,2.0,0.0
-375,Liverpool,Joseph,player_171287,Gomez,2,10,14,20,4.8,0.0,2.0,0.5
-376,Man. City,,player_171314,Rúben Dias,2,14,43,20,-,0.0,2.0,0.0
-377,Wolverhampton,,player_171317,Rúben Neves,3,17,39,31,5.0,0.0,2.0,0.5
-378,Newcastle,Daniel,player_171427,Barlaser,3,1,4,31,-,0.0,2.0,0.0
-379,Southampton,Jan,player_171771,Bednarek,2,13,20,20,4.2,0.0,2.0,0.75
-380,West Bromwich,Callum,player_171975,Robinson,4,7,35,40,4.8,2.0,2.0,0.75
-381,West Ham,Josh,player_172567,Cullen,3,2,21,31,-,0.0,2.0,0.0
-382,Leicester,Demarai,player_172632,Gray,3,8,13,32,-,0.0,2.0,0.0
-383,Man. United,Dean,player_172649,Henderson,1,10,1,10,-,0.0,2.0,0.0
-384,Leicester,James,player_172780,Maddison,3,24,13,32,5.7,1.0,2.0,0.0
-385,Burnley,Josh,player_172782,Brownhill,3,9,90,32,5.3,0.0,2.0,0.5
-386,Chelsea,Ben,player_172850,Chilwell,2,23,8,21,-,0.0,2.0,0.0
-387,Leicester,Kelechi,player_173515,Iheanacho,4,10,13,40,4.5,0.0,2.0,0.0
-388,Everton,Tom,player_173807,Davies,3,11,11,31,4.8,0.0,2.0,0.0
-389,Leicester,Darnell,player_173810,Johnson,2,1,13,21,-,0.0,2.0,0.0
-390,Leeds,Tyler,player_173821,Roberts,4,7,2,40,4.5,0.0,2.0,0.25
-391,Chelsea,Tammy,player_173879,Abraham,4,28,8,40,5.5,1.0,2.0,0.25
-392,Tottenham,Davinson,player_173904,Sánchez,2,12,6,20,5.5,0.0,2.0,0.5
-393,Crystal Palace,Jairo,player_173954,Riedewald,3,7,31,31,5,0.0,2.0,0.0
-394,West Bromwich,Kyle,player_174593,Edwards,3,5,35,32,4.8,0.0,2.0,0.0
-395,Leicester,Admiral,player_174595,Muskwe,4,1,13,40,-,0.0,2.0,0.0
-396,Liverpool,Naby,player_175592,Keita,3,12,14,31,5.0,0.0,2.0,0.75
-397,Tottenham,Alfie,player_175941,Whiteman,1,1,6,10,-,0.0,2.0,0.0
-398,Man. United,Marcus,player_176297,Rashford,4,36,1,40,5.5,1.0,2.0,0.5
-399,Chelsea,Christian,player_176413,Pulisic,3,28,8,32,-,0.0,2.0,0.0
-400,West Bromwich,Darnell,player_176420,Furlong,2,8,35,21,4.0,0.0,2.0,0.75
-401,Southampton,Alfie,player_176706,Jones,3,1,20,31,-,0.0,2.0,0.0
-402,Everton,Dominic,player_177815,Calvert-Lewin,4,27,11,40,7.0,5.0,2.0,0.75
-403,Liverpool,Joseph,player_178062,Hardy,4,1,14,40,-,0.0,2.0,0.0
-404,West Ham,Jarrod,player_178186,Bowen,4,10,21,40,5.7,2.0,2.0,0.75
-405,Aston Villa,Ollie,player_178301,Watkins,4,14,7,40,5.0,0.0,2.0,0.5
-406,Sheffield,Lys,player_178304,Mousset,4,9,49,40,-,0.0,2.0,0.0
-407,Newcastle,Miguel,player_179018,Almirón,3,17,4,32,5.7,0.0,2.0,0.25
-408,Wolverhampton,Oskar,player_179456,Buur,2,1,39,21,4.5,0.0,2.0,0.0
-409,West Bromwich,Grady,player_179830,Diangana,3,7,35,32,5.0,1.0,2.0,0.75
-410,Newcastle,,player_180135,Sean Longstaff,3,6,4,31,5,0.0,2.0,0.0
-411,Man. United,Donny,player_180184,van de Beek,3,10,1,32,5,1.0,2.0,0.0
-412,Chelsea,Jake,player_180732,Clarke-Salter,2,3,8,20,-,0.0,2.0,0.0
-413,Man. United,Axel,player_180804,Tuanzebe,2,1,1,20,-,0.0,2.0,0.0
-414,Newcastle,,player_180974,Joelinton,4,12,4,40,5.2,0.0,2.0,0.25
-415,Liverpool,Ben,player_182436,Woodburn,3,1,14,32,-,0.0,2.0,0.0
-416,Arsenal,Dani,player_182539,Ceballos,3,16,3,32,6.0,0.0,2.0,0.25
-417,West Bromwich,Cédric,player_183015,Kipré,2,8,35,20,-,0.0,2.0,0.0
-418,West Ham,Nathan,player_183487,Holland,3,3,21,32,-,0.0,2.0,0.0
-419,Everton,Dennis,player_183645,Adeniran,3,1,11,31,-,0.0,2.0,0.0
-420,Arsenal,Tolaji,player_183654,Bola,2,1,3,21,-,0.0,2.0,0.0
-421,Chelsea,Mason,player_184341,Mount,3,23,8,32,6.2,1.0,2.0,0.75
-422,Tottenham,,player_184349,Ryan Sessegnon,3,5,6,32,-,0.0,2.0,0.0
-423,Aston Villa,James,player_184386,Bree,2,3,7,21,-,0.0,2.0,0.0
-424,Man. United,Victor,player_184667,Lindelöf,2,18,1,20,4.5,0.0,2.0,0.5
-425,Aston Villa,Marvelous,player_184704,Nakamba,3,7,7,31,5,0.0,2.0,0.0
-426,Crystal Palace,Jaroslaw,player_185478,Jach,2,7,31,20,-,0.0,2.0,0.0
-427,Arsenal,Kieran,player_192895,Tierney,2,11,3,21,4.5,0.0,2.0,0.5
-428,Southampton,Callum,player_193109,Slattery,3,1,20,32,-,0.0,2.0,0.0
-429,Aston Villa,Anwar,player_193488,El Ghazi,4,13,7,40,-,0.0,2.0,0.0
-430,Leeds,Robin,player_193645,Koch,2,10,2,20,4.5,0.0,2.0,0.75
-431,Sheffield,Michael,player_194126,Verrips,1,3,49,10,-,0.0,2.0,0.0
-432,Everton,Mason,player_194164,Holgate,2,11,11,20,-,0.0,2.0,0.0
-433,Tottenham,Steven,player_194252,Bergwijn,4,15,6,40,4.7,0.0,2.0,0.0
-434,Liverpool,,player_194634,Diogo Jota,3,22,14,32,6,1.0,2.0,0.0
-435,Chelsea,Fikayo,player_194794,Tomori,2,6,8,20,5,0.0,2.0,0.0
-436,Newcastle,Jamal,player_194799,Lewis,2,11,4,21,4.8,0.0,2.0,0.5
-437,Burnley,Mace,player_195064,Goodridge,3,1,90,31,-,0.0,2.0,0.0
-438,Burnley,Anthony,player_195471,Driscoll-Glennon,2,1,90,21,-,0.0,2.0,0.0
-439,Liverpool,Rhian,player_195473,Brewster,4,1,14,40,-,0.0,2.0,0.0
-440,Arsenal,Nicolas,player_195735,Pépé,3,20,3,32,4.3,0.0,2.0,0.0
-441,Tottenham,,player_195774,Gedson Fernandes,3,5,6,32,-,0.0,2.0,0.0
-442,Man. United,Scott,player_195851,McTominay,3,15,1,31,5.5,0.0,2.0,0.25
-443,Everton,Beni,player_195855,Baningime,3,1,11,31,-,0.0,2.0,0.0
-444,West Bromwich,Sam,player_195864,Field,3,5,35,31,5,0.0,2.0,0.0
-445,Fulham,Aboubakar,player_197030,Kamara,4,10,54,40,4.0,0.0,2.0,0.5
-446,Man. United,Eric,player_197365,Bailly,2,5,1,20,5,0.0,2.0,0.0
-447,Liverpool,Nathaniel,player_197464,Phillips,2,1,14,20,-,0.0,2.0,0.0
-448,Leicester,Hamza,player_197469,Choudhury,3,6,13,31,-,0.0,2.0,0.0
-449,Sheffield,Oliver,player_197937,Burke,4,8,49,40,4.5,0.0,2.0,0.5
-450,Southampton,Harry,player_198044,Lewis,1,1,20,10,-,0.0,2.0,0.0
-451,Arsenal,Lucas,player_198849,Torreira,3,10,3,31,-,0.0,2.0,0.0
-452,Brighton,Ben,player_198869,White,2,1,36,20,4.5,0.0,2.0,0.75
-453,Tottenham,Sergio,player_199249,Reguilón,2,10,6,21,-,0.0,2.0,0.0
-454,Tottenham,Japhet,player_199584,Tanganga,2,6,6,20,-,0.0,2.0,0.0
-455,Sheffield,Ethan,player_199598,Ampadu,2,1,49,20,5.3,0.0,2.0,0.25
-456,Sheffield,David,player_199620,Parkhouse,4,1,49,40,-,0.0,2.0,0.0
-457,Aston Villa,Matthew,player_199796,Cash,2,9,7,21,5.8,0.0,2.0,0.5
-458,Aston Villa,Ezri,player_199798,Konsa Ngoyo,2,13,7,20,7.0,1.0,2.0,0.5
-459,Southampton,Daniel,player_200088,N'Lundulu,4,1,20,40,-,0.0,2.0,0.0
-460,Arsenal,Joseph,player_200089,Willock,3,7,3,32,-,0.0,2.0,0.0
-461,Wolverhampton,,player_200402,Nélson Semedo,2,13,39,21,3.5,0.0,2.0,0.25
-462,Chelsea,Nathan,player_200415,Baxter,1,1,8,10,-,0.0,2.0,0.0
-463,Southampton,Che,player_200439,Adams,4,12,20,40,4.2,0.0,2.0,0.75
-464,Wolverhampton,,player_200600,Daniel Podence,3,7,39,32,5.8,0.0,2.0,0.5
-465,Man. United,Daniel,player_200617,James,3,16,1,32,4.5,0.0,2.0,0.25
-466,Arsenal,Reiss,player_200641,Nelson,4,6,3,40,-,0.0,2.0,0.0
-467,Liverpool,Tony,player_200646,Gallacher,2,1,14,21,-,0.0,2.0,0.0
-468,Liverpool,Caoimhin,player_200720,Kelleher,1,1,14,10,-,0.0,2.0,0.0
-469,Tottenham,Giovani,player_200826,Lo Celso,3,10,6,32,5.3,0.0,2.0,0.25
-470,West Bromwich,Filip,player_200878,Krovinovic,3,8,35,32,-,0.0,2.0,0.0
-471,Man. United,Timothy,player_201084,Fosu-Mensah,2,1,1,21,4.5,0.0,2.0,0.25
-472,Leicester,Harvey,player_201666,Barnes,3,19,13,32,6.7,1.0,2.0,0.75
-473,Leicester,Josh,player_201667,Knight,2,1,13,20,-,0.0,2.0,0.0
-474,Fulham,André-Frank,player_203325,Zambo Anguissa,3,14,54,31,5.3,0.0,2.0,0.5
-475,Leicester,,player_203341,Wilfred Ndidi,3,16,13,31,5.5,0.0,2.0,0.5
-476,Aston Villa,Frédéric,player_203368,Guilbert,2,10,7,21,-,0.0,2.0,0.0
-477,Southampton,Nathan,player_203389,Tella,4,1,20,40,4.8,0.0,2.0,0.0
-478,West Ham,Declan,player_204480,Rice,3,19,21,31,5.8,0.0,2.0,0.75
-479,Leeds,Jay-Roy,player_204642,Grot,4,1,2,40,-,0.0,2.0,0.0
-480,Chelsea,Malang,player_204727,Sarr,2,10,8,20,-,0.0,2.0,0.0
-481,Tottenham,George,player_204820,Marsh,3,1,6,31,-,0.0,2.0,0.0
-482,Arsenal,Eddie,player_205533,Nketiah,4,9,3,40,5,1.0,2.0,0.0
-483,Man. City,,player_205651,Gabriel Jesus,4,17,43,40,7.0,1.0,2.0,0.25
-484,Man. City,Oleksandr,player_206325,Zinchenko,2,8,43,21,-,0.0,2.0,0.0
-485,Liverpool,Curtis,player_206915,Jones,3,4,14,32,4,0.0,2.0,0.0
-486,Brighton,Jan,player_207025,Mlakar,4,1,36,40,-,0.0,2.0,0.0
-487,Sheffield,Sander,player_207189,Berge,3,9,49,31,5.3,0.0,2.0,0.5
-488,Crystal Palace,Nya,player_209043,Kirby,3,1,31,32,-,0.0,2.0,0.0
-489,Brighton,Taylor,player_209045,Richards,3,1,36,32,-,0.0,2.0,0.0
-490,Chelsea,Callum,player_209046,Hudson-Odoi,4,7,8,40,5.3,1.0,2.0,0.0
-491,Man. City,Phil,player_209244,Foden,3,14,43,32,5.5,1.0,2.0,0.5
-492,Arsenal,Emile,player_209289,Smith Rowe,3,3,3,32,-,0.0,2.0,0.0
-493,Brighton,,player_209362,Bernardo,2,5,36,21,-,0.0,2.0,0.0
-494,West Ham,,player_209925,Xande Silva,4,1,21,40,-,0.0,2.0,0.0
-495,Liverpool,Marko,player_210237,Grujic,3,1,14,31,-,0.0,2.0,0.0
-496,West Bromwich,,player_210407,Matheus Pereira,3,12,35,32,5.5,1.0,2.0,0.75
-497,Everton,,player_212319,Richarlison,4,29,11,40,7.0,1.0,2.0,0.75
-498,Brighton,Tudor,player_213056,Baluta,3,1,36,31,-,0.0,2.0,0.0
-499,Aston Villa,,player_213345,Wesley,4,17,7,40,-,0.0,2.0,0.0
-500,Leicester,Filip,player_213405,Benkovic,2,1,13,20,-,0.0,2.0,0.0
-501,Southampton,Yan,player_213482,Valery,2,6,20,21,-,0.0,2.0,0.0
-502,Wolverhampton,Maximilian,player_214048,Kilman,2,3,39,20,-,0.0,2.0,0.0
-503,Liverpool,Konstantinos,player_214285,Tsimikas,2,8,14,21,-,0.0,2.0,0.0
-504,Southampton,William,player_214466,Smallbone,3,7,20,31,4.8,0.0,2.0,0.25
-505,Southampton,Jake,player_214470,Vokins,2,1,20,21,-,0.0,2.0,0.0
-506,Tottenham,Brandon,player_214572,Austin,1,1,6,10,-,0.0,2.0,0.0
-507,Man. United,Aaron,player_214590,Wan-Bissaka,2,16,1,21,4.5,0.0,2.0,0.25
-508,Leeds,Kamil,player_214987,Miazek,1,1,2,10,-,0.0,2.0,0.0
-509,Brighton,Robert,player_215059,Sánchez,1,1,36,10,-,0.0,2.0,0.0
-510,Brighton,Max,player_215062,Sanders,3,1,36,31,-,0.0,2.0,0.0
-511,Brighton,Alex,player_215066,Cochrane,2,1,36,21,-,0.0,2.0,0.0
-512,Liverpool,Elijah,player_215133,Dixon-Bonner,3,1,14,31,-,0.0,2.0,0.0
-513,Liverpool,Luis,player_215135,Longstaff,3,1,14,32,-,0.0,2.0,0.0
-514,Liverpool,,player_215136,Neco Williams,2,8,14,21,-,0.0,2.0,0.0
-515,West Ham,Alfie,player_215407,Lewis,3,1,21,32,-,0.0,2.0,0.0
-516,Leicester,Kiernan,player_215413,Dewsbury-Hall,3,1,13,31,-,0.0,2.0,0.0
-517,Leicester,Josh,player_215416,Felix-Eppiah,4,1,13,40,-,0.0,2.0,0.0
-518,West Ham,Tomas,player_215439,Soucek,3,18,21,31,5.3,0.0,2.0,0.75
-519,Leeds,Ian,player_215460,Poveda-Ocampo,3,3,2,32,4.5,0.0,2.0,0.0
-520,Wolverhampton,Austin,player_215461,Samuels,4,1,39,40,-,0.0,2.0,0.0
-521,Man. United,,player_216051,Diogo Dalot,2,3,1,21,-,0.0,2.0,0.0
-522,Wolverhampton,,player_216054,Rúben Vinagre,2,7,39,21,3.5,0.0,2.0,0.25
-523,Wolverhampton,Matija,player_216208,Sarkic,1,1,39,10,-,0.0,2.0,0.0
-524,Chelsea,Luke,player_216419,McCormick,3,1,8,31,-,0.0,2.0,0.0
-525,West Bromwich,Dara,player_216616,O'Shea,2,5,35,20,3.5,0.0,2.0,0.75
-526,Burnley,Josh,player_217401,Benson,3,1,90,31,-,0.0,2.0,0.0
-527,West Ham,Pablo,player_217593,Fornals,3,13,21,32,5.3,0.0,2.0,0.75
-528,Burnley,Jimmy,player_218023,Dunne,2,1,90,20,5.0,1.0,2.0,0.5
-529,Leicester,Çaglar,player_218031,Söyüncü,2,23,13,20,5.5,0.0,2.0,0.75
-530,West Bromwich,Jamie,player_219248,Soule,4,4,35,40,-,0.0,2.0,0.0
-531,Chelsea,,player_219256,Juan Castillo,2,1,8,21,-,0.0,2.0,0.0
-532,Chelsea,Kai,player_219847,Havertz,3,21,8,32,5.3,0.0,2.0,0.75
-533,West Ham,Issa,player_219924,Diop,2,18,21,20,4.8,0.0,2.0,0.5
-534,Liverpool,Thomas,player_219936,Clayton,2,1,14,20,-,0.0,2.0,0.0
-535,Liverpool,,player_219937,Rhys Williams,2,2,14,20,-,0.0,2.0,0.0
-536,Burnley,Bailey,player_220037,Peacock-Farrell,1,5,90,10,-,0.0,2.0,0.0
-537,Man. City,Tommy,player_220394,Doyle,3,3,43,31,-,0.0,2.0,0.0
-538,Man. City,,player_220566,Rodrigo,3,23,43,31,4.8,0.0,2.0,0.5
-539,Southampton,Michael,player_220598,Obafemi,4,8,20,40,4.5,0.0,2.0,0.0
-540,Leicester,James,player_220627,Justin,2,8,13,21,5.8,1.0,2.0,0.75
-541,West Ham,Ajibola,player_220684,Alese,2,2,21,20,-,0.0,2.0,0.0
-542,Man. United,Mason,player_220688,Greenwood,4,19,1,40,4.5,0.0,2.0,0.25
-543,West Bromwich,Rayhaan,player_220693,Tulloch,4,1,35,40,-,0.0,2.0,0.0
-544,Brighton,Jayson,player_220738,Molumby,3,1,36,31,-,0.0,2.0,0.0
-545,Aston Villa,Keinan,player_221239,Davis,4,6,7,40,4.5,0.0,2.0,0.0
-546,Crystal Palace,Sam,player_221272,Woods,2,1,31,20,-,0.0,2.0,0.0
-547,Leeds,Jack,player_221399,Harrison,3,13,2,32,5.5,1.0,2.0,0.75
-548,Leeds,Jamie,player_221610,Shackleton,3,5,2,31,5,0.0,2.0,0.0
-549,West Ham,Conor,player_222017,Coventry,3,1,21,31,-,0.0,2.0,0.0
-550,West Ham,Ben,player_222018,Johnson,2,3,21,21,5,0.0,2.0,0.0
-551,Leicester,George,player_222625,Hirst,4,2,13,40,-,0.0,2.0,0.0
-552,Everton,,player_222627,João Virgínia,1,1,11,10,-,0.0,2.0,0.0
-553,Leeds,Pascal,player_222694,Struijk,2,7,2,20,5.5,0.0,2.0,0.25
-554,Man. United,Max,player_222844,Taylor,2,1,1,20,-,0.0,2.0,0.0
-555,Newcastle,,player_223175,Matthew Longstaff,3,8,4,31,-,0.0,2.0,0.0
-556,Chelsea,Faustino,player_223332,Anjorin,3,1,8,32,-,0.0,2.0,0.0
-557,Tottenham,Jamie,player_223337,Bowden,3,1,6,31,-,0.0,2.0,0.0
-558,Arsenal,Bukayo,player_223340,Saka,4,10,3,40,5.0,0.0,2.0,0.25
-559,Aston Villa,Indiana,player_223349,Vassilev,4,4,7,40,-,0.0,2.0,0.0
-560,Brighton,Viktor,player_224117,Gyökeres,4,1,36,40,-,0.0,2.0,0.0
-561,Man. City,Ferran,player_224444,Torres,3,11,43,32,4.3,0.0,2.0,0.0
-562,Wolverhampton,Dion,player_225000,Sanderson,2,1,39,20,-,0.0,2.0,0.0
-563,Sheffield,Aaron,player_225321,Ramsdale,1,17,49,10,5.3,0.0,2.0,0.75
-564,Wolverhampton,Meritan,player_225368,Shabani,3,1,39,32,-,0.0,2.0,0.0
-565,Chelsea,Reece,player_225796,James,2,9,8,21,5.5,1.0,2.0,0.75
-566,Sheffield,Jayden,player_226182,Bogle,2,8,49,21,-,0.0,2.0,0.0
-567,Arsenal,,player_226597,Gabriel Magalhães,2,9,3,20,6.5,1.0,2.0,0.5
-568,Brighton,Yves,player_227127,Bissouma,3,10,36,31,5.5,0.0,2.0,0.5
-569,Chelsea,Edouard,player_228286,Mendy,1,16,8,10,4.5,0.0,2.0,0.25
-570,Leicester,Cengiz,player_228798,Ünder,3,14,13,32,-,0.0,2.0,0.0
-571,Aston Villa,,player_230046,Douglas Luiz,3,13,7,31,5.8,0.0,2.0,0.5
-572,Tottenham,Tanguy,player_231372,Ndombele,3,7,6,31,4.7,0.0,2.0,0.25
-573,Arsenal,Folarin,player_232223,Balogun,4,1,3,40,-,0.0,2.0,0.0
-574,Leicester,Vontae,player_232229,Daley-Campbell,2,1,13,21,-,0.0,2.0,0.0
-575,Arsenal,Tyreece,player_232233,John-Jules,4,1,3,40,-,0.0,2.0,0.0
-576,Arsenal,James,player_232234,Olayinka,3,1,3,31,-,0.0,2.0,0.0
-577,Arsenal,Matthew,player_232241,Smith,3,1,3,31,-,0.0,2.0,0.0
-578,Wolverhampton,Taylor,player_232361,Perry,3,1,39,32,-,0.0,2.0,0.0
-579,West Ham,Emmanuel,player_232387,Longelo,4,2,21,40,-,0.0,2.0,0.0
-580,West Ham,Nathan,player_232398,Trott,1,1,21,10,-,0.0,2.0,0.0
-581,Crystal Palace,Eberechi,player_232413,Eze,3,5,31,32,5.2,0.0,2.0,0.25
-582,Crystal Palace,Nathan,player_232423,Ferguson,2,1,31,20,-,0.0,2.0,0.0
-583,West Bromwich,Rekeem,player_232427,Harper,3,3,35,31,4.5,0.0,2.0,0.0
-584,Tottenham,Jubril,player_232460,Okedina,2,1,6,21,-,0.0,2.0,0.0
-585,Aston Villa,Jacob,player_232653,Ramsey,3,1,7,32,5,0.0,2.0,0.0
-586,Liverpool,Ben,player_232758,Winterbottom,1,1,14,10,-,0.0,2.0,0.0
-587,Brighton,Ryan,player_232774,Longman,3,1,36,32,-,0.0,2.0,0.0
-588,Man. United,Di'Shon,player_232781,Bernard,2,1,1,20,-,0.0,2.0,0.0
-589,West Bromwich,Conor,player_232787,Gallagher,3,1,35,31,-,0.0,2.0,0.0
-590,Brighton,Tariq,player_232792,Lamptey,2,8,36,21,5.2,0.0,2.0,0.75
-591,Southampton,Kayne,player_232797,Ramsay,2,1,20,21,-,0.0,2.0,0.0
-592,Everton,Anthony,player_232826,Gordon,3,7,11,32,-,0.0,2.0,0.0
-593,Leicester,Thakgalo,player_232881,Leshabela,3,1,13,32,-,0.0,2.0,0.0
-594,Liverpool,Kamil,player_232904,Grabara,1,1,14,10,-,0.0,2.0,0.0
-595,Liverpool,Liam,player_232905,Millar,4,1,14,40,-,0.0,2.0,0.0
-596,Sheffield,George,player_232923,Broadbent,3,1,49,32,-,0.0,2.0,0.0
-597,Man. United,D'Mani,player_232924,Mellor,4,1,1,40,-,0.0,2.0,0.0
-598,Man. United,James,player_232928,Garner,3,1,1,31,-,0.0,2.0,0.0
-599,Man. United,Ethan,player_232929,Laird,2,1,1,21,-,0.0,2.0,0.0
-600,Man. United,Dylan,player_232930,Levitt,3,1,1,31,-,0.0,2.0,0.0
-601,Man. United,Brandon,player_232937,Williams,2,8,1,21,-,0.0,2.0,0.0
-602,Newcastle,Lewis,player_232960,Cass,2,1,4,20,-,0.0,2.0,0.0
-603,Newcastle,Kelland,player_232977,Watts,2,1,4,20,-,0.0,2.0,0.0
-604,Newcastle,Jack,player_232979,Young,3,1,4,31,-,0.0,2.0,0.0
-605,Brighton,Aaron,player_233425,Connolly,4,12,36,40,4.8,1.0,2.0,0.5
-606,Liverpool,Leighton,player_233489,Clarkson,3,1,14,31,-,0.0,2.0,0.0
-607,Crystal Palace,Giovanni,player_234720,McGregor,3,1,31,31,-,0.0,2.0,0.0
-608,Tottenham,Juan,player_234908,Foyth,2,1,6,20,-,0.0,2.0,0.0
-609,Brighton,Steven,player_235382,Alzate,3,5,36,32,5.5,0.0,2.0,0.75
-610,Crystal Palace,Nikola,player_235599,Tavares,2,1,31,20,-,0.0,2.0,0.0
-611,Newcastle,Elias,player_240795,Sorensen,4,1,4,40,-,0.0,2.0,0.0
-612,Everton,Moise,player_242058,Kean,4,7,11,40,4.3,0.0,2.0,0.0
-613,Arsenal,Matteo,player_242166,Guendouzi,3,6,3,31,-,0.0,2.0,0.0
-614,Brighton,Alexis,player_243016,Mac Allister,3,6,36,32,-,0.0,2.0,0.0
-615,Liverpool,Jake,player_243343,Cain,3,1,14,32,-,0.0,2.0,0.0
-616,Sheffield,Regan,player_243413,Slater,3,2,49,31,-,0.0,2.0,0.0
-617,Chelsea,Billy,player_243568,Gilmour,3,5,8,31,-,0.0,2.0,0.0
-618,West Ham,,player_243710,Bernardo Rosa,3,1,21,31,-,0.0,2.0,0.0
-619,Leicester,Luke,player_244619,Thomas,2,2,13,21,-,0.0,2.0,0.0
-620,Crystal Palace,Tyrick,player_244723,Mitchell,2,3,31,21,5.3,0.0,2.0,0.75
-621,Brighton,Teddy,player_244848,Jenks,3,1,36,31,-,0.0,2.0,0.0
-622,Man. City,Cole,player_244851,Palmer,3,1,43,32,-,0.0,2.0,0.0
-623,Tottenham,Malachi,player_244853,Fagan-Walcott,2,1,6,20,-,0.0,2.0,0.0
-624,Man. United,Teden,player_244856,Mengi,2,1,1,20,-,0.0,2.0,0.0
-625,Fulham,Fabio,player_244858,Carvalho,3,3,54,32,-,0.0,2.0,0.0
-626,Man. City,Taylor,player_245719,Harwood-Bellis,2,1,43,20,-,0.0,2.0,0.0
-627,Wolverhampton,Luke,player_245923,Cundle,3,1,39,32,-,0.0,2.0,0.0
-628,Wolverhampton,,player_247632,Pedro Neto,3,10,39,32,4.8,0.0,2.0,0.75
-629,Man. United,Arnau,player_248506,Puigmal Martínez,3,1,1,31,-,0.0,2.0,0.0
-630,Brighton,Warren,player_248719,O'Hora,2,1,36,20,-,0.0,2.0,0.0
-631,Man. United,Nathan,player_250370,Bishop,1,1,1,10,-,0.0,2.0,0.0
-632,Wolverhampton,Owen,player_250604,Otasowie,3,1,39,31,-,0.0,2.0,0.0
-633,Sheffield,Sam,player_421015,Graham,2,1,49,20,-,0.0,2.0,0.0
-634,Leicester,Sidnei,player_421796,Tavares,3,1,13,31,-,0.0,2.0,0.0
-635,Southampton,Will,player_422306,Ferry,3,1,20,32,-,0.0,2.0,0.0
-636,Liverpool,Jack,player_430990,Bearne,3,1,14,32,-,0.0,2.0,0.0
-637,Southampton,Moussa,player_431131,Djenepo,3,7,20,32,4.7,0.0,2.0,0.5
-638,Man. City,Eric,player_432656,García,2,8,43,20,3.0,0.0,2.0,0.25
-639,Man. United,Ethan,player_432819,Galbraith,3,1,1,32,-,0.0,2.0,0.0
-640,Wolverhampton,Terry,player_432850,Taylor,3,1,39,31,-,0.0,2.0,0.0
-641,Newcastle,Daniel,player_432927,Langley,1,2,4,10,-,0.0,2.0,0.0
-642,Brighton,Jack,player_432945,Spong,3,1,36,31,-,0.0,2.0,0.0
-643,Liverpool,Vitezslav,player_432987,Jaros,1,1,14,10,-,0.0,2.0,0.0
-644,Liverpool,James,player_432988,Norris,2,1,14,21,-,0.0,2.0,0.0
-645,Liverpool,Yasser,player_432990,Larouci,2,1,14,21,-,0.0,2.0,0.0
-646,Burnley,Dwight,player_433154,McNeil,3,19,90,32,5.0,0.0,2.0,0.5
-647,Brighton,Haydon,player_433589,Roberts,2,1,36,20,-,0.0,2.0,0.0
-648,Aston Villa,Cameron,player_433979,Archer,4,1,7,40,-,0.0,2.0,0.0
-649,Leicester,Jakub,player_436680,Stolarczyk,1,1,13,10,-,0.0,2.0,0.0
-650,Leeds,Robbie,player_436760,Gotts,3,1,2,31,-,0.0,2.0,0.0
-651,Leeds,Illan,player_437495,Meslier,1,7,2,10,5.3,0.0,2.0,0.75
-652,Wolverhampton,Lewis,player_437688,Richards,2,1,39,20,-,0.0,2.0,0.0
-653,Wolverhampton,,player_437858,Vitinha,3,7,39,32,5,0.0,2.0,0.0
-654,Brighton,Romaric,player_439978,Yapi,2,1,36,21,-,0.0,2.0,0.0
-655,Chelsea,Henry,player_440322,Lawrence,2,3,8,21,-,0.0,2.0,0.0
-656,Chelsea,Armando,player_440323,Broja,4,1,8,40,-,0.0,2.0,0.0
-657,West Ham,Harrison,player_441024,Ashby,2,2,21,21,-,0.0,2.0,0.0
-658,Man. City,Alpha Richard,player_441027,Dionkou,2,1,43,21,-,0.0,2.0,0.0
-659,Wolverhampton,Ki-Jana,player_441271,Hoever,2,1,39,21,5,0.0,2.0,0.0
-660,Chelsea,Ian,player_441302,Maatsen,2,1,8,21,-,0.0,2.0,0.0
-661,Brighton,Ulrich,player_442307,Eneme,3,6,36,32,-,0.0,2.0,0.0
-662,Tottenham,Jack,player_443261,Clarke,3,3,6,32,-,0.0,2.0,0.0
-663,Arsenal,,player_444145,Gabriel Martinelli,3,8,3,32,-,0.0,2.0,0.0
-664,Liverpool,Sepp,player_444765,van den Berg,2,1,14,20,-,0.0,2.0,0.0
-665,Liverpool,Harvey,player_444884,Elliott,3,3,14,32,-,0.0,2.0,0.0
-666,Man. United,Matej,player_446189,Kovar,1,1,1,10,-,0.0,2.0,0.0
-667,West Ham,Joseph,player_447879,Anang,1,1,21,10,-,0.0,2.0,0.0
-668,Wolverhampton,Andreas,player_448487,Söndergaard,1,1,39,10,-,0.0,2.0,0.0
-669,Tottenham,Harvey,player_448791,White,3,1,6,31,-,0.0,2.0,0.0
-670,Man. United,Anthony,player_449434,Elanga,4,3,1,40,-,0.0,2.0,0.0
-671,Southampton,Alexandre,player_449781,Jankewitz,3,1,20,31,-,0.0,2.0,0.0
-672,Brighton,Lars,player_449869,Dendoncker,2,1,36,20,-,0.0,2.0,0.0
-673,Man. City,Adrián,player_449926,Bernabé,3,1,43,32,-,0.0,2.0,0.0
-674,Burnley,Lukas,player_449974,Jensen,1,3,90,10,-,0.0,2.0,0.0
-675,Wolverhampton,,player_449988,Fábio Silva,4,11,39,40,4.8,0.0,2.0,0.0
-676,Southampton,Mohammed,player_450527,Salisu,2,13,20,20,-,0.0,2.0,0.0
-677,Chelsea,Myles,player_450539,Peart-Harris,3,1,8,32,-,0.0,2.0,0.0
-678,Leeds,Leif,player_455084,Davis,2,3,2,21,-,0.0,2.0,0.0
-679,West Ham,,player_459373,Gonçalo Cardoso,2,1,21,20,-,0.0,2.0,0.0
-680,Wolverhampton,Chem,player_461026,Campbell,3,1,39,32,-,0.0,2.0,0.0
-681,Burnley,Lewis,player_461096,Richardson,4,1,90,40,-,0.0,2.0,0.0
-682,Burnley,Bobby,player_461102,Thomas,2,1,90,20,-,0.0,2.0,0.0
-683,Tottenham,Dennis,player_461195,Cirkin,2,1,6,21,-,0.0,2.0,0.0
-684,Burnley,Max,player_461450,Thompson,4,1,90,40,-,0.0,2.0,0.0
-685,Leicester,Ethan,player_461561,Fitzhugh,3,1,13,31,-,0.0,2.0,0.0
-686,Liverpool,Thomas,player_461601,Hill,3,1,14,32,-,0.0,2.0,0.0
-687,Liverpool,Layton,player_461609,Stewart,4,1,14,40,-,0.0,2.0,0.0
-688,Brighton,Peter,player_461870,Gwargis,3,1,36,32,-,0.0,2.0,0.0
-689,Arsenal,William,player_462424,Saliba,2,8,3,20,-,0.0,2.0,0.0
-690,Leeds,Joe,player_462635,Gelhardt,4,3,2,40,-,0.0,2.0,0.0
-691,Man. City,Liam,player_463034,Delap,4,2,43,40,4,0.0,2.0,0.0
-692,Leeds,Elia,player_463912,Caprile,1,6,2,10,-,0.0,2.0,0.0
-693,Crystal Palace,Brandon,player_466955,Pierrick,3,1,31,32,-,0.0,2.0,0.0
-694,Leeds,Alfie,player_467113,McCalmont,3,2,2,31,-,0.0,2.0,0.0
-695,Leeds,Oliver,player_467114,Casey,2,1,2,20,-,0.0,2.0,0.0
-696,Wolverhampton,Leonardo,player_474003,Campana,4,2,39,40,-,0.0,2.0,0.0
-697,Sheffield,Kyron,player_478449,Gordon,2,2,49,20,-,0.0,2.0,0.0
-698,Leeds,Mateusz,player_480216,Bogusz,3,4,2,31,-,0.0,2.0,0.0
-699,Everton,Jarrad,player_480455,Branthwaite,2,5,11,20,-,0.0,2.0,0.0
-700,Liverpool,Billy,player_480818,Koumetio,2,1,14,20,-,0.0,2.0,0.0
-701,Sheffield,Zak,player_481371,Brunt,3,1,49,32,-,0.0,2.0,0.0
-702,Wolverhampton,Christian,player_481626,Marques,2,1,39,20,-,0.0,2.0,0.0
-703,Sheffield,Antwoine,player_487836,Hackford,4,1,49,40,-,0.0,2.0,0.0
-704,Tottenham,Dane,player_490145,Scarlett,4,1,6,40,-,0.0,2.0,0.0
-705,Chelsea,Harvey,player_491785,Vale,3,1,8,31,-,0.0,2.0,0.0
-706,Leeds,Charlie,player_492373,Cresswell,2,3,2,20,-,0.0,2.0,0.0
-707,Everton,Niels,player_495542,Nkounkou,2,5,11,21,-,0.0,2.0,0.0
-708,Tottenham,Alfie,player_496179,Devine,3,1,6,31,-,0.0,2.0,0.0
-709,Leicester,Wanya,player_513393,Madavidua,3,3,13,31,-,0.0,2.0,0.0
+50,West Ham,Angelo,player_40669,Ogbonna,2,17,21,20,5.2,2.0,2.0,0.9400000000000001
+51,Man. United,Edinson,player_40720,Cavani,4,15,1,40,5.1,3.0,2.0,0.17
+52,Crystal Palace,Mamadou,player_40784,Sakho,2,5,31,20,4.6,0.0,2.0,0.17
+53,Crystal Palace,Vicente,player_40836,Guaita,1,15,31,10,5.2,0.0,2.0,1.0
+54,Burnley,Dale,player_40845,Stephens,3,5,90,31,4.7,0.0,2.0,0.17
+55,West Bromwich,Branislav,player_41135,Ivanovic,2,9,35,20,4.5,0.0,2.0,0.44
+56,Arsenal,,player_41270,David Luiz,2,8,3,20,4.6,0.0,2.0,0.39
+57,Chelsea,César,player_41328,Azpilicueta,2,7,8,21,4.9,0.0,2.0,0.33
+58,Burnley,Kevin,player_41674,Long,2,5,90,20,4.1,0.0,2.0,0.33
+59,Liverpool,Georginio,player_41733,Wijnaldum,3,23,14,32,5.5,1.0,2.0,0.8300000000000001
+60,Everton,Fabian,player_41823,Delph,3,7,11,31,5.3,0.0,2.0,0.11
+61,West Bromwich,Kieran,player_42427,Gibbs,2,9,35,21,4.6,0.0,2.0,0.28
+62,Crystal Palace,Stephen,player_42525,Henderson,1,1,31,10,-,0.0,2.0,0.0
+63,Man. United,Sergio,player_42899,Romero,1,1,1,10,-,0.0,2.0,0.0
+64,Newcastle,Henri,player_43521,Saivet,3,1,4,32,-,0.0,2.0,0.0
+65,Man. United,Juan,player_43670,Mata,3,7,1,32,5.6,0.0,2.0,0.22
+66,Chelsea,Olivier,player_44346,Giroud,4,13,8,40,4.9,3.0,2.0,0.22
+67,Burnley,Jay,player_44683,Rodriguez,4,9,90,40,4.2,0.0,2.0,0.33
+68,Burnley,Ashley,player_44699,Barnes,4,11,90,40,4.4,1.0,2.0,0.56
+69,Tottenham,Moussa,player_45268,Sissoko,3,12,6,31,5.2,0.0,2.0,0.67
+70,Sheffield,John,player_47247,Fleck,3,9,49,32,4.9,0.0,2.0,0.56
+71,Aston Villa,Neil,player_47390,Taylor,2,4,7,21,-,0.0,2.0,0.0
+72,Arsenal,,player_47431,Willian,4,9,3,40,4.9,0.0,2.0,0.67
+73,Brighton,Jason,player_49262,Steele,1,7,36,10,-,0.0,2.0,0.0
+74,Sheffield,Jack,player_49384,Rodwell,3,1,49,31,-,0.0,2.0,0.0
+75,Crystal Palace,James,player_49413,Tomkins,2,3,31,20,4.9,0.0,2.0,0.17
+76,West Bromwich,Hal,player_49440,Robson-Kanu,4,6,35,40,4.5,0.0,2.0,0.0
+77,West Bromwich,Jake,player_49944,Livermore,3,7,35,31,4.3,0.0,2.0,0.56
+78,West Bromwich,Kamil,player_49957,Grosicki,3,5,35,32,4.5,0.0,2.0,0.0
+79,West Bromwich,David,player_50093,Button,1,7,35,10,-,0.0,2.0,0.0
+80,Brighton,Danny,player_50175,Welbeck,4,14,36,40,5.1,2.0,2.0,0.39
+81,West Bromwich,Matt,player_50229,Phillips,3,9,35,32,4.4,0.0,2.0,0.39
+82,Newcastle,Jonjo,player_50232,Shelvey,3,9,4,31,5.0,0.0,2.0,0.44
+83,Crystal Palace,James,player_50471,McArthur,3,12,31,31,5.3,0.0,2.0,0.8300000000000001
+84,Crystal Palace,James,player_50472,McCarthy,3,5,31,31,4.9,0.0,2.0,0.22
+85,Chelsea,,player_51090,Thiago Silva,2,19,8,20,5.4,2.0,2.0,0.67
+86,Burnley,Ben,player_51927,Mee,2,13,90,20,5.6,1.0,2.0,0.56
+87,Leicester,Marc,player_51938,Albrighton,3,9,13,32,5.4,0.0,2.0,0.39
+88,Man. United,David,player_51940,de Gea,1,15,1,10,5.1,0.0,2.0,0.8300000000000001
+89,Arsenal,Pierre-Emerick,player_54694,Aubameyang,4,28,3,40,5.1,3.0,2.0,0.89
+90,Crystal Palace,Christian,player_54861,Benteke,4,12,31,40,4.8,3.0,2.0,0.39
+91,Crystal Palace,Cheikhou,player_55037,Kouyaté,3,14,31,31,5,1.0,2.0,1.0
+92,Fulham,Kevin,player_55038,McDonald,3,1,54,31,-,0.0,2.0,0.0
+93,Everton,Gylfi,player_55422,Sigurdsson,3,17,11,32,5.3,2.0,2.0,0.56
+94,Everton,Yannick,player_55452,Bolasie,4,1,11,40,-,0.0,2.0,0.0
+95,West Ham,Aaron,player_55459,Cresswell,2,18,21,21,5.5,0.0,2.0,0.9400000000000001
+96,Crystal Palace,Joel,player_55494,Ward,2,6,31,21,4.8,0.0,2.0,0.5
+97,Tottenham,Toby,player_55605,Alderweireld,2,14,6,20,5.4,1.0,2.0,0.61
+98,Leeds,Liam,player_55914,Cooper,2,10,2,20,4.7,1.0,2.0,0.61
+99,West Ham,Andriy,player_56377,Yarmolenko,4,5,21,40,4.7,0.0,2.0,0.06
+100,Liverpool,Jordan,player_56979,Henderson,3,18,14,31,5.8,1.0,2.0,0.72
+101,Newcastle,Matt,player_56983,Ritchie,2,7,4,21,4.9,0.0,2.0,0.33
+102,Newcastle,Federico,player_57145,Fernández,2,10,4,20,4.9,0.0,2.0,0.89
+103,Crystal Palace,Nathaniel,player_57328,Clyne,2,8,31,21,4.7,0.0,2.0,0.5
+104,Everton,Jonas,player_57513,Lössl,1,3,11,10,-,0.0,2.0,0.0
+105,West Ham,Michail,player_57531,Antonio,4,11,21,40,5.2,3.0,2.0,0.39
+106,Southampton,Alex,player_58376,McCarthy,1,22,20,10,5.6,0.0,2.0,0.89
+107,Man. United,Odion,player_58498,Ighalo,4,2,1,40,4,0.0,2.0,0.0
+108,Man. City,Kyle,player_58621,Walker,2,16,43,21,5.0,1.0,2.0,0.61
+109,Crystal Palace,Martin,player_58786,Kelly,2,3,31,21,-,0.0,2.0,0.0
+110,Arsenal,,player_58822,Cédric Soares,2,3,3,21,5,0.0,2.0,0.0
+111,Newcastle,Ciaran,player_58845,Clark,2,13,4,20,5.0,1.0,2.0,0.5
+112,Man. United,Marcos,player_58893,Rojo,2,1,1,20,-,0.0,2.0,0.0
+113,Crystal Palace,Connor,player_59125,Wickham,4,1,31,40,-,0.0,2.0,0.0
+114,Newcastle,Karl,player_59735,Darlow,1,15,4,10,5.6,0.0,2.0,0.9400000000000001
+115,Man. City,Ilkay,player_59859,Gündogan,3,20,43,31,6.0,3.0,2.0,0.5
+116,West Bromwich,Kyle,player_59940,Bartley,2,8,35,20,4.7,1.0,2.0,0.44
+117,Everton,Séamus,player_59949,Coleman,2,7,11,21,5.1,0.0,2.0,0.39
+118,Arsenal,Alexandre,player_59966,Lacazette,4,21,3,40,5.3,7.0,2.0,0.61
+119,Everton,James,player_60025,Rodríguez,3,19,11,32,5.9,3.0,2.0,0.61
+120,West Ham,Craig,player_60232,Dawson,2,3,21,20,5.5,0.0,2.0,0.11
+121,Crystal Palace,Andros,player_60252,Townsend,3,13,31,32,5.9,1.0,2.0,0.78
+122,Brighton,Pascal,player_60307,Groß,3,14,36,32,5.4,2.0,2.0,0.39
+123,Burnley,Ashley,player_60551,Westwood,3,14,90,31,5.1,1.0,2.0,0.89
+124,Burnley,Jóhann,player_60586,Gudmundsson,3,5,90,32,5.1,0.0,2.0,0.22
+125,Burnley,Chris,player_60689,Wood,4,17,90,40,4.5,3.0,2.0,0.89
+126,Liverpool,,player_60706,Adrián,1,3,14,10,2.8,0.0,2.0,0.11
+127,Liverpool,Joel,player_60914,Matip,2,16,14,20,5.8,1.0,2.0,0.39
+128,Man. City,Kevin,player_61366,De Bruyne,3,36,43,32,6.3,3.0,2.0,0.78
+129,Liverpool,,player_61558,Thiago,3,7,14,31,5.0,0.0,2.0,0.11
+130,West Bromwich,Romaine,player_61600,Sawyers,3,12,35,32,4.6,0.0,2.0,0.72
+131,Chelsea,Daniel,player_61603,Drinkwater,3,1,8,31,-,0.0,2.0,0.0
+132,Fulham,Maxime,player_61739,Le Marchand,2,3,54,20,4.8,0.0,2.0,0.06
+133,Man. City,,player_61898,Mix Diskerud,3,1,43,31,-,0.0,2.0,0.0
+134,Fulham,Stefan,player_61916,Johansen,3,1,54,31,-,0.0,2.0,0.0
+135,Man. United,Nemanja,player_62398,Matic,3,8,1,31,5.5,0.0,2.0,0.39
+136,Tottenham,Erik,player_62974,Lamela,3,6,6,32,5.1,0.0,2.0,0.11
+137,Sheffield,Enda,player_63426,Stevens,2,9,49,21,4.4,0.0,2.0,0.78
+138,Brighton,Davy,player_66242,Pröpper,3,3,36,31,4.8,0.0,2.0,0.11
+139,Leeds,Luke,player_66588,Ayling,2,11,2,21,4.9,0.0,2.0,0.9400000000000001
+140,Everton,Cenk,player_66838,Tosun,4,6,11,40,4.4,0.0,2.0,0.0
+141,Crystal Palace,Luka,player_66975,Milivojevic,3,10,31,31,5.3,0.0,2.0,0.56
+142,Newcastle,Martin,player_67089,Dubravka,1,5,4,10,-,0.0,2.0,0.0
+143,Wolverhampton,,player_67184,Roderick Miranda,2,1,39,20,-,0.0,2.0,0.0
+144,Liverpool,Xherdan,player_68312,Shaqiri,4,4,14,40,5.5,0.0,2.0,0.0
+145,Burnley,Matthew,player_68983,Lowton,2,12,90,21,5.0,0.0,2.0,0.67
+146,Arsenal,Shkodran,player_69140,Mustafi,2,6,3,20,5,0.0,2.0,0.0
+147,Leeds,Mateusz,player_72222,Klich,3,16,2,32,5.1,3.0,2.0,0.9400000000000001
+148,Fulham,Denis,player_72681,Odoi,2,3,54,21,3.5,0.0,2.0,0.17
+149,Man. United,Paul,player_74208,Pogba,3,13,1,31,5.1,2.0,2.0,0.56
+150,Crystal Palace,Patrick,player_74230,van Aanholt,2,14,31,21,4.8,0.0,2.0,0.5
+151,Sheffield,Simon,player_74854,Moore,1,1,49,10,-,0.0,2.0,0.0
+152,Newcastle,Callum,player_75115,Wilson,4,28,4,40,5.3,8.0,2.0,0.8300000000000001
+153,Fulham,Tom,player_76357,Cairney,3,15,54,32,5.6,1.0,2.0,0.5
+154,Man. United,Phil,player_76359,Jones,2,1,1,20,-,0.0,2.0,0.0
+155,Southampton,Oriol,player_78056,Romeu,3,14,20,31,5.5,1.0,2.0,0.8300000000000001
+156,West Bromwich,Jonathan,player_78603,Bond,1,1,35,10,-,0.0,2.0,0.0
+157,Tottenham,Harry,player_78830,Kane,4,43,6,40,6.2,11.0,2.0,0.9400000000000001
+158,Brighton,Dan,player_78916,Burn,2,8,36,20,4.5,0.0,2.0,0.5
+159,Aston Villa,Jed,player_79852,Steer,1,7,7,10,-,0.0,2.0,0.0
+160,Sheffield,Oliver,player_79934,Norwood,3,8,49,31,4.7,0.0,2.0,0.39
+161,Crystal Palace,Jordan,player_80146,Ayew,4,10,31,40,4.4,1.0,2.0,0.44
+162,Leeds,Adam,player_80179,Forshaw,3,1,2,31,-,0.0,2.0,0.0
+163,Arsenal,Bernd,player_80201,Leno,1,14,3,10,5.3,0.0,2.0,1.0
+164,Tottenham,Serge,player_80226,Aurier,2,10,6,21,5.2,1.0,2.0,0.5
+165,Leeds,,player_80954,Rodrigo,4,11,2,40,4.9,3.0,2.0,0.5
+166,West Ham,Ryan,player_81012,Fredericks,2,5,21,21,5.1,0.0,2.0,0.22
+167,Burnley,Matej,player_81183,Vydra,4,6,90,40,4.5,0.0,2.0,0.06
+168,Newcastle,Mark,player_81441,Gillespie,1,7,4,10,-,0.0,2.0,0.0
+169,Liverpool,Alex,player_81880,Oxlade-Chamberlain,3,8,14,32,5.0,0.0,2.0,0.06
+170,Sheffield,Wes,player_82143,Foderingham,1,3,49,10,-,0.0,2.0,0.0
+171,Chelsea,Marcos,player_82263,Alonso,2,4,8,21,4.3,0.0,2.0,0.17
+172,Crystal Palace,Wilfried,player_82403,Zaha,4,20,31,40,5.4,8.0,2.0,0.89
+173,Fulham,Tim,player_82514,Ream,2,5,54,20,4.3,0.0,2.0,0.28
+174,Sheffield,George,player_82691,Baldock,2,11,49,21,4.5,0.0,2.0,0.89
+175,Southampton,Nathan,player_83283,Redmond,3,13,20,32,5.2,1.0,2.0,0.17
+176,Brighton,Lewis,player_83299,Dunk,2,14,36,20,5.0,2.0,2.0,0.8300000000000001
+177,Newcastle,Jeff,player_83314,Hendrick,3,10,4,32,5.2,2.0,2.0,0.61
+178,Sheffield,Jack,player_83427,Robinson,2,7,49,21,4.4,0.0,2.0,0.33
+179,Fulham,Alphonse,player_84182,Areola,1,22,54,10,5.7,0.0,2.0,0.8300000000000001
+180,Arsenal,Granit,player_84450,Xhaka,3,15,3,31,5.2,1.0,2.0,0.72
+181,Fulham,Michael,player_84915,Hector,2,5,54,20,3.8,0.0,2.0,0.17
+182,Southampton,Danny,player_84939,Ings,4,29,20,40,5.8,7.0,2.0,0.67
+183,Aston Villa,Conor,player_85242,Hourihane,3,7,7,31,5.8,1.0,2.0,0.17
+184,Chelsea,,player_85955,Jorginho,3,8,8,31,5.4,3.0,2.0,0.39
+185,Tottenham,,player_85971,Son Heung-Min,4,44,6,40,6.3,12.0,2.0,0.9400000000000001
+186,Crystal Palace,Jeffrey,player_86417,Schlupp,2,16,31,21,5.1,2.0,2.0,0.67
+187,Leicester,Nampalys,player_86881,Mendy,3,11,13,31,5.3,0.0,2.0,0.72
+188,West Ham,Manuel,player_86934,Lanzini,3,7,21,32,5.4,1.0,2.0,0.06
+189,Everton,Muhamed,player_87447,Besic,3,1,11,31,-,0.0,2.0,0.0
+190,Tottenham,Matt,player_87835,Doherty,2,10,6,21,5.0,0.0,2.0,0.44
+191,Leeds,Stuart,player_87873,Dallas,2,17,2,21,5.1,3.0,2.0,0.9400000000000001
+192,Aston Villa,Lovre,player_88175,Kalinic,1,1,7,10,-,0.0,2.0,0.0
+193,Aston Villa,Ross,player_88894,Barkley,3,9,7,32,5.8,2.0,2.0,0.33
+194,Southampton,Jack,player_88900,Stephens,2,7,20,20,4.7,0.0,2.0,0.33
+195,Newcastle,Ryan,player_90105,Fraser,3,7,4,32,5.1,0.0,2.0,0.17
+196,Burnley,Robbie,player_90517,Brady,3,13,90,31,5.6,1.0,2.0,0.44
+197,Wolverhampton,Willy,player_90585,Boly,2,8,39,20,4.9,0.0,2.0,0.67
+198,Southampton,Stuart,player_91047,Armstrong,3,22,20,32,5.5,2.0,2.0,0.72
+199,Chelsea,Mateo,player_91651,Kovacic,3,11,8,32,5.2,0.0,2.0,0.44
+200,Liverpool,,player_92217,Roberto Firmino,4,24,14,40,5.3,5.0,2.0,0.9400000000000001
+201,Fulham,Neeskens,player_92259,Kebano,3,4,54,32,4.9,0.0,2.0,0.06
+202,Arsenal,Pablo,player_92371,Marí,2,3,3,20,5.5,0.0,2.0,0.17
+203,Southampton,Jannik,player_93100,Vestergaard,2,20,20,20,5.7,3.0,2.0,0.67
+204,Tottenham,Eric,player_93264,Dier,3,15,6,31,5.3,0.0,2.0,0.89
+205,Brighton,Florin,player_93284,Andone,4,2,36,40,-,0.0,2.0,0.0
+206,Wolverhampton,Conor,player_94147,Coady,2,13,39,20,4.8,0.0,2.0,0.9400000000000001
+207,Crystal Palace,Michy,player_94245,Batshuayi,4,7,31,40,4.6,0.0,2.0,0.22
+208,Leicester,Danny,player_95463,Ward,1,7,13,10,-,0.0,2.0,0.0
+209,Man. United,Harry,player_95658,Maguire,2,22,1,20,5.3,1.0,2.0,0.9400000000000001
+210,Tottenham,,player_95715,Lucas Moura,3,9,6,32,4.6,1.0,2.0,0.22
+211,Fulham,Bobby,player_96994,De Cordova-Reid,3,17,54,32,5.2,4.0,2.0,0.67
+212,Liverpool,Virgil,player_97032,van Dijk,2,6,14,20,4.6,1.0,2.0,0.28
+213,Man. City,John,player_97299,Stones,2,12,43,20,5.9,0.0,2.0,0.44
+214,Arsenal,Héctor,player_98745,Bellerín,2,8,3,21,4.7,0.0,2.0,0.89
+215,Burnley,Nick,player_98747,Pope,1,27,90,10,5.7,0.0,2.0,0.8300000000000001
+216,Aston Villa,Emiliano,player_98980,Martínez,1,21,7,10,5.9,0.0,2.0,0.8300000000000001
+217,Everton,,player_100649,Bernard,3,7,11,32,5.0,1.0,2.0,0.11
+218,Fulham,Joe,player_101105,Bryan,2,8,54,21,4.7,0.0,2.0,0.22
+219,Newcastle,Jamaal,player_101148,Lascelles,2,8,4,20,4.9,0.0,2.0,0.44
+220,Southampton,James,player_101178,Ward-Prowse,3,17,20,32,5.9,4.0,2.0,0.9400000000000001
+221,Arsenal,Calum,player_101184,Chambers,2,1,3,20,-,0.0,2.0,0.0
+222,Everton,Lucas,player_101188,Digne,2,5,11,21,5.3,0.0,2.0,0.5
+223,Man. United,,player_101582,Fred,3,18,1,32,5.7,0.0,2.0,0.56
+224,Leicester,Jamie,player_101668,Vardy,4,49,13,40,5.8,11.0,2.0,0.78
+225,West Bromwich,Sam,player_101982,Johnstone,1,16,35,10,5.0,0.0,2.0,0.9400000000000001
+226,Wolverhampton,Raúl,player_102057,Jiménez,4,19,39,40,5.2,4.0,2.0,0.56
+227,Chelsea,Antonio,player_102380,Rüdiger,2,6,8,20,5.8,0.0,2.0,0.11
+228,Man. City,Benjamin,player_102826,Mendy,2,8,43,21,4.6,1.0,2.0,0.33
+229,Tottenham,Paulo,player_102884,Gazzaniga,1,3,6,10,-,0.0,2.0,0.0
+230,Man. City,Riyad,player_103025,Mahrez,3,26,43,32,5.2,4.0,2.0,0.56
+231,Chelsea,Kurt,player_103192,Zouma,2,24,8,20,5.7,4.0,2.0,0.8300000000000001
+232,Burnley,Charlie,player_103914,Taylor,2,12,90,21,4.9,0.0,2.0,0.8300000000000001
+233,Man. City,Raheem,player_103955,Sterling,4,35,43,40,5.4,4.0,2.0,0.72
+234,Newcastle,Dwight,player_104547,Gayle,4,8,4,40,5,1.0,2.0,0.0
+235,Newcastle,Christian,player_104953,Atsu,3,1,4,32,-,0.0,2.0,0.0
+236,Leeds,Ezgjan,player_105377,Alioski,2,13,2,21,4.9,2.0,2.0,0.67
+237,Crystal Palace,Jack,player_105666,Butland,1,7,31,10,-,0.0,2.0,0.0
+238,West Ham,Arthur,player_105717,Masuaku,2,8,21,21,4.9,0.0,2.0,0.56
+239,Everton,Michael,player_106611,Keane,2,16,11,20,5.3,3.0,2.0,0.89
+240,Leeds,Patrick,player_106617,Bamford,4,36,2,40,5.5,10.0,2.0,0.9400000000000001
+241,Newcastle,Paul,player_106618,Dummett,2,2,4,20,4.8,0.0,2.0,0.11
+242,Man. United,Luke,player_106760,Shaw,2,9,1,21,5.0,0.0,2.0,0.67
+243,Leicester,Dennis,player_106837,Praet,3,8,13,32,5.2,1.0,2.0,0.5
+244,Wolverhampton,Romain,player_107613,Saïss,2,11,39,20,5.2,3.0,2.0,0.72
+245,West Bromwich,Conor,player_108053,Townsend,2,6,35,21,5.0,0.0,2.0,0.44
+246,Aston Villa,Björn,player_108156,Engels,2,2,7,20,-,0.0,2.0,0.0
+247,Sheffield,John,player_108416,Egan,2,10,49,20,4.4,0.0,2.0,0.9400000000000001
+248,Brighton,Christian,player_108813,Walton,1,1,36,10,-,0.0,2.0,0.0
+249,Tottenham,Dele,player_108823,Alli,3,7,6,32,4.9,0.0,2.0,0.06
+250,Man. United,Jesse,player_109322,Lingard,3,3,1,32,-,0.0,2.0,0.0
+251,Brighton,Solly,player_109345,March,3,10,36,32,5.0,2.0,2.0,0.8300000000000001
+252,Fulham,Terence,player_109434,Kongolo,2,3,54,20,-,0.0,2.0,0.0
+253,Newcastle,Javier,player_109528,Manquillo,2,7,4,21,4.8,0.0,2.0,0.28
+254,Chelsea,,player_109533,Emerson,2,6,8,21,5,0.0,2.0,0.0
+255,Sheffield,Kean,player_109638,Bryan,2,7,49,20,4.5,0.0,2.0,0.11
+256,Fulham,Tosin,player_109646,Adarabioyo,2,13,54,20,5.4,0.0,2.0,0.67
+257,Chelsea,Kepa,player_109745,Arrizabalaga,1,5,8,10,3.8,0.0,2.0,0.17
+258,Aston Villa,Bertrand,player_110504,Traoré,3,14,7,32,5.6,3.0,2.0,0.39
+259,Brighton,Adam,player_110735,Webster,2,11,36,20,4.7,0.0,2.0,0.9400000000000001
+260,Liverpool,Sadio,player_110979,Mané,4,39,14,40,5.8,6.0,2.0,0.8300000000000001
+261,Everton,Jordan,player_111234,Pickford,1,16,11,10,5.3,0.0,2.0,0.8300000000000001
+262,Wolverhampton,,player_111291,Marçal,2,9,39,21,4.9,0.0,2.0,0.44
+263,Brighton,Joël,player_111478,Veltman,2,9,36,21,4.7,0.0,2.0,0.56
+264,Newcastle,Emil,player_111773,Krafth,2,4,4,21,4.4,0.0,2.0,0.17
+265,Everton,Robin,player_111782,Olsen,1,7,11,10,5.5,0.0,2.0,0.11
+266,Leicester,,player_111931,Ricardo Pereira,2,5,13,21,-,0.0,2.0,0.0
+267,Wolverhampton,,player_114128,Jonny,2,2,39,21,-,0.0,2.0,0.0
+268,Newcastle,Jacob,player_114243,Murphy,3,10,4,32,4.9,1.0,2.0,0.39
+269,Aston Villa,Jack,player_114283,Grealish,3,42,7,32,6.8,5.0,2.0,0.8300000000000001
+270,Brighton,Neal,player_115382,Maupay,4,20,36,40,5.0,6.0,2.0,0.72
+271,Tottenham,Ben,player_115556,Davies,2,9,6,21,5.1,0.0,2.0,0.39
+272,Arsenal,Rúnar Alex,player_115918,Rúnarsson,1,7,3,10,-,0.0,2.0,0.0
+273,Brighton,Leandro,player_116216,Trossard,3,12,36,32,5.1,1.0,2.0,0.67
+274,Liverpool,,player_116535,Alisson,1,15,14,10,5.5,0.0,2.0,0.78
+275,Chelsea,N'Golo,player_116594,Kanté,3,17,8,31,5.5,0.0,2.0,0.9400000000000001
+276,Liverpool,,player_116643,Fabinho,3,16,14,31,5.5,0.0,2.0,0.78
+277,Liverpool,,player_118748,Mohamed Salah,4,53,14,40,5.8,13.0,2.0,0.8300000000000001
+278,Newcastle,Fabian,player_119471,Schär,2,7,4,20,4.5,0.0,2.0,0.44
+279,Everton,,player_119765,Allan,3,15,11,31,5.5,0.0,2.0,0.67
+280,Everton,,player_120250,André Gomes,3,8,11,31,4.9,0.0,2.0,0.28
+281,Man. City,,player_121145,João Cancelo,2,12,43,21,5.2,0.0,2.0,0.67
+282,Man. City,,player_121160,Ederson,1,17,43,10,5.1,0.0,2.0,0.8300000000000001
+283,Everton,Abdoulaye,player_121599,Doucouré,3,17,11,32,5.6,1.0,2.0,0.9400000000000001
+284,Liverpool,Andrew,player_122798,Robertson,2,21,14,21,5.1,1.0,2.0,0.9400000000000001
+285,Aston Villa,John,player_122806,McGinn,3,18,7,31,5.6,1.0,2.0,0.8300000000000001
+286,Aston Villa,Kortney,player_123354,Hause,2,9,7,20,6.0,1.0,2.0,0.22
+287,Chelsea,Hakim,player_124183,Ziyech,3,14,8,32,5.4,1.0,2.0,0.33
+288,Man. City,Nathan,player_126184,Aké,2,9,43,20,5.0,1.0,2.0,0.28
+289,Fulham,Ruben,player_126187,Loftus-Cheek,3,11,54,32,5.0,1.0,2.0,0.5
+290,Fulham,Aleksandar,player_128389,Mitrovic,4,9,54,40,4.6,2.0,2.0,0.44
+291,Brighton,Mat,player_131897,Ryan,1,7,36,10,4.5,0.0,2.0,0.61
+292,Tottenham,Pierre-Emile,player_132015,Højbjerg,3,17,6,31,5.6,0.0,2.0,0.9400000000000001
+293,Chelsea,Andreas,player_135363,Christensen,2,5,8,20,4.8,0.0,2.0,0.28
+294,Crystal Palace,Max,player_141020,Meyer,3,3,31,32,-,0.0,2.0,0.0
+295,Man. United,,player_141746,Bruno Fernandes,3,48,1,32,6.6,11.0,2.0,0.89
+296,West Bromwich,Semi,player_146426,Ajayi,2,15,35,20,4.2,1.0,2.0,0.89
+297,Sheffield,Jack,player_146610,O'Connell,2,3,49,20,4.0,0.0,2.0,0.11
+298,Man. City,Aymeric,player_146941,Laporte,2,9,43,20,5.1,0.0,2.0,0.22
+299,Man. United,Anthony,player_148225,Martial,4,23,1,40,5.0,2.0,2.0,0.61
+300,Aston Villa,,player_148508,Trézéguet,3,19,7,32,5.6,0.0,2.0,0.44
+301,Aston Villa,Tyrone,player_149484,Mings,2,20,7,20,5.5,2.0,2.0,0.78
+302,Leeds,Diego,player_149915,Llorente,2,6,2,20,4.5,0.0,2.0,0.06
+303,Fulham,Mario,player_151086,Lemina,3,8,54,31,5.0,0.0,2.0,0.28
+304,Newcastle,DeAndre,player_151119,Yedlin,2,7,4,21,4.9,0.0,2.0,0.28
+305,Wolverhampton,Leander,player_151589,Dendoncker,3,11,39,31,5.2,0.0,2.0,0.67
+306,Man. United,,player_152590,Alex Telles,2,9,1,21,5.1,0.0,2.0,0.28
+307,Liverpool,Divock,player_152760,Origi,4,6,14,40,4.5,0.0,2.0,0.0
+308,Newcastle,Isaac,player_153127,Hayden,3,10,4,31,5.0,0.0,2.0,0.61
+309,Everton,Alex,player_153133,Iwobi,3,13,11,32,5.3,1.0,2.0,0.5
+310,Arsenal,,player_153256,Mohamed Elneny,3,10,3,31,5.4,0.0,2.0,0.56
+311,Fulham,Harrison,player_153366,Reed,3,9,54,31,5.1,0.0,2.0,0.5
+312,Southampton,Sam,player_153373,McQueen,2,1,20,21,-,0.0,2.0,0.0
+313,Everton,Jonjoe,player_153673,Kenny,2,7,11,21,5.0,0.0,2.0,0.06
+314,Sheffield,John,player_153723,Lundstram,3,7,49,31,4.8,0.0,2.0,0.56
+315,Arsenal,Ainsley,player_154043,Maitland-Niles,2,8,3,21,4.7,0.0,2.0,0.28
+316,Sheffield,Max,player_155197,Lowe,2,8,49,21,4.3,0.0,2.0,0.33
+317,Leeds,Kalvin,player_155405,Phillips,3,13,2,31,5.6,0.0,2.0,0.78
+318,Newcastle,Rolando,player_155513,Aarons,3,1,4,32,-,0.0,2.0,0.0
+319,Fulham,Marek,player_155529,Rodák,1,7,54,10,3.5,0.0,2.0,0.06
+320,Leicester,Daniel,player_155569,Amartey,3,3,13,31,4.9,0.0,2.0,0.17
+321,Arsenal,Rob,player_156074,Holding,2,11,3,20,5.0,0.0,2.0,0.78
+322,Tottenham,Harry,player_157668,Winks,3,7,6,31,4.9,0.0,2.0,0.33
+323,Liverpool,Takumi,player_157882,Minamino,4,9,14,40,4.8,1.0,2.0,0.11
+324,Southampton,Kyle,player_158534,Walker-Peters,2,13,20,21,5.0,0.0,2.0,0.9400000000000001
+325,Fulham,Ola,player_159506,Aina,2,11,54,21,5.2,1.0,2.0,0.72
+326,Wolverhampton,Adama,player_159533,Traoré,4,12,39,40,5.1,0.0,2.0,0.56
+327,Everton,Jean-Philippe,player_160987,Gbamin,3,1,11,31,-,0.0,2.0,0.0
+328,Man. City,Zack,player_164484,Steffen,1,7,43,10,5.0,0.0,2.0,0.06
+329,Everton,Yerry,player_164511,Mina,2,18,11,20,5.5,2.0,2.0,0.8300000000000001
+330,West Ham,Vladimir,player_164555,Coufal,2,12,21,21,5.0,0.0,2.0,0.72
+331,Chelsea,Timo,player_165153,Werner,4,21,8,40,5.2,4.0,2.0,0.89
+332,Brighton,Alireza,player_165210,Jahanbakhsh,4,9,36,40,4.7,0.0,2.0,0.11
+333,Leeds,,player_165808,Hélder Costa,3,7,2,32,4.9,2.0,2.0,0.44
+334,Man. City,,player_165809,Bernardo Silva,3,15,43,32,5.4,0.0,2.0,0.44
+335,Fulham,,player_166324,Ivan Cavaleiro,3,11,54,32,4.6,2.0,2.0,0.67
+336,Leicester,Timothy,player_166477,Castagne,2,8,13,21,5.4,1.0,2.0,0.5
+337,West Ham,Fabián,player_166640,Balbuena,2,14,21,20,5.2,1.0,2.0,0.67
+338,Leicester,Youri,player_166989,Tielemans,3,20,13,32,5.4,4.0,2.0,0.89
+339,Fulham,Kenny,player_167074,Tete,2,5,54,21,4.9,0.0,2.0,0.17
+340,Arsenal,Thomas,player_167199,Partey,3,9,3,31,5.2,0.0,2.0,0.33
+341,Brighton,José,player_167473,Izquierdo,4,1,36,40,-,0.0,2.0,0.0
+342,Sheffield,Ben,player_167878,Osborn,3,9,49,31,4.8,0.0,2.0,0.44
+343,Burnley,Will,player_168399,Norris,1,3,90,10,-,0.0,2.0,0.0
+344,Leicester,Ayoze,player_168580,Pérez,3,9,13,32,5.0,1.0,2.0,0.39
+345,Fulham,Josh,player_168765,Onomah,3,4,54,32,4.2,0.0,2.0,0.11
+346,Liverpool,Trent,player_169187,Alexander-Arnold,2,19,14,21,4.8,0.0,2.0,0.78
+347,Aston Villa,Matt,player_169359,Targett,2,13,7,21,5.1,0.0,2.0,0.8300000000000001
+348,Sheffield,Oliver,player_169432,McBurnie,4,9,49,40,4.9,1.0,2.0,0.44
+349,Fulham,Antonee,player_169528,Robinson,2,10,54,21,5.1,0.0,2.0,0.72
+350,Newcastle,Allan,player_170137,Saint-Maximin,3,12,4,32,5.3,1.0,2.0,0.44
+351,Fulham,Jean Michael,player_170271,Seri,3,1,54,31,-,0.0,2.0,0.0
+352,Liverpool,Joseph,player_171287,Gomez,2,5,14,20,4.3,0.0,2.0,0.33
+353,Man. City,,player_171314,Rúben Dias,2,19,43,20,5.6,0.0,2.0,0.78
+354,Wolverhampton,,player_171317,Rúben Neves,3,15,39,31,5.5,2.0,2.0,0.78
+355,Southampton,Jan,player_171771,Bednarek,2,15,20,20,5.2,1.0,2.0,0.9400000000000001
+356,West Bromwich,Callum,player_171975,Robinson,4,9,35,40,4.4,2.0,2.0,0.56
+357,Leicester,Demarai,player_172632,Gray,3,3,13,32,5,0.0,2.0,0.0
+358,Man. United,Dean,player_172649,Henderson,1,7,1,10,5.3,0.0,2.0,0.11
+359,Leicester,James,player_172780,Maddison,3,26,13,32,5.8,4.0,2.0,0.56
+360,Burnley,Josh,player_172782,Brownhill,3,13,90,32,5.5,0.0,2.0,0.8300000000000001
+361,West Ham,Saïd,player_172841,Benrahma,3,7,21,32,4.9,0.0,2.0,0.17
+362,Chelsea,Ben,player_172850,Chilwell,2,24,8,21,5.3,2.0,2.0,0.78
+363,Leicester,Kelechi,player_173515,Iheanacho,4,6,13,40,4.3,0.0,2.0,0.11
+364,Everton,Tom,player_173807,Davies,3,8,11,31,5.3,0.0,2.0,0.33
+365,Leeds,Tyler,player_173821,Roberts,4,6,2,40,4.4,0.0,2.0,0.11
+366,Chelsea,Tammy,player_173879,Abraham,4,28,8,40,5.6,6.0,2.0,0.44
+367,Tottenham,Davinson,player_173904,Sánchez,2,5,6,20,4.9,0.0,2.0,0.33
+368,Crystal Palace,Jairo,player_173954,Riedewald,3,9,31,31,5.2,1.0,2.0,0.33
+369,West Bromwich,Kyle,player_174593,Edwards,3,5,35,32,4.7,0.0,2.0,0.06
+370,Leicester,Admiral,player_174595,Muskwe,4,1,13,40,-,0.0,2.0,0.0
+371,Fulham,Joachim,player_174874,Andersen,2,10,54,20,4.8,0.0,2.0,0.67
+372,Liverpool,Naby,player_175592,Keita,3,7,14,31,5.1,0.0,2.0,0.33
+373,Tottenham,Alfie,player_175941,Whiteman,1,1,6,10,-,0.0,2.0,0.0
+374,Man. United,Marcus,player_176297,Rashford,4,37,1,40,5.8,7.0,2.0,0.89
+375,Chelsea,Christian,player_176413,Pulisic,3,19,8,32,5.4,1.0,2.0,0.39
+376,West Bromwich,Darnell,player_176420,Furlong,2,11,35,21,4.3,1.0,2.0,0.89
+377,Everton,Dominic,player_177815,Calvert-Lewin,4,38,11,40,5.9,11.0,2.0,0.89
+378,Liverpool,Joseph,player_178062,Hardy,4,1,14,40,-,0.0,2.0,0.0
+379,West Ham,Jarrod,player_178186,Bowen,4,15,21,40,5.5,4.0,2.0,0.89
+380,Aston Villa,Ollie,player_178301,Watkins,4,22,7,40,5.3,6.0,2.0,0.8300000000000001
+381,Sheffield,Lys,player_178304,Mousset,4,7,49,40,4.1,0.0,2.0,0.11
+382,Newcastle,Miguel,player_179018,Almirón,3,16,4,32,5.3,1.0,2.0,0.5
+383,Wolverhampton,Oskar,player_179456,Buur,2,1,39,21,4.5,0.0,2.0,0.0
+384,West Bromwich,Grady,player_179830,Diangana,3,10,35,32,4.7,1.0,2.0,0.78
+385,Newcastle,,player_180135,Sean Longstaff,3,10,4,31,4.8,0.0,2.0,0.5
+386,Man. United,Donny,player_180184,van de Beek,3,9,1,32,5.0,1.0,2.0,0.11
+387,West Bromwich,Karlan,player_180294,Grant,4,9,35,40,4.2,1.0,2.0,0.67
+388,Man. United,Axel,player_180804,Tuanzebe,2,4,1,20,4.8,0.0,2.0,0.0
+389,Newcastle,,player_180974,Joelinton,4,11,4,40,5.0,1.0,2.0,0.61
+390,Arsenal,Dani,player_182539,Ceballos,3,13,3,32,5.5,0.0,2.0,0.56
+391,West Bromwich,Cédric,player_183015,Kipré,2,3,35,20,-,0.0,2.0,0.0
+392,West Ham,Nathan,player_183487,Holland,3,1,21,32,-,0.0,2.0,0.0
+393,Burnley,Richard,player_184259,Nartey,2,1,90,20,-,0.0,2.0,0.0
+394,Chelsea,Mason,player_184341,Mount,3,24,8,32,5.7,1.0,2.0,0.8300000000000001
+395,Man. United,Victor,player_184667,Lindelöf,2,20,1,20,5.2,1.0,2.0,0.72
+396,Aston Villa,Marvelous,player_184704,Nakamba,3,5,7,31,5.0,0.0,2.0,0.06
+397,Arsenal,Kieran,player_192895,Tierney,2,11,3,21,4.9,1.0,2.0,0.89
+398,Southampton,Callum,player_193109,Slattery,3,1,20,32,-,0.0,2.0,0.0
+399,Aston Villa,Anwar,player_193488,El Ghazi,4,15,7,40,6.2,5.0,2.0,0.28
+400,Leeds,Robin,player_193645,Koch,2,8,2,20,4.7,0.0,2.0,0.61
+401,Sheffield,Michael,player_194126,Verrips,1,7,49,10,-,0.0,2.0,0.0
+402,Everton,Mason,player_194164,Holgate,2,12,11,20,5.6,1.0,2.0,0.44
+403,Tottenham,Steven,player_194252,Bergwijn,4,9,6,40,5.0,0.0,2.0,0.39
+404,Liverpool,,player_194634,Diogo Jota,3,22,14,32,5.4,5.0,2.0,0.28
+405,Chelsea,Fikayo,player_194794,Tomori,2,2,8,20,5,0.0,2.0,0.0
+406,Newcastle,Jamal,player_194799,Lewis,2,8,4,21,4.5,0.0,2.0,0.61
+407,Burnley,Mace,player_195064,Goodridge,3,1,90,31,-,0.0,2.0,0.0
+408,Burnley,Anthony,player_195471,Driscoll-Glennon,2,1,90,21,-,0.0,2.0,0.0
+409,Sheffield,Rhian,player_195473,Brewster,4,9,49,40,4.4,0.0,2.0,0.33
+410,Arsenal,Nicolas,player_195735,Pépé,3,13,3,32,4.6,2.0,2.0,0.22
+411,Tottenham,,player_195774,Gedson Fernandes,3,1,6,32,-,0.0,2.0,0.0
+412,Man. United,Scott,player_195851,McTominay,3,19,1,31,5.5,2.0,2.0,0.56
+413,Everton,Beni,player_195855,Baningime,3,1,11,31,-,0.0,2.0,0.0
+414,West Bromwich,Sam,player_195864,Field,3,3,35,31,5.2,0.0,2.0,0.0
+415,Fulham,Aboubakar,player_197030,Kamara,4,6,54,40,3.9,0.0,2.0,0.11
+416,Man. United,Eric,player_197365,Bailly,2,4,1,20,5.0,0.0,2.0,0.28
+417,Liverpool,Nathaniel,player_197464,Phillips,2,6,14,20,5.0,0.0,2.0,0.17
+418,Leicester,Hamza,player_197469,Choudhury,3,5,13,31,4.7,0.0,2.0,0.06
+419,Sheffield,Oliver,player_197937,Burke,4,9,49,40,4.5,0.0,2.0,0.44
+420,Southampton,Harry,player_198044,Lewis,1,1,20,10,-,0.0,2.0,0.0
+421,Everton,Ben,player_198826,Godfrey,2,12,11,20,5.1,0.0,2.0,0.56
+422,Brighton,Ben,player_198869,White,2,11,36,20,4.6,0.0,2.0,0.9400000000000001
+423,Tottenham,Sergio,player_199249,Reguilón,2,12,6,21,5.0,0.0,2.0,0.61
+424,Tottenham,Japhet,player_199584,Tanganga,2,2,6,20,-,0.0,2.0,0.0
+425,Sheffield,Ethan,player_199598,Ampadu,2,10,49,20,5.0,0.0,2.0,0.61
+426,Aston Villa,Matthew,player_199796,Cash,2,12,7,21,5.3,0.0,2.0,0.78
+427,Aston Villa,Ezri,player_199798,Konsa Ngoyo,2,16,7,20,5.4,2.0,2.0,0.67
+428,Southampton,Daniel,player_200088,N'Lundulu,4,5,20,40,4.3,0.0,2.0,0.0
+429,Arsenal,Joseph,player_200089,Willock,3,7,3,32,4.9,0.0,2.0,0.11
+430,Wolverhampton,,player_200402,Nélson Semedo,2,10,39,21,4.7,0.0,2.0,0.8300000000000001
+431,Southampton,Che,player_200439,Adams,4,20,20,40,5.3,4.0,2.0,0.89
+432,Wolverhampton,,player_200600,Daniel Podence,3,18,39,32,5.4,3.0,2.0,0.78
+433,Man. United,Daniel,player_200617,James,3,9,1,32,5.2,1.0,2.0,0.28
+434,Arsenal,Reiss,player_200641,Nelson,4,4,3,40,4.5,0.0,2.0,0.0
+435,Liverpool,Caoimhin,player_200720,Kelleher,1,7,14,10,6.0,0.0,2.0,0.06
+436,Tottenham,Giovani,player_200826,Lo Celso,3,11,6,32,5.3,1.0,2.0,0.22
+437,West Bromwich,Filip,player_200878,Krovinovic,3,7,35,32,4.9,0.0,2.0,0.28
+438,Man. United,Timothy,player_201084,Fosu-Mensah,2,2,1,21,4.5,0.0,2.0,0.06
+439,Leicester,Harvey,player_201666,Barnes,3,22,13,32,5.6,5.0,2.0,0.72
+440,Leicester,Josh,player_201667,Knight,2,1,13,20,-,0.0,2.0,0.0
+441,Fulham,André-Frank,player_203325,Zambo Anguissa,3,17,54,31,5.5,0.0,2.0,0.78
+442,Leicester,Wilfred,player_203341,Ndidi,3,13,13,31,5.9,0.0,2.0,0.39
+443,Aston Villa,Frédéric,player_203368,Guilbert,2,2,7,21,-,0.0,2.0,0.0
+444,Southampton,Nathan,player_203389,Tella,4,3,20,40,4.8,0.0,2.0,0.0
+445,West Ham,Declan,player_204480,Rice,3,20,21,31,5.7,0.0,2.0,0.9400000000000001
+446,Leeds,Jay-Roy,player_204642,Grot,4,1,2,40,-,0.0,2.0,0.0
+447,Brighton,Andi,player_204676,Zeqiri,4,2,36,40,4.3,0.0,2.0,0.0
+448,Tottenham,George,player_204820,Marsh,3,1,6,31,-,0.0,2.0,0.0
+449,Arsenal,Eddie,player_205533,Nketiah,4,8,3,40,4.7,1.0,2.0,0.17
+450,Man. City,,player_205651,Gabriel Jesus,4,16,43,40,5.3,2.0,2.0,0.39
+451,Man. City,Oleksandr,player_206325,Zinchenko,2,5,43,21,5.3,0.0,2.0,0.11
+452,Liverpool,Curtis,player_206915,Jones,3,13,14,32,5.5,0.0,2.0,0.39
+453,Sheffield,Sander,player_207189,Berge,3,9,49,31,5.1,1.0,2.0,0.67
+454,Crystal Palace,Nya,player_209043,Kirby,3,1,31,32,-,0.0,2.0,0.0
+455,Chelsea,Callum,player_209046,Hudson-Odoi,4,6,8,40,5.4,2.0,2.0,0.11
+456,Man. City,Phil,player_209244,Foden,3,11,43,32,5.8,4.0,2.0,0.39
+457,Arsenal,Emile,player_209289,Smith Rowe,3,4,3,32,6.0,0.0,2.0,0.22
+458,Brighton,,player_209362,Bernardo,2,4,36,21,4.8,0.0,2.0,0.11
+459,West Bromwich,,player_210407,Matheus Pereira,3,14,35,32,5.3,1.0,2.0,0.61
+460,Everton,,player_212319,Richarlison,4,26,11,40,5.9,2.0,2.0,0.67
+461,Sheffield,Jake,player_213280,Eastwood,1,1,49,10,-,0.0,2.0,0.0
+462,Aston Villa,,player_213345,Wesley,4,4,7,40,-,0.0,2.0,0.0
+463,Southampton,Yan,player_213482,Valery,2,2,20,21,5.5,0.0,2.0,0.0
+464,Wolverhampton,Maximilian,player_214048,Kilman,2,7,39,20,5.0,0.0,2.0,0.44
+465,Tottenham,Joe,player_214225,Rodon,2,7,6,20,5.0,0.0,2.0,0.06
+466,Liverpool,Konstantinos,player_214285,Tsimikas,2,6,14,21,-,0.0,2.0,0.0
+467,Southampton,William,player_214466,Smallbone,3,3,20,31,4.8,0.0,2.0,0.06
+468,Southampton,Jake,player_214470,Vokins,2,1,20,21,-,0.0,2.0,0.0
+469,Tottenham,Brandon,player_214572,Austin,1,1,6,10,-,0.0,2.0,0.0
+470,Man. United,Aaron,player_214590,Wan-Bissaka,2,16,1,21,5.3,1.0,2.0,0.8300000000000001
+471,Brighton,Robert,player_215059,Sánchez,1,13,36,10,5.1,0.0,2.0,0.39
+472,Brighton,Max,player_215062,Sanders,3,1,36,31,-,0.0,2.0,0.0
+473,Liverpool,Elijah,player_215133,Dixon-Bonner,3,1,14,31,-,0.0,2.0,0.0
+474,Liverpool,Luis,player_215135,Longstaff,3,1,14,32,-,0.0,2.0,0.0
+475,Liverpool,,player_215136,Neco Williams,2,8,14,21,4.9,0.0,2.0,0.11
+476,Newcastle,Elliot,player_215379,Anderson,3,2,4,31,-,0.0,2.0,0.0
+477,West Ham,Alfie,player_215407,Lewis,3,1,21,32,-,0.0,2.0,0.0
+478,West Ham,Tomas,player_215439,Soucek,3,18,21,31,5.9,5.0,2.0,0.9400000000000001
+479,Leeds,Ian,player_215460,Poveda-Ocampo,3,6,2,32,4.6,0.0,2.0,0.0
+480,West Bromwich,Dara,player_216616,O'Shea,2,10,35,20,4.0,0.0,2.0,0.61
+481,Burnley,Josh,player_217401,Benson,3,7,90,31,4.4,0.0,2.0,0.11
+482,West Ham,Pablo,player_217593,Fornals,3,13,21,32,5.3,2.0,2.0,0.89
+483,Burnley,Jimmy,player_218023,Dunne,2,5,90,20,5.0,1.0,2.0,0.11
+484,Leicester,Çaglar,player_218031,Söyüncü,2,6,13,20,4.8,0.0,2.0,0.22
+485,Everton,Ellis,player_218997,Simms,4,1,11,40,-,0.0,2.0,0.0
+486,Man. City,Felix,player_219265,Nmecha,3,1,43,32,-,0.0,2.0,0.0
+487,Fulham,Ademola,player_219352,Lookman,4,13,54,40,5.6,2.0,2.0,0.61
+488,Chelsea,Kai,player_219847,Havertz,3,18,8,32,5.1,1.0,2.0,0.56
+489,West Ham,Issa,player_219924,Diop,2,6,21,20,4.8,0.0,2.0,0.17
+490,Liverpool,Thomas,player_219936,Clayton,2,1,14,20,-,0.0,2.0,0.0
+491,Liverpool,,player_219937,Rhys Williams,2,3,14,20,5.5,0.0,2.0,0.06
+492,Leeds,,player_219961,Raphinha,3,14,2,32,5.4,3.0,2.0,0.78
+493,Burnley,Bailey,player_220037,Peacock-Farrell,1,7,90,10,2.5,0.0,2.0,0.06
+494,Man. City,Tommy,player_220394,Doyle,3,1,43,31,-,0.0,2.0,0.0
+495,Man. City,,player_220566,Rodrigo,3,23,43,31,5.7,0.0,2.0,0.89
+496,Southampton,Michael,player_220598,Obafemi,4,2,20,40,4.5,0.0,2.0,0.0
+497,Leicester,James,player_220627,Justin,2,14,13,21,5.1,1.0,2.0,0.9400000000000001
+498,West Ham,Ajibola,player_220684,Alese,2,1,21,20,-,0.0,2.0,0.0
+499,Man. United,Mason,player_220688,Greenwood,4,12,1,40,4.8,1.0,2.0,0.44
+500,Aston Villa,Keinan,player_221239,Davis,4,3,7,40,4.6,0.0,2.0,0.0
+501,Crystal Palace,Sam,player_221272,Woods,2,1,31,20,-,0.0,2.0,0.0
+502,Leeds,Jack,player_221399,Harrison,3,15,2,32,5.4,3.0,2.0,0.89
+503,Leeds,Jamie,player_221610,Shackleton,3,7,2,31,5.0,0.0,2.0,0.06
+504,West Ham,Conor,player_222017,Coventry,3,1,21,31,-,0.0,2.0,0.0
+505,West Ham,Ben,player_222018,Johnson,2,9,21,21,5.3,1.0,2.0,0.06
+506,Wolverhampton,Morgan,player_222531,Gibbs-White,3,5,39,32,4.0,0.0,2.0,0.06
+507,Everton,,player_222627,João Virgínia,1,1,11,10,-,0.0,2.0,0.0
+508,Leeds,Pascal,player_222694,Struijk,2,7,2,20,4.6,0.0,2.0,0.39
+509,Newcastle,,player_223175,Matthew Longstaff,3,6,4,31,5.3,0.0,2.0,0.17
+510,Chelsea,Faustino,player_223332,Anjorin,3,1,8,32,-,0.0,2.0,0.0
+511,Fulham,Sylvester,player_223335,Jasper,4,1,54,40,-,0.0,2.0,0.0
+512,Tottenham,Jamie,player_223337,Bowden,3,1,6,31,-,0.0,2.0,0.0
+513,Arsenal,Bukayo,player_223340,Saka,4,14,3,40,5.4,3.0,2.0,0.8300000000000001
+514,Man. City,Ferran,player_224444,Torres,3,14,43,32,5.0,2.0,2.0,0.39
+515,Sheffield,Aaron,player_225321,Ramsdale,1,12,49,10,4.9,0.0,2.0,1.0
+516,Wolverhampton,Meritan,player_225368,Shabani,3,1,39,32,-,0.0,2.0,0.0
+517,Chelsea,Reece,player_225796,James,2,13,8,21,5.3,1.0,2.0,0.67
+518,Aston Villa,Dominic,player_226021,Revan,2,1,7,20,-,0.0,2.0,0.0
+519,Sheffield,Jayden,player_226182,Bogle,2,6,49,21,4.7,1.0,2.0,0.11
+520,Arsenal,,player_226597,Gabriel Magalhães,2,12,3,20,5.1,2.0,2.0,0.67
+521,Brighton,Yves,player_227127,Bissouma,3,13,36,31,5.4,1.0,2.0,0.89
+522,Chelsea,Édouard,player_228286,Mendy,1,18,8,10,5.0,0.0,2.0,0.78
+523,Leicester,Cengiz,player_228798,Ünder,3,6,13,32,5.2,0.0,2.0,0.06
+524,Aston Villa,,player_230046,Douglas Luiz,3,19,7,31,5.7,0.0,2.0,0.78
+525,Brighton,Percy,player_230127,Tau,4,10,36,40,4.0,0.0,2.0,0.06
+526,Tottenham,Tanguy,player_231372,Ndombele,3,15,6,31,5.4,2.0,2.0,0.72
+527,Arsenal,Folarin,player_232223,Balogun,4,1,3,40,-,0.0,2.0,0.0
+528,Leicester,Vontae,player_232229,Daley-Campbell,2,1,13,21,-,0.0,2.0,0.0
+529,Wolverhampton,Taylor,player_232361,Perry,3,1,39,32,-,0.0,2.0,0.0
+530,West Ham,Emmanuel,player_232387,Longelo,4,1,21,40,-,0.0,2.0,0.0
+531,West Ham,Nathan,player_232398,Trott,1,1,21,10,-,0.0,2.0,0.0
+532,Crystal Palace,Eberechi,player_232413,Eze,3,12,31,32,5.5,2.0,2.0,0.61
+533,Crystal Palace,Nathan,player_232423,Ferguson,2,1,31,20,-,0.0,2.0,0.0
+534,West Bromwich,George,player_232425,Harmon,2,1,35,20,-,0.0,2.0,0.0
+535,West Bromwich,Rekeem,player_232427,Harper,3,1,35,31,5,0.0,2.0,0.0
+536,Tottenham,Jubril,player_232460,Okedina,2,1,6,21,-,0.0,2.0,0.0
+537,Aston Villa,Jacob,player_232653,Ramsey,3,3,7,32,5.0,0.0,2.0,0.06
+538,Liverpool,Ben,player_232758,Winterbottom,1,1,14,10,-,0.0,2.0,0.0
+539,West Bromwich,Conor,player_232787,Gallagher,3,14,35,31,4.9,2.0,2.0,0.72
+540,Brighton,Tariq,player_232792,Lamptey,2,8,36,21,4.9,1.0,2.0,0.61
+541,Southampton,Kayne,player_232797,Ramsay,2,1,20,21,-,0.0,2.0,0.0
+542,Everton,Anthony,player_232826,Gordon,3,4,11,32,4.7,0.0,2.0,0.06
+543,Leicester,Thakgalo,player_232881,Leshabela,3,1,13,32,-,0.0,2.0,0.0
+544,Liverpool,Liam,player_232905,Millar,4,1,14,40,-,0.0,2.0,0.0
+545,Sheffield,George,player_232923,Broadbent,3,1,49,32,-,0.0,2.0,0.0
+546,Man. United,D'Mani,player_232924,Mellor,4,1,1,40,-,0.0,2.0,0.0
+547,Man. United,Ethan,player_232929,Laird,2,1,1,21,-,0.0,2.0,0.0
+548,Man. United,Brandon,player_232937,Williams,2,5,1,21,5,0.0,2.0,0.0
+549,Brighton,Aaron,player_233425,Connolly,4,7,36,40,4.6,2.0,2.0,0.39
+550,Liverpool,Leighton,player_233489,Clarkson,3,1,14,31,-,0.0,2.0,0.0
+551,Brighton,Steven,player_235382,Alzate,3,8,36,32,4.8,0.0,2.0,0.28
+552,Arsenal,Ben,player_235425,Cottrell,3,1,3,32,-,0.0,2.0,0.0
+553,Crystal Palace,Nikola,player_235599,Tavares,2,1,31,20,-,0.0,2.0,0.0
+554,Southampton,Ibrahima,player_240143,Diallo,3,7,20,31,4.9,0.0,2.0,0.39
+555,Brighton,Alexis,player_243016,Mac Allister,3,5,36,32,5.1,1.0,2.0,0.11
+556,Liverpool,Jake,player_243343,Cain,3,1,14,32,-,0.0,2.0,0.0
+557,Brighton,Jakub,player_243505,Moder,3,1,36,31,-,0.0,2.0,0.0
+558,Chelsea,Billy,player_243568,Gilmour,3,2,8,31,5,0.0,2.0,0.0
+559,West Ham,,player_243710,Bernardo Rosa,3,1,21,31,-,0.0,2.0,0.0
+560,Leicester,Luke,player_244619,Thomas,2,7,13,21,4.5,0.0,2.0,0.22
+561,Crystal Palace,Tyrick,player_244723,Mitchell,2,5,31,21,4.9,0.0,2.0,0.5
+562,Brighton,Teddy,player_244848,Jenks,3,1,36,31,-,0.0,2.0,0.0
+563,Man. City,Cole,player_244851,Palmer,3,1,43,32,-,0.0,2.0,0.0
+564,Tottenham,Malachi,player_244853,Fagan-Walcott,2,1,6,20,-,0.0,2.0,0.0
+565,Man. United,Teden,player_244856,Mengi,2,1,1,20,-,0.0,2.0,0.0
+566,Fulham,Fabio,player_244858,Carvalho,3,1,54,32,-,0.0,2.0,0.0
+567,Man. City,Taylor,player_245719,Harwood-Bellis,2,1,43,20,-,0.0,2.0,0.0
+568,Tottenham,,player_245824,Carlos Vinicius,4,6,6,40,4.5,0.0,2.0,0.0
+569,Wolverhampton,Luke,player_245923,Cundle,3,1,39,32,-,0.0,2.0,0.0
+570,Wolverhampton,,player_247632,Pedro Neto,3,22,39,32,5.7,4.0,2.0,0.9400000000000001
+571,Man. United,Arnau,player_248506,Puigmal Martínez,3,1,1,31,-,0.0,2.0,0.0
+572,Leeds,Sam,player_248937,Greenwood,4,1,2,40,-,0.0,2.0,0.0
+573,Man. United,Nathan,player_250370,Bishop,1,1,1,10,-,0.0,2.0,0.0
+574,Wolverhampton,Owen,player_250604,Otasowie,3,8,39,31,5.3,0.0,2.0,0.06
+575,Leicester,Sidnei,player_421796,Tavares,3,1,13,31,-,0.0,2.0,0.0
+576,Southampton,Will,player_422306,Ferry,3,1,20,32,-,0.0,2.0,0.0
+577,Burnley,Joel,player_430367,Mumbongo,4,1,90,40,-,0.0,2.0,0.0
+578,Liverpool,Jack,player_430990,Bearne,3,1,14,32,-,0.0,2.0,0.0
+579,Chelsea,Karlo,player_431019,Ziger,1,1,8,10,-,0.0,2.0,0.0
+580,Southampton,Moussa,player_431131,Djenepo,3,11,20,32,5.0,1.0,2.0,0.56
+581,Man. City,Eric,player_432656,García,2,6,43,20,4.3,0.0,2.0,0.11
+582,Man. City,James,player_432720,Trafford,1,1,43,10,-,0.0,2.0,0.0
+583,Man. United,Ethan,player_432819,Galbraith,3,1,1,32,-,0.0,2.0,0.0
+584,Newcastle,Daniel,player_432927,Langley,1,1,4,10,-,0.0,2.0,0.0
+585,Fulham,Tyrese,player_432931,Francois,3,1,54,31,-,0.0,2.0,0.0
+586,Brighton,Jack,player_432945,Spong,3,1,36,31,-,0.0,2.0,0.0
+587,Liverpool,Vitezslav,player_432987,Jaros,1,1,14,10,-,0.0,2.0,0.0
+588,Liverpool,James,player_432988,Norris,2,1,14,21,-,0.0,2.0,0.0
+589,Liverpool,Yasser,player_432990,Larouci,2,1,14,21,-,0.0,2.0,0.0
+590,Burnley,Dwight,player_433154,McNeil,3,15,90,32,5.3,0.0,2.0,0.72
+591,Leicester,Jakub,player_436680,Stolarczyk,1,1,13,10,-,0.0,2.0,0.0
+592,Leeds,Illan,player_437495,Meslier,1,17,2,10,5.3,0.0,2.0,0.9400000000000001
+593,Wolverhampton,Lewis,player_437688,Richards,2,1,39,20,-,0.0,2.0,0.0
+594,Leeds,Ryan,player_437709,Edmondson,4,1,2,40,-,0.0,2.0,0.0
+595,Wolverhampton,,player_437858,Vitinha,3,8,39,32,5.0,0.0,2.0,0.11
+596,Arsenal,Miguel,player_439482,Azeez,3,1,3,31,-,0.0,2.0,0.0
+597,Man. City,Luke,player_439510,Mbete,2,1,43,20,-,0.0,2.0,0.0
+598,Brighton,Romaric,player_439978,Yapi,2,1,36,21,-,0.0,2.0,0.0
+599,Brighton,Jensen,player_440241,Weir,3,1,36,31,-,0.0,2.0,0.0
+600,Chelsea,Henry,player_440322,Lawrence,2,1,8,21,-,0.0,2.0,0.0
+601,West Ham,Harrison,player_441024,Ashby,2,1,21,21,-,0.0,2.0,0.0
+602,Man. City,Alpha Richard,player_441027,Dionkou,2,1,43,21,-,0.0,2.0,0.0
+603,Wolverhampton,Ki-Jana,player_441271,Hoever,2,5,39,21,4.8,0.0,2.0,0.06
+604,Tottenham,Jack,player_443261,Clarke,3,1,6,32,-,0.0,2.0,0.0
+605,Wolverhampton,Theo,player_443296,Corbeanu,4,1,39,40,-,0.0,2.0,0.0
+606,Arsenal,,player_444145,Gabriel Martinelli,3,7,3,32,5.0,0.0,2.0,0.11
+607,Leicester,Wesley,player_444463,Fofana,2,14,13,20,5.3,0.0,2.0,0.8300000000000001
+608,Liverpool,Sepp,player_444765,van den Berg,2,1,14,20,-,0.0,2.0,0.0
+609,Southampton,Kgaogelo,player_445896,Chauke,3,1,20,31,-,0.0,2.0,0.0
+610,Leicester,Shane,player_447373,Flynn,3,1,13,32,-,0.0,2.0,0.0
+611,West Ham,Joseph,player_447879,Anang,1,1,21,10,-,0.0,2.0,0.0
+612,Wolverhampton,Andreas,player_448487,Söndergaard,1,1,39,10,-,0.0,2.0,0.0
+613,Wolverhampton,Rayan,player_448514,Aït-Nouri,2,8,39,21,4.7,1.0,2.0,0.5
+614,Tottenham,Harvey,player_448791,White,3,1,6,31,-,0.0,2.0,0.0
+615,Man. United,Anthony,player_449434,Elanga,4,1,1,40,-,0.0,2.0,0.0
+616,Southampton,Alexandre,player_449781,Jankewitz,3,1,20,31,-,0.0,2.0,0.0
+617,Brighton,Lars,player_449869,Dendoncker,2,1,36,20,-,0.0,2.0,0.0
+618,Man. City,Adrián,player_449926,Bernabé,3,1,43,32,-,0.0,2.0,0.0
+619,Burnley,Lukas,player_449974,Jensen,1,1,90,10,-,0.0,2.0,0.0
+620,Wolverhampton,,player_449988,Fábio Silva,4,12,39,40,4.6,1.0,2.0,0.28
+621,Southampton,Mohammed,player_450527,Salisu,2,5,20,20,-,0.0,2.0,0.0
+622,Chelsea,Myles,player_450539,Peart-Harris,3,1,8,32,-,0.0,2.0,0.0
+623,Leeds,Leif,player_455084,Davis,2,3,2,21,4.5,0.0,2.0,0.0
+624,West Ham,,player_459373,Gonçalo Cardoso,2,1,21,20,-,0.0,2.0,0.0
+625,Wolverhampton,Chem,player_461026,Campbell,3,1,39,32,-,0.0,2.0,0.0
+626,Burnley,Lewis,player_461096,Richardson,4,1,90,40,-,0.0,2.0,0.0
+627,Burnley,Bobby,player_461102,Thomas,2,1,90,20,-,0.0,2.0,0.0
+628,Tottenham,Dennis,player_461195,Cirkin,2,1,6,21,-,0.0,2.0,0.0
+629,Burnley,Max,player_461450,Thompson,4,1,90,40,-,0.0,2.0,0.0
+630,West Ham,Ademipo,player_461533,Odubeko,4,1,21,40,-,0.0,2.0,0.0
+631,Leicester,Ethan,player_461561,Fitzhugh,3,1,13,31,-,0.0,2.0,0.0
+632,Liverpool,Thomas,player_461601,Hill,3,1,14,32,-,0.0,2.0,0.0
+633,Liverpool,Layton,player_461609,Stewart,4,1,14,40,-,0.0,2.0,0.0
+634,Brighton,Peter,player_461870,Gwargis,3,1,36,32,-,0.0,2.0,0.0
+635,West Ham,Jamal,player_462384,Baptiste,2,1,21,20,-,0.0,2.0,0.0
+636,Leeds,Joe,player_462635,Gelhardt,4,1,2,40,-,0.0,2.0,0.0
+637,Man. City,Liam,player_463034,Delap,4,1,43,40,4,0.0,2.0,0.0
+638,Arsenal,Karl,player_463748,Hein,1,1,3,10,-,0.0,2.0,0.0
+639,Leeds,Elia,player_463912,Caprile,1,3,2,10,-,0.0,2.0,0.0
+640,Burnley,Anthony,player_465299,Mancini,3,1,90,32,-,0.0,2.0,0.0
+641,Wolverhampton,Nigel,player_465551,Lonwijk,2,1,39,20,-,0.0,2.0,0.0
+642,Brighton,Reda,player_465572,Khadra,3,1,36,31,5,0.0,2.0,0.0
+643,Crystal Palace,Brandon,player_466955,Pierrick,3,1,31,32,-,0.0,2.0,0.0
+644,Leeds,Oliver,player_467114,Casey,2,1,2,20,-,0.0,2.0,0.0
+645,West Bromwich,Rico,player_470256,Richards,3,1,35,31,-,0.0,2.0,0.0
+646,Wolverhampton,Leonardo,player_474003,Campana,4,1,39,40,-,0.0,2.0,0.0
+647,Sheffield,Kyron,player_478449,Gordon,2,1,49,20,-,0.0,2.0,0.0
+648,Everton,Jarrad,player_480455,Branthwaite,2,1,11,20,-,0.0,2.0,0.0
+649,Liverpool,Billy,player_480818,Koumetio,2,1,14,20,-,0.0,2.0,0.0
+650,Sheffield,Zak,player_481371,Brunt,3,1,49,32,-,0.0,2.0,0.0
+651,Wolverhampton,Christian,player_481626,Marques,2,1,39,20,-,0.0,2.0,0.0
+652,Sheffield,Antwoine,player_487836,Hackford,4,1,49,40,4.5,0.0,2.0,0.0
+653,Man. United,Facundo,player_488404,Pellistri,3,2,1,32,-,0.0,2.0,0.0
+654,Tottenham,Dane,player_490145,Scarlett,4,1,6,40,-,0.0,2.0,0.0
+655,Chelsea,Harvey,player_491785,Vale,3,1,8,31,-,0.0,2.0,0.0
+656,Leeds,Niall,player_492066,Huggins,4,1,2,40,-,0.0,2.0,0.0
+657,Leeds,Charlie,player_492373,Cresswell,2,1,2,20,-,0.0,2.0,0.0
+658,Leeds,Jack,player_492374,Jenkins,3,1,2,31,-,0.0,2.0,0.0
+659,Everton,Niels,player_495542,Nkounkou,2,3,11,21,4.5,0.0,2.0,0.06
+660,Tottenham,Alfie,player_496179,Devine,3,1,6,31,-,0.0,2.0,0.0
+661,Leicester,Ben,player_501770,Nelson,2,1,13,20,-,0.0,2.0,0.0
+662,West Bromwich,Cheikh,player_505265,Diaby,4,1,35,40,-,0.0,2.0,0.0
+663,Leicester,Wanya,player_513393,Madavidua,3,1,13,31,-,0.0,2.0,0.0
